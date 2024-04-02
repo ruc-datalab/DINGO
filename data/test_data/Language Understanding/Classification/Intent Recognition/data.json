@@ -1,0 +1,662 @@
+[
+    {
+        "id": "338310507b1b46cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u6839\u636e\u4ee5\u4e0b\u77ed\u53e5\u6765\u5224\u65ad\u5b83\u6240\u8868\u8fbe\u7684\u610f\u56fe\uff1a\u8d2d\u4e70\u3001\u51fa\u552e\u3001\u501f\u7528\u3002\u5982\u679c\u6ca1\u6709\u610f\u56fe\u4e0e\u77ed\u53e5\u5339\u914d\uff0c\u8bf7\u4f7f\u7528\"\u4e0d\u786e\u5b9a\"\u6765\u56de\u7b54\u3002\n\n\u6211\u60f3\u4e70\u90a3\u8f86\u81ea\u884c\u8f66\u3002\n\u8fd9\u8f86\u81ea\u884c\u8f66\u5f15\u8d77\u4e86\u6211\u7684\u5174\u8da3\uff0c\u5982\u4f55\u624d\u80fd\u628a\u5b83\u53d8\u6210\u6211\u7684\uff1f\n\u6211\u5728\u8003\u8651\u653e\u5f03\u6211\u7684\u623f\u4ea7\u3002\n\u6211\u5728\u63a2\u8ba8\u4e3a\u6211\u7684\u623f\u5b50\u627e\u4e00\u4e2a\u65b0\u4e3b\u4eba\u7684\u53ef\u80fd\u6027\u3002\n\u6211\u51b3\u5b9a\u628a\u6211\u7684\u623f\u5b50\u4ea4\u7ed9\u522b\u4eba\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c85c057b23fb4d81",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to quickly analyze the following sentences and tell me the intent behind each one. Do it fast and accurately, please.\n\n1. Can you help me find a good book to read?\n2. What is the best way to improve my cooking skills?\n3. How do I get a refund for my purchase?\n4. What are the advantages of using an electric car?\n5. I want to learn how to play the guitar, where should I start?\n6. Can I change my flight to a different date?\n7. What is the best exercise for losing weight?\n8. How can I adopt a pet from a shelter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f2202a2269f845c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5206\u6790\u4ee5\u4e0b\u53e5\u5b50\uff0c\u544a\u8bc9\u6211\u6bcf\u53e5\u8bdd\u7684\u76ee\u7684\uff1a\u6c42\u52a9\u3001\u5206\u4eab\u3001\u51b3\u7b56\u3001\u7591\u60d1\u3002\u5982\u679c\u65e0\u6cd5\u786e\u5b9a\uff0c\u8bf7\u4f7f\u7528\"\u4e0d\u786e\u5b9a\"\u3002\n\n\u6211\u9047\u5230\u4e86\u4e00\u4e2a\u6280\u672f\u96be\u9898\uff0c\u4f60\u80fd\u5e2e\u6211\u89e3\u51b3\u5417\uff1f\n\u521a\u521a\u770b\u5230\u4e86\u4e00\u90e8\u5f88\u68d2\u7684\u7535\u5f71\uff0c\u60f3\u5206\u4eab\u7ed9\u4f60\u3002\n\u6211\u5728\u8003\u8651\u662f\u5426\u5e94\u8be5\u63a5\u53d7\u8fd9\u4efd\u5de5\u4f5c\uff0c\u4f60\u6709\u4ec0\u4e48\u5efa\u8bae\u5417\uff1f\n\u4e0d\u592a\u660e\u767d\u8fd9\u4e2a\u6570\u5b66\u95ee\u9898\uff0c\u80fd\u7ed9\u6211\u8bb2\u89e3\u4e00\u4e0b\u5417\uff1f\n\u6211\u9700\u8981\u4e00\u4e9b\u5efa\u8bae\uff0c\u6211\u5e94\u8be5\u600e\u4e48\u63d0\u9ad8\u6211\u7684\u5199\u4f5c\u6280\u80fd\uff1f\n\u542c\u8bf4\u4f60\u64c5\u957f\u51b3\u7b56\uff0c\u6211\u5728\u8d2d\u7269\u4e2d\u9047\u5230\u4e86\u9009\u62e9\u56f0\u96be\uff0c\u4f60\u80fd\u5e2e\u6211\u505a\u4e2a\u51b3\u5b9a\u5417\uff1f\n\u6709\u4e9b\u4e8b\u60c5\u8ba9\u6211\u611f\u5230\u56f0\u60d1\uff0c\u4f60\u80fd\u7ed9\u4e88\u4e00\u4e9b\u5efa\u8bae\u5417\uff1f\n\u6211\u5728\u8003\u8651\u662f\u5426\u8981\u6362\u5de5\u4f5c\uff0c\u4f60\u8ba4\u4e3a\u8fd9\u662f\u4e2a\u597d\u4e3b\u610f\u5417\uff1f\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8bfc0fa42f6f42f5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5feb\u901f\u5224\u65ad\u4ee5\u4e0b\u53e5\u5b50\u7684\u610f\u56fe\uff1a\u5bfb\u6c42\u5e2e\u52a9\u3001\u5206\u4eab\u4fe1\u606f\u3001\u505a\u51b3\u5b9a\u3001\u8868\u8fbe\u60f3\u6cd5\u3002\u5982\u679c\u65e0\u6cd5\u786e\u5b9a\uff0c\u8bf7\u56de\u7b54\"\u4e0d\u786e\u5b9a\"\u3002\n\n\u6211\u8ff7\u8def\u4e86\uff0c\u4f60\u80fd\u544a\u8bc9\u6211\u600e\u4e48\u56de\u5bb6\u5417\uff1f\n\u6211\u6700\u8fd1\u8bfb\u4e86\u4e00\u672c\u5f88\u597d\u7684\u4e66\uff0c\u60f3\u5206\u4eab\u7ed9\u4f60\u3002\n\u6211\u5728\u8003\u8651\u4e70\u65b0\u624b\u673a\uff0c\u4f60\u89c9\u5f97\u54ea\u4e2a\u54c1\u724c\u6bd4\u8f83\u597d\uff1f\n\u6211\u89c9\u5f97\u653f\u5e9c\u5e94\u8be5\u52a0\u5f3a\u73af\u4fdd\u653f\u7b56\uff0c\u4f60\u6709\u540c\u611f\u5417\uff1f\n\u6709\u4e2a\u6280\u672f\u95ee\u9898\uff0c\u4f60\u80fd\u7ed9\u4e88\u4e00\u4e9b\u5efa\u8bae\u5417\uff1f\n\u542c\u8bf4\u4f60\u64c5\u957f\u9009\u8d2d\u7535\u5b50\u4ea7\u54c1\uff0c\u6211\u6253\u7b97\u4e70\u4e2a\u65b0\u7535\u8111\uff0c\u6709\u4ec0\u4e48\u63a8\u8350\u5417\uff1f\n\u6211\u5728\u7ea0\u7ed3\u8981\u4e0d\u8981\u53bb\u7559\u5b66\uff0c\u4f60\u89c9\u5f97\u503c\u5f97\u5417\uff1f\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea41715def1e4e9b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7528\u7b80\u77ed\u7684\u63cf\u8ff0\u5224\u65ad\u4ee5\u4e0b\u53e5\u5b50\u7684\u76ee\u7684\uff1a\u5bfb\u6c42\u5efa\u8bae\u3001\u5206\u4eab\u7ecf\u9a8c\u3001\u505a\u8ba1\u5212\u3001\u63d0\u51fa\u7591\u95ee\u3002\u5982\u679c\u65e0\u6cd5\u786e\u5b9a\uff0c\u8bf7\u56de\u7b54\"\u4e0d\u786e\u5b9a\"\u3002\n\n\u6211\u6253\u7b97\u5b66\u4e60\u4e00\u95e8\u65b0\u6280\u80fd\uff0c\u6709\u4ec0\u4e48\u63a8\u8350\u5417\uff1f\n\u6211\u521a\u521a\u5b8c\u6210\u4e86\u4e00\u573a\u9a6c\u62c9\u677e\u6bd4\u8d5b\uff0c\u60f3\u5206\u4eab\u6211\u7684\u7ecf\u9a8c\u3002\n\u6211\u8ba1\u5212\u660e\u5e74\u5f00\u59cb\u521b\u4e1a\uff0c\u4f60\u89c9\u5f97\u6709\u4ec0\u4e48\u8981\u6ce8\u610f\u7684\u5417\uff1f\n\u8fd9\u4e2a\u6570\u5b66\u9898\u6211\u5b9e\u5728\u60f3\u4e0d\u901a\uff0c\u80fd\u5e2e\u6211\u770b\u770b\u5417\uff1f\n\u542c\u8bf4\u4f60\u64c5\u957f\u65c5\u6e38\u89c4\u5212\uff0c\u6211\u51c6\u5907\u53bb\u6b27\u6d32\uff0c\u6709\u4ec0\u4e48\u5efa\u8bae\uff1f\n\u6211\u521a\u521a\u4e70\u4e86\u4e00\u8f86\u65b0\u8f66\uff0c\u6709\u4ec0\u4e48\u4fdd\u517b\u7684\u5efa\u8bae\u5417\uff1f\n\u6211\u6b63\u5728\u8003\u8651\u5b66\u4e60\u4e00\u95e8\u5916\u8bed\uff0c\u4f60\u89c9\u5f97\u4ece\u54ea\u91cc\u5f00\u59cb\u6bd4\u8f83\u597d\uff1f\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ded20405e325433f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the intent behind these sentences and categorize them as seeking advice, sharing experiences, making plans, or posing questions. If unsure, respond with \"uncertain\".\n\nI'm thinking of starting a podcast, any tips for beginners?\nJust finished an amazing hiking trip, wanted to share my experience with you.\nPlanning a surprise party for my friend, any creative ideas?\nI'm stuck on this coding problem, can you give me a hand?\nConsidering a solo travel adventure, any recommendations for destinations?\nBought a new camera, any advice on getting the best shots?\nI'm contemplating learning a new programming language, where should I begin?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "128ee771f7d74467",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quickly determine the intent of each sentence: seeking assistance, sharing information, decision-making, or expressing thoughts. If uncertain, reply with \"not sure\".\n\nI'm lost, can you tell me how to get home?\nRecently read an excellent book, want to share it with you.\nI'm considering buying a new phone, which brand do you think is good?\nI think the government should strengthen environmental policies, do you agree?\nGot a technical issue, can you provide some advice?\nHeard you're good at choosing electronic products, planning to buy a new computer, any recommendations?\nI'm torn between studying abroad or not, do you think it's worth it?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c6c3ae1543d24b12",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the intent of the following sentences: seeking recommendations, sharing updates, decision-making, or expressing uncertainty. If you can't determine, respond with \"undecided\".\n\nI'm looking for a good restaurant in the area, any suggestions?\nJust got back from a fascinating seminar, wanted to share some key takeaways.\nI'm contemplating changing my career path, any advice on where to start?\nNot sure if I should invest in cryptocurrency, what are your thoughts?\nPlanning a road trip, any must-visit places you recommend?\nBought a new camera, not sure how to use all the features, any guidance?\nConsidering pursuing a master's degree, what factors should I weigh?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c322d659a9694724",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Evaluate the purpose of each sentence: seeking advice, sharing thoughts, making plans, or expressing curiosity. If uncertain, respond with \"unsure\".\n\nI'm thinking of redecorating my living room, any interior design tips?\nJust watched an inspiring documentary, wanted to discuss it with you.\nPlanning a weekend getaway, any recommendations for a peaceful retreat?\nI'm puzzled by this complex math problem, can you offer some guidance?\nConsidering adopting a pet, any suggestions on where to start?\nBought a new guitar, not sure how to tune it, any advice?\nContemplating a career change, what steps should I take?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "31ebdfb1aae049a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the intent behind these sentences and categorize them as seeking assistance, sharing experiences, decision-making, or expressing opinions. If unsure, respond with \"unclear\".\n\nI'm stuck on a coding project, any tips on debugging?\nRecently attended a fascinating workshop, eager to share my learnings.\nPlanning to start a fitness routine, any recommendations for effective exercises?\nI'm considering buying a new laptop, which brand do you think is reliable?\nContemplating a major life decision, any advice on how to choose?\nBought a new camera, not sure which lens to use for portraits, any suggestions?\nThinking of learning a new language, where should I begin?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72b61bc5c00b4f20",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quickly deduce the intent of each sentence: seeking recommendations, sharing updates, making decisions, or expressing uncertainty. If uncertain, respond with \"not sure\".\n\nI'm searching for a good movie to watch, any suggestions?\nJust completed a challenging hiking trail, wanted to share the adventure.\nPlanning a surprise birthday party, any creative ideas to make it memorable?\nI'm uncertain about investing in the stock market, what's your opinion?\nConsidering a road trip, any scenic routes you recommend?\nBought a new smartphone, not sure how to optimize its features, any guidance?\nContemplating pursuing higher education, what factors should I consider?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9861de54ed364242",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assess the purpose of the following sentences: seeking advice, sharing experiences, planning, or expressing uncertainty. If unclear, respond with \"unsure\".\n\nI'm considering a career switch, any guidance on transitioning?\nJust returned from a solo backpacking trip, wanted to share my adventures.\nPlanning a weekend getaway, any recommendations for a relaxing destination?\nI'm uncertain about my investment options, what's your perspective?\nThinking of starting a blog, any tips for a beginner?\nBought a new camera, not sure about the best settings, any recommendations?\nContemplating learning a musical instrument, where should I start?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "88da9a6f4c244564",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the intent behind these sentences: seeking assistance, sharing information, decision-making, or expressing curiosity. If unsure, respond with \"unclear\".\n\nI'm stuck on a programming challenge, any tips to overcome it?\nJust finished an amazing book, eager to share the plot twists with you.\nPlanning a surprise proposal, any unique ideas to make it special?\nI'm uncertain about pursuing further education, what's your opinion?\nThinking of adopting a pet, any advice on choosing the right one?\nBought a new drone, not sure about the best flying techniques, any guidance?\nContemplating a fitness routine, what exercises do you recommend?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "316ff7d4971e45a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quickly deduce the intent of each sentence: seeking recommendations, sharing updates, making decisions, or expressing uncertainty. If uncertain, respond with \"not sure\".\n\nI'm searching for a new podcast to listen to, any suggestions?\nJust completed a challenging fitness challenge, excited to share my progress.\nPlanning a home renovation, any tips for a smooth process?\nI'm uncertain about investing in cryptocurrencies, what's your viewpoint?\nThinking of starting a YouTube channel, any advice for beginners?\nBought a new telescope, not sure about the best stargazing spots, any recommendations?\nContemplating a dietary change, what foods do you recommend?\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc42e931fe824d5f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me classify the intent of the following sentences: 'I want to purchase a new car.', 'I am thinking about selling my old car.', and 'My friend is lending me his car for the weekend.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "88c14f24ef4d48c5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider these sentences and classify their intents as either 'compliment', 'complaint', or 'neutral':\n\n1. I really enjoyed the food at your restaurant.\n2. Your customer service was very poor.\n3. Can you let me know the hours of operation?\n4. The design of your website is quite impressive.\n5. I think your prices are too high for the quality provided.\n6. Your team did a fantastic job on the project.\n7. I had a hard time navigating your online store.\n8. Is there a discount for bulk purchases?\n9. The event was very well-organized.\n10. The wait time for customer support was too long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c3e9c5a400024252",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, could you figure out what these sentences are trying to convey? 'I just bought a fantastic novel.' and 'I'm returning this faulty gadget.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b77da1b8a42e4181",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expertise to determine the intentions behind these statements: 'Your latest update messed up my app.' and 'I found your article very enlightening.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ee72fd022934928",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me decode the purposes of these sentences: 'I can't wait to attend your workshop.' and 'I received a damaged product, and I'm not happy.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "952a481d7a2d4d3d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you classify the intentions behind these sentences? 'Your movie recommendations are excellent.' and 'I demand a refund for this defective item.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5fdd9a37b78a48f1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious, what do you think these sentences are trying to communicate? 'Your performance was outstanding!' and 'I'm having issues with your software.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4939db61d017421d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you analyze the intents of these sentences? 'I admire your dedication.' and 'This product exceeded my expectations.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f4981992bac64b07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's play a game. Guess the intents of these sentences: 'Your team deserves a round of applause.' and 'I'm really frustrated with your services.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "078b4736353a4dbc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Mind deciphering the purposes of these sentences? 'Your presentation was boring.' and 'I appreciate your prompt response.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f7226b779249454b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's play the intent game again! Decode these sentences: 'Your article changed my perspective.' and 'I'm facing issues with your software.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e3d10b1592f4aa4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time for some fun! Can you figure out the intentions behind these sentences? 'Your team's effort was remarkable.' and 'I demand better customer service.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a35d95554534e8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the following sentences into three categories: Complaint, Request, or Inquiry.\n\n1. My package hasn't arrived yet, and it's been two weeks.\n2. Can you provide an update on my order status?\n3. I am not satisfied with the product I received.\n4. How can I return this item and get a refund?\n5. The delivery was delayed, and I want to file a complaint.\n6. I need assistance in setting up my new device.\n7. Can you tell me more about your warranty policy?\n8. My account has been charged twice for the same purchase.\n9. What is the process for canceling my subscription?\n10. The item I received is damaged, and I need a replacement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e10d42eedf5f4e2f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u4ee5\u4e0b\u5177\u6709\u610f\u56fe\u7684\u8bcd\u8bed\u8fdb\u884c\u5206\u7c7b\uff1a\u8d2d\u4e70\u3001\u51fa\u552e\u3001\u501f\u7528\u3002\n\n\u8bf7\u5c06\u4e0b\u9762\u7684\u53e5\u5b50\u4e0e\u6700\u5339\u914d\u7684\u610f\u56fe\u8fdb\u884c\u5173\u8054\u3002\u5982\u679c\u6ca1\u6709\u610f\u56fe\u4e0e\u53e5\u5b50\u5339\u914d\uff0c\u8bf7\u56de\u7b54\u201c\u4e0d\u786e\u5b9a\u201d\u3002\n\n\u6211\u60f3\u4e70\u90a3\u8f86\u81ea\u884c\u8f66\u3002\n\u6211\u5bf9\u90a3\u8f86\u81ea\u884c\u8f66\u5f88\u611f\u5174\u8da3\uff0c\u600e\u4e48\u624d\u80fd\u62e5\u6709\u5b83\uff1f\n\u90a3\u8f86\u81ea\u884c\u8f66\u5438\u5f15\u4e86\u6211\u7684\u6ce8\u610f\uff0c\u6211\u9700\u8981\u505a\u4ec0\u4e48\u624d\u80fd\u62ff\u5230\u5b83\uff1f\n\n\u6211\u8981\u5356\u6211\u7684\u623f\u5b50\u3002\n\u6211\u51b3\u5b9a\u628a\u6211\u7684\u623f\u5b50\u6302\u724c\u51fa\u552e\u3002\n\u6211\u6253\u7b97\u548c\u73b0\u5728\u7684\u623f\u5b50\u5206\u624b\u3002\n\n\u5f7c\u5f97\u501f\u4e86\u5b89\u59ae\u5361\u7684\u5531\u7247\u3002\n\u5b89\u59ae\u5361\u628a\u5979\u7684\u5531\u7247\u501f\u7ed9\u4e86\u5f7c\u5f97\u3002\n\u5f7c\u5f97\u62e5\u6709\u5b89\u59ae\u5361\u7684\u5531\u7247\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a6ee84de7ec74687",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the purpose behind wanting that shiny gadget on your website?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9002e7bc28714ff2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you identify the motive behind customers repeatedly inquiring about the warranty period?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4eea0ae6596245c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me the intention behind users asking about the return policy so frequently."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8e2930b510743cc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Break down the hidden motives in these sentences for me:\n1. Is there a chance I could snag a discount on this purchase?\n2. Do you offer any special deals for loyal customers?\n3. What perks come with this subscription package?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a44b3bf0adef4980",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the underlying purposes in these phrases:\n1. How do I unlock the premium features?\n2. Any hacks to get a better deal?\n3. Can you spill the beans on exclusive offers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0f0575163e2c4e4f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Decipher the intentions in these sentences:\n1. What's the catch with this free trial?\n2. Can you shed light on any hidden fees?\n3. Any strings attached to this promotion?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f37db3221568484d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Unravel the secrets behind these sentences:\n1. How do I maximize my benefits?\n2. Are there any loopholes for discounts?\n3. Can you guide me on getting the best bang for my buck?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b662d8165ed4502",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Decode the motives concealed in these questions:\n1. Is there a strategy to ace the loyalty program?\n2. Can you disclose any hidden advantages?\n3. What's the insider's guide to exclusive perks?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b1c4bc2b2ae46d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Investigate the concealed motives in these sentences:\n1. Is there a hack to enjoying extra perks?\n2. Can you enlighten me on any behind-the-scenes benefits?\n3. What's the secret sauce to unlocking exclusive advantages?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "994caebdf99d4e4c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Uncover the hidden purposes behind these questions:\n1. How do I navigate the labyrinth of promotions?\n2. Can you expose any covert advantages?\n3. What's the key to unraveling exclusive benefits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e867de9eb06a4f2c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Decrypt the concealed intentions in these sentences:\n1. Is there a method to the madness of special offers?\n2. Can you unveil any clandestine perks?\n3. What's the strategy to accessing exclusive advantages?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3453c15568834629",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Reveal the obscured motives in these inquiries:\n1. How do I crack the code to exclusive promotions?\n2. Can you disclose any undercover benefits?\n3. What's the secret recipe for tapping into exclusive advantages?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc1801ccaf594cfd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize these statements into intents: make a purchase, request information, or leave a review. \n\n1. I want to buy this item.\n2. How much does this cost?\n3. This product is amazing!\n4. Can you provide more details about this?\n5. I received the wrong item. \n6. What are the shipping options?\n7. The customer service was great! \n8. Is this available in other colors?\n9. I'm unhappy with my purchase.\n10. How long does it take to process a refund?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a5215ad0b184f59",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the following sentences according to the intent they express: greeting, farewell, or request for information. If a sentence doesn't fit any of these categories, indicate it as \"other\".\n\n1. Hello, how are you today?\n2. Goodbye, see you next week!\n3. Can you tell me what time the meeting starts?\n4. Have a great weekend!\n5. Hey, what's going on?\n6. Do you know the recipe for lasagna?\n7. Take care, and safe travels!\n8. I lost my keys, can you help me find them?\n9. It's a beautiful day outside, isn't it?\n10. When is the next train to London?\n\nCategorize the sentences and present the results in a table format."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69d658c29fe84b5c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider these phrases related to job searching: job application, interview, resume, job offer, salary negotiation.\n\nClassify the intent of the following sentences based on the phrases mentioned above. If the intent isn't clear, answer with \"uncertain\".\n\nPlease present the results in a table format.\n\nI need help with my job application.\nI have an interview tomorrow.\nCan you review my resume?\nI got a job offer!\nLet's discuss salary negotiation.\nI am not sure if I should apply for this job.\nDo you have any interview tips?\nWhat should I include in my resume?\nHow do I know if this job offer is good?\nWhat are some strategies for salary negotiation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1caa1b56df7548e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider the following phrases and their intent. Think about whether they imply a request for information, a desire to make a purchase, or something else entirely. Once you have determined the most likely intent for each phrase, create a table that shows each phrase along with its corresponding intent.\n\nPhrases:\n1. What is the cost of this product?\n2. I want to buy this item.\n3. How can I obtain more details about this service?\n4. I'm interested in purchasing this.\n5. Is there a discount available for this?\n6. Can you tell me more about the warranty?\n7. I'd like to place an order for this product.\n8. Are there any additional fees?\n9. How long does shipping take?\n10. What are the payment options?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

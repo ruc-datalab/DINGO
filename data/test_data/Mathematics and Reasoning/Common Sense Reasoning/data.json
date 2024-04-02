@@ -1,0 +1,721 @@
+[
+    {
+        "id": "2a153c08b11f4d60",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me if Baby Shark fans are likely to know what the Yellow Pages are?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7248d692d8cf4cec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u83b1\u6bd4\u9521\u5e02\u5fbd\u4e0a\u7684\u52a8\u7269\u4f1a\u5403\u5927\u7f9a\u7f8a\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "87cd6e6d08384161",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I leave my umbrella outside in the rain, will it keep the rain off of me when I pick it up later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12172698268c49f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When it's hot outside, is it better to wear dark or light-colored clothing to stay cool?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d9264798b044406e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have a headache, should I drink more water or take pain medication?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "235bcc1f45f140cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to keep my fruits fresh, should I store them in the refrigerator or on the countertop?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a01b3c46e3a46bd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When trying to lose weight, is it better to focus on reducing carbs or fats?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfddf9deddd14325",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to start a garden, should I opt for traditional soil or hydroponics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2123181cf216402a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "For better sleep, is it advisable to avoid electronic devices before bed or focus on a consistent sleep schedule?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63d0d9294f304f65",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to save money on my electricity bill, should I unplug my appliances when they're not in use?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a003faf37d343df",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When walking my dog in the park, should I keep it on a leash at all times?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1611c0fa48a417d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is it better to drink warm or cold water when trying to cool down on a hot day?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "347b5a1b044f4c6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I spill red wine on my carpet, should I use club soda or white vinegar to clean it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "154d14383a6e410f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When storing leftovers in the refrigerator, should I use plastic containers or glass containers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd5c38dec54a4245",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to improve my memory, should I get more sleep or exercise more?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85d7c14665d144ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When buying groceries, should I choose products with a shorter or longer expiration date?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e06e1828ab134fc2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to save money on gas, should I drive at a constant speed or accelerate quickly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e2fe3691f22f4b56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When cooking pasta, is it better to add salt to the water before or after it starts boiling?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa91628aaf474476",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Should I wash my hands before or after handling raw meat?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7bec284eb7094cdc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to wake up early, should I go to bed earlier or later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f385a8e86964ea0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When baking a cake, should I use salted or unsalted butter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0b9fcf01d4c4490b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I want to avoid getting sunburned, should I apply sunscreen before or after going outside?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aded3373c8d94680",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could molecular gastronomy cause a bloated stomach?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e9dbb48e5164194",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Will Klingons appear in a history textbook?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8cabfb95104f43db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could a cat really have nine lives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b709d430e11341c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is it true that an apple a day keeps the doctor away?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9810f0f2d4c4b82",
+        "basic_question": "Do Macaque carry pathogen? ",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Do Macaque carry pathogens?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some examples of pathogens that Macaques might carry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can humans protect themselves from these pathogens when encountering Macaques?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do all Macaque species carry the same pathogens, or do different species carry different pathogens?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f7f593c3238141e6",
+        "basic_question": "Is the state where Desperate Housewives takes place named after a dinosaur descendant?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Umutsuz Ev Kad\u0131nlar\u0131 dizisinin ge\u00e7ti\u011fi eyalet, bir dinozor soyundan ad\u0131n\u0131 alm\u0131\u015f m\u0131d\u0131r?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "87f28d2183c24886",
+        "basic_question": "Could a grizzly bear walk the length of Death Valley in a day?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could a grizzly bear walk the length of Death Valley in a day? I wonder how far the bear could travel and how long it would take them to cover the entire distance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "First, let's find out the length of Death Valley and the average walking speed of a grizzly bear."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now that we have the information, let's calculate how long it would take a grizzly bear to walk the length of Death Valley at their average walking speed."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Given that a day has 24 hours, would it be possible for a grizzly bear to walk the length of Death Valley in a day?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c96d35bbfc6f49ca",
+        "basic_question": "Can the National Hockey League be won by the Spurs?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can the National Hockey League be won by the Spurs?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Oh, I see. Can you tell me the name of a team in the National Hockey League?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you. How many teams are in the NHL?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How is the winner of the NHL determined?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the trophy called for the NBA champion?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77ea2d16f0b840e5",
+        "basic_question": "Could a detailed lecture about the mating habits of bottlenose dolphins trigger someone's PTSD?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could a detailed lecture about the mating habits of bottlenose dolphins trigger someone's PTSD?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bca0048527de40c2",
+        "basic_question": "Can a penny conduct electricity?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can a penny conduct electricity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are modern US pennies made of?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the conductivity of zinc compare to that of copper?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Would using a penny in an electrical circuit be safe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "66d4d90796a540db",
+        "basic_question": "Is John Lewis playing as a pitcher for Detroit Wolverines this year?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\uff0cJohn Lewis \u4eca\u5e74\u662f\u5426\u5728\u5e95\u7279\u5f8b\u72fc\u961f\u62c5\u4efb\u6295\u624b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "be5cace25a9d4ebb",
+        "basic_question": "Are Taego order bhikkhu generally less sexually active than  Jogye order ones?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are Taego order bhikkhu generally less sexually active than Jogye order ones? I'm curious about the differences between these two orders in terms of celibacy and rules."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "247ee710926b4cd0",
+        "basic_question": "Is moose stew likely to be seasoned with chiles?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u9a7c\u9e7f\u7096\u8089\u53ef\u80fd\u4f1a\u52a0\u8fa3\u6912\u8c03\u5473\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b49c33b7140f4993",
+        "basic_question": "Would Reporters without Borders have fought against Jay M. Near?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Would Reporters without Borders have fought against Jay M. Near?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1cc9ed1ea4c4b7e",
+        "basic_question": "Are smaller gorillas more likely to leave their birth troop?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Are smaller gorillas more likely to leave their birth troop?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "04d188e647dd4415",
+        "basic_question": "Did Law & Order have the first chief justice act in an episode?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Did Law & Order have the first chief justice act in an episode?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e3ada4b2a3247c1",
+        "basic_question": "Do handball male goalkeepers wear an undergarment for protecting the testes and penis?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Do handball male goalkeepers wear an undergarment for protecting the testes and penis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b26b9516d4b424f",
+        "basic_question": "Is Shiva one of the main deities of the religion that worships Jesus?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is Shiva one of the main deities of the religion that worships Jesus?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aa2185663ecf4595",
+        "basic_question": "Could fireworks at SANAE IV be spectacular at noon on June 22nd?",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could fireworks at SANAE IV be spectacular at noon on June 22nd?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

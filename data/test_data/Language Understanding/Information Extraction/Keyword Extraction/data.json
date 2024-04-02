@@ -1,0 +1,784 @@
+[
+    {
+        "id": "b7e456f823954950",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ece\u8fd9\u6bb5\u8bdd\u4e2d\u63d0\u53d6\u5173\u952e\u8bcd\uff1a\u201c\u7535\u5b50\u90ae\u4ef6\u8425\u9500\u662f\u4e00\u79cd\u901a\u8fc7\u53d1\u9001\u5546\u4e1a\u90ae\u4ef6\u7ed9\u6f5c\u5728\u6216\u73b0\u6709\u5ba2\u6237\u7684\u65b9\u5f0f\u6765\u63d0\u9ad8\u54c1\u724c\u77e5\u540d\u5ea6\u548c\u9500\u552e\u7684\u7b56\u7565\u3002\u201d"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Translate the keywords you just extracted into English."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af9a7a0955614b32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ece\u4ee5\u4e0b\u82f1\u6587\u53e5\u5b50\u4e2d\u63d0\u53d6\u5173\u952e\u8bcd\uff1a\u201cContent marketing is a strategic marketing approach focused on creating and distributing valuable, relevant, and consistent content to attract and retain a clearly-defined audience and, ultimately, to drive profitable customer action.\u201d"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3b62f9cf185b4b6f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u77e5\u9053\u8fd9\u6bb5\u8bdd\u7684\u4eae\u70b9\u662f\u4ec0\u4e48\uff0c\u53ef\u4ee5\u5e2e\u6211\u63d0\u53d6\u4e00\u4e0b\u5417\uff1f\u2018\u5728\u6570\u5b57\u5316\u65f6\u4ee3\uff0c\u8425\u9500\u5df2\u7ecf\u53d8\u5f97\u975e\u5e38\u590d\u6742\uff0c\u4f01\u4e1a\u9700\u8981\u91c7\u7528\u521b\u65b0\u7684\u7b56\u7565\u6765\u4e0e\u76ee\u6807\u53d7\u4f17\u5efa\u7acb\u7d27\u5bc6\u8054\u7cfb\u3002\u2019"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, summarize the key points in English for me."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22e0bc0d87ee48d3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ece\u8fd9\u53e5\u8bdd\u4e2d\u627e\u51fa\u63cf\u8ff0\u53ef\u6301\u7eed\u6027\u7684\u8bcd\u6c47\uff1aSustainable development has been defined in many ways, but the most frequently quoted definition is from Our Common Future, also known as the Brundtland Report: Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4b03231dfe3142c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u544a\u8bc9\u6211\u5173\u4e8e\u641c\u7d22\u5f15\u64ce\u4f18\u5316\uff08SEO\uff09\u7684\u76f8\u5173\u5173\u952e\u8bcd"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94306d12b9534561",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quickly identify the keywords from this text: 'Top 10 tourist attractions in Paris include the Eiffel Tower, Louvre Museum, Notre-Dame Cathedral, and the Champs-Elys\u00e9es.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c1569669fd514525",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "find the keywords in this sentence: 'Best pizza places in New York City include Lombardi's, Di Fara Pizza, and Joe's Pizza.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7a62af574def47db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the keywords in this statement: 'Learn how to grow your own organic vegetables in a small backyard garden with these easy-to-follow steps.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "142273588e2a4013",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "K\u00f6nnten Sie bitte aus der folgenden Beschreibung einer Softwarel\u00f6sung die wichtigsten Schlagworte extrahieren?\n\nDie Softwarel\u00f6sung erm\u00f6glicht es Unternehmen, ihre Gesch\u00e4ftsprozesse durch Workflow-Automatisierung und digitale Transformation zu optimieren. Die Plattform bietet eine Vielzahl von Funktionen, darunter Projektmanagement, Dokumentenmanagement und Zusammenarbeitstools, um die Effizienz zu steigern und die Kommunikation innerhalb des Teams zu verbessern. Die L\u00f6sung integriert sich nahtlos in bestehende Systeme und erm\u00f6glicht eine schnelle Anpassung an sich \u00e4ndernde Gesch\u00e4ftsanforderungen."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "36ae7bd614444686",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the following text: Climate change is one of the most pressing issues in the world today. Due to rising temperatures and unpredictable weather patterns, it has become increasingly important for governments, corporations, and individuals to take action to reduce their carbon footprint and adopt sustainable practices. Some key terms related to climate change include greenhouse gases, global warming, and renewable energy. Identify the main keywords and their relevance to the topic."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do you think the keywords you identified accurately represent the text's main points, and why?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9aecb07fb92e4fcf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Determine the top keywords for a new vegan restaurant opening in Los Angeles, California. Consider the restaurant's focus on organic ingredients, sustainability, and a diverse menu. Provide examples of keywords that can be used to target potential customers looking for a vegan dining experience in LA."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7b84ffa74412414a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "think about the local competition and other popular vegan spots in Los Angeles. How can you provide more specific and unique keywords that will set this restaurant apart and attract a niche audience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "daba440fea104319",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What would be some effective long-tail keywords to target for this vegan restaurant, keeping in mind the focus on organic ingredients, sustainability, and a diverse menu?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da510406a9834a28",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you extract the keywords from the following sentence: 'Social media marketing includes creating and sharing content to achieve marketing and branding goals'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the main concepts in this sentence?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5641b27b7fe0435f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me identify pivotal terms in this blog post about holistic wellness and mindfulness in the digital age: In the hustle and bustle of the digital age, where the relentless march of technology shapes the very fabric of our daily lives, the pursuit of holistic wellness emerges as both a profound necessity and a rewarding challenge. The constant influx of information, coupled with the sedentary rhythms of modern existence, often propels us into a state of neglect concerning our physical and mental well-being. As we navigate this dynamic landscape, this blog aims to delve into the multifaceted concept of holistic wellness, casting a spotlight on the essential need to harmonize both our physical and mental health for a life that not only endures but thrives in the face of contemporary complexities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c959d6a096c64963",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extracting effective keywords: Exercise and Movement: Integrate regular physical activity into your daily routine to optimize health. Engaging in exercises such as yoga, jogging, or strength training enhances cardiovascular health, bolsters flexibility, and elevates overall energy levels. Nutrition and Diet: The foundation of physical health lies in a well-balanced diet. Prioritize whole foods replete with essential vitamins, minerals, and nutrients. Inclusion of a diverse array of fruits, vegetables, lean proteins, and whole grains is instrumental in supporting the body\u2019s myriad functions.Adequate Sleep: Often underestimated, quality sleep plays a pivotal role in physical well-being. Establishing a consistent sleep routine not only promotes cognitive function and emotional well-being but also facilitates optimal physical recovery. "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13940f40433144c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pinpoint specific terms: In the intricate dance of achieving holistic wellness, the concept of striking the balance extends beyond the physical and mental realms. It calls for a nuanced exploration of our daily routines, habits, and priorities to create a harmonious synergy between mind, body, and soul. Consider integrating mindfulness rituals into your morning routine, savoring moments of stillness that set the tone for a balanced day. Embrace the outdoors and connect with nature, fostering a sense of grounding that transcends the digital noise. Experiment with diverse forms of exercise, allowing the joy of movement to invigorate both your physical and mental well-being."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "17253d6080c44d83",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a gardening blog. Can you assist me in finding unique and captivating keywords related to sustainable gardening practices? 'So, what is sustainable gardening? There's no official definition, but the idea is to minimize humans' impact on the earth. Sustainable gardening practices at home include avoiding polluting chemicals in fertilizers and pest control, preserving natural resources, and reducing waste whenever possible. You don't have to make huge changes immediately if you want to shift to sustainable gardening; even something as simple as using natural weed-killing methods instead of chemicals can help the environment. These sustainable gardening ideas will help you contribute to a happier, healthier planet.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f3fb75849d74402",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I extract keywords for a blog post about the latest advancements in artificial intelligence: Artificial Intelligence (AI) is one of the major developments of our time. In particular, Machine Learning, and the implications that go with it, is shaking up many aspects of how we do things, allowing us to deploy AI software where we previously used a human or a more inefficient process. Sometimes this is to the consternation of people, particularly those who worry about AI systems and machine intelligence taking over human jobs, or perhaps the sci-fi scenario of AI being intelligent and organized enough to overrule humans."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0fdd98696254dd9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to enhance my resume with keywords relevant to project management: Project management software is used to plan, schedule, track, collaborate, and report on projects. More specifically, these essential tools help project managers, teams, and other contributors complete tasks; record and track requirements; streamline resources; and manage time, budget, and scope constraints. Whether used as a stand-alone tool or as a suite of solutions, project management software \u2014 often shortened to PM software \u2014 is a must for any organization looking to maximize time and money while minimizing human error"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eadaf66ebec24d6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Identify at least 3 keywords: Project management software is used to plan, schedule, track, collaborate, and report on projects. More specifically, these essential tools help project managers, teams, and other contributors complete tasks; record and track requirements; streamline resources; and manage time, budget, and scope constraints. Whether used as a stand-alone tool or as a suite of solutions, project management software \u2014 often shortened to PM software \u2014 is a must for any organization looking to maximize time and money while minimizing human error"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "797034e5138f4537",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you guide me in uncovering keywords for a physical and mental well-being: Research shows that people with a mental health problem are more likely to have a preventable physical health condition such as heart disease. This can be for a variety of reasons, including:1. genetics \u2013 the genes that make it more likely that you will develop a mental health problem may also play a part in physical health problems2. low motivation \u2013 some mental health problems or medications can affect your energy or motivation to take care of yourself3. difficulty with concentration and planning \u2013 you may find it hard to arrange or attend medical appointments if your mental health problem affects your concentration4. lack of support to change unhealthy behaviour \u2013 healthcare professionals may assume you\u2019re not capable of making changes, so won\u2019t offer any support to cut down on drinking or give up smoking, for example being less likely to receive medical help \u2013 healthcare professionals may assume your physical symptoms are part of your mental illness and not investigate them further People with a mental illness are less likely to receive routine checks (like blood pressure, weight and cholesterol) that might detect symptoms of physical health conditions earlier."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6edcdd5b28314bfd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please identify at least three keywords from the following paragraph and separate them with '|': Research shows that people with a mental health problem are more likely to have a preventable physical health condition such as heart disease. This can be for a variety of reasons, including:1. genetics \u2013 the genes that make it more likely that you will develop a mental health problem may also play a part in physical health problems2. low motivation \u2013 some mental health problems or medications can affect your energy or motivation to take care of yourself3. difficulty with concentration and planning \u2013 you may find it hard to arrange or attend medical appointments if your mental health problem affects your concentration4. lack of support to change unhealthy behaviour \u2013 healthcare professionals may assume you\u2019re not capable of making changes, so won\u2019t offer any support to cut down on drinking or give up smoking, for example being less likely to receive medical help \u2013 healthcare professionals may assume your physical symptoms are part of your mental illness and not investigate them further People with a mental illness are less likely to receive routine checks (like blood pressure, weight and cholesterol) that might detect symptoms of physical health conditions earlier."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aeb2946142b9490f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract keywords from the following paragraph, separated by commas, and do not include redundant sentences in your reply: Research shows that people with a mental health problem are more likely to have a preventable physical health condition such as heart disease. This can be for a variety of reasons, including:1. genetics \u2013 the genes that make it more likely that you will develop a mental health problem may also play a part in physical health problems2. low motivation \u2013 some mental health problems or medications can affect your energy or motivation to take care of yourself3. difficulty with concentration and planning \u2013 you may find it hard to arrange or attend medical appointments if your mental health problem affects your concentration4. lack of support to change unhealthy behaviour \u2013 healthcare professionals may assume you\u2019re not capable of making changes, so won\u2019t offer any support to cut down on drinking or give up smoking, for example being less likely to receive medical help \u2013 healthcare professionals may assume your physical symptoms are part of your mental illness and not investigate them further People with a mental illness are less likely to receive routine checks (like blood pressure, weight and cholesterol) that might detect symptoms of physical health conditions earlier."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "232366db86264833",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract no more than 5 keywords from the following paragraphs, each concise and without explanation: Research shows that people with a mental health problem are more likely to have a preventable physical health condition such as heart disease. This can be for a variety of reasons, including:1. genetics \u2013 the genes that make it more likely that you will develop a mental health problem may also play a part in physical health problems2. low motivation \u2013 some mental health problems or medications can affect your energy or motivation to take care of yourself3. difficulty with concentration and planning \u2013 you may find it hard to arrange or attend medical appointments if your mental health problem affects your concentration4. lack of support to change unhealthy behaviour \u2013 healthcare professionals may assume you\u2019re not capable of making changes, so won\u2019t offer any support to cut down on drinking or give up smoking, for example being less likely to receive medical help \u2013 healthcare professionals may assume your physical symptoms are part of your mental illness and not investigate them further People with a mental illness are less likely to receive routine checks (like blood pressure, weight and cholesterol) that might detect symptoms of physical health conditions earlier."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "21fc5c636e364b25",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u63d0\u53d6\u5173\u952e\u8bcd\uff0c\u7528\u82f1\u6587\u8868\u8fbe\uff0c\u81f3\u5c11\u4e94\u4e2a\uff0c\u7528\u5206\u53f7\u5206\u5272: Integrate regular physical activity into your daily routine to optimize health. Engaging in exercises such as yoga, jogging, or strength training enhances cardiovascular health, bolsters flexibility, and elevates overall energy levels. Nutrition and Diet: The foundation of physical health lies in a well-balanced diet. Prioritize whole foods replete with essential vitamins, minerals, and nutrients. Inclusion of a diverse array of fruits, vegetables, lean proteins, and whole grains is instrumental in supporting the body\u2019s myriad functions.Adequate Sleep: Often underestimated, quality sleep plays a pivotal role in physical well-being. Establishing a consistent sleep routine not only promotes cognitive function and emotional well-being but also facilitates optimal physical recovery. "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "19abb4c5fa5f4053",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract keywords and also output the Chinese version: Integrate regular physical activity into your daily routine to optimize health. Engaging in exercises such as yoga, jogging, or strength training enhances cardiovascular health, bolsters flexibility, and elevates overall energy levels. Nutrition and Diet: The foundation of physical health lies in a well-balanced diet. Prioritize whole foods replete with essential vitamins, minerals, and nutrients. Inclusion of a diverse array of fruits, vegetables, lean proteins, and whole grains is instrumental in supporting the body\u2019s myriad functions.Adequate Sleep: Often underestimated, quality sleep plays a pivotal role in physical well-being. Establishing a consistent sleep routine not only promotes cognitive function and emotional well-being but also facilitates optimal physical recovery. "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4c4c4465c0c94552",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Integrate regular physical activity into your daily routine to optimize health. Engaging in exercises such as yoga, jogging, or strength training enhances cardiovascular health, bolsters flexibility, and elevates overall energy levels. Nutrition and Diet: The foundation of physical health lies in a well-balanced diet. Prioritize whole foods replete with essential vitamins, minerals, and nutrients. Inclusion of a diverse array of fruits, vegetables, lean proteins, and whole grains is instrumental in supporting the body\u2019s myriad functions.Adequate Sleep: Often underestimated, quality sleep plays a pivotal role in physical well-being. Establishing a consistent sleep routine not only promotes cognitive function and emotional well-being but also facilitates optimal physical recovery. Extract 3 keywords from the above paragraph."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e78acdaa30614d74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me a few important keywords from the following paragraphs. When you put your money in a share certificate, you agree to keep your money on deposit for a set period of time, known as the term. Share certificate term lengths can vary anywhere from three months to 10 years, depending on what the particular credit union offers. Once the share certificate matures, you have a few choices regarding what to do with the money. \u201cThe member determines at the end of that time period if they would like to keep the funds in the account for that time period again, if they would like to change the term or amount, or if they would like to withdraw the funds,\u201d Coe says. Again, if you choose to withdraw funds from the share certificate prior to its maturity date, you\u2019ll likely have to pay a fee. Early withdrawal fees are often expressed as a certain number of days\u2019 worth of interest, and may vary according to the certificate\u2019s term length. So it\u2019s important to choose a term that allows you to earn a solid APY without locking up your money for too long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3fa44cc181bf474a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract keywords from the following paragraphs and tell me step by step how to do it. I want to learn. here is the paragraph: When you put your money in a share certificate, you agree to keep your money on deposit for a set period of time, known as the term. Share certificate term lengths can vary anywhere from three months to 10 years, depending on what the particular credit union offers. Once the share certificate matures, you have a few choices regarding what to do with the money. \u201cThe member determines at the end of that time period if they would like to keep the funds in the account for that time period again, if they would like to change the term or amount, or if they would like to withdraw the funds,\u201d Coe says. Again, if you choose to withdraw funds from the share certificate prior to its maturity date, you\u2019ll likely have to pay a fee. Early withdrawal fees are often expressed as a certain number of days\u2019 worth of interest, and may vary according to the certificate\u2019s term length. So it\u2019s important to choose a term that allows you to earn a solid APY without locking up your money for too long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9ad4fc181a074b99",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract keywords from the following paragraphs and sort them in order of importance: When you put your money in a share certificate, you agree to keep your money on deposit for a set period of time, known as the term. Share certificate term lengths can vary anywhere from three months to 10 years, depending on what the particular credit union offers. Once the share certificate matures, you have a few choices regarding what to do with the money. \u201cThe member determines at the end of that time period if they would like to keep the funds in the account for that time period again, if they would like to change the term or amount, or if they would like to withdraw the funds,\u201d Coe says. Again, if you choose to withdraw funds from the share certificate prior to its maturity date, you\u2019ll likely have to pay a fee. Early withdrawal fees are often expressed as a certain number of days\u2019 worth of interest, and may vary according to the certificate\u2019s term length. So it\u2019s important to choose a term that allows you to earn a solid APY without locking up your money for too long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4178d4f4aaf54348",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please act as an editor and extract useful keywords from the following paragraph: When you put your money in a share certificate, you agree to keep your money on deposit for a set period of time, known as the term. Share certificate term lengths can vary anywhere from three months to 10 years, depending on what the particular credit union offers. Once the share certificate matures, you have a few choices regarding what to do with the money. \u201cThe member determines at the end of that time period if they would like to keep the funds in the account for that time period again, if they would like to change the term or amount, or if they would like to withdraw the funds,\u201d Coe says. Again, if you choose to withdraw funds from the share certificate prior to its maturity date, you\u2019ll likely have to pay a fee. Early withdrawal fees are often expressed as a certain number of days\u2019 worth of interest, and may vary according to the certificate\u2019s term length. So it\u2019s important to choose a term that allows you to earn a solid APY without locking up your money for too long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "baeadde5f125469f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I don't know how to extract keywords. Can you use the following paragraph as an example to teach me? When you put your money in a share certificate, you agree to keep your money on deposit for a set period of time, known as the term. Share certificate term lengths can vary anywhere from three months to 10 years, depending on what the particular credit union offers. Once the share certificate matures, you have a few choices regarding what to do with the money. \u201cThe member determines at the end of that time period if they would like to keep the funds in the account for that time period again, if they would like to change the term or amount, or if they would like to withdraw the funds,\u201d Coe says. Again, if you choose to withdraw funds from the share certificate prior to its maturity date, you\u2019ll likely have to pay a fee. Early withdrawal fees are often expressed as a certain number of days\u2019 worth of interest, and may vary according to the certificate\u2019s term length. So it\u2019s important to choose a term that allows you to earn a solid APY without locking up your money for too long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b65bf03aa3a24e74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract keywords from the following paragraphs to help readers understand their content in advance: People use technology to fit into a digital community to which they are not physically connected, but mentally connected. Each social media platform acts as a digital home for individuals, allowing people to express themselves through the global village.[9] A Review of General Semantics argues that media ecology and new media have expanded who has the ability to create and view media texts.[13] Since mass media began, it has called for the westernisation of the world. Without the mass media in effect, other countries may not have the knowledge of what the acquisitions of the other nations of the world constitute. Since most of the developing countries acquired the news and entertainment from developed nations like the U.S, the information received can be biased in favour of developed nations which connects the world in similarities within the media.[14]On the Internet, physical distance is even less of a hindrance to the real-time communicative activities of people. Social Spheres are greatly expanded by the openness of the web and the ease at which people can search for online communities and interact with others who share the same interests and concerns. According to Maria Ozawa and Shigeo Tokuda, the enhanced \"electric speed in bringing all social and political functions together in a sudden implosion has heightened human awareness of responsibility to an intense degree.\"[15] Increased speed of communication and the ability for people to read about, spread, and react to global news quickly, enables individuals to become more involved with others from various social groups and countries around the world and to be more aware of our global responsibilities.[15] Similarly, web-connected computers enable people to link their web sites together."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c66047d5eaf4609",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract 5 keywords and segment them with a wave sign: People use technology to fit into a digital community to which they are not physically connected, but mentally connected. Each social media platform acts as a digital home for individuals, allowing people to express themselves through the global village.[9] A Review of General Semantics argues that media ecology and new media have expanded who has the ability to create and view media texts.[13] Since mass media began, it has called for the westernisation of the world. Without the mass media in effect, other countries may not have the knowledge of what the acquisitions of the other nations of the world constitute. Since most of the developing countries acquired the news and entertainment from developed nations like the U.S, the information received can be biased in favour of developed nations which connects the world in similarities within the media.[14]On the Internet, physical distance is even less of a hindrance to the real-time communicative activities of people. Social Spheres are greatly expanded by the openness of the web and the ease at which people can search for online communities and interact with others who share the same interests and concerns. According to Maria Ozawa and Shigeo Tokuda, the enhanced \"electric speed in bringing all social and political functions together in a sudden implosion has heightened human awareness of responsibility to an intense degree.\"[15] Increased speed of communication and the ability for people to read about, spread, and react to global news quickly, enables individuals to become more involved with others from various social groups and countries around the world and to be more aware of our global responsibilities.[15] Similarly, web-connected computers enable people to link their web sites together."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f65412a829914a05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract no less than 3 keywords and explain the reasons and meanings separately: People use technology to fit into a digital community to which they are not physically connected, but mentally connected. Each social media platform acts as a digital home for individuals, allowing people to express themselves through the global village.[9] A Review of General Semantics argues that media ecology and new media have expanded who has the ability to create and view media texts.[13] Since mass media began, it has called for the westernisation of the world. Without the mass media in effect, other countries may not have the knowledge of what the acquisitions of the other nations of the world constitute. Since most of the developing countries acquired the news and entertainment from developed nations like the U.S, the information received can be biased in favour of developed nations which connects the world in similarities within the media.[14]On the Internet, physical distance is even less of a hindrance to the real-time communicative activities of people. Social Spheres are greatly expanded by the openness of the web and the ease at which people can search for online communities and interact with others who share the same interests and concerns. According to Maria Ozawa and Shigeo Tokuda, the enhanced \"electric speed in bringing all social and political functions together in a sudden implosion has heightened human awareness of responsibility to an intense degree.\"[15] Increased speed of communication and the ability for people to read about, spread, and react to global news quickly, enables individuals to become more involved with others from various social groups and countries around the world and to be more aware of our global responsibilities.[15] Similarly, web-connected computers enable people to link their web sites together."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "36a371bf73074406",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I know you are good at language generation, please help me understand this paragraph and generate keywords: People use technology to fit into a digital community to which they are not physically connected, but mentally connected. Each social media platform acts as a digital home for individuals, allowing people to express themselves through the global village.[9] A Review of General Semantics argues that media ecology and new media have expanded who has the ability to create and view media texts.[13] Since mass media began, it has called for the westernisation of the world. Without the mass media in effect, other countries may not have the knowledge of what the acquisitions of the other nations of the world constitute. Since most of the developing countries acquired the news and entertainment from developed nations like the U.S, the information received can be biased in favour of developed nations which connects the world in similarities within the media.[14]On the Internet, physical distance is even less of a hindrance to the real-time communicative activities of people. Social Spheres are greatly expanded by the openness of the web and the ease at which people can search for online communities and interact with others who share the same interests and concerns. According to Maria Ozawa and Shigeo Tokuda, the enhanced \"electric speed in bringing all social and political functions together in a sudden implosion has heightened human awareness of responsibility to an intense degree.\"[15] Increased speed of communication and the ability for people to read about, spread, and react to global news quickly, enables individuals to become more involved with others from various social groups and countries around the world and to be more aware of our global responsibilities.[15] Similarly, web-connected computers enable people to link their web sites together."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "045a75b2ea5b479d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Do you think this paragraph revolves around which key words: People use technology to fit into a digital community to which they are not physically connected, but mentally connected. Each social media platform acts as a digital home for individuals, allowing people to express themselves through the global village.[9] A Review of General Semantics argues that media ecology and new media have expanded who has the ability to create and view media texts.[13] Since mass media began, it has called for the westernisation of the world. Without the mass media in effect, other countries may not have the knowledge of what the acquisitions of the other nations of the world constitute. Since most of the developing countries acquired the news and entertainment from developed nations like the U.S, the information received can be biased in favour of developed nations which connects the world in similarities within the media.[14]On the Internet, physical distance is even less of a hindrance to the real-time communicative activities of people. Social Spheres are greatly expanded by the openness of the web and the ease at which people can search for online communities and interact with others who share the same interests and concerns. According to Maria Ozawa and Shigeo Tokuda, the enhanced \"electric speed in bringing all social and political functions together in a sudden implosion has heightened human awareness of responsibility to an intense degree.\"[15] Increased speed of communication and the ability for people to read about, spread, and react to global news quickly, enables individuals to become more involved with others from various social groups and countries around the world and to be more aware of our global responsibilities.[15] Similarly, web-connected computers enable people to link their web sites together."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cbf8c3904a654c86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me the key words for the following paragraph: The Silk Road (Chinese: \u7d72\u7da2\u4e4b\u8def)[1] was a network of Eurasian trade routes active from the second century BCE until the mid-15th century.[2] Spanning over 6,400 kilometers (4,000 miles), it played a central role in facilitating economic, cultural, political, and religious interactions between the East and West.[3][4][5] The name \"Silk Road\", first coined in the late 19th century, has fallen into disuse among some modern historians in favor of Silk Routes, on the grounds that it more accurately describes the intricate web of land and sea routes connecting Central, East, South, Southeast, and West Asia as well as East Africa and Southern Europe.[2]The Silk Road derives its name from the highly lucrative trade of silk textiles that were produced almost exclusively in China. The network began with the Han dynasty's expansion into Central Asia around 114 BCE through the missions and explorations of the Chinese imperial envoy Zhang Qian, which brought the region under unified control. The Parthian Empire provided a bridge to East Africa and the Mediterranean. By the early first century CE, Chinese silk was widely sought-after in Rome, Egypt, and Greece.[2] Other lucrative commodities from the East included tea, dyes, perfumes, and porcelain; among Western exports were horses, camels, honey, wine, and gold. Aside from generating substantial wealth for emerging mercantile classes, the proliferation of goods such as paper and gunpowder greatly altered the trajectory of various realms, if not world history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3d62365078dd4754",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract three keywords to help me understand this passage: The Silk Road (Chinese: \u7d72\u7da2\u4e4b\u8def)[1] was a network of Eurasian trade routes active from the second century BCE until the mid-15th century.[2] Spanning over 6,400 kilometers (4,000 miles), it played a central role in facilitating economic, cultural, political, and religious interactions between the East and West.[3][4][5] The name \"Silk Road\", first coined in the late 19th century, has fallen into disuse among some modern historians in favor of Silk Routes, on the grounds that it more accurately describes the intricate web of land and sea routes connecting Central, East, South, Southeast, and West Asia as well as East Africa and Southern Europe.[2]The Silk Road derives its name from the highly lucrative trade of silk textiles that were produced almost exclusively in China. The network began with the Han dynasty's expansion into Central Asia around 114 BCE through the missions and explorations of the Chinese imperial envoy Zhang Qian, which brought the region under unified control. The Parthian Empire provided a bridge to East Africa and the Mediterranean. By the early first century CE, Chinese silk was widely sought-after in Rome, Egypt, and Greece.[2] Other lucrative commodities from the East included tea, dyes, perfumes, and porcelain; among Western exports were horses, camels, honey, wine, and gold. Aside from generating substantial wealth for emerging mercantile classes, the proliferation of goods such as paper and gunpowder greatly altered the trajectory of various realms, if not world history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab4835bf030f4f94",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do you think are the steps for extracting keywords? Show me the following paragraph: The Silk Road (Chinese: \u7d72\u7da2\u4e4b\u8def)[1] was a network of Eurasian trade routes active from the second century BCE until the mid-15th century.[2] Spanning over 6,400 kilometers (4,000 miles), it played a central role in facilitating economic, cultural, political, and religious interactions between the East and West.[3][4][5] The name \"Silk Road\", first coined in the late 19th century, has fallen into disuse among some modern historians in favor of Silk Routes, on the grounds that it more accurately describes the intricate web of land and sea routes connecting Central, East, South, Southeast, and West Asia as well as East Africa and Southern Europe.[2]The Silk Road derives its name from the highly lucrative trade of silk textiles that were produced almost exclusively in China. The network began with the Han dynasty's expansion into Central Asia around 114 BCE through the missions and explorations of the Chinese imperial envoy Zhang Qian, which brought the region under unified control. The Parthian Empire provided a bridge to East Africa and the Mediterranean. By the early first century CE, Chinese silk was widely sought-after in Rome, Egypt, and Greece.[2] Other lucrative commodities from the East included tea, dyes, perfumes, and porcelain; among Western exports were horses, camels, honey, wine, and gold. Aside from generating substantial wealth for emerging mercantile classes, the proliferation of goods such as paper and gunpowder greatly altered the trajectory of various realms, if not world history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a6814d5752b418b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a history editor, please extract keywords for the following paragraph: The Silk Road (Chinese: \u7d72\u7da2\u4e4b\u8def)[1] was a network of Eurasian trade routes active from the second century BCE until the mid-15th century.[2] Spanning over 6,400 kilometers (4,000 miles), it played a central role in facilitating economic, cultural, political, and religious interactions between the East and West.[3][4][5] The name \"Silk Road\", first coined in the late 19th century, has fallen into disuse among some modern historians in favor of Silk Routes, on the grounds that it more accurately describes the intricate web of land and sea routes connecting Central, East, South, Southeast, and West Asia as well as East Africa and Southern Europe.[2]The Silk Road derives its name from the highly lucrative trade of silk textiles that were produced almost exclusively in China. The network began with the Han dynasty's expansion into Central Asia around 114 BCE through the missions and explorations of the Chinese imperial envoy Zhang Qian, which brought the region under unified control. The Parthian Empire provided a bridge to East Africa and the Mediterranean. By the early first century CE, Chinese silk was widely sought-after in Rome, Egypt, and Greece.[2] Other lucrative commodities from the East included tea, dyes, perfumes, and porcelain; among Western exports were horses, camels, honey, wine, and gold. Aside from generating substantial wealth for emerging mercantile classes, the proliferation of goods such as paper and gunpowder greatly altered the trajectory of various realms, if not world history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ed268f487a06456b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key words in the following paragraph and what do you think can be covered: The Silk Road (Chinese: \u7d72\u7da2\u4e4b\u8def)[1] was a network of Eurasian trade routes active from the second century BCE until the mid-15th century.[2] Spanning over 6,400 kilometers (4,000 miles), it played a central role in facilitating economic, cultural, political, and religious interactions between the East and West.[3][4][5] The name \"Silk Road\", first coined in the late 19th century, has fallen into disuse among some modern historians in favor of Silk Routes, on the grounds that it more accurately describes the intricate web of land and sea routes connecting Central, East, South, Southeast, and West Asia as well as East Africa and Southern Europe.[2]The Silk Road derives its name from the highly lucrative trade of silk textiles that were produced almost exclusively in China. The network began with the Han dynasty's expansion into Central Asia around 114 BCE through the missions and explorations of the Chinese imperial envoy Zhang Qian, which brought the region under unified control. The Parthian Empire provided a bridge to East Africa and the Mediterranean. By the early first century CE, Chinese silk was widely sought-after in Rome, Egypt, and Greece.[2] Other lucrative commodities from the East included tea, dyes, perfumes, and porcelain; among Western exports were horses, camels, honey, wine, and gold. Aside from generating substantial wealth for emerging mercantile classes, the proliferation of goods such as paper and gunpowder greatly altered the trajectory of various realms, if not world history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d998ac9cc7d4388",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key words in the following paragraph and what do you think can be covered: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8caee4b50b444d2c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract keywords from the following paragraphs to attract readers: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "54d4b57c43a74c50",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract 3 interesting keywords: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d82656a3e7714e92",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What keywords do you think this paragraph contains: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "19d6ecdf349c4d56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract the two most important keywords and tell me the reasons: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71a19c2c093d46e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List all keywords and keywords that you think can be expanded on: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb14d7f2cf6e4878",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which keywords do you think can represent the following paragraph: The Mediterranean Diet (MED) is characterized by a high intake of vegetables (2 servings per meal) and fruits (1-2 servings per meal), extra virgin olive oil (3 tablespoons per day), breads and cereals (1-2 servings per day), legumes (2 or more servings per week), seafood (more than 2 servings per week), eggs (2-4 servings per week), poultry (2 servings per week), limited dairy (1-2 servings per day), low intake of red meat (less than two servings per week), and limited sweets (less than two servings per week).In addition to improving symptoms in IBD, data support its health benefits in other disease states such as cardiovascular disease, cancer, and diabetes, with much of its benefit attributed to reductions in inflammation from higher consumption of vegetables, fruits, nuts, and healthful fats from avocados, fish, and olive oil.3, 4 The Mediterranean diet may further serve as a preventive strategy against colon cancer5 and later-onset of Crohn's Disease."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

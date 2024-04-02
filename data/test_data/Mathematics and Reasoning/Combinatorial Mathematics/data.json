@@ -1,0 +1,922 @@
+[
+    {
+        "id": "64382a3148cc4c51",
+        "basic_question": "Adam rolled two standard six-sided dice once.  What is the probability that he did not roll a prime number on either die? Express your answer as a common fraction.",
+        "reference_answer": "The prime numbers from 1 to 6 are 2, 3, and 5. Thus, the probability of Adam not rolling a prime number on any one die is equal to $\\frac{3}{6}=\\frac{1}{2}$, since there is an equal probability of rolling any number from 1 to 6. Since the two dice are independent, the probability of Adam not rolling a prime number on either die is equal to $\\frac{1}{2}\\cdot\\frac{1}{2}=\\boxed{\\frac{1}{4}}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Adam rolled two standard six-sided dice once. What is the probability that he did not roll a prime number on either die? Express your answer as a common fraction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68ec00c779234cf8",
+        "basic_question": "Find the value of $n$ that satisfies $2(n+1)!+6n!=3(n+1)!$, where $n! = n\\cdot (n-1)\\cdot (n-2) \\cdots 2\\cdot 1$.",
+        "reference_answer": "Begin by moving all terms to the right side: $$0=3(n+1)!-2(n+1)!-6n!$$ $$0=(n+1)!-6n!$$ Now, since $(n+1)!=(n+1)n!$, we can take out a factor of $n!$: $$0=n!(n+1-6)$$ $$0=n!(n-5)$$ We know that $n!\\neq0$, so we can divide out $n!$ and solve for $n$: $$0=n-5$$ $$n=\\boxed{5}$$",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Find the value of n that satisfies 2(n+1)!+6n!=3(n+1)!, where n! = n * (n-1) * (n-2) * ... * 2 * 1."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0b4c2df155b046f5",
+        "basic_question": "How many different bracelets have 3 identical orange beads, 3 identical black beads, and 1 teal bead, if rotating or flipping a bracelet does not change it?",
+        "reference_answer": "Rotate each bracelet so the teal bead is at the top. If we flip a bracelet over, leaving the teal bead in place, the three beads on the left flip to the right, and vice-versa. We can flip all of the bracelets so there are more orange beads on the left than on the right, since there are an odd number of orange beads total. If there are 2 orange beads on the left, there are three choices for the position of the black bead on the left and 3 for the position of the orange bead on the right, making 9 bracelets. If all three beads on the left are orange, we get one more bracelet, for a total of $9+1=\\boxed{10}$ bracelets.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many different bracelets have 3 identical orange beads, 3 identical black beads, and 1 teal bead, if rotating or flipping a bracelet does not change it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "502ad961803d4447",
+        "basic_question": "How many prime numbers have squares between 100 and 300?",
+        "reference_answer": "Since $10^2 =100$, $17^2 = 289$, and $18^2=324$, we know that the integers whose squares are between 100 and 300 are the integers between 10 and 18.  Between 10 and 18, 3 primes exist: 11, 13, 17, thus the answer is $\\boxed{3}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quickly tell me the prime numbers with squares between 100 and 300."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e74872d82714933",
+        "basic_question": "The letters $A, B$ and $C$ are used to form every possible three letter ``word.'' When these ``words'' are arranged in alphabetical order and numbered so that $AAA$ is Word 1 and $CCC$ is Word 27, what number will correspond to the position of word $BAB$ on the list?",
+        "reference_answer": "There are 9 possible words that start with A to begin the list, so the first word starting with B, BAA, is the 10th word. BAB is the next word after BAA, or word number $\\boxed{11}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Calculate the position of the word BAB in the alphabetical order of all three-letter words formed using the letters A, B, and C."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "244d659a85074a62",
+        "basic_question": "A Senate committee has 5 Democrats, 5 Republicans, and 1 Independent.  In how many ways can they sit around a circular table if all the members of each party all sit next to each other?  (Two seatings are considered equivalent if one is a rotation of the other.)",
+        "reference_answer": "Choose any seat in which to place the Independent -- it doesn't matter which seat that we choose, since we can rotate the table. Once the Independent's seat has been chosen, either all the Democrats sit to their left and all the Republicans sit to their right, or the other way around. Either way, there are $5!$ ways to put the Democrats in their seats, and $5!$ ways to put the Republicans in their seats. So, the total number of ways to seat the people around the table is $2\\cdot5!\\cdot5!=2\\cdot120\\cdot120=\\boxed{28800}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e00\u4e2a\u53c2\u8bae\u9662\u59d4\u5458\u4f1a\u67095\u540d\u6c11\u4e3b\u515a\u4eba\uff0c5\u540d\u5171\u548c\u515a\u4eba\u548c1\u540d\u72ec\u7acb\u4eba\u58eb\u3002\u5982\u679c\u6bcf\u4e2a\u515a\u6d3e\u7684\u6240\u6709\u6210\u5458\u90fd\u5750\u5728\u4e00\u8d77\uff0c\u4ed6\u4eec\u53ef\u4ee5\u4ee5\u591a\u5c11\u79cd\u65b9\u5f0f\u56f4\u5750\u5728\u5706\u684c\u65c1\uff1f\uff08\u5982\u679c\u4e00\u4e2a\u5ea7\u4f4d\u662f\u53e6\u4e00\u4e2a\u5ea7\u4f4d\u7684\u65cb\u8f6c\uff0c\u5219\u8ba4\u4e3a\u4e24\u4e2a\u5ea7\u4f4d\u662f\u7b49\u6548\u7684\u3002\uff09"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5a92eeff0544976",
+        "basic_question": "A turn consists of rolling a standard die and tossing a fair coin. The game is won when the die shows a 1 or a 6 and the coin shows heads. What is the probability the game will be won before the fourth turn? Express your answer as a common fraction.",
+        "reference_answer": "The probability of rolling 1 or 6 is $\\frac{2}{6}$, and the probability of flipping heads is $\\frac{1}{2}$.  Therefore, the probability that the game will end on the first turn is $\\frac{2}{6}\\cdot \\frac{1}{2}=\\frac{1}{6}$.  The probability that the game will not end on the first turn is $1-\\frac{1}{6}=\\frac{5}{6}$.  Given that the game is still going after 1 turn, the probability that the game will not end on the second turn is also $\\frac{5}{6}$.  Therefore, the probability that the game does not end by the end of the second turn is $\\left(\\frac{5}{6}\\right)^2$.  Similarly, the probability that the game is still going after 3 turns is $\\left(\\frac{5}{6}\\right)^3=\\frac{125}{216}$.  So the probability that the game is over by the end of the third turn is $1-\\dfrac{125}{216}=\\boxed{\\dfrac{91}{216}}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the probability of winning on the first turn in a game where you roll a standard die and toss a fair coin, and win if the die shows a 1 or a 6 and the coin shows heads?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about the second turn? What's the probability of winning on the second turn?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you calculate the probability of winning on the third turn?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, can you calculate the probability of winning the game before the fourth turn?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c22b4a19943a4776",
+        "basic_question": "Compute $\\dbinom{1001}{2}$.",
+        "reference_answer": "\\begin{align*}\n\\dbinom{1001}{2} &= \\dfrac{1001!}{999!2!} \\\\\n&= \\dfrac{1001\\times 1000}{2\\times 1} \\\\\n&= 1001 \\times \\dfrac{1000}{2} \\\\\n&= 1001 \\times 500 \\\\\n&= \\boxed{500500}.\n\\end{align*}",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compute the binomial coefficient for selecting 2 items from a set of 1001 items."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d4e6042ac22e4680",
+        "basic_question": "How many numbers are in the list $$ 6,7,10,11,14,15,\\ldots,94,95,98? $$",
+        "reference_answer": "We first count the even terms of the sequence. Subtract $2$ from the list to get $4,$ $8,$ $12,$ $\\ldots,$ $92,$ $96,$ and then divide by $4$ to get $1,$ $2,$ $3,$ $\\ldots,$ $23,$ $24.$ So this list has ${24}$ numbers.\n\nWe then count the odd terms of the sequence. Subtract $3$ from the list to get $4,$ $8,$ $12,$ $\\ldots,$ $92,$ then divide by $4$ to get $1,$ $2,$ $3,$ $\\ldots,$ $23.$ So this list has ${23}$ numbers.\n\nNow we sum up the above two numbers, which yield a total $24+23=\\boxed{47}$ numbers.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Determine the number of terms in the list 6, 7, 10, 11, 14, 15, ..., 94, 95, 98."
+            },
+            {
+                "from": "AI",
+                "value": "The list alternates between two consecutive numbers and a gap of two. Let's break it down into two sequences: 6, 10, 14, ..., 94, 98 and 7, 11, 15, ..., 95. The common difference for both sequences is 4.\n\nFor the first sequence: (98 - 6) / 4 + 1 = 23 + 1 = 24 terms.\nFor the second sequence: (95 - 7) / 4 + 1 = 22 + 1 = 23 terms.\n\nThere are 24 terms in the first sequence and 23 terms in the second sequence. So, there are a total of 24 + 23 = 47 numbers in the list."
+            }
+        ]
+    },
+    {
+        "id": "b0062cc5dde04cd8",
+        "basic_question": "Jack rolls 5 fair six-sided dice. What is the probability that at least two dice show the same number?",
+        "reference_answer": "The only way in which there won't be two dice displaying the same number is if exactly one number between 1 and 6 isn't being displayed on any of the dice and the 5 dice all display different numbers. There are 6 different possibilities for the number that isn't being displayed, and then there are a total of $5!$ ways in which the 5 dice displaying different numbers can be arranged, so there are a total of $6\\cdot5!$ outcomes that result in the dice all displaying different numbers. Since each of the 5 dice can have 6 results when rolled and all of the rolls are determined independently, there are a total of $6^5$ possible outcomes, which means that the probability of all of the dice showing different numbers is $\\dfrac{6\\cdot5!}{6^5}=\\dfrac{5}{54}$, so the probability that we want is $1-\\dfrac{5}{54}=\\boxed{\\dfrac{49}{54}}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello! Can you help me calculate the probability of a dice problem?"
+            },
+            {
+                "from": "AI",
+                "value": "Hello! I'd be happy to help you with your dice problem. Please provide the details."
+            },
+            {
+                "from": "human",
+                "value": "Jack rolls 5 fair six-sided dice. What is the probability that at least two dice show the same number?"
+            },
+            {
+                "from": "AI",
+                "value": "Sure! To calculate the probability of at least two dice showing the same number, it is easier to find the probability of the opposite event (no dice showing the same number) and then subtract it from 1.\n\nFor the first die, there are 6 possible outcomes. For the second die, there are 5 remaining outcomes that do not match the first die. For the third die, there are 4 remaining outcomes that do not match the first two dice, and so on. Therefore, the probability that no dice show the same number is:\n\n(6/6) * (5/6) * (4/6) * (3/6) * (2/6) = 120/7776\n\nNow, subtract this probability from 1 to find the probability of at least two dice showing the same number:\n\n1 - (120/7776) = 7656/7776\n\nSo the probability that at least two dice show the same number is 7656/7776, which is approximately 0.9846 or 98.46%."
+            },
+            {
+                "from": "human",
+                "value": "What if Jack rolls only 4 dice instead of 5?"
+            },
+            {
+                "from": "AI",
+                "value": "If Jack rolls 4 dice instead of 5, we can use the same approach to find the probability that at least two dice show the same number.\n\nFirst, calculate the probability that no dice show the same number:\n\n(6/6) * (5/6) * (4/6) * (3/6) = 60/1296\n\nNow, subtract this probability from 1:\n\n1 - (60/1296) = 1236/1296\n\nSo the probability that at least two dice show the same number when rolling 4 dice is 1236/1296, which is approximately 0.9537 or 95.37%."
+            },
+            {
+                "from": "human",
+                "value": "Great, thank you for your help!"
+            },
+            {
+                "from": "AI",
+                "value": "You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!"
+            }
+        ]
+    },
+    {
+        "id": "8e3f0181aeaf4d94",
+        "basic_question": "Rectangle $ABCD$ has center $O$ and $AB/AD=k$. A point is randomly chosen from the interior of rectangle $ABCD$. What is the probability that it is closer to $O$ than to any of the four vertices?  [asy]\nsize(200);\ndraw((-250,100)--(250,100)--(250,-100)--(-250,-100)--cycle);\ndot((0,0));\nlabel(\"$O$\",(0,0),N);\nlabel(\"$A$\",(-250,100),NW); label(\"$B$\",(250,100),NE); label(\"$C$\",(250,-100),SE); label(\"$D$\",(-250,-100),SW);[/asy]",
+        "reference_answer": "The original rectangle may be subdivided into four smaller congruent rectangles, all sharing $O$ as a vertex. Each of these rectangles is analogous, so we can consider our random point $P$ to be without loss of generality in the smaller rectangle with $A$ as a vertex. All points in this smaller rectangle are closer to $A$ than they are to $B$, $C$, or $D$, so we just need to determine the probability that $OP<AP$. [asy]\nsize(100);\ndraw((0,0)--(0,100)--(-250,100)--(-250,0)--cycle);\nlabel(\"$A$\",(-250,100),NW); label(\"$O$\",(0,0),SE);\ndraw((-105,100)--(-145,0));\nfill((-105,100)--(-145,0)--(0,0)--(0,100)--cycle, gray(.7));\n[/asy] Since a $180^\\circ$ rotation about the center of the smaller rectangle takes $O$ to $A$, it takes the shaded region to the unshaded region. Therefore, exactly half the area is shaded, and the overall probability is $\\boxed{\\frac{1}{2}}$, independent of $k$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u77e9\u5f62ABCD\u7684\u4e2d\u5fc3\u4e3aO\uff0c\u4e14AB/AD=k\u3002\u4ece\u77e9\u5f62ABCD\u7684\u5185\u90e8\u968f\u673a\u9009\u62e9\u4e00\u4e2a\u70b9\u3002\u8bf7\u95ee\u8fd9\u4e2a\u70b9\u79bbO\u6bd4\u79bb\u4efb\u4f55\u56db\u4e2a\u9876\u70b9\u66f4\u8fd1\u7684\u6982\u7387\u662f\u591a\u5c11\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": "\u4e3a\u4e86\u89e3\u51b3\u8fd9\u4e2a\u95ee\u9898\uff0c\u6211\u4eec\u53ef\u4ee5\u89c2\u5bdf\u77e9\u5f62ABCD\uff0c\u5e76\u5c06\u5176\u5212\u5206\u4e3a\u56db\u4e2a\u4e0eO\u76f8\u7b49\u8ddd\u79bb\u7684\u533a\u57df\u3002\u8fd9\u6837\u505a\u7684\u76ee\u7684\u662f\u627e\u5230\u4e00\u4e2a\u533a\u57df\uff0c\u4f7f\u5f97\u8be5\u533a\u57df\u5185\u4efb\u610f\u70b9\u5230O\u7684\u8ddd\u79bb\u90fd\u5c0f\u4e8e\u5230\u56db\u4e2a\u9876\u70b9\u7684\u8ddd\u79bb\u3002\u5728\u8fd9\u79cd\u60c5\u51b5\u4e0b\uff0c\u6211\u4eec\u53ef\u4ee5\u901a\u8fc7\u8ba1\u7b97\u8fd9\u4e2a\u533a\u57df\u7684\u9762\u79ef\u4e0e\u6574\u4e2a\u77e9\u5f62\u7684\u9762\u79ef\u4e4b\u6bd4\u6765\u6c42\u51fa\u6982\u7387\u3002\n\n\u9996\u5148\uff0c\u6211\u4eec\u53ef\u4ee5\u5728\u77e9\u5f62ABCD\u7684\u9876\u70b9A\u548c\u4e2d\u5fc3O\u4e4b\u95f4\u753b\u4e00\u4e2a\u4e2d\u5782\u7ebf\u3002\u7136\u540e\uff0c\u5728\u77e9\u5f62\u7684\u5176\u4ed6\u9876\u70b9\u4e5f\u753b\u4e0a\u7c7b\u4f3c\u7684\u4e2d\u5782\u7ebf\u3002\u8fd9\u6837\u6211\u4eec\u5c06\u77e9\u5f62\u5212\u5206\u4e3a\u4e86\u56db\u4e2a\u76f8\u7b49\u7684\u90e8\u5206\u3002\u6211\u4eec\u5173\u6ce8\u5230\uff0c\u7531\u8fd9\u56db\u4e2a\u4e2d\u5782\u7ebf\u56f4\u8d77\u6765\u7684\u533a\u57df\u6b63\u662f\u6211\u4eec\u8981\u627e\u7684\u533a\u57df\u3002\n\n\u7531\u4e8eAB/AD=k\uff0c\u6211\u4eec\u53ef\u4ee5\u4ee4AB=2a, AD=2b\uff0c\u5176\u4e2da\u548cb\u662f\u534a\u957f\u548c\u534a\u5bbd\uff0c\u6240\u4ee5\u77e9\u5f62\u7684\u9762\u79ef\u4e3a4ab\u3002\u6211\u4eec\u6ce8\u610f\u5230\uff0c\u7531\u4e2d\u5782\u7ebf\u56f4\u8d77\u6765\u7684\u533a\u57df\u662f\u4e00\u4e2a\u83f1\u5f62\uff0c\u5176\u5bf9\u89d2\u7ebf\u4e3aa\u548cb\uff0c\u56e0\u6b64\u5176\u9762\u79ef\u4e3aab\u3002\n\n\u6240\u4ee5\uff0c\u8fd9\u4e2a\u70b9\u79bbO\u6bd4\u79bb\u4efb\u4f55\u56db\u4e2a\u9876\u70b9\u66f4\u8fd1\u7684\u6982\u7387\u662f\uff1a\n\n\u6982\u7387 = (\u83f1\u5f62\u533a\u57df\u7684\u9762\u79ef) / (\u77e9\u5f62ABCD\u7684\u9762\u79ef) = ab / (4ab) = 1/4\u3002"
+            },
+            {
+                "from": "human",
+                "value": "\u5982\u679c\u6211\u60f3\u8ba1\u7b97\u8fd9\u4e2a\u70b9\u79bb\u9876\u70b9A\u6bd4\u79bb\u5176\u4ed6\u4e09\u4e2a\u9876\u70b9\u66f4\u8fd1\u7684\u6982\u7387\uff0c\u5e94\u8be5\u600e\u4e48\u505a\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": "\u4e3a\u4e86\u8ba1\u7b97\u8fd9\u4e2a\u70b9\u79bb\u9876\u70b9A\u6bd4\u79bb\u5176\u4ed6\u4e09\u4e2a\u9876\u70b9\u66f4\u8fd1\u7684\u6982\u7387\uff0c\u6211\u4eec\u9700\u8981\u627e\u5230\u4e00\u4e2a\u533a\u57df\uff0c\u4f7f\u5f97\u8be5\u533a\u57df\u5185\u4efb\u610f\u70b9\u5230A\u7684\u8ddd\u79bb\u90fd\u5c0f\u4e8e\u5230\u5176\u4ed6\u4e09\u4e2a\u9876\u70b9\u7684\u8ddd\u79bb\u3002\u5728\u8fd9\u79cd\u60c5\u51b5\u4e0b\uff0c\u6211\u4eec\u53ef\u4ee5\u901a\u8fc7\u8ba1\u7b97\u8fd9\u4e2a\u533a\u57df\u7684\u9762\u79ef\u4e0e\u6574\u4e2a\u77e9\u5f62\u7684\u9762\u79ef\u4e4b\u6bd4\u6765\u6c42\u51fa\u6982\u7387\u3002\n\n\u6211\u4eec\u53ef\u4ee5\u5728AB\u548cAD\u7684\u4e2d\u70b9\u4e4b\u95f4\u753b\u4e00\u4e2a\u4e2d\u5782\u7ebf\uff0c\u5e76\u5728BC\u548cCD\u7684\u4e2d\u70b9\u4e4b\u95f4\u753b\u4e00\u4e2a\u4e2d\u5782\u7ebf\u3002\u8fd9\u6837\u6211\u4eec\u5c06\u77e9\u5f62\u5212\u5206\u4e3a\u4e86\u56db\u4e2a\u76f8\u7b49\u7684\u90e8\u5206\u3002\u7531\u4e8e\u70b9\u5230\u9876\u70b9A\u6bd4\u79bb\u5176\u4ed6\u4e09\u4e2a\u9876\u70b9\u66f4\u8fd1\u7684\u533a\u57df\u662f\u4e00\u4e2a\u4e09\u89d2\u5f62\uff0c\u6211\u4eec\u53ef\u4ee5\u8ba1\u7b97\u8fd9\u4e2a\u4e09\u89d2\u5f62\u7684\u9762\u79ef\u3002\n\n\u8fd9\u4e2a\u4e09\u89d2\u5f62\u7684\u5e95\u8fb9\u4e3aAD/2=b\uff0c\u9ad8\u4e3aAB/2=a\uff0c\u6240\u4ee5\u4e09\u89d2\u5f62\u7684\u9762\u79ef\u4e3a(1/2)ab\u3002\n\n\u6240\u4ee5\uff0c\u8fd9\u4e2a\u70b9\u79bb\u9876\u70b9A\u6bd4\u79bb\u5176\u4ed6\u4e09\u4e2a\u9876\u70b9\u66f4\u8fd1\u7684\u6982\u7387\u662f\uff1a\n\n\u6982\u7387 = (\u4e09\u89d2\u5f62\u533a\u57df\u7684\u9762\u79ef) / (\u77e9\u5f62ABCD\u7684\u9762\u79ef) = (1/2)ab / (4ab) = 1/8\u3002"
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u6982\u7387\u662f\u5426\u4e0e\u77e9\u5f62\u7684\u957f\u5bbd\u6bd4k\u6709\u5173\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": "\u5bf9\u4e8e\u8fd9\u4e2a\u95ee\u9898\uff0c\u8fd9\u4e2a\u6982\u7387\u5b9e\u9645\u4e0a\u4e0e\u77e9\u5f62\u7684\u957f\u5bbd\u6bd4k\u65e0\u5173\u3002\u5728\u6211\u4eec\u7684\u89e3\u7b54\u4e2d\uff0c\u6211\u4eec\u53ef\u4ee5\u89c2\u5bdf\u5230\u6982\u7387\u8ba1\u7b97\u4ec5\u4ec5\u662f\u57fa\u4e8e\u77e9\u5f62\u88ab\u4e2d\u5782\u7ebf\u5206\u5272\u6210\u7684\u533a\u57df\u3002\u8fd9\u4e9b\u533a\u57df\u7684\u9762\u79ef\u4e0e\u6574\u4e2a\u77e9\u5f62\u7684\u9762\u79ef\u4e4b\u6bd4\u662f\u56fa\u5b9a\u7684\uff0c\u65e0\u8bba\u77e9\u5f62\u7684\u957f\u5bbd\u6bd4k\u662f\u591a\u5c11\u3002\n\n\u4f8b\u5982\uff0c\u5728\u8ba1\u7b97\u79bbO\u66f4\u8fd1\u7684\u6982\u7387\u65f6\uff0c\u6211\u4eec\u53d1\u73b0\u6982\u7387\u59cb\u7ec8\u662f1/4\u3002\u7c7b\u4f3c\u5730\uff0c\u5728\u8ba1\u7b97\u79bb\u9876\u70b9A\u66f4\u8fd1\u7684\u6982\u7387\u65f6\uff0c\u6211\u4eec\u53d1\u73b0\u6982\u7387\u59cb\u7ec8\u662f1/8\u3002\n\n\u56e0\u6b64\uff0c\u8fd9\u4e9b\u6982\u7387\u4e0e\u77e9\u5f62\u7684\u957f\u5bbd\u6bd4k\u65e0\u5173\u3002"
+            }
+        ]
+    },
+    {
+        "id": "615e91c9010a48c0",
+        "basic_question": "How many distinct values are possible for the expression $8 + 4 \\times 6 \\div 2$ if one set of parentheses may be placed in the expression?",
+        "reference_answer": "Without parentheses, the expression has the value (following order of operations) $8 + (4 \\times 6)/2 = 20$. The parentheses can modify the order of operations, either through $(8+4) \\times 6 \\div 2 = 36$ or $(8 + 4 \\times 6)/2 = 16$, giving $\\boxed{3}$ distinct values. (Note that placing parentheses that exclude the first number doesn't affect the result, since the only important order of operations here is multiplication before addition.)",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Determine the number of distinct values for the expression $8 + 4 \\times 6 \\div 2$ with one set of parentheses."
+            },
+            {
+                "from": "AI",
+                "value": "There are three possible ways to place the parentheses: \n\n1. $(8 + 4) \\times 6 \\div 2 = 12 \\times 6 \\div 2 = 36$\n2. $8 + (4 \\times 6) \\div 2 = 8 + 24 \\div 2 = 20$\n3. $8 + 4 \\times (6 \\div 2) = 8 + 4 \\times 3 = 20$\n\nThere are two distinct values: 20 and 36."
+            }
+        ]
+    },
+    {
+        "id": "2298a94794744be5",
+        "basic_question": "Kim has $10$ identical lamps and $3$ identical tables. How many ways are there for her to put all the lamps on the tables?",
+        "reference_answer": "Only the number of lamps on each table matters, so we can list the possibilities systematically:  \\begin{align*}\n(&10,0,0) \\\\\n& (9,1,0) \\\\\n& (8,2,0) \\\\\n& (8,1,1) \\\\\n& (7,3,0) \\\\\n& (7,2,1) \\\\\n& (6,4,0) \\\\\n& (6,3,1) \\\\\n& (6,2,2) \\\\\n& (5,5,0) \\\\\n& (5,4,1) \\\\\n& (5,3,2) \\\\\n& (4,4,2) \\\\\n& (4,3,3)\n\\end{align*}There are a total of $\\boxed{14}$ possibilities.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Find out the number of ways Kim can place 10 identical lamps on 3 identical tables."
+            },
+            {
+                "from": "AI",
+                "value": "To solve this problem, we can use the stars and bars technique. Since there are 10 lamps (stars) and 3 tables (divided by 2 bars), we can arrange the stars and bars in the following manner:\n\n(Stars = *, Bars = |)\n\nFor example: ***|***|***\n\nIn this arrangement, there are 12 positions (10 stars and 2 bars). We need to choose 2 positions for the bars out of the 12 positions. The number of ways to do this is given by the binomial coefficient:\n\nC(n + k - 1, k - 1) = C(12 - 1, 3 - 1) = C(11, 2)\n\nC(11, 2) = 11! / (2! * (11 - 2)!) = 55\n\nSo there are 55 ways for Kim to place the 10 identical lamps on the 3 identical tables."
+            }
+        ]
+    },
+    {
+        "id": "d3deb8096b544262",
+        "basic_question": "In how many ways can we form an international commission if we must choose one European country from among 6 European countries, one Asian country from among 4, one North American country from among 3, and one African country from among 7?",
+        "reference_answer": "There are six ways in which one European country can be chosen, four in which one Asian country can be chosen, three in which one North American country can be chosen, and seven in which one African country can be chosen. Thus, there are $6 \\cdot 4 \\cdot 3 \\cdot 7 = \\boxed{504}$ ways to form the international commission.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In how many ways can we form an international commission if we must choose one European country from among 6 European countries, one Asian country from among 4, one North American country from among 3, and one African country from among 7?"
+            },
+            {
+                "from": "AI",
+                "value": "To find the total number of ways to form the international commission, we can use the counting principle. We need to choose one country from each region, so we multiply the number of choices for each region:\n\n6 choices (European) * 4 choices (Asian) * 3 choices (North American) * 7 choices (African) = 504 ways\n\nTherefore, there are 504 ways to form the international commission."
+            },
+            {
+                "from": "human",
+                "value": "What if I also need to choose one South American country from among 5?"
+            },
+            {
+                "from": "AI",
+                "value": "If you also need to choose one South American country from among 5, you can simply multiply the previous result by the number of choices for South American countries:\n\n504 ways (previous result) * 5 choices (South American) = 2520 ways\n\nSo, there are 2520 ways to form the international commission when you also include a South American country."
+            },
+            {
+                "from": "human",
+                "value": "Now, what if I can only choose 3 countries, one from Europe, one from Asia, and one from either Africa or South America?"
+            },
+            {
+                "from": "AI",
+                "value": "In this case, we need to choose one European country from among 6, one Asian country from among 4, and one country from either Africa or South America. First, let's find the total number of choices for the last option:\n\n7 choices (African) + 5 choices (South American) = 12 choices\n\nNow, we can use the counting principle to find the total number of ways to form this new commission:\n\n6 choices (European) * 4 choices (Asian) * 12 choices (either African or South American) = 288 ways\n\nTherefore, there are 288 ways to form this commission with 3 countries."
+            }
+        ]
+    },
+    {
+        "id": "c9f22d9641a04911",
+        "basic_question": "$a$ is chosen from the set $\\{1,2,3,4\\}$, and $b$ is chosen from the set $\\{5,6,7,8,9\\}$. What is the probability that the product $ab$ is a prime number?",
+        "reference_answer": "The product $ab$ is prime only when either $a$ or $b$ is one. Since $b$ cannot equal 1, $a$ must equal 1, and this occurs with probability $\\frac14$. Furthermore, $b$ must be prime, so $b$ must equal 5 or 7, and this occurs with probability $\\frac25$. Therefore, the probability that $ab$ is prime is $\\frac14\\cdot \\frac25 = \\boxed{\\frac1{10}}$.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If $a$ is chosen from the set {1,2,3,4} and $b$ is chosen from the set {5,6,7,8,9}, what is the probability that the product $ab$ is a prime number?"
+            },
+            {
+                "from": "AI",
+                "value": "To find the probability that the product $ab$ is a prime number, we first need to calculate the total number of outcomes and the number of outcomes where $ab$ is prime.\n\nThere are 4 choices for $a$ and 5 choices for $b$, leading to a total of 4 \\* 5 = 20 possible outcomes.\n\nNow let's count the outcomes where $ab$ is prime. Since 1 is not a prime number, the only possible choice for $a$ that can result in a prime product is 2. For $a$ = 2, the possible choices for $b$ are 3, 5, and 7, as 2 \\* 3 = 6, 2 \\* 5 = 10, and 2 \\* 7 = 14 are not prime numbers. The only prime product in this case is 2 \\* 2 = 4, which is not a prime number either. Thus, there are no outcomes where $ab$ is prime.\n\nThe probability of the product $ab$ being prime is therefore 0/20 = 0."
+            }
+        ]
+    },
+    {
+        "id": "2644b262aa2d4ea7",
+        "basic_question": "How many of the natural numbers from $1$ to $800,$ inclusive, contain the digit $6$ at least twice? (The numbers $266$ and $663$ are two natural numbers that contain the digit $6$ at least twice, but $430$ or $16$ are not.)",
+        "reference_answer": "There are $10$ numbers with a $6$ in the hundreds place and a $6$ in the units place.\n\nThere are $10$ numbers with a $6$ in the hundreds place and a $6$ in the tens place.\n\nThere are $8$ numbers with a $6$ in the tens place and a $6$ in the units place. (Remember, we only have the numbers from $1$ to $800.$)\n\nAdding them up, we have $10+10+8 = 28.$ However, we counted $666$ three times. Therefore subtract $2$ from $28$ to get $\\boxed{26}$ numbers containing the digit $6$ at least twice.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How many of the natural numbers from $1$ to $800,$ inclusive, contain the digit $6$ at least twice?"
+            },
+            {
+                "from": "AI",
+                "value": "To find the count of numbers containing at least two 6's, we can use complementary counting. First, let's count the numbers that don't have any 6's. There are 7 choices for the hundreds digit, 9 choices for the tens digit, and 9 choices for the units digit, giving us 7 * 9 * 9 = 567 numbers without any 6's. Next, let's count the numbers with exactly one 6. There are 2 positions for the 6 (tens and units), 7 choices for the hundreds digit, and 8 choices for the remaining digit, giving us 2 * 7 * 8 = 112 numbers. Now, subtract the total count without any 6's and with exactly one 6 from the total numbers from 1 to 800, which is 800. So, the answer is 800 - 567 - 112 = 121 numbers that contain the digit 6 at least twice."
+            }
+        ]
+    },
+    {
+        "id": "793156f1e7fe4ded",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there! Imagine flipping a fair coin five times. What's the likelihood of getting exactly three heads? Share it as a simple fraction, please!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ecf5eacb54c54e51",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider a deck of 52 playing cards. What's the probability of drawing two cards without replacement and both being face cards (king, queen, or jack)? Express it as a decimal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e2a4fa0a2a9c4c80",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I shuffle a deck of cards and randomly pick five, what are the odds of them being in perfect ascending order? Give me the probability, and let's keep it fun!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75111f4be40e451b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suppose I have a bag with 8 red balls, 4 blue balls, and 3 green balls. What's the probability of drawing 2 red balls and 1 blue ball, in that order, without replacement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9734aaf53daf478b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a group of 10 people, how many unique ways can we select a committee of 3 members?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c95f5830cd9044ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 5 different flavors of ice cream and can choose 3 scoops, how many different combinations can I make?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cad821fc53634a72",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a race with 8 participants, how many different ways can the top 3 positions be filled?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4539db4bf314c09",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, quick question! If I have 7 different books and can only fit 4 on my shelf, how many arrangements are possible?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc7cc2b3651b4665",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Here's a brain teaser for you! If I have 4 pairs of socks, each pair a different color, and I randomly grab 2 socks, what are the odds they match?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb492d4705dc4b78",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Considering a standard 6-sided dice, what's the probability of rolling two consecutive numbers on two consecutive rolls?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d5f756e154c4130",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 10 different toppings for my pizza and can choose 3, how many unique pizzas can I create?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "42daca6418fe4fea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a combination lock with 4 digits, each ranging from 0 to 9, how many possible combinations are there?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da4d712b967d4de4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I randomly pick 3 different socks from my drawer, what are the odds they form a mismatched trio?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0963c1ccd4584740",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a group of 10 people, how many ways can we form a committee of 3 members? I'm looking for the combination formula here."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce92a0df16a44232",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "a bag with 8 differently colored balls. If I draw 2 without replacement, what's the probability they end up being complementary colors? Let's dive into the world of color combinations!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3213a1a6a194e95",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cutting to the chase: what's the probability of rolling a sum of 7 with two six-sided dice? Spare me the details, just give me the answer."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3da5cb94c6aa41e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 5 different types and want to arrange them on a plate, how many ways can I do it? I'm hungry for some combinatorial math."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1cafbbf57e5440f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time for a brain teaser! If I have a word with 7 distinct letters, how many anagrams can I create? Get ready to exercise those combinatorial muscles."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12a74683da5f4228",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 6 different books and want to arrange them on a shelf, can you guide me on how many ways I can do it? Let's solve it together!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e01c16142f7b4e84",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cutting to the chase: what's the probability of rolling a sum of 7 with two six-sided dice? I need a straightforward answer, no explanations, just the number."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2f7428c26f6a4222",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider a chessboard. If I place two knights on it, how many ways can they be positioned without attacking each other? I want a step-by-step solution with detailed explanations and numerical results."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fdac77abfc1b4f7e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Solve the following problem: In a deck of 52 cards, how many ways can you arrange a set of 5 cards? I need a response with the answer only, no additional details."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "590fad7166fc4f3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide the numerical answer to the following permutation problem: How many ways can you arrange the letters in the word 'MATHEMATICS'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4b2e8503d64432f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Alright, let's keep it simple. What's the probability of flipping a coin three times and getting all heads? Just give me the answer, no explanations needed!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8fd631d2b8e34236",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a precise solution. If I have 10 books and want to arrange them on a shelf with specific positions for three of them, how many ways can I do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13387becfe414f5e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a concise solution: In how many ways can I choose 3 fruits from a basket containing 10 different types of fruits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "acd6ac6101ee4908",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, so imagine I have 8 different socks in a drawer. How many funky ways can I pick out 2 socks to wear today?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fce636ac663c4f1d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've got 6 different movies and want to watch 2 back-to-back. How many movie marathons can I create?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "61a17d856447461e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have an array with 5 elements, how many ways can I choose 2 elements to form a subset?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f490a692a6c44c2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have 7 different keys and need to unlock 3 mysterious doors. How many unique ways can I try these keys?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c73dbde9faea455a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a chess tournament, if 12 players participate, and I need to select 4 for a simultaneous exhibition match, how many ways can I choose the participants?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b602da5ecb2f41f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the garden of possibilities, I have 9 different flowers. How many unique bouquets can I create by picking 3 of them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "04ffbb58b20d4a6e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 5 funky hats and want to wear 2 at a time, how many stylish combinations can I come up with?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d61d7b6d317e422d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a game with 9 different cards, how many ways can I draw 4 cards to form a winning hand? Serious gaming business here!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9d27f1562644f3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Just a chill math query: If I have 6 different ice cream flavors and want to create a sundae with 3 of them, how many tasty sundaes can I whip up?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a99799d51c144622",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 11 distinct choices and need to make 5 decisions, how many different decision-making journeys can I embark upon?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "966641ab84424968",
+        "basic_question": "",
+        "reference_answer": "The answer should be presented in factorial form.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 7 friends and want to choose 4 of them for a team photo, how many ways can I do that? Please provide the answer in factorial notation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a005b68913447fb",
+        "basic_question": "",
+        "reference_answer": "Ensure the response is calculated and presented as a numerical value.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If I have 6 cards, and I need to choose 2 for a game, what's the numeric value of the total combinations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f4ca6878fd94144",
+        "basic_question": "",
+        "reference_answer": "Present the solution step-by-step with numerical labels.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have 5 different colors of pens, and I want to choose 2 for a drawing. Can you guide me through the steps to calculate the combinations? Number each step (e.g., '(1)'), please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "57e445f3e4004f0e",
+        "basic_question": "",
+        "reference_answer": "Break down the solution into clear steps, and label each step for easy understanding.",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Chill math moment: I've got 6 different stickers, and I need to choose 3 for my laptop. Can you give me a step-by-step breakdown? Make it easy to follow with step labels!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

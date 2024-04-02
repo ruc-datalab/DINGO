@@ -1,0 +1,831 @@
+[
+    {
+        "id": "717eec06cb5f4863",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "K\u00f6nntest du bitte aus dem folgenden Text die Namen von Personen und ihre jeweiligen Berufe extrahieren?\n\nHerr M\u00fcller ist ein erfahrener Arzt, der in einer renommierten Klinik arbeitet. Sein Freund, Herr Schmitz, ist ein talentierter Anwalt, der in einer gro\u00dfen Kanzlei t\u00e4tig ist. Frau Schmidt ist Lehrerin an einer Grundschule und hat viel Freude an ihrer Arbeit."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de986dcec4d84961",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read the following paragraph and tell me the person's name, job, and what they're known for. \"Nguyen Van Anh is a talented Vietnamese pianist who has gained international recognition for her performances. She has played at prestigious venues such as Carnegie Hall in New York and the Royal Albert Hall in London. Her music style is a blend of classical and contemporary, and she often collaborates with other musicians from various genres.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "translate to Vietnamese."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ecab42c8d2ea4ff1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you identify and tell me the professions of the individuals mentioned in the text below?\n\nJohn Smith is a skilled mechanic who owns his own garage. His sister, Mary Johnson, is a renowned chef, known for her innovative culinary creations. Mr. Davis is a retired astronaut, and he spends his time now as a science educator."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "19968a2c41ad42ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you analyze the text below and provide the names and nationalities of the individuals mentioned?\n\nMaria Rodriguez, a Spanish painter known for her vibrant abstract art, recently held an exhibition at the Louvre in Paris. Next to her was James Lee, an American sculptor acclaimed for his innovative use of recycled materials."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e175fae9bca64ac1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract the key details about the people mentioned in the following passage: \n\nDr. Emily Park is a leading neuroscientist specializing in memory research. She heads the Neurology Department at Harvard Medical School. Her colleague, Professor David Chen, is an expert in artificial intelligence and robotics, and he teaches at MIT."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b390374d4e0444db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance in identifying and categorizing the individuals mentioned in this text:\n\nSamantha Brown, a successful entrepreneur, founded a tech startup that specializes in renewable energy solutions. She was recently featured on Forbes' list of influential business leaders. Meanwhile, Dr. Michael Johnson, a renowned biologist, made significant breakthroughs in genetic engineering."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f65dcc23940b499f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you parse the following paragraph and extract the occupations of the individuals mentioned?\n\nJennifer Lee is an accomplished author, known for her bestselling novels. She frequently tours the world for book signings and literary events. On the other hand, Robert Clark is a respected architect, renowned for his sustainable building designs."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cd74f20b9ebc4e8c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd appreciate it if you could identify the roles and accomplishments of the people described in the passage below:\n\nProfessor Zhang Wei, a leading physicist, recently won the Nobel Prize in Physics for his groundbreaking work in quantum mechanics. Meanwhile, Dr. Emma Davis, a psychologist, published a groundbreaking study on human behavior in prestigious journals."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b47893cc2aa04eb7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you extract the pertinent details regarding the individuals mentioned in this text?\n\nMark Johnson is a talented musician who has composed scores for several award-winning films. He's known for his ability to evoke emotion through music. Additionally, Professor Sarah Brown is an esteemed biologist, recognized for her research on marine biodiversity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a39111a35ffc415b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please analyze the following passage and provide information about the people mentioned:\n\nDr. Thomas Roberts is a renowned psychiatrist specializing in trauma therapy. He founded a nonprofit organization dedicated to providing mental health support to war veterans. In contrast, Alice Smith is a celebrated fashion designer, known for her elegant and timeless collections."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "01739726f5b34f41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you extract the identities and professions of the individuals mentioned in this passage?\n\nLucas Martinez is a talented software engineer who co-founded a successful tech company. His wife, Dr. Sophia Martinez, is a respected pediatrician known for her compassionate care for children."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a90135176d94513",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance in understanding the roles and achievements of the people mentioned in the following text:\n\nProfessor Liu Ming is a leading expert in environmental science, known for his research on climate change mitigation strategies. Meanwhile, Sarah Johnson is a successful entrepreneur, recognized for her innovative startup in the healthcare industry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44450e094c2f4bc9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract the names and professions from the passage below.\n\nDr. Anderson, a brilliant physicist, is conducting groundbreaking research in quantum mechanics. Professor Williams is an esteemed historian, renowned for his work on ancient civilizations. Sarah Adams is a talented artist who specializes in abstract paintings."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e759797463c04c2f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me identify the names and roles of the characters described in this passage?\n\nCaptain John Smith, a fearless explorer, charted new territories in the early 17th century. Lady Elizabeth Bennett, an elegant socialite, is known for her grace and wit in high society circles. Please output in JSON format!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "57a0f0f323234ab8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to understand who the key figures are and what they do in this excerpt:\n\nDetective James Johnson, a seasoned investigator, solved numerous high-profile cases during his career. Emily White is a dedicated teacher, recognized for her innovative methods in education."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6664b76be3fb4f74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to find and list the names and occupations of the characters mentioned in this text.\n\nDetective Harris is a seasoned investigator working on high-profile criminal cases. Elizabeth Taylor is a bestselling author, known for her gripping mystery novels. Professor Rodriguez is a respected marine biologist, dedicated to ocean conservation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "817672e61fb9404e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract the names and jobs from the following paragraph, please.\n\nCaptain Roberts, an experienced pilot, is known for his flawless record in aviation. Dr. Turner is a pioneering researcher in the field of artificial intelligence. Emily White is a successful entrepreneur, founder of a thriving tech startup."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb2f30644d3241d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you identify the people and their professions in this passage?\n\nSir William, a distinguished architect, is renowned for designing iconic skyscrapers. Detective Lopez is a skilled investigator, specializing in solving complex criminal cases. Emma Thompson is an award-winning actress, celebrated for her versatile performances."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7c57e5f5ca894f1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the following text, please extract the names and professions.\n\nProfessor Carter, an expert in environmental science, is leading initiatives for sustainable development. Captain Anderson, a seasoned sea captain, is known for navigating through treacherous waters. Ms. Robinson is a renowned fashion designer, creating trends in the industry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b01bfe4af464b17",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you find and tell me the names and roles of the individuals in the text below?\n\nChef Martinez, a culinary maestro, is famous for his innovative fusion cuisine. Dr. Baker is a leading neuroscientist, making breakthroughs in brain research. Olivia Davis is a rising star in the field of astrophysics, contributing to our understanding of the cosmos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f90406e6984b4a63",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please extract the names and professions from the passage below.\n\nMajor Johnson, a decorated military officer, is known for his bravery in the line of duty. Professor Smith is a renowned economist, advising governments on financial policies. Laura Miller is a successful entrepreneur, founder of a popular fitness brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e57e97546df4f4b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to identify and list the names and occupations mentioned in this text.\n\nCaptain Rogers, a seasoned pilot, is known for his expertise in aviation. Dr. Turner is a leading researcher in the field of genetics. Jennifer White is a successful tech entrepreneur, revolutionizing the industry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f7965ae52564306",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract the names and jobs from the following paragraph, please.\n\nDetective Anderson, an experienced investigator, is known for solving high-profile criminal cases. Professor Thompson is a respected historian, specializing in ancient civilizations. Emma Davis is a talented musician, gaining recognition for her unique blend of classical and contemporary music."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d3b0f54316044976",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract the main ingredients, cooking time, and steps from this recipe:\n\nEasy Chicken Parmesan\nIngredients:\n- 4 boneless, skinless chicken breasts\n- 1 cup all-purpose flour\n- 2 large eggs\n- 1 cup breadcrumbs\n- 1 cup grated Parmesan cheese\n- 1 cup marinara sauce\n- 1 cup shredded mozzarella cheese\n- Salt and pepper\n- Olive oil\n\nCooking time: 45 minutes\n\nInstructions:\n1. Preheat oven to 400\u00b0F (200\u00b0C).\n2. Season chicken breasts with salt and pepper.\n3. Place flour in a shallow dish. Beat eggs in a separate shallow dish. Combine breadcrumbs and Parmesan cheese in another shallow dish.\n4. Coat chicken breasts in flour, then dip in beaten eggs, and finally coat with breadcrumb mixture.\n5. Heat olive oil in a large skillet over medium heat. Cook chicken breasts until golden brown on both sides.\n6. Place cooked chicken breasts in a baking dish. Top each breast with marinara sauce and shredded mozzarella cheese.\n7. Bake for 20-25 minutes, or until cheese is melted and bubbly and chicken is cooked through."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ebcc05b1a374c09",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract the product name, price, specifications, and customer rating in JSON format from the following product listing:\n\nSamsung Galaxy S21 5G\nPrice: $799.99\nSpecifications:\n- Display: 6.2-inch Dynamic AMOLED 2X\n- Resolution: 2400 x 1080 pixels\n- Processor: Exynos 2100\n- RAM: 8GB\n- Storage: 128GB\n- Battery: 4,000mAh\n- OS: Android 11\n- Rear Camera: 12MP (main), 64MP (telephoto), 12MP (ultra-wide)\n- Front Camera: 10MP\nCustomer Rating: 4.5 stars out of 5"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "688f525371cd40f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you retrieve the artist name, release year, and tracklist from this classic rock album?\n\nAlbum: Led Zeppelin IV\nArtist: Led Zeppelin\nRelease Year: 1971\nTracklist:\n1. Black Dog\n2. Rock and Roll\n3. The Battle of Evermore\n4. Stairway to Heaven\n5. Misty Mountain Hop\n6. Four Sticks\n7. Going to California\n8. When the Levee Breaks"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "982729fe8bb8441f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze this text and identify the key entities. Extract the names of the author, title, publication date, and publisher. Make sure you provide accurate and complete answers:\n\nTitle: The Marvelous Adventures of the World\nAuthor: John Williams\nPublisher: Novelty Books\nPublication Date: 25th July 2018\n\nExtract the information as follows:\n\n- AUTHOR:\n- TITLE:\n- PUBLICATION DATE:\n- PUBLISHER:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9c23ac73c30947a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please help me identify the main entities in the following text: 'John Smith, a 35-year-old software engineer from San Francisco, California, recently purchased a Tesla Model S electric car for $80,000. He mentioned that he's excited to save money on gas and contribute to a cleaner environment.'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6c07d22d5a2e4c99",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Examine the text and pinpoint the essential elements. Extract the names of the director, lead actor, release date, and production company from the movie description:\n\nFilm Title: Shadows of Destiny\nDirector: Emily Rodriguez\nProduction Company: Cinematic Visions\nRelease Date: 10th November 2022\n\nPresent the details as follows:\n\n- DIRECTOR:\n- LEAD ACTOR:\n- RELEASE DATE:\n- PRODUCTION COMPANY:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1cc7b68a9a7d448d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me extract key information from this paragraph. Identify the main figures mentioned, including the artist's name, art piece title, creation date, and exhibition venue:\n\nArtist: Isabella Martinez\nTitle: Harmony in Chaos\nExhibition Venue: Metropolitan Art Gallery\nCreation Date: 5th February 2023\n\nPresent the details in the following format:\n\n- ARTIST:\n- ART PIECE TITLE:\n- CREATION DATE:\n- EXHIBITION VENUE:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e88136522ee2414e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your assistance in identifying crucial details from this sentence. Extract information about the lead scientist, project name, funding source, and anticipated completion date:\n\nLead Scientist: Dr. Cynthia Foster\nProject Name: Quantum Leap Initiative\nFunding Source: National Science Foundation\nAnticipated Completion Date: 15th August 2024\n\nProvide the details in the format below:\n\n- LEAD SCIENTIST:\n- PROJECT NAME:\n- FUNDING SOURCE:\n- ANTICIPATED COMPLETION DATE:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c6edd820ac2141dd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you decipher the critical elements in this text? Extract details about the chef, signature dish, restaurant location, and opening date:\n\nChef: Alessandro Rossi\nSignature Dish: Truffle Infused Pasta Delight\nRestaurant Location: Gastronomy Haven, 123 Culinary Street\nOpening Date: 8th March 2023\n\nPresent the information as follows:\n\n- CHEF:\n- SIGNATURE DISH:\n- RESTAURANT LOCATION:\n- OPENING DATE:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93069358b75d4b78",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Delve into this text and uncover key details. Extract information about the lead researcher, project title, collaborating institutions, and expected milestones:\n\nLead Researcher: Dr. Sarah Johnson\nProject Title: Sustainable Energy Innovations\nCollaborating Institutions: GreenTech Institute, EcoSolutions Ltd.\nExpected Milestones: Phase 1 - December 2024, Phase 2 - June 2025\n\nPresent the details in the format:\n\n- LEAD RESEARCHER:\n- PROJECT TITLE:\n- COLLABORATING INSTITUTIONS:\n- EXPECTED MILESTONES:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "62e35797a7ca482f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assist me in extracting vital information from this passage. Identify the main components, including the protagonist's name, storyline title, setting, and plot twist:\n\nProtagonist: Samantha Reynolds\nStoryline Title: Whispers in the Wind\nSetting: Victorian-era London\nPlot Twist: Unveiled in Chapter 7\n\nPresent the information in the following structure:\n\n- PROTAGONIST:\n- STORYLINE TITLE:\n- SETTING:\n- PLOT TWIST:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0572f6e796bf4555",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Decipher the essential elements in this text. Extract details about the lead vocalist, song title, album release date, and recording studio:\n\nLead Vocalist: Emily Davis\nSong Title: Echoes of Eternity\nAlbum Release Date: 5th September 2023\nRecording Studio: Harmony Sound Studios\n\nPresent the information in the format below:\n\n- LEAD VOCALIST:\n- SONG TITLE:\n- ALBUM RELEASE DATE:\n- RECORDING STUDIO:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c711ab9567f04e7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Unravel the key details in this text. Extract information about the main scientist, breakthrough discovery, research institution, and impact assessment date:\n\nMain Scientist: Dr. Christopher Turner\nBreakthrough Discovery: Quantum Entanglement Communication\nResearch Institution: Advanced Physics Institute\nImpact Assessment Date: 20th June 2024\n\nPresent the details in the format:\n\n- MAIN SCIENTIST:\n- BREAKTHROUGH DISCOVERY:\n- RESEARCH INSTITUTION:\n- IMPACT ASSESSMENT DATE:\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4bef1c2b4b224496",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a paragraph here, can you help me identify the names of people mentioned in it?\n\nLast weekend, Thomas and Emily decided to visit the Grand Canyon. They were joined by their friends Sarah and James. During the trip, they met a park ranger named Jack, who guided them through some of the hidden trails."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you tell me the relationships between the people in the paragraph?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08c6e487bae5489b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Extract the main characters, setting, and conflict from this summary: 'In a futuristic city, a young man named Thomas awakens in a maze with no memory of his past. He joins a group of boys called the Gladers, who are also trapped in the maze. Together, they must decipher the maze's complex patterns and face deadly creatures while trying to uncover the truth about their own origins.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb9682fbc1ea4840",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I've got this text, and I'm wondering if you can spot the names of the folks mentioned. So, last Saturday, in the vibrant city of Paris, a duo comprising Thomas and Emily decided to embark on a spontaneous adventure. Joining them on this escapade were their buddies, the ever-enthusiastic Sarah and the tech-savvy James. As fate would have it, during their exploration, they crossed paths with Jack, a knowledgeable guide with a passion for uncovering hidden gems in the city."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you shed light on the relationships between these lively characters in the paragraph?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b0be6cad61e848e9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've got a little puzzle for you. In a mystical forest, over the weekend, two souls named Thomas and Emily set out on an extraordinary journey. Their companions for this quest were none other than Sarah and James, trusted allies with a flair for adventure. As they navigated through the enchanted woods, they encountered a wise sage named Jack, who shared his knowledge of the forest's secrets."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Tell me, what are the connections between the characters in this whimsical tale?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb7cbd9cecd7408a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings! I have a little linguistic challenge for you. Picture this: Last weekend, in the serene countryside, Thomas and Emily decided to explore the picturesque landscapes. Accompanying them were their pals, Sarah and James, known for their love of nature. Amidst their wanderings, they crossed paths with Jack, a guardian of the scenic trails. Can you identify the names of these wanderers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you unravel the intricate web of relationships between these free spirits in the paragraph?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3b20ee08f824002",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello there! I've got a textual riddle for you. Last weekend, amidst the hustle and bustle of the city, Thomas and Emily embarked on an urban expedition. Their comrades in this urban adventure were Sarah and James, aficionados of city life. Along the way, they encountered Jack, a city guide with an unparalleled knowledge of the concrete jungle. Can you pinpoint the names of these city dwellers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, can you unravel the social dynamics between these city aficionados in the paragraph?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d86eddc15fa54f9f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ahoy! Here's a linguistic challenge for you. In a quaint village, Thomas and Emily decided to embark on a journey last weekend. Accompanying them were their pals, Sarah and James, known for their love of simplicity. As they traversed the village lanes, they encountered Jack, a local guide with a wealth of knowledge. Can you spot the names of these village explorers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Delve into the social tapestry of these village souls. What are the connections between them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9741a7c807cc41ca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analysiere das folgende OCR von einem Kassenbon und gib mir die Gesamtsumme, die Menge der gekauften \u00c4pfel und die Art der \u00c4pfel (Bio oder konventionell) in einer kurzen Antwort:\n\nEDEKA Mustermann\nMusterstra\u00dfe 11, 12345 Musterstadt\n\n1x Bio Apfel 2,49 \u20ac\n2x Konventionelle \u00c4pfel 1,99 \u20ac\n1x Milch 0,79 \u20ac\n\nSUMME: 6,26 \u20ac\n\n"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2605d1cc4b9540d2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "K\u00f6nnten Sie bitte die Hauptfiguren und den Titel des folgenden Buches identifizieren?\n\nIn dem Roman geht es um eine dystopische Gesellschaft, in der jeder B\u00fcrger bei der Geburt einer von f\u00fcnf Fraktionen zugewiesen wird, die jeweils f\u00fcr bestimmte Attribute und F\u00e4higkeiten stehen. Die Hauptfigur, eine junge Frau namens Beatrice, w\u00e4chst in der Fraktion der Selbstlosen auf, entscheidet sich aber sp\u00e4ter, der Fraktion der Furchtlosen beizutreten. In ihrer neuen Fraktion findet sie heraus, dass sie eine seltene F\u00e4higkeit besitzt, die sie als \"Unbestimmt\" kennzeichnet und ihr Leben in gro\u00dfe Gefahr bringt."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cac07963795d4f62",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In this sentence, can you identify the date and the person's name: \"On July 20, 1969, Neil Armstrong set foot on the moon.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64365f0625df4c0d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please extract the author, title, publisher, and publication year from the following book citation:\n\nFriedman, T. (2005). The World is Flat: A Brief History of the Twenty-first Century. Farrar, Straus and Giroux.\n\nPlease provide the extracted information in this format:\n\n- AUTHOR: \n- TITLE: \n- PUBLISHER: \n- PUBLICATION YEAR: "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff1077885a504c89",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please help me identify the main characters, setting, and plot of this story? 'Once upon a time in a small village, there lived a kind-hearted young man named Jack. Jack shared his home with his beloved dog, Max. One sunny day, Jack and Max ventured into the nearby enchanted forest to find the magical golden acorn, rumored to grant wishes. Along the way, they encountered a wise old owl who warned them of the forest's many dangers and the cunning fox who guarded the acorn. Undeterred, Jack and Max continued their quest, relying on their wits and courage to overcome the challenges they faced.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the dangers in the forest that the wise old owl warns them about?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "809b77bcba2e4fb1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the author, title, and genre of the book mentioned earlier: 'The Silent Symphony' by Emily Harper, a gripping mystery that keeps readers on the edge of their seats. Could you extract that information for me? Format it like this:\n\n- AUTHOR: \n- TITLE: \n- GENRE: "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e7faaf18e6954c3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I stumbled upon this intriguing quote: 'In the dance of shadows and light, where words become poetry, find me.' Can you help unveil the mystery behind it? Extract the possible meaning or symbolism embedded in this sentence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ad8cb6910ba4fcf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm attending a literary event and need some information about the keynote speaker. The flyer mentioned Dr. Amelia Rodriguez, a trailblazer in postmodern literature. Can you extract details such as her academic background and notable works? Format it like this:\n\n- ACADEMIC BACKGROUND: \n- NOTABLE WORKS: "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

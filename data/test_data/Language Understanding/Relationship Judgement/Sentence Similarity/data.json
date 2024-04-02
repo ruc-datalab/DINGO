@@ -1,0 +1,687 @@
+[
+    {
+        "id": "460be02ec4e14dab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u626e\u6f14\u4e00\u540d\u8bed\u8a00\u4e13\u5bb6\uff0c\u5206\u6790\u4ee5\u4e0b\u4e24\u53e5\u8bdd\u7684\u76f8\u4f3c\u4e4b\u5904\u4e0e\u4e0d\u540c\u4e4b\u5904\uff1a\n\u4eca\u5929\u5929\u6c14\u771f\u597d\uff0c\u6211\u4eec\u53bb\u516c\u56ed\u6563\u6b65\u5427\u3002\u4eca\u5929\u9633\u5149\u660e\u5a9a\uff0c\u4e00\u8d77\u53bb\u516c\u56ed\u8d70\u8d70\u5427\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffcdc7cbf6334b58",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub2e4\uc74c \ub450 \ubb38\uc7a5\uc758 \ucc28\uc774\uc810\uc744 \uc54c\ub824\uc918 :\nI enjoy spending time with my friends, but I also appreciate my alone time.\nI love hanging out with my friends, although I value my solitude."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ub450 \ubb38\uc7a5\uc5d0 \uc788\ub294 \uac10\uc815 \ud45c\ud604\ub4e4\uc5d0 \ub300\ud574\uc11c \uc54c\ub824\uc918"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0f4a65322d9e4769",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, analyze the vibes of these two sentences for me: 'The weather is fantastic today; let's take a stroll in the park.' and 'Today is so sunny, let's head to the park for a walk.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee318b79a47d41f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please, put on your language analyst hat and compare these two sentences: 'Today's weather is amazing; let's head to the park for a walk.' and 'The sunshine is bright today; fancy a walk in the park?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72ef588073964b46",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expertise in sentence analysis. Compare these: 'What a lovely day for a park stroll!' and 'The sun is shining bright; let's take a walk in the park.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d296f57538994ef4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you do a deep dive into the similarity of these sentences: 'Today's weather is fantastic; let's hit the park.' and 'The sun is shining; care for a stroll in the park?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1810e4ddaf5348bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Delve into the similarity of these two sentences: 'Perfect weather for a park stroll!' and 'Bright sunshine today; fancy a walk in the park?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d955642625d2483e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the similarity between these: 'Lovely day; let's hit the park!' and 'Sunny vibes today; park walk, anyone?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8c271e8b83984544",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u5206\u6790\u4e00\u4e0b\u8fd9\u4e24\u53e5\u8bdd\u7684\u610f\u601d\u76f8\u8fd1\u7a0b\u5ea6\u5417\uff1f\n\u8fd9\u5bb6\u9910\u9986\u7684\u98df\u7269\u5f88\u7f8e\u5473\uff0c\u6211\u4eec\u53ef\u4ee5\u4e00\u8d77\u53bb\u5c1d\u5c1d\u3002\u4eca\u665a\u6674\u7a7a\u4e07\u91cc\uff0c\u6211\u4eec\u4e00\u540c\u53bb\u54c1\u5473\u8fd9\u5bb6\u9910\u5385\u7684\u7f8e\u5473\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b7dfdc76fe1b47ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u4ee5\u8bed\u8a00\u4e13\u5bb6\u7684\u8eab\u4efd\uff0c\u5206\u6790\u4ee5\u4e0b\u4e24\u53e5\u8bdd\u7684\u5f02\u540c\uff1a\n\u9605\u8bfb\u662f\u6211\u6700\u559c\u6b22\u7684\u6d3b\u52a8\uff0c\u4f46\u662f\u6211\u4e5f\u70ed\u7231\u6237\u5916\u8fd0\u52a8\u3002\u770b\u4e66\u662f\u6211\u6700\u4eab\u53d7\u7684\u65f6\u5149\uff0c\u7136\u800c\u6237\u5916\u6d3b\u52a8\u4e5f\u662f\u6211\u70ed\u8877\u7684\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a85bf4d8ac7c4ac8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u89e3\u6790\u4e00\u4e0b\u8fd9\u4e24\u53e5\u8bdd\u7684\u5171\u540c\u70b9\u548c\u4e0d\u540c\u4e4b\u5904\uff1a\n\u6628\u5929\u665a\u4e0a\u7684\u7535\u5f71\u975e\u5e38\u7cbe\u5f69\uff0c\u6211\u4eec\u660e\u5929\u53ef\u4ee5\u518d\u53bb\u770b\u4e00\u6b21\u3002\u7535\u5f71\u9662\u91cc\u6628\u665a\u4e0a\u6620\u7684\u5f71\u7247\u5f88\u68d2\uff0c\u6211\u4eec\u660e\u5929\u53ef\u4ee5\u518d\u53bb\u6b23\u8d4f\u4e00\u904d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "601fbbfac89a42f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5173\u4e8e\u4ee5\u4e0b\u4e24\u53e5\u8bdd\uff0c\u8bf7\u53d1\u8868\u4e00\u4e0b\u4f60\u7684\u8bed\u8a00\u5b66\u89c1\u89e3\uff1a\n\u8fd9\u4e2a\u57ce\u5e02\u7684\u591c\u666f\u975e\u5e38\u7f8e\uff0c\u6211\u4eec\u4e00\u8d77\u53bb\u611f\u53d7\u4e00\u4e0b\u3002\u591c\u665a\u7684\u57ce\u5e02\u98ce\u5149\u5f88\u6f02\u4eae\uff0c\u6211\u4eec\u53ef\u4ee5\u4e00\u540c\u6b23\u8d4f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4493f1c78774607",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u4ee5\u4e13\u5bb6\u8eab\u4efd\u5206\u6790\u4ee5\u4e0b\u4e24\u4e2a\u53e5\u5b50\u7684\u76f8\u4f3c\u6027\u548c\u5dee\u5f02\u6027\uff1a\n\u5b66\u4e60\u65b0\u6280\u80fd\u662f\u6211\u7684\u7231\u597d\uff0c\u4f46\u6211\u4e5f\u4eab\u53d7\u653e\u677e\u7684\u65f6\u5149\u3002\u6211\u70ed\u8877\u4e8e\u5b66\u4e60\u65b0\u6280\u80fd\uff0c\u5c3d\u7ba1\u6211\u4e5f\u5f88\u4eab\u53d7\u4f11\u606f\u7684\u65f6\u5149\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "411db8b345fe4ef6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5bf9\u6bd4\u4ee5\u4e0b\u4e24\u53e5\u8bdd\uff0c\u8bf7\u8bf4\u660e\u5b83\u4eec\u4e4b\u95f4\u7684\u76f8\u4f3c\u548c\u4e0d\u540c\u4e4b\u5904\uff1a\n\u8fd9\u4e2a\u57ce\u5e02\u7684\u5efa\u7b51\u5f88\u58ee\u89c2\uff0c\u6211\u4eec\u53ef\u4ee5\u4e00\u540c\u53bb\u6b23\u8d4f\u3002\u57ce\u5e02\u7684\u5efa\u7b51\u7269\u975e\u5e38\u5b8f\u4f1f\uff0c\u6211\u4eec\u4e00\u8d77\u53bb\u770b\u770b\u5427\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d7dfd5a18bf4494",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u7528\u8bed\u8a00\u4e13\u5bb6\u7684\u773c\u5149\u5206\u6790\u4e0b\u8ff0\u4e24\u53e5\u8bdd\u7684\u8bed\u6cd5\u548c\u8868\u8fbe\u5dee\u5f02\uff1a\n\u6211\u5bf9\u827a\u672f\u6709\u6d53\u539a\u5174\u8da3\uff0c\u4f46\u6211\u4e5f\u949f\u7231\u6237\u5916\u6d3b\u52a8\u3002\u5bf9\u827a\u672f\u6709\u6d53\u539a\u5174\u8da3\u662f\u6211\u7684\u7279\u70b9\uff0c\u7136\u800c\u6211\u4e5f\u70ed\u8877\u4e8e\u6237\u5916\u8fd0\u52a8\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "19b75fc119e14017",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5206\u6790\u4e00\u4e0b\u4ee5\u4e0b\u4e24\u53e5\u8bdd\u7684\u60c5\u611f\u8868\u8fbe\u5dee\u5f02\uff1a\n\u6211\u559c\u6b22\u5728\u5bb6\u91cc\u5ea6\u8fc7\u5b81\u9759\u7684\u65f6\u5149\uff0c\u4f46\u6211\u4e5f\u4eab\u53d7\u548c\u670b\u53cb\u4e00\u8d77\u7684\u5feb\u4e50\u65f6\u5149\u3002\u5728\u5bb6\u91cc\u5b89\u9759\u7684\u65f6\u5149\u8ba9\u6211\u6109\u60a6\uff0c\u7136\u800c\u548c\u670b\u53cb\u5728\u4e00\u8d77\u7684\u65f6\u5149\u4e5f\u662f\u6211\u73cd\u60dc\u7684\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7fa88e2133ea4886",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5c31\u4ee5\u4e0b\u4e24\u4e2a\u53e5\u5b50\u7684\u8868\u8fbe\u65b9\u5f0f\u53d1\u8868\u4e00\u4e0b\u4f60\u7684\u4e13\u4e1a\u89c1\u89e3\uff1a\n\u6211\u70ed\u8877\u4e8e\u5b66\u4e60\u65b0\u4e8b\u7269\uff0c\u4f46\u4e5f\u4eab\u53d7\u5b81\u9759\u7684\u65f6\u5149\u3002\u8ffd\u6c42\u77e5\u8bc6\u662f\u6211\u7684\u8ffd\u6c42\uff0c\u7136\u800c\u6211\u4e5f\u5f88\u559c\u6b22\u5b81\u9759\u7684\u65f6\u5149\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20bd815d0f764d89",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u8bed\u8a00\u4e13\u5bb6\u7684\u8eab\u4efd\uff0c\u8bc4\u4ef7\u4e00\u4e0b\u4ee5\u4e0b\u4e24\u53e5\u8bdd\u7684\u8868\u8fbe\u6280\u5de7\uff1a\n\u8fd9\u672c\u5c0f\u8bf4\u975e\u5e38\u5f15\u4eba\u5165\u80dc\uff0c\u6211\u4eec\u53ef\u4ee5\u4e00\u8d77\u53bb\u4e66\u5e97\u8d2d\u4e70\u3002\u5c0f\u8bf4\u60c5\u8282\u5341\u5206\u5438\u5f15\u4eba\uff0c\u6211\u4eec\u53ef\u4ee5\u4e00\u540c\u524d\u5f80\u4e66\u5e97\u8d2d\u4e70\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "169ff30a507b4d43",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a language expert, analyze the similarities and differences in meaning between these two sentences:\nI find solace in reading books, but I also enjoy the tranquility of nature. Reading books brings me comfort, yet I also appreciate the calmness of the outdoors."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08e3aeb1ef014c2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you shed light on the distinctions in emotion expression in these two sentences:\nI'm thrilled about the upcoming concert; it's going to be fantastic. Although I'm excited for the concert, I have other commitments to attend to."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f87f58c043a44f95",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the emotional nuances in the following two sentences:\nThe sunset over the mountains is breathtaking; we should watch it together. The mountains' sunset view is awe-inspiring; let's witness it as a pair."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0297c09fc804055",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Examine the syntactic differences and expressions in these two sentences:\nI have a passion for learning new languages, but I also savor moments of quiet reflection. Learning new languages excites me, yet I also value moments of peaceful contemplation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6b30df822e248cb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Evaluate the stylistic variations in these two sentences:\nThe city's skyline is mesmerizing; let's explore it together. The architectural beauty of the cityscape is captivating; we should venture out and experience it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0280df39619f4a65",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the grammatical and expressive distinctions in the following sentences:\nI have a strong interest in art, but I also love engaging in outdoor activities. Having a keen interest in art is a defining trait of mine, yet I am also passionate about outdoor pursuits."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "86dadec63110444f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide insights into the emotional expression differences in these two sentences:\nI enjoy spending quiet evenings at home, but I also relish the joyful moments with friends. Peaceful moments at home bring me joy, yet the lively moments with friends are equally cherished."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a64149c54c94c32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the language and expression in these two sentences:\nPursuing knowledge is a passion of mine, but I also find solace in moments of quiet. The pursuit of knowledge defines me, yet I also find comfort in serene moments."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5a23367be624dc6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Evaluate the expression techniques in these sentences:\nThis novel is incredibly engaging; let's visit the bookstore together. The plot of the novel is compelling; we should go to the bookstore as a duo."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9914d7dc87ca4f33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a language expert, assess the expression skills in these sentences:\nThe play was riveting; we should see it again. The theatrical performance was captivating; let's watch it once more."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7c39c2d3599442ff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please compare these two statements:\nA good leader always listens to their team and values their input.\nAn effective leader is someone who pays attention to their team's opinions and appreciates their contributions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2869a6aecbe64ea1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please compare the following two sentences in terms of their meaning and context:\n\n1. The quick brown fox jumps over the lazy dog.\n2. The swift russet fox leaps over the idle hound."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the explanation. Now, please compare these two sentences:\n\n1. She's learning to play the piano.\n2. She's mastering the piano."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5964511b550a4c7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please tell me the similarity between these two sentences: \n'The weather is lovely today.' and 'Today's weather is quite nice.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the explanation. Now, can you compare these sentences: \n'It's raining outside.' and 'The sun is shining.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4b0ce70794414932",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub2e4\uc74c \ub450 \ubb38\uc7a5\uc774 \uc5b4\ub5bb\uac8c \ud568\uaed8 \uad00\uacc4\uac00 \uc788\ub098\uc694? \nI love reading books. \ub0b4\uac00 \ucc45\uc744 \uc77d\ub294 \uac83\uc744 \uc815\ub9d0 \uc88b\uc544\ud558\uc9c0."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8bb983b050d435c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compare these two sentences: Learning a new language can be a difficult journey. Acquiring a foreign language can be a challenging experience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How similar are these sentences? The dog chased the cat around the yard. The cat was being chased by the dog in the garden."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "21467cb7b9a74bb6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub2e4\uc74c \ub450 \ubb38\uc7a5\uc758 \ucc28\uc774\uc810\uc744 \uc54c\ub824\uc918 :\nI love playing soccer with my friends on weekends.\nOn weekends, I enjoy playing soccer with my friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1e8a35e2b8ad4949",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc774 \ub450 \ubb38\uc7a5\uc774 \uc758\ubbf8\uac00 \ube44\uc2b7\ud55c\uc9c0 \ud655\uc778\ud574 \uc8fc\uc138\uc694: \uadf8\ub294 \ucee4\ud53c\ub97c \ub9c8\uc2dc\uba70 \ucc45\uc744 \uc77d\uc5c8\ub2e4. \uadf8\ub294 \ucc45\uc744 \uc77d\uc73c\uba74\uc11c \ucee4\ud53c\ub97c \uc990\uacbc\ub2e4."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd674d5cdae443ee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub2e4\uc74c \ub450 \ubb38\uc7a5\uc758 \uc758\ubbf8\uac00 \ube44\uc2b7\ud55c\uc9c0 \uc54c\uc544\ubcf4\ub824\uace0 \ud569\ub2c8\ub2e4:\n\uc790\ub3d9\ucc28\ub97c \ubab0\uba74\uc11c \ud578\ub4dc\ud3f0\uc744 \uc0ac\uc6a9\ud558\ub294 \uac83\uc740 \uc704\ud5d8\ud558\ub2e4.\n\uc6b4\uc804 \uc911\uc5d0 \ud734\ub300\uc804\ud654\ub97c \uc0ac\uc6a9\ud558\uba74 \uc704\ud5d8\uc774 \ub530\ub978\ub2e4."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eaa734f189cc44c5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please tell me the differences between these two sentences?\n\n1. The sunset painted the sky with a beautiful palette of colors.\n2. The sky was filled with a beautiful array of colors as the sun set."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af96402125044de0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u8fd9\u4e24\u4e2a\u53e5\u5b50\u6709\u4ec0\u4e48\u4e0d\u540c\uff1a\n\u6211\u4eec\u5e94\u8be5\u575a\u6301\u539f\u5219\u3002\u6211\u4eec\u5e94\u5f53\u9075\u5faa\u539f\u5219\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d513f6d3b044cce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u6bd4\u8f83\u4ee5\u4e0b\u4e24\u53e5\u8bdd\u7684\u76f8\u4f3c\u6027\uff1a\n\u6211\u4eec\u4ece\u4e0b\u4e00\u8f6e\u5f00\u59cb\u8f6e\u6d41\u5427\u3002\n\u8ba9\u6211\u4eec\u4ece\u4e0b\u4e00\u4e2a\u8d77\u70b9\u4e00\u8d77\u8f6e\u6d41\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "310ba9ecd4374195",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc774 \ub450 \ubb38\uc7a5\uc744 \ube44\uad50\ud574 \uc8fc\uc138\uc694: \nYou are the apple of my eye. \nI will hold you in my heart forever."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4615b01b5bc64161",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub2e4\uc74c \ub450 \ubb38\uc7a5\uc758 \ucc28\uc774\uc810\uc744 \uc54c\ub824\uc918 :\nWhy don't we alternate starting from the next round?Let's take turns together from the next starting point."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uadf8\ub7ec\uba74 \ub450 \ubb38\uc7a5\uc774 \uac19\uc740 \uac83\uc774\uace0 \ub2e4\ub978 \uac83\uc774\uc9c0? \uac19\uc740 \ubaa9\uc801\uc744 \uac00\uc9c4 \uac83\uc774\ub77c\uace0 \ub9d0\ud560 \uc218 \uc788\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b549d1c6d0064350",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4ee5\u4e0b\u4e24\u4e2a\u53e5\u5b50\u662f\u5426\u610f\u601d\u76f8\u8fd1\uff1f\n\u5065\u5eb7\u662f\u6211\u4eec\u751f\u6d3b\u4e2d\u6700\u91cd\u8981\u7684\u8d22\u5bcc\u3002\u751f\u6d3b\u4e2d\uff0c\u6211\u4eec\u6700\u73cd\u8d35\u7684\u8d22\u5bcc\u5c31\u662f\u5065\u5eb7\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f2b35ec94844401b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Bitte beurteile die \u00c4hnlichkeit der Bedeutungen dieser beiden S\u00e4tze:\nSollen wir heute Abend ins Kino gehen?M\u00f6chtest du heute Abend einen Film im Kino anschauen?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

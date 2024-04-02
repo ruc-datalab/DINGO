@@ -1,0 +1,763 @@
+[
+    {
+        "id": "77c1fb3f1be14b6f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify these 10 articles into the categories: \"Technology\", \"Lifestyle\", \"Business\", \"Entertainment\", and \"Health\".\n\n1. Top 10 Gadgets of 2021\n2. Best Exercises for Weight Loss\n3. How AI is Transforming the Workplace\n4. Vegan Diet: Pros and Cons\n5. Analyzing the Stock Market Crash\n6. Upcoming Marvel Movies\n7. Remote Work: The New Normal\n8. Meditation Techniques for Stress Relief\n9. Apple's Latest Product Launch\n10. Celebrity Fashion Trends"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4fa40dfd44b94725",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize the following movies into genres: The Godfather, The Shawshank Redemption, Titanic, Inception, The Lion King, Pulp Fiction, The Dark Knight, The Matrix, Star Wars, The Lord of the Rings: The Fellowship of the Ring."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1c70cad9416249ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assign suitable labels to the given assortment of books: 'The Catcher in the Rye,' 'Cooking with Spices,' 'Quantum Physics Explained,' 'Thrills and Chills: Mystery Stories,' 'Guide to Financial Investments,' 'Romantic Poetry Anthology,' 'DIY Home Improvement Projects,' 'History of Ancient Civilizations,' 'Fitness for Beginners,' 'The Art of Mindfulness.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4fd4d67fcb9e4c33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these 15 songs into music genres: 'Bohemian Rhapsody,' 'Shape of You,' 'Fly Me to the Moon,' 'Wannabe,' 'Billie Jean,' 'Despacito,' 'Stairway to Heaven,' 'Uptown Funk,' 'Smells Like Teen Spirit,' 'Girls Just Want to Have Fun,' 'Hotel California,' 'Rolling in the Deep,' 'Imagine,' 'Sweet Child o' Mine,' 'Watermelon Sugar.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e56df53fe2b24847",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Place the given 12 paintings into appropriate art movements: 'Starry Night,' 'The Persistence of Memory,' 'Guernica,' 'Mona Lisa,' 'American Gothic,' 'The Scream,' 'Girl with a Pearl Earring,' 'Nighthawks,' 'Les Demoiselles d'Avignon,' 'Water Lilies,' 'The Birth of Venus,' 'Whistler's Mother.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c12171fbcfe34e7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the given 8 programming languages: 'Python,' 'Java,' 'JavaScript,' 'C++,' 'Swift,' 'Ruby,' 'Go,' 'Rust.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "58b39fa01fcd4b18",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Determine the genres for these 6 types of cuisine: 'Italian,' 'Japanese,' 'Mexican,' 'Indian,' 'Mediterranean,' 'Vegan.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d4e0b31ce01f4bba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assign labels to the following car models: 'Tesla Model S,' 'Ford Mustang,' 'Toyota Prius,' 'BMW 7 Series,' 'Jeep Wrangler,' 'Honda Civic,' 'Audi Q5,' 'Chevrolet Camaro.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad6e40221f334b5a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize these 10 scientific theories: 'Theory of Relativity,' 'Quantum Mechanics,' 'Big Bang Theory,' 'Natural Selection,' 'String Theory,' 'Chaos Theory,' 'Plate Tectonics,' 'Heliocentrism,' 'Germ Theory,' 'Theory of Evolution.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5289e9d42137424d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Label these 7 types of dance styles: 'Ballet,' 'Salsa,' 'Hip Hop,' 'Tango,' 'Breakdance,' 'Ballroom,' 'Bollywood.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea45e167643c43f6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these 9 architectural marvels into historical periods: 'Great Wall of China,' 'Taj Mahal,' 'Colosseum,' 'Eiffel Tower,' 'Pyramids of Giza,' 'Parthenon,' 'Machu Picchu,' 'Petra,' 'Sydney Opera House.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2c42e10069954331",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the given 5 programming paradigms: 'Imperative,' 'Declarative,' 'Object-Oriented,' 'Functional,' 'Procedural.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dc58afe228884b2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a list of sentences, and I would like you to classify them based on their content. Can you do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please classify the following sentences into four categories: Food, Technology, Health, and Sports.\n\n1. I love eating pizza on weekends.\n2. Virtual Reality is an exciting innovation in gaming.\n3. Drinking water is essential for maintaining good health.\n4. Soccer is the most popular sport in the world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Yes, please classify these sentences too:\n\n5. The iPhone is a popular smartphone choice.\n6. Many people enjoy running to stay in shape.\n7. Eating a balanced diet contributes to overall well-being.\n8. Basketball players are often very tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "49b04068e4ac4e55",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "classify these books based on their themes: To Kill a Mockingbird, 1984, The Great Gatsby, Animal Farm, Brave New World"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what about Moby Dick and Pride and Prejudice classifications based on their themes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b482c42b26cd494a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I've got this bunch of sentences. Can you, like, put them in little boxes labeled Food, Tech, Health, and Sports for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Alright, let's play the sorting game again. Classify these sentences, pretty please:\n\n1. I'm a sucker for sushi rolls.\n2. Quantum computing is like mind-blowingly cool.\n3. Yoga is my secret weapon for staying sane.\n4. Baseball is America's favorite pastime, right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d01db730e327463a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time to play Sherlock with books. Categorize these literary pieces: Sherlock Holmes, Frankenstein, Dracula, Alice in Wonderland, The Catcher in the Rye."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's talk Harry Potter and Lord of the Rings. What themes do they fall into?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c438f24ba4b54b6d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Okay, gotta sort these phrases out. Tell me if they're Food, Tech, Health, or Sports. Go!\n\n1. Ice cream is my weakness.\n2. Artificial Intelligence is reshaping the future.\n3. A good night's sleep is pure gold.\n4. Golf is for the refined souls, don't you think?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Shuffle the deck! Classify these:\n\n5. Tacos are life.\n6. Robotics is changing the game.\n7. Meditation is my daily dose of peace.\n8. Football fever is real."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "40e74c3ed249402f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize these items: Apple iPhone, Samsung Galaxy, Tesla Model S, Honda Civic, MacBook Pro, Dell XPS, Sony PlayStation 5, Nintendo Switch, Dyson vacuum cleaner, Philips Hue smart lightbulbs"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7162eadaa00e45cb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify these documents based on their topics:\n\n1. A study on the impact of climate change on polar bears\n2. Exploring the history of the Roman Empire\n3. The effects of social media on mental health\n4. The role of technology in modern education\n5. The evolution of jazz music in the 20th century"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dff7ef5fd07941f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rank these movies based on genre: The Shawshank Redemption, Inception, The Godfather, Jurassic Park, Frozen, The Matrix, Pulp Fiction, The Lion King, Interstellar, The Dark Knight"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "831cc603799945b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Evaluate and categorize these books: 1984 by George Orwell, To Kill a Mockingbird by Harper Lee, The Great Gatsby by F. Scott Fitzgerald, Harry Potter and the Sorcerer's Stone by J.K. Rowling, The Catcher in the Rye by J.D. Salinger, Pride and Prejudice by Jane Austen, The Hunger Games by Suzanne Collins, The Da Vinci Code by Dan Brown, The Hobbit by J.R.R. Tolkien, The Alchemist by Paulo Coelho"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4857a49bd0af4120",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Place these animals in their respective categories: Tiger, Penguin, Elephant, Dolphin, Snake, Giraffe, Butterfly, Koala, Shark, Eagle"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1c60832d56b64734",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Differentiate these programming languages: Python, Java, C++, JavaScript, Ruby, Swift, PHP, HTML, CSS, Kotlin"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f0e598416a14f86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these historical events chronologically: Renaissance, Industrial Revolution, French Revolution, Moon Landing, World War II, Ancient Greece, American Civil War, Cold War, Fall of the Berlin Wall, Women's Suffrage Movement"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "699880329a184493",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify these art movements: Impressionism, Cubism, Surrealism, Abstract Expressionism, Renaissance, Baroque, Pop Art, Art Nouveau, Minimalism, Post-Impressionism"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5256507666643bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Distinguish these scientific theories: Evolution, Quantum Mechanics, General Relativity, String Theory, Plate Tectonics, Big Bang Theory, Germ Theory, Special Relativity, Chaos Theory, Theory of Relativity"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d8315fcf3f1b49f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Organize these culinary cuisines: Italian, Japanese, Mexican, Indian, French, Chinese, Thai, Greek, Brazilian, Moroccan"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20a3c79f9aba46fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize these sports: Soccer, Basketball, Tennis, Golf, Cricket, Swimming, Baseball, Rugby, Volleyball, Table Tennis"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "857a5d8acd294cf4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Place these famous landmarks in their continents: Eiffel Tower, Statue of Liberty, Great Wall of China, Sydney Opera House, Machu Picchu, Taj Mahal, Colosseum, Petra, Mount Rushmore, Christ the Redeemer"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db16ccf725d44753",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize this list of courses into one of the following categories: Mathematics, Computer Science, Biology, Chemistry, or Physics.\n\n1. Calculus I\n2. Introduction to Algorithms\n3. Cell Biology\n4. Organic Chemistry\n5. Newtonian Mechanics\n6. Discrete Mathematics\n7. Data Structures\n8. Genetics\n9. Inorganic Chemistry\n10. Quantum Mechanics"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "46f6ba54f4e24aa1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the following statements as either 'Fact', 'Opinion', or 'Advice':\n\n1. The Earth revolves around the Sun.\n2. Chocolate is the best dessert.\n3. To improve your health, exercise regularly.\n4. Dogs make better pets than cats.\n5. The current population of the world is over 7 billion people."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5be74d539de40b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort the given assortment into appropriate categories: History, Literature, Geography, Art, or Economics.\n\n1. The Renaissance Period\n2. War and Peace by Leo Tolstoy\n3. Amazon Rainforest\n4. Abstract Expressionism\n5. Supply and Demand in Economics\n6. Victorian Era\n7. Romeo and Juliet\n8. The Great Wall of China\n9. The Industrial Revolution\n10. Impressionist Paintings"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "05aa4289d6f24901",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Distinguish the following assertions as either 'Historical Event', 'Scientific Theory', or 'Philosophical Concept':\n\n1. The French Revolution\n2. Theory of Relativity by Albert Einstein\n3. Existentialism\n4. Industrialization in the 19th century\n5. Schr\u00f6dinger's Cat\n6. Ancient Greek Democracy\n7. The Higgs Boson Discovery\n8. Stoicism\n9. The Cold War\n10. Chaos Theory"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b7b5bd8b1de44a91",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assign the given topics to one of these categories: History, Technology, Psychology, Art, or Sociology.\n\n1. The Industrial Revolution\n2. Artificial Intelligence and Ethics\n3. Freudian Psychoanalysis\n4. Renaissance Art\n5. Social Media Impact\n6. World War II\n7. Virtual Reality in Education\n8. Human Behavior Studies\n9. Contemporary Sculptures\n10. Cultural Anthropology"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e17caf9ebc054691",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Group the following items into categories: Sports, Music, Science, Travel, or Politics.\n\n1. Formula 1 Racing\n2. Jazz Music\n3. String Theory in Physics\n4. Backpacking through Europe\n5. Democracy in the 21st Century\n6. FIFA World Cup\n7. Classical Symphony Compositions\n8. NASA Space Missions\n9. Hiking the Appalachian Trail\n10. International Diplomacy"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3cf1c09f16064a9f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Place the given concepts into one of these categories: Philosophy, Technology, Environment, Literature, or Medicine.\n\n1. Artificial Intelligence Ethics\n2. Climate Change\n3. Shakespearean Sonnets\n4. CRISPR Gene Editing\n5. Romanticism in Literature\n6. Global Pandemics\n7. Renewable Energy Sources\n8. Ancient Greek Philosophy\n9. Electronic Music Production\n10. Antibiotic Resistance"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0310babf62e24df6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify the following blog post topics into relevant categories: '5 Healthy Smoothie Recipes', 'Top 10 Hiking Trails in the US', 'Latest Smartphone Reviews', 'Effective Time Management Techniques', 'Discussing the Impact of Climate Change'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a3940b1a91149eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please classify the following YouTube video titles into categories?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. 10 Easy Yoga Poses for Beginners\n2. iPhone 13 Review: A Worthy Upgrade?\n3. The Science Behind Climate Change\n4. Top 5 Travel Destinations for 2022\n5. How to Create a Budget and Save Money"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "65f0b4db4aa34811",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, could you sort these blog post topics for me? 'DIY Home Decor Ideas', 'Space Exploration Advancements', 'Best Stand-up Comedy Specials', 'Advantages of Plant-Based Diets', 'Analyzing Historical Conspiracy Theories'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e8fb9197a17a497d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your help categorizing these articles: 'Blockchain Technology in Finance', 'How to Train a Puppy', 'Reviewing the Latest Fashion Trends', 'Exploring Quantum Computing', 'Gardening Tips for Beginners'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2947b699441e4a67",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these podcast topics into suitable genres: 'The Future of Artificial Intelligence', 'Healthy Cooking Tips', 'Conspiracy Theories Unveiled', 'Mindfulness Meditation Practices', 'Interviews with Space Explorers'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae5d3784cf654a1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've got some content that needs organizing. 'Tips for Successful Entrepreneurship', 'Unboxing the Latest Gadgets', 'Understanding Quantum Physics', 'Comparing Popular Fitness Apps', 'Exploring Virtual Reality Applications'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "91e32ba777b645c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Classify these TED Talk titles based on themes: 'The Power of Vulnerability', 'Future of Artificial Intelligence', 'Mindfulness in Everyday Life', 'Global Water Crisis Solutions', 'Innovation through Cross-Disciplinary Collaboration'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb534fa10cd6472e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assign suitable categories to these e-learning course titles: 'Advanced Quantum Physics Explained', 'Mastering Digital Marketing Strategies', 'Creative Writing Workshop for Beginners', 'Effective Leadership in the 21st Century', 'Introduction to Astrobiology'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f6f16f275534ab4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Place these newspaper article headlines into relevant sections: 'Economic Impact of Space Exploration', 'Rise of Virtual Reality in Education', 'Artificial Intelligence in Healthcare', 'Ongoing Climate Change Initiatives', 'Unmasking Urban Legends'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b76e015f7774e99",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these fashion blog post titles into appropriate categories: 'Vintage Fashion Comeback', 'DIY Clothing Hacks', 'Fashion Trends for Spring 2024', 'Exploring Sustainable Fashion Brands', 'Celebrity Style Spotlight'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20d4a91d9fb74056",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Categorize these video game titles into genres: 'Epic Fantasy RPG Adventure', 'Futuristic Sci-Fi Shooter', 'Casual Puzzle Games for Relaxation', 'Historical Simulation Strategy', 'Anime-Inspired Action Game'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

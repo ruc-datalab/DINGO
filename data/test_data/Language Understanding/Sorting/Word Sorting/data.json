@@ -1,0 +1,747 @@
+[
+    {
+        "id": "6cf31dbd3fbe4af1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rearrange these words alphabetically?\n\nGiraffe, Elephant, Zebra, Kangaroo, Monkey, Tiger, Lion, Bear, Cheetah, Panda"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca6e5d1eb35149b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "sort these words alphabetically:\n\napple\nbanana\ngrape\norange\nstrawberry\nblueberry\npineapple\nwatermelon\nraspberry\nkiwi"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "49f7f0d159274add",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these words based on their lengths, starting from the shortest: Moon, Ocean, Mountain, Forest, Desert, Valley"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b83f64f9ebf42e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you organize these names in a way that represents their popularity from least to most: Emma, Liam, Olivia, Noah, Ava, Sophia, Jackson, Aiden, Isabella, Lucas"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5043c80d20014229",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these countries based on their geographical size, starting from the smallest: Monaco, Russia, Canada, Brazil, Australia, India, China, United States"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d39dc75ee3f4671",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these movies chronologically based on their release years: The Godfather, Jurassic Park, The Matrix, Titanic, Avatar, Inception, Interstellar, Black Panther, Joker"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "48914ae36dfd49ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these programming languages in order of complexity, from simplest to most complex: Python, JavaScript, C, Java, Ruby, Swift, Go, Rust, Haskell, Assembly"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9a2e5663277405f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you categorize these animals by their habitats, starting from the ones that live in water: Dolphin, Eagle, Penguin, Elephant, Trout, Kangaroo, Turtle, Cheetah, Polar Bear, Giraffe"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d4f560cd0f44336",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Organize these musical genres based on their tempo, from slowest to fastest: Jazz, Classical, Country, Hip-hop, Rock, Electronic, Reggae, Metal"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5eeb14e879141e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these historical events in chronological order, starting from the earliest: The Renaissance, Industrial Revolution, French Revolution, World War I, Great Depression, World War II, Cold War, Space Race"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24b426b2efb84d07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you categorize these sports by the type of ball used, starting from those played with a smaller ball: Tennis, Golf, Basketball, Soccer, Baseball, Volleyball, Rugby, Bowling, Football"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb9cbce53d31403a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these colors in a way that represents the visible spectrum, starting from the shortest wavelength: Violet, Blue, Green, Yellow, Orange, Red"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "35b184f6c2734c88",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please sort the following words alphabetically and present them in a list: \"orange, apple, banana, grape, strawberry, kiwi, pineapple\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc7e51fa0bac42af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please sort the following words in alphabetical order? Apple, orange, banana, grape, lemon."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you please sort the words in reverse alphabetical order as well?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "acc1ff0ff9be4a36",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these words in ascending order: pineapple, lemon, grape, kiwi, apple, orange, banana."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "522c6e607c2b4369",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to organize these words alphabetically: strawberry, orange, banana, apple, kiwi, grape, pineapple."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f2ee384ef904f4b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort the following fruits in an alphabetical manner: kiwi, banana, orange, pineapple, apple, grape, strawberry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69de2563a6d9492e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you arrange these words alphabetically for me? Lemon, banana, grape, pineapple, orange, kiwi, strawberry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6afa58fe50c4448a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort the words in this list in ascending order: grape, kiwi, lemon, apple, strawberry, banana, orange."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aaf5e0510fd74f7e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Organize these words alphabetically: banana, strawberry, grape, kiwi, lemon, orange, apple."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad7c4afd9f8f4332",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to sort these words alphabetically: pineapple, orange, lemon, grape, kiwi, apple, banana."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d344d108bd9344e0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these words in ascending order: apple, kiwi, lemon, grape, strawberry, banana, orange."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64138891e9614b62",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please alphabetize these words for me: kiwi, banana, lemon, grape, strawberry, orange, pineapple."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c11a6f0706f4138",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you organize these words alphabetically? Strawberry, orange, kiwi, grape, pineapple, lemon, apple."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3446a534595149ea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these movie titles alphabetically:\n\nThe Shawshank Redemption\nThe Godfather\nPulp Fiction\nForrest Gump\nThe Matrix\nThe Dark Knight\nGladiator\nFight Club\nInception\nThe Godfather: Part II"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9fd7503b925b461d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u8fd9\u4e9b\u6c34\u679c\u6309\u7167\u989c\u8272\u5206\u7c7b\uff1a\u6a59\u5b50\u3001\u82f9\u679c\u3001\u9999\u8549\u3001\u67e0\u6aac\u3001\u84dd\u8393\u3001\u8349\u8393\u3001\u7315\u7334\u6843\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3d4901ffd6384e9d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your lexical prowess! Arrange these literary masterpieces in an alphabetical order, pronto:\n\nTo Kill a Mockingbird\n1984\nThe Catcher in the Rye\nBrave New World\nFahrenheit 451\nAnimal Farm\nThe Great Gatsby\nLord of the Flies\nOne Hundred Years of Solitude\nThe Hobbit"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e02ba3c5ad724dcf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you play word maestro? Alphabetize these marvel superheroes in a flash:\n\nSpider-Man\nIron Man\nBlack Widow\nCaptain America\nThor\nHulk\nBlack Panther\nDoctor Strange\nCaptain Marvel\nAnt-Man"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7590608681784f4e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time to flex those linguistic muscles! Sort these programming languages alphabetically:\n\nPython\nJava\nJavaScript\nC++\nRuby\nSwift\nGo\nRust\nPHP\nTypeScript"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "276b17302dad4a0d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's jazz up this vocabulary! Arrange these jazz legends alphabetically:\n\nMiles Davis\nJohn Coltrane\nElla Fitzgerald\nLouis Armstrong\nDuke Ellington\nCharlie Parker\nBillie Holiday\nThelonious Monk\nNina Simone\nChick Corea"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc7c79851a834a40",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Calling all word wizards! Put these mythical creatures in alphabetical order:\n\nDragon\nPhoenix\nUnicorn\nCentaur\nMinotaur\nSphinx\nKraken\nGriffin\nCerberus\nBanshee"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d21eaa879ea4319",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Bitte sortiere diese W\u00f6rter alphabetisch: Apfel, Banane, Zitrone, Orange, Traube"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "880dc27d8449477b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these words alphabetically: elephant, tiger, zebra, giraffe, kangaroo, lion, monkey, sloth"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b707afea7d484e64",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these words in alphabetical order: Moon, Stars, Galaxy, Sun, Planets"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1f3e78439344935",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to alphabetize these words: Coffee, Laptop, Notebook, Pen, Desk"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "687e0cc60cf94bd4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you sort these words alphabetically for me? Ocean, Mountain, Desert, Forest, River"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85e7205f1fc54e36",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Put these words in alphabetical order: Guitar, Piano, Violin, Drums, Trumpet"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8017a6a97c2a4f8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange the following words alphabetically: Mountain, Valley, Hill, Canyon, Plateau"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b49cebc9e27d430b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these words alphabetically: Diamond, Ruby, Sapphire, Emerald, Topaz"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd71a1b072e74829",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please put these words in alphabetical order: Ballet, Opera, Symphony, Drama, Comedy"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a2250deb9854562",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these words alphabetically: Winter, Spring, Summer, Autumn, Season"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e5cb2bc747654e85",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort these words in alphabetical order: Camera, Smartphone, Laptop, Tablet, Desktop"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "045e9376df634500",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like you to alphabetize these words: Adventure, Mystery, Romance, Sci-fi, Fantasy"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a9da9db14b8a414c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "sort the following companies in alphabetical order\n\nSamsung\nApple\nLG\nMicrosoft\nSony\nNokia\nHuawei"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"\uc0ac\ubb34\uc2e4\uc5d0\uc11c \uc774 \uae30\uc5c5\ub4e4\uc744 \uac00\ub098\ub2e4\uc218\uc21c\uc73c\ub85c \uc815\ub82c\ud574 \ub193\uc73c\uc138\uc694.\n\n\uc0ac\ubb34\uc2e4\n\uc560\ud50c\n\uc5d8\uc9c0\n\ub9c8\uc774\ud06c\ub85c\uc18c\ud504\ud2b8\n\uc18c\ub2c8\n\ub178\ud0a4\uc544\n\ud654\uc6e8\uc774\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there any difference in meaning between sorting words in English and Korean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3ff9a7143f0f484c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me the alphabetical order of these items:\n\nBuilding\nZebra\nAlpaca\nCats\nBison\nElephants\nGiraffe\nIguana\nDolphin\nFalcon\nHedgehog\nJaguar\nKangaroo"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about these:\n\nLlama\nMoose\nNarwhal\nOctopus\nPenguin\nQuokka\nRaccoon\nSalamander\nTiger\nUakari\nViper\nWalrus\nXerus\nYak\nZorse"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60a5c7701bee4da2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u6309\u7167\u65f6\u95f4\u987a\u5e8f\u6392\u5217\u4ee5\u4e0b\u7535\u5f71\u3002\n\"\u5c11\u5e74\u6d3e\u7684\u5947\u5e7b\u6f02\u6d41\" 2012\u5e74\n\"\u4e09\u50bb\u5927\u95f9\u5b9d\u83b1\u575e\" 2009\u5e74\n\"\u8096\u7533\u514b\u7684\u6551\u8d4e\" 1994\u5e74\n\"\u963f\u51e1\u8fbe\" 2009\u5e74\n\"\u6cf0\u5766\u5c3c\u514b\u53f7\" 1997\u5e74\n\"\u76d7\u68a6\u7a7a\u95f4\" 2010\u5e74\n\"\u695a\u95e8\u7684\u4e16\u754c\" 1998\u5e74\n\"\u661f\u9645\u7a7f\u8d8a\" 2014\u5e74"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6309\u7167\u7968\u623f\u9ad8\u4f4e\u6392\u5e8f\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5fa8b380f0c94633",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please kindly arrange these countries in alphabetical order: France, United States, Argentina, China, Australia, Japan, Brazil, Russia, India, Canada."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,819 @@
+[
+    {
+        "id": "fccef04e55844e1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is \"recieve\" a misspelling?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is \"accomodate\" a misspelling?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a9341f5f70d44529",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u201c\u5e2e\u6211\u68c0\u67e5\u4e00\u4e2a\u5355\u8bcd\uff0cgamil.com\u662f\u4e0d\u662f\u62fc\u5199\u9519\u8bef\uff1f\u201d"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\uff0c\u201coutlokk.com\u201d\u662f\u4e0d\u662f\u62fc\u5199\u9519\u8bef\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffdfd9f9499c406d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, is 'bizzare' spelled incorrectly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about 'supercalifragilisticexpialidocious'? Any spelling errors there?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dcdbc5cefa424bff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you check if 'exaggerate' is spelled right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is 'flibbertigibbet' a word, and did I spell it correctly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b6a35eb66d1460b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quick one for you, 'ocassion' \u2013 is it a typo?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How about 'onomatopoeia'? Any mistakes in that spelling?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "395f3a09dce64900",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expertise \u2013 'weird' looks off, is it spelled right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Spell-check time: 'pneumonoultramicroscopicsilicovolcanoconiosis.' Got it right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b0c460f8eeb4ac2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is 'definitely' one of those tricky words? Spelling check, please!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Alright, how about 'sesquipedalian'? Any slip-ups there?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "57bdab2ae63f4a30",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Spell-check alert! Is 'occurred' spelled correctly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's make it interesting \u2013 'hippopotomonstrosesquippedaliophobia.' Is it flawless?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f62803acdee44300",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm unsure about 'liaison.' Spelling check, please!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's spice it up \u2013 'antidisestablishmentarianism.' Any errors in the spelling?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9923bbed72844b80",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is 'millennium' a tricky one? Check the spelling for me."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Spelling bee time \u2013 'supercalifragilisticexpialidocious.' Got it right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e52ab87a853e4716",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Double-check for me \u2013 'embarrass.' Spelling on point?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "'Supposebly' \u2013 is that a word, and did I spell it correctly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd92c6e4fb9e4424",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm questioning 'ocassional.' Spelling check, please!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's test this out \u2013 'pseudopseudohypoparathyroidism.' Any errors there?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da4f8950dc6c4a71",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e0b\u9762\u7684\u6bb5\u843d\u4e2d\u662f\u5426\u5b58\u5728\u7528\u8bcd\u9519\u8bef\uff1f\u5982\u679c\u6709\uff0c\u8bf7\u4fee\u6b63\u5e76\u8f93\u51fa\u6b63\u786e\u7684\u6bb5\u843d\uff1a\n\n\u6628\u5929\u6211\u53bb\u4e86\u8d85\u5e02\u8d2d\u4e70\u4e00\u4e9b\u5bb6\u5c45\u7528\u54c1\u3002\u6211\u8d2d\u4e70\u4e86\u6d17\u53d1\u6c34\u3001\u7259\u818f\u3001\u536b\u751f\u7eb8\u548c\u80a5\u7682\u3002\u8fd8\u4e70\u4e86\u4e00\u4e9b\u98df\u7269\uff0c\u5982\u6c34\u679c\u3001\u852c\u83dc\u548c\u96f6\u98df\u3002\u6211\u559c\u6b22\u5728\u8fd9\u4e2a\u8d85\u5e02\u8d2d\u7269\uff0c\u56e0\u4e3a\u4ed6\u4eec\u7684\u5546\u54c1\u8d28\u91cf\u5f88\u597d\uff0c\u800c\u4e14\u4ef7\u683c\u4e5f\u5f88\u516c\u9053\u3002\u800c\u4e14\uff0c\u8fd9\u4e2a\u8d85\u5e02\u79bb\u6211\u5bb6\u5f88\u8fd1\uff0c\u6240\u4ee5\u6211\u53ef\u4ee5\u65b9\u4fbf\u5730\u8d70\u8def\u53bb\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3636d446cf834ced",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I recently wrote a paragraph about my favorite sport, but I believe there might be some errors. Can you please identify and correct them? Here's the text:\n\n\"I love playing basktball. It's an amazing sport that requires good physical condition, stamina, and excellent team work. The objective of the game is to score points by shooting the ball through a hoop, which is ten feets high. Basktball is also a very popular spectator sport, with millions of fans around the world watching professional games and championships.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d519f4229314cdc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u5199\u4e86\u4e00\u7bc7\u6587\u7ae0\uff0c\u611f\u89c9\u53ef\u80fd\u6709\u4e00\u4e9b\u62fc\u5199\u9519\u8bef\u3002\u8bf7\u5e2e\u6211\u627e\u51fa\u5e76\u7ea0\u6b63\u3002\u4ee5\u4e0b\u662f\u6587\u7ae0\uff1a\n\n\u6628\u5929\u6211\u53bb\u4e86\u9910\u5385\u5403\u4e86\u4e00\u987f\u7f8e\u5473\u7684\u665a\u9910\u3002\u6211\u70b9\u4e86\u725b\u6392\u3001\u571f\u8c46\u6ce5\u548c\u4e00\u676f\u7ea2\u9152\u3002\u6574\u4e2a\u7528\u9910\u4f53\u9a8c\u975e\u5e38\u6109\u5feb\uff0c\u670d\u52a1\u5458\u4e5f\u5f88\u4eb2\u5207\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ddfb598c28054436",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please review this paragraph and correct any spelling mistakes? Thanks!\n\nYesterday, I visisted a museum and explored various exhibitits. The art pieces were truely captivating, and I learned a lot about history and culture. It was a wonderful experience!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "32d1d58dfbae47ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I wrote a short story, but I suspect there might be some typos. Could you check and correct them? Here's the story:\n\nOnce upon a time, in a mystirious forest, a lone adventurer embarked on a quest to discover the secrects hidden within its depths."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fe679bf63dc648f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I wrote a message for my friend's birthday card, but I want to make sure there are no spelling mistakes. Could you help me with that? Here's the message:\n\nHappy Birthday! I hope your day is filled with joy, laughter, and lots of amazing memmories!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2c193bc50ee34351",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've written a poem, and I want to make sure there are no spelling errors. Can you assist? Here's the poem:\n\nMoonlight dances on the quiet lak, reflecting the beauty of the night. Whispers of the wind carry secrets untold, as stars twinkle in the vast sky so bright."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8c04361af07a47be",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've drafted a resume, but I want to ensure there are no spelling mistakes. Can you review it? Here's a section:\n\nAchievments: Led a cross-funtional team to successfuly implement a new software system, resulting in improved efficiency and cost savings."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e58cc2cb161a49f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you check this product description for any spelling errors? Thanks!\n\nIntroducing our latest gadegt, designed for conveinence and style. With advanced features and a sleek design, it's the perfect companion for your daily activities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f627a5c90bd4b0e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I wrote a review for a book, but I want to make sure there are no spelling mistakes. Here's an excerpt:\n\nThe plot was intriging, with unexpected twists and turns. The characters were well-devloped, and the author's writing style kept me engaged from start to finish."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d80cacbef6a341c8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I wrote a set of instructions, and I want to ensure there are no spelling errors. Can you review this section?\n\nStep 3: Carefuly place the ingredients into the mixing bowl, making sure to follow the recipe precisely for the best results."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e2464430e6974b2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I crafted a message for a job application, and I want to check for spelling errors. Here's the opening paragraph:\n\nDear Hiring Manager, I am writing to express my interest in the Marketing Coordinator positon advertised on your companys website."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a4274b09d3542f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I see a text that says \"I am wriiting an email\". Is there anything wrong with it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about this sentence: \"She was runnning in the park.\"?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90e51731ad3d42ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I always enjoy walking in the part with my dog. It's such a great way to relax after a long day at work. Do you see any errors in my sentence?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "45210579e0494db0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Alice: I really love living in the countryside, surrounded by nature and far away from the noisy city life.\nBob: Me too! The fresh air, the tranquility, and the simplicity of rural life just make me feel so relaxed and content.\nAlice: Exactly! Waking up to the sound of birds chirping, taking care of the vegetable garden, and picking fresh fruits just brings so much joy to my life.\nBob: Absolutely, and being able to cook our own meals with fresh produce from our garden is simply heavenly.\n\nPlease identify any word errors in the above conversation and provide the corrected version."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a0f42c71052e4edd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There's a mistake in this sentence: 'The dog quickly raned across the park.' Can you spot it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Why do you think people might make this kind of mistake in their writing?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef53de542afc47f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there! I stumbled upon a typo in this sentence: 'She wore a beatiful dress.' Can you catch it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b95e894d8df64a88",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Oh no, another spelling slip! 'The concert was amzaing.' Find the error for me, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb8738767c884e1b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your sharp eyes! 'His carreer took off after that movie.' Spot the spelling hiccup, will you?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72543b0b6ae049a4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My English needs a rescue! In this sentence, 'The dessert was delecious.' Find the mistake, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7ed0d9f8658e4bed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Playing detective here! 'They were all suprised by the unexpected twist.' Pinpoint the word error for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0d109639d82428f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Need your grammar ninja skills! 'I can't believe I made such a stupied mistake.' Locate the spelling blunder, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce54985c07e040ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Caught in the typo trap again! 'The sunet was absolutely gorgous.' Find the error in this one, would you?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "07fd9003e396444e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Brain teaser for you! 'His new invention was truely remarkable.' Spot the spelling mistake, if you can!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "54d47a8285f14b1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I'm baffled by this sentence: 'The sky was bluue and the clouds were fluffly.' Can you figure out what's off?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc05c97e4f3f4122",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "There's an error in this sentence: \"She arived late due to the trafic.\" Can you correct it for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "14c2f8bbc8f443e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Yo, there's a typo in this sentence: 'The cat was sleepping on the windowsill.' Can you spot it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec09cb01cfb8494e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm puzzled by this line: 'His faher bought a new car yesterday.' Can you find the spelling error?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bddeb04631f44b28",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Check this out: 'She had a beautifull dress on.' What's the spelling mistake in there?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4be2ab9814c048ab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I can't figure out what's wrong with this sentence: 'The mountain's peeks touched the skyy.' Can you help me identify the error?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd64ad1b9fb44dd5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your spelling prowess! Check this out:\n\nStep 2: Delicately place the ingridients into the mixing bowl. I want it to sound sophisticated, you know?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "610cd3054c904441",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Mind being my spelling guru for a sec? Look at this:\n\nStep 5: Casually add the ingredeints to the mixing bowl, just as the recipe dictates."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "89c053e6741e45b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's play the spelling detective game! Examine this:\n\nStep 1: Artfully insert the ingedrients into the mixing bowl, following the recipe to the letter."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e33b009a53a4759",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm on a mission for spelling perfection! Scrutinize this:\n\nStep 6: Precisely introduce the ingridients to the mixing bowl, in strict adherence to the recipe."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d82e3a0d845b4835",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time to spell-check brilliance! Examine this:\n\nStep 2: Articulately insert the ingridiants into the mixing bowl, ensuring the recipe is your spelling symphony."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

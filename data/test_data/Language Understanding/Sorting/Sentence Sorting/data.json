@@ -1,0 +1,677 @@
+[
+    {
+        "id": "a3825516741f49d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\"\u4ee5\u4e0b\u662f\u4e24\u4eba\u7684\u5bf9\u8bdd\uff0c\u54ea\u4e00\u4e2a\u6392\u5e8f\u662f\u6b63\u786e\u7684\uff1f\n\n\u2460\u6211\u4eec\u53ef\u4ee5\u505a\u4e00\u4e9b\u6162\u8dd1\u3001\u4fef\u5367\u6491\u548c\u4ef0\u5367\u8d77\u5750\uff0c\u8fd8\u53ef\u4ee5\u6253\u7bee\u7403\u6216\u8005\u7fbd\u6bdb\u7403\u3002\n\u2461\u597d\u7684\uff0c\u6211\u540c\u610f\u3002\u6211\u4eec\u8981\u505a\u4ec0\u4e48\u8fd0\u52a8\uff1f\n\u2462\u542c\u8d77\u6765\u4e0d\u9519\uff0c\u6211\u4e5f\u9700\u8981\u8fd0\u52a8\u4e00\u4e0b\u3002\u4f60\u6253\u7b97\u4ec0\u4e48\u65f6\u5019\u53bb\uff1f\n\u2463\u6211\u4eec\u53ef\u4ee5\u7b49\u5230\u665a\u996d\u540e\u53bb\uff0c\u5927\u69826\u70b9\u534a\u5de6\u53f3\u3002\u4f60\u89c9\u5f97\u600e\u6837\uff1f\n\u2464\u6211\u5728\u601d\u8003\u53bb\u4f53\u80b2\u9986\u953b\u70bc\u4e00\u4e0b\uff0c\u60f3\u77e5\u9053\u4f60\u662f\u5426\u6709\u5174\u8da3\u4e00\u8d77\u53bb\uff1f\n\nA\u3001\u2464\u2463\u2460\u2462\u2461\nB\u3001\u2464\u2463\u2461\u2460\u2462\nC\u3001\u2464\u2462\u2463\u2461\u2460\nD\u3001\u2464\u2463\u2462\u2461\u2460\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "495a1761a13246eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange the following sentences in a logical order:\n\n1. He decided to go for a walk in the park.\n2. As he strolled along, he noticed a group of people gathered around a street performer.\n3. John woke up early on a sunny Saturday morning.\n4. He quickly got dressed, grabbed his keys, and left the house.\n5. The performer was juggling colorful balls while riding a unicycle.\n\nChoose the correct order:\n\nA. 3, 1, 4, 2, 5\nB. 3, 4, 1, 2, 5\nC. 3, 2, 5, 1, 4\nD. 1, 3, 4, 2, 5"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "470c125a3a2b4e34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you organize the sentences in a way that makes sense?\n\nA. The cat sat on the windowsill.\nB. Suddenly, it started raining outside.\nC. I brewed a cup of hot tea.\nD. The thunder roared in the distance.\nE. Grabbing my favorite book, I settled into the cozy armchair."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3f195af9e52b449d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me put these sentences in order based on a logical flow:\n\n1. The spaceship soared into the vastness of outer space.\n2. Commander Anderson checked the navigation systems.\n3. Alien planets with strange landscapes came into view.\n4. The crew prepared for the upcoming exploration mission.\n5. A mysterious signal was detected from a distant galaxy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2f302e8157a449f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your assistance in ordering these sentences logically:\n\nA. The detective examined the crime scene for clues.\nB. The phone rang, interrupting the quiet room.\nC. The victim's diary revealed crucial information.\nD. Suspicion fell on the mysterious stranger in the neighborhood.\nE. Flashing lights marked the arrival of the police."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "587680e3fc7a456a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Arrange these sentences to create a coherent story:\n\n1. In a quiet village, a magical portal appeared one night.\n2. The old wizard predicted this event years ago.\n3. Curious villagers gathered around the glowing portal.\n4. A gust of wind swept through, signaling the portal's activation.\n5. A brave young girl volunteered to explore the mysterious realm beyond."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4520500eb3e04227",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's have some fun with this one. Put these sentences in a sequence that makes for an interesting narrative:\n\nA. The clock struck midnight, and strange things began to happen.\nB. A group of friends entered an abandoned mansion for a dare.\nC. Mysterious laughter echoed through the dark, eerie halls.\nD. Shadows danced on the walls as the friends explored further.\nE. The moon cast an otherworldly glow on the mansion's crumbling architecture."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e5420c84f294b92",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've got a puzzle for you. Arrange these sentences logically:\n\n1. A treasure map was discovered in an old, dusty book.\n2. The journey took them through dense jungles and treacherous mountains.\n3. A group of adventurers decided to embark on a quest for hidden treasure.\n4. The map led them to a mysterious island in the middle of the ocean.\n5. They faced challenges but eventually unearthed the long-lost treasure."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef903e21cf2a4702",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm feeling creative. Can you help me organize these sentences into a narrative?\n\nA. The inventor unveiled his groundbreaking invention to the world.\nB. Crowds gathered, eager to witness the marvel of science.\nC. The invention had the potential to revolutionize everyday life.\nD. Media outlets scrambled to cover the story of the century.\nE. Skeptics doubted the feasibility of such a revolutionary creation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f55b4d510ebd468d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expertise in arranging these sentences logically:\n\n1. The ancient manuscript contained cryptic symbols and illustrations.\n2. Renowned archaeologists stumbled upon the hidden chamber in a forgotten temple.\n3. Translating the text revealed secrets of a lost civilization.\n4. A mysterious artifact, adorned with precious gems, was found at the manuscript's core.\n5. Scholars marveled at the newfound knowledge about a bygone era."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a24f611b9c0549ee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time for a challenge! Put these sentences in a sequence that tells a gripping story:\n\nA. The spaceship's engine malfunctioned, sending it into a perilous descent.\nB. The crew frantically worked to troubleshoot the critical issue.\nC. Emergency alarms blared as the ship entered the planet's atmosphere.\nD. The captain made a split-second decision that determined their fate.\nE. Miraculously, the ship stabilized just before a catastrophic crash."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1832c7cbcd5749f6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please help me prioritize the following tasks for my software development project?\n\n- Develop user interface\n- Write unit tests\n- Implement core functionality\n- Review code\n- Set up continuous integration\n- Design database schema\n- Create project documentation\n- Optimize performance"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f4344b1e0bf4df9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Organize these tasks by priority: meeting with the boss, paying bills, grocery shopping, picking up the kids, doing laundry"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4039456655844bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a chef planning my day. Help me prioritize: create new recipes, order fresh ingredients, train kitchen staff, update the menu, analyze customer feedback, and attend a culinary workshop."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aacc183c9308489b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a student with a busy schedule. Can you assist me in prioritizing these tasks: complete assignments, study for exams, attend extracurricular activities, work part-time, and catch up on sleep?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eb4d37f7295d4773",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a startup founder, I need to manage my time efficiently. Please help me prioritize: develop a marketing strategy, seek investor meetings, hire key team members, refine the product prototype, and analyze market trends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00179daf4ece4c93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Being a fitness enthusiast, my schedule is packed. Prioritize these tasks: plan workout routines, meal prep, track progress, research new fitness trends, and schedule rest days."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "551ea0ae247041d0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a teacher managing a busy classroom. Please help me prioritize: prepare lesson plans, grade assignments, attend parent-teacher meetings, create engaging activities, and handle student concerns."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a86ea31b05cd4d52",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the world of event planning, time is of the essence. Assist me in prioritizing: secure venues, coordinate with vendors, design event themes, manage guest lists, and oversee event logistics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cda2657126804da8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a traveler planning my itinerary. Help me prioritize: explore historical sites, try local cuisines, engage in adventure activities, capture moments for social media, and relax by the beach."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "172b060f7bb64707",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a freelancer juggling multiple projects, I need to organize my tasks. Prioritize for me: meet project deadlines, communicate with clients, update portfolio, learn new skills, and maintain work-life balance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d08e9445e624b9f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a pet owner with a hectic schedule. Can you help me prioritize: walking the dog, scheduling vet appointments, grooming sessions, playtime, and maintaining a balanced diet for my furry friend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8ea63ff44c64ffb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sort the following sentences in a logical order:\n\n1. The cookies were delicious and everyone loved them.\n2. She decided to bake cookies for the party.\n3. After cooling, she placed them on a plate and brought them to the party.\n4. She found a new recipe online and gathered all the ingredients.\n5. She mixed the ingredients and baked the cookies in the oven."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ba454ca84b8948bf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there! I need your genius at sorting. Arrange these sentences logically:\n\n1. The spaceship landed on a distant planet.\n2. After years of preparation, the crew embarked on the interstellar journey.\n3. The explorers conducted scientific experiments to study the new environment.\n4. Discovering unique flora and fauna, they documented their findings.\n5. Packed with data, the spacecraft returned to Earth."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "61816230445842cc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, oh sorting master! Can you arrange these sentences logically for me?\n\n1. John received a mysterious letter in the mail.\n2. Curious about its content, he opened the envelope.\n3. The letter contained a map and a cryptic message.\n4. Equipped with the map, John embarked on an adventurous journey.\n5. Along the way, he encountered challenges and uncovered hidden treasures."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f92e95e1eca04ad2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Salutations! Can you use your sorting skills on these sentences?\n\n1. The detective received a mysterious phone call late at night.\n2. Armed with a flashlight, he entered the abandoned mansion.\n3. Inside, he discovered a secret passage leading to an underground chamber.\n4. The chamber contained ancient artifacts and a hidden message.\n5. Determined to solve the case, the detective decoded the message."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0f37988fec9f4e8f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Howdy! I'm in need of your sentence-sorting prowess. Arrange these logically, please:\n\n1. The chef received a challenge to create a unique dish.\n2. After brainstorming, he gathered rare ingredients from around the world.\n3. In the kitchen, he skillfully combined flavors to craft a masterpiece.\n4. The dish received rave reviews from food critics.\n5. Inspired by success, the chef shared the recipe with fellow chefs."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d24b0d0c04674066",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey! Can you work your sorting magic on these sentences?\n\n1. The scientist discovered a new species in the dense rainforest.\n2. After extensive research, she published her findings in a scientific journal.\n3. Other researchers confirmed the existence of the rare species.\n4. The discovery led to increased conservation efforts in the rainforest.\n5. The scientist became a prominent figure in the field of biodiversity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "461e3f0f9379440e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, sorting maestro! I need your expertise. Arrange these sentences logically:\n\n1. The artist sketched the breathtaking landscape from the hilltop.\n2. Inspired by the view, she set up her easel and started painting.\n3. After hours of dedication, the masterpiece was complete.\n4. The painting captured the essence of nature's beauty.\n5. Displayed in an art gallery, it received praise from art enthusiasts."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "697379b461514447",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey! Can you use your sorting prowess on these sentences for me?\n\n1. The team trained rigorously for the championship match.\n2. During the game, they faced strong opposition from the rival team.\n3. Despite challenges, they displayed exceptional teamwork and resilience.\n4. The final whistle marked their victory in the intense competition.\n5. Celebrating, the team thanked their coach and supporters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a6ab58de25cb4b8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I require your sorting prowess. Arrange these sentences logically, if you may:\n\n1. The magician pulled a rabbit out of the hat during the grand finale.\n2. Earlier, he amazed the audience with mind-bending card tricks.\n3. Spectators marveled at the illusionist's sleight of hand.\n4. To add to the spectacle, the magician performed levitation.\n5. The magical performance concluded with thunderous applause."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "df7e7788b2914560",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I seek your help. Arrange these logically:\n\n1. The archaeologist unearthed ancient artifacts from the buried city.\n2. Carbon dating revealed the artifacts to be thousands of years old.\n3. Scholars studied the findings, unraveling the city's history.\n4. The discovery shed light on a lost civilization.\n5. The archaeologist presented the findings at an international conference."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ebd6801a5615474e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Need your organizational finesse! Put these sentences in order:\n\n1. Racing against time, the detective deciphered the cryptic message.\n2. The mysterious symbol led to an abandoned warehouse.\n3. Inside, a map hinted at a hidden treasure.\n4. Unraveling the clues, the detective uncovered a secret society.\n5. The chase for the treasure unfolded with unexpected twists."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "34b0ea7271194af2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In need of your sequencing expertise! Arrange these sentences logically:\n\n1. The chef concocted a culinary masterpiece with exotic spices.\n2. Food critics praised the dish for its innovative flavors.\n3. Customers flocked to the restaurant, drawn by the tantalizing aroma.\n4. An article in a prestigious magazine hailed the chef as a culinary genius.\n5. The restaurant's popularity soared, making reservations a must."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "886f242380574cc6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sorting challenge for you! Organize these sentences logically:\n\n1. The scientist conducted experiments to unlock the secrets of quantum entanglement.\n2. Observations revealed particles behaving in ways previously thought impossible.\n3. Colleagues were skeptical until the groundbreaking results were published.\n4. The discovery opened new possibilities for quantum computing.\n5. Scientific journals hailed the research as a paradigm shift."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9455505eab7c46fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Seeking your arrangement finesse! Put these sentences in order:\n\n1. The astronaut marveled at Earth from the space station's window.\n2. Floating in microgravity, everyday tasks became a fascinating challenge.\n3. Mission control guided the astronaut through complex experiments.\n4. The spacewalk provided a breathtaking view of the cosmos.\n5. Returning home, the astronaut became a global sensation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c32bd85fd8f5402c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Require your logical arrangement skills! Organize these sentences:\n\n1. The author crafted an intricate plot filled with unexpected twists.\n2. Readers were captivated by the protagonist's enigmatic journey.\n3. Chapters alternated between past and present, revealing hidden connections.\n4. The climax left readers eagerly anticipating the sequel.\n5. Critics hailed the novel as a literary masterpiece."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "11f621cc37d44442",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Looking for your sorting magic! Arrange these sentences logically:\n\n1. The pianist mesmerized the audience with a soul-stirring melody.\n2. Applause erupted as the final notes resonated in the concert hall.\n3. The encore featured an improvisational piece that showcased the artist's virtuosity.\n4. Music enthusiasts eagerly awaited the pianist's next performance.\n5. Backstage, the musician reflected on the emotional journey through music."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb8cc2d58f1849da",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Need your help in arranging! Put these sentences in order:\n\n1. The engineer designed a revolutionary machine with cutting-edge technology.\n2. Testing revealed the device's efficiency in real-world conditions.\n3. Investors recognized the potential, leading to a surge in funding.\n4. The product launch created a buzz in the tech industry.\n5. The engineer received accolades for advancing innovation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1e416cb1ef884f6c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Seeking your ordering skills! Arrange these sentences logically:\n\n1. The mountaineer faced treacherous terrain on the ascent.\n2. Base camp provided a brief respite before the challenging climb.\n3. Oxygen levels decreased as the climber approached the summit.\n4. The breathtaking view from the top justified the arduous journey.\n5. Descent posed its own set of challenges, requiring careful navigation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1360f3fda115452d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sorting puzzle for you! Organize these sentences logically:\n\n1. The detective pieced together clues to unravel the mystery.\n2. Flashbacks provided insight into the characters' motivations.\n3. Twists in the plot kept readers guessing until the final chapter.\n4. The climax revealed the mastermind behind the elaborate scheme.\n5. The resolution left a lingering sense of satisfaction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e824e18ae6654b0a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, sort these sentences logically for me:\n\n1. In the quiet forest, the rustling leaves hinted at hidden wildlife.\n2. A beam of moonlight illuminated the mysterious path.\n3. Owls hooted softly, adding to the nocturnal symphony.\n4. Footsteps echoed, creating a sense of anticipation.\n5. The night was alive with secrets waiting to be discovered."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6b78312d5074689",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Time for another puzzle! Arrange these sentences logically:\n\n1. The detective carefully examined the crime scene for clues.\n2. Witnesses provided conflicting accounts of the incident.\n3. A mysterious note with cryptic symbols was found near the victim.\n4. The forensic report revealed crucial information.\n5. The suspect's alibi raised more questions than answers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "483dfab691c34cce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's play with words! Arrange these sentences in a logical sequence:\n\n1. The chef concocted a culinary masterpiece with exotic ingredients.\n2. Customers marveled at the presentation before taking the first bite.\n3. Reviews praised the restaurant's innovative approach to traditional dishes.\n4. The aroma of spices filled the air, creating an inviting ambiance.\n5. The menu featured a delightful fusion of global flavors."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c83777522fe04b67",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Put these sentences in the right order:\n\n1. The scientist conducted experiments to validate the groundbreaking theory.\n2. The research findings were met with skepticism from the scientific community.\n3. Collaborating with experts, new insights emerged during the investigation.\n4. Media coverage elevated the discovery to international acclaim.\n5. The initial hypothesis sparked curiosity and intrigue."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

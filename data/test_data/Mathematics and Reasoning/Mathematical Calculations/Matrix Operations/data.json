@@ -1,0 +1,873 @@
+[
+    {
+        "id": "e566ba9e88a9425b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "x vekt\u00f6r\u00fc i\u00e7in [x1, x2] ve L(x) = Bx d\u00f6n\u00fc\u015f\u00fcm\u00fc ile x2 ekseni \u00fczerindeki yans\u0131mas\u0131n\u0131 veren 2x2 matris B'yi hesapla."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c207a0c7254b402c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, dime c\u00f3mo multiplicar estas dos matrices: A = [[1, 2], [3, 4]] y B = [[5, 6], [7, 8]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "299657065ea24072",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please assist me in finding the determinant of a 3x3 matrix? Specifically, I'm interested in the matrix with elements [2, 4, 6], [1, 3, 5], and [7, 8, 9]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a2f615e798b4db3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help understanding the concept of matrix inversion. Can you explain it using a practical example, perhaps with a 2x2 matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6c55223a31cf4210",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hola, \u00bfme podr\u00edas ayudar a encontrar el producto punto entre dos vectores? Los vectores son A = [3, 4, 5] y B = [1, 2, 3]. Gracias."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "100e05bdcab9475c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about eigenvalues and eigenvectors. Can you give me an intuitive explanation of what they represent in the context of matrix transformations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "afe0b03a9c26409e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to understand how to perform matrix addition. Could you provide a simple example with 2x2 matrices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f740bb426f8e43ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u9700\u8981\u89e3\u51b3\u4e00\u4e2a\u7ebf\u6027\u65b9\u7a0b\u7ec4\uff0c\u4f46\u662f\u4e0d\u786e\u5b9a\u5982\u4f55\u8868\u793a\u5b83\u4eec\u4e3a\u77e9\u9635\u5f62\u5f0f\u3002\u7ebf\u6027\u65b9\u7a0b\u662f2x + 3y = 10\u548c3x - y = 5\u3002\u4f60\u80fd\u5e2e\u6211\u8f6c\u6362\u6210\u77e9\u9635\u5f62\u5f0f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e6db6bd7b7484687",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I compute the cross product of two vectors? Let's say I have vectors A = [1, 2, 3] and B = [4, 5, 6]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0efb7e2e63d24c20",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm struggling with understanding matrix transposition. Could you explain it to me using a real-world analogy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bf849bb88e0848c1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Bonjour, j'ai besoin d'aide pour comprendre comment r\u00e9soudre un syst\u00e8me d'\u00e9quations lin\u00e9aires en utilisant des matrices. Pourriez-vous m'expliquer avec un exemple?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0681ee26e6b84a76",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in learning about singular value decomposition. Can you provide a simplified explanation along with an example?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e009436ec8b42b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "calcula el determinante de la matriz [[1,3],[2,4]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2cc1948797374a1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5982\u4f55\u8ba1\u7b97\u4e24\u4e2a\u77e9\u9635\u7684\u4e58\u79ef\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fafe8cd564c74bea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide examples of real-world applications of matrix multiplication?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b92f75ac8e6d4690",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "find the product of matrices A and B"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "A = [[1, 2], [3, 4]], B = [[5, 6], [7, 8]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a6caae733c9a4703",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write down the formula for matrix multiplication."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do we multiply these two matrices A=[[2, -3], [4, 1]] and B=[[-1, 0], [5, 2]]?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to multiply a 3x2 matrix with a 2x3 matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you show me an example of multiplying a 3x2 matrix with a 2x3 matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "29d94c0dafab45c3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some efficient algorithms for matrix factorization?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1fb96386e74f49ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide an example of matrix inversion?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's take matrix A = [[2, 1], [4, 3]]. Could you find its inverse?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "05b5551d7d934bad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in practical applications of eigenvalues and eigenvectors. Can you illustrate with an example?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's consider a matrix A representing a system of linear equations. A = [[3, 1], [1, 2]]. Can you find its eigenvalues and eigenvectors?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a73d3fc3bcd04b05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the significance of determinants. Could you demonstrate with a specific matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's take a 3x3 matrix A = [[2, -1, 0], [3, 2, 4], [1, 0, 3]]. Can you calculate its determinant?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dc90f0e77ac84bb1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you discuss efficient algorithms for matrix factorization and apply one to a specific matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's work with matrix A = [[4, 2], [6, 3]]. Could you factorize it using LU decomposition?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4b989bf7552d4896",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a practical example demonstrating the use of singular value decomposition?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Consider a matrix A representing a dataset. A = [[5, 7], [3, 4]]. How can we apply SVD to analyze this data?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0aef2ecdd38d43d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide an example illustrating the application of matrix transformations in computer graphics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's say we have a point (2, 3) in 2D space. How does the transformation matrix [[cos(theta), -sin(theta)], [sin(theta), cos(theta)]] rotate this point by an angle theta?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7dfefc8d82e743fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain how the LU decomposition method works using a specific matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Consider matrix A = [[2, -1], [3, 6]]. How does LU decomposition factorize this matrix?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "76db46c9a4bf4d87",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about how matrix calculus differs from traditional calculus. Can you provide an example?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's say we have a matrix function f(A) = A^2, where A = [[2, 1], [3, 4]]. How do we differentiate f(A) with respect to A?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "37c3dd4f63144df2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What role do matrices play in the field of quantum mechanics? Could you provide an example?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Consider a quantum state represented by a matrix A = [[1/sqrt(2), 1/sqrt(2)], [1/sqrt(2), -1/sqrt(2)]]. How do we apply operators to this state?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "665cd0d08bea49fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8ba1\u7b97\u4e00\u4e2a3x3\u77e9\u9635\u7684\u884c\u5217\u5f0f\uff0c\u77e9\u9635\u4e3a\uff1a$$\\begin{bmatrix} 1 & 2 & 3 \\\\ 4 & 5 & 6 \\\\ 7 & 8 & 9 \\end{bmatrix}$$"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "efa53b3f5fa84b15",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Find the determinant of the 3-by-3 matrix A:\n[[2, 3, 1],\n [1, -1, 4],\n [0, 5, -2]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33c482e72af046c1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm tackling some matrix problems, and I need a clear explanation of how to find the determinant of a 3x3 matrix. Can you help?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e8080ad483ee4208",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please help me find the determinant of this 2x2 matrix:\nA = [2 3]\n    [4 5]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb52852da46e495b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's consider a 2x2 matrix A = [[1, 2], [3, 4]]. I want to find the inverse of this matrix. Calculate the inverse of A for me."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "65dbfb8bb9194ce6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I'm stuck on a problem involving matrices. Can you assist me with some linear algebra? Here's the matrix: A = [[3, 1], [6, 2]]. I need to find the eigenvalues and eigenvectors."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f12302f46065409a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm grappling with matrix transformations. Could you guide me through an example? Let's take matrix A = [[2, 1], [1, 0]] and a vector v = [3, 4]. I want to know the result of Av."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a1345d93b9004293",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to understand linear independence. Can you help me with an example? Consider the vectors v1 = [1, 2] and v2 = [2, 4]. Are these vectors linearly independent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f3ed11cd7e545d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm struggling with matrix multiplication. Can you provide a step-by-step solution? Let's multiply matrix A = [[2, 3], [4, 5]] with matrix B = [[1, 2], [3, 4]]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b029c46dc48c4ebf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance with solving systems of linear equations. Here's an example: 2x + 3y = 8 and 4x - y = 2. Can you help me find the solution?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "df3e6dfa3aa548e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm dealing with matrix transposition. Could you walk me through an example? Let's transpose matrix A = [[1, 2, 3], [4, 5, 6]]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c5d26b4d8f5b4896",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to find the rank of a matrix. Can you help me with that? Consider the matrix A = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8cd6cec56b7841f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm lost with singular value decomposition. Can you provide an example for better understanding? Let's use matrix A = [[1, 2], [3, 4], [5, 6]]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "814a3582a8954d29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to grasp the concept of orthogonal matrices. Can you shed some light on it? Let's examine matrix A = [[0, 1], [1, 0]]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d953594491464baf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help with matrix exponentiation. Can you assist me with an example? Let's take matrix A = [[1, 2], [3, 4]]. I want to compute A^3."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75ca0e2fbc794d05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "resuelve la suma de estas matrices A y B"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "A=\n[1 2]\n[3 4]\nB=\n[5 6]\n[7 8]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "ahora multiplica A por B"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "42b567ada3ea4ad6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "calcula la suma de estas matrices A = [[1, 2], [3, 4]] y B = [[5, 6], [7, 8]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "985260e3de7343d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "encuentra la suma de las matrices A y B, donde A = [[1, 2], [3, 4]] y B = [[4, 3], [2, 1]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e7d27f7184b84e73",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hola, \u00bfpodr\u00edas mostrarme c\u00f3mo sumar estas dos matrices? A = [[1, 2], [3, 4]] y B = [[4, 3], [2, 1]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Gracias, y \u00bfc\u00f3mo ser\u00eda si quisiera restarlas en lugar de sumarlas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0848ade55d24165",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please explain the process of matrix multiplication?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "For an example, please multiply the following matrices A and B:\nA = [[1, 2], [3, 4]]\nB = [[5, 6], [7, 8]]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "51014805d5db486c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do you multiply two matrices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0edc9b0ae1f744c8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Find the product of matrices A and B, where A = [2, 3; 4, 5] and B = [1, 2; 3, 4]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

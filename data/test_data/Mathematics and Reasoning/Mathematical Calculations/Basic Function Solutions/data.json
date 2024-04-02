@@ -1,0 +1,1142 @@
+[
+    {
+        "id": "7cf18411fde741fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Determine the integral of x^3 + 4x^2 - 5x + 6 with respect to x."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, find the definite integral of the same function from x = 1 to x = 3."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fdf759e10a364b93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How would you solve the equation 2x^2-3x+1=0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the graph of the equation 2x^2-3x+1=0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b4aeae4546d4c07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you assist me in unraveling the enigma presented by the equation 3x - 7 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Illustrate the solution space of the equation 3x - 7 = 0 on the Cartesian plane."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f76c9e425b24c08",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, can you help me figure out what values of x satisfy the equation 4x - 6 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'm curious about the roots of the equation 4x - 6 = 0, mind shedding some light on that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c012aa75836c4599",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you lend me a hand in deciphering the mystery held within the equation 5x + 2 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'm keen to explore the realm of solutions for 5x + 2 = 0, care to assist?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "adfc233d27e44ece",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm grappling with the enigma encapsulated within the equation 2x^2 + 5x - 3 = 0, any guidance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you unravel the intricate web of solutions woven by the equation 2x^2 + 5x - 3 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "25348af39aa74a7b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I find myself lost amidst the equations of mathematics. Consider the equation 3x^2 - 2x + 4 = 0, can you illuminate the path forward?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Illuminate the dark recesses of my mind with the solution to 3x^2 - 2x + 4 = 0, if you please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8c29a3fcb6746f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am entangled in the labyrinth of algebraic expressions, particularly the equation 6x^2 - 9 = 0. Can you offer guidance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Illuminate the solution space of 6x^2 - 9 = 0, and lead me out of this labyrinth."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a3e372542d024791",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pardon my interruption, but could you assist me in unraveling the secrets of the equation 8x - 12 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I beseech you to elucidate the realm of solutions for 8x - 12 = 0."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5fb49f3e20244f07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In my quest for mathematical enlightenment, I have encountered the equation 7x^2 + 3x - 2 = 0. Can you shed some light on its solutions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I humbly request your guidance in navigating the solution space of 7x^2 + 3x - 2 = 0."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b9bfe5cc3a1479d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My journey through the realm of equations has brought me to the doorstep of 9x^2 - 6x + 1 = 0. Can you offer me a guiding hand?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Illuminate the path forward with the solutions to 9x^2 - 6x + 1 = 0, if you would."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "125aae5df5b44b51",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I find myself amidst the cacophony of equations, particularly the enigmatic 10x^2 + 7x - 5 = 0. Can you offer clarity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Illuminate the shadows of uncertainty with the solutions to 10x^2 + 7x - 5 = 0, if you may."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7064fc655274033",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am trying to find the area of a triangle given its three vertices, A(x1, y1), B(x2, y2), and C(x3, y3). Can you help me create a function for that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the function. Let's say I have the vertices A(2, 3), B(5, 7), and C(8, 3). Could you please calculate the area of the triangle using the function you provided?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "15876af85cdb4013",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm wondering if you can help me find the roots of a quadratic equation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let me think of an equation... How about 2x^2 - 7x + 3 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thanks for the help! What happens when the discriminant is negative?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Got it! I appreciate your help with quadratic equations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aaaeb248b24e42c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello! Can you help me find the solution to the equation 2x + 3 = 9?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f01dfa8c3e95464f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there! I'm in a bit of a pickle. Can you lend me a hand with cracking this mathematical nut: 3y - 5 = 2y + 8?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e503ee4978e47ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, dear AI! Would you be so kind as to assist me in unraveling the enigma posed by the equation 4z^2 - 11z + 6 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "41a94594f69b4d33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hiya! Mind lending me your computational prowess to tackle this puzzle: x^3 - 2x^2 + 5x - 6 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4cb5b5c804946b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, buddy! Could you lend me a hand in cracking this mathematical conundrum: 2(a^2 - 3) = 5a - 4?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ae7bc6c38ab4c78",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Yo! Can you help me out with deciphering this equation: 6m^2 + 9m - 15 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1a051a5d5e4e43d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Good day! I'm in need of assistance in solving the equation 2(x - 4) = 3(x + 1). Can you help?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b42b7f9f13504779",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Salutations! Would you be so kind as to lend me a hand with deciphering the equation 5b^2 + 7b - 2 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e2f0b180fb994aef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings! I'm grappling with this mathematical riddle: 3(x^2 + 2) = 2x^2 - 5. Can you illuminate the path to its solution?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0596a8b09bec445d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there! Mind helping me out with this equation: 4y^2 + 8y + 3 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "97fc3882e7244891",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi! Can you assist me in untangling this mathematical web: 3(a^2 + 1) = 2a^2 + 5a - 4?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "62af3bb9d5a44200",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u00d6klidyen algoritmas\u0131 ile iki say\u0131n\u0131n EBOB'ini nas\u0131l hesaplayabilirim?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00c7ok g\u00fczel! Peki, \u00d6klidyen algoritmas\u0131 ile iki say\u0131n\u0131n EKOK'unu (en k\u00fc\u00e7\u00fck ortak kat) nas\u0131l hesaplayabilirim?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Te\u015fekk\u00fcrler! Peki, bu algoritmalar\u0131 uygulayarak 42, 56 ve 84 say\u0131lar\u0131n\u0131n EBOB ve EKOK de\u011ferlerini hesaplayabilir misiniz?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "M\u00fckemmel! Te\u015fekk\u00fcrler, \u00e7ok yard\u0131mc\u0131 oldunuz."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "15420fb3dceb4295",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u89e3\u7b54\u8fd9\u4e2a\u95ee\u9898\uff1a\n\u5df2\u77e5\u51fd\u6570f(x) = 3x + 4\uff0c\u6c42f(2)\u7684\u503c\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d019ee5823d34310",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please help me find the derivative of f(x) = 3x^4 - 5x^2 + 2x + 1?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18a342c21f924b87",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, could you help me out? I'm trying to figure out the roots of the equation x^2 + 5x - 6 = 0."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64aa16ff48594d35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've got this problem that's bugging me: solve for x in the equation 2^(x+1) - 3 = 5."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "814144f864ff4346",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me unravel this mathematical enigma: what are the solutions to the equation 4x^2 - 12x + 9 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "95eac9ee1c664d1b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm struggling with this puzzle: how do I solve the equation sqrt(2x + 1) = 3?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60e8772c204446a9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you lend me a hand? I'm trying to crack this equation: 2x^3 + 5x^2 - 7x + 2 = 0."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db8c7bf8514a45b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expertise: what are the solutions to the equation 3e^(2x) - 7 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc26a407c06d41e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me unravel this mathematical knot? Solve for x: (x-3)(x+4) = 12."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "37ea2f92507c41bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there, I need your mathematical prowess to crack this code: solve for x in the equation 2cos(x) - 1 = 0."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6217cd55b5af4b04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you assist me in solving this mathematical conundrum? Find x: log(x) + 2 = 5."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b7d1dd5bfb4c4873",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm scratching my head over this one: what are the solutions to the equation (x^2 + 3x - 4)(2x - 5) = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75d0c4c3ecac48e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Solve the equation: 2x - 5 = 3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "4x - 7 = 5x + 1"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "3(x - 2) = 9"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "x^2 - 6x + 8 = 0"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "y = 2x + 3, find y when x = 4"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Solve for z: 5z - 9 = 16"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "f(x) = x^2 + 2x - 3, find f(-1)"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "02f6e8085916444e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello! Can you help me find the solution to this equation: 3x + 2 = 11?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "So, would that be 3x = 9?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That would give us x = 3, right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d67ac09297f4178",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u89e3\u7b54\u8fd9\u4e2a\u95ee\u9898\uff1af(x) = x^2 - 3x + 2\uff0c\u6c42f(2)\u7684\u503c\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "f(x)\u7684\u96f6\u70b9\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u51fd\u6570\u7684\u9876\u70b9\u5750\u6807\u662f\u591a\u5c11\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u8fd9\u4e2a\u51fd\u6570\u5728x = -1\u65f6\u7684\u659c\u7387\u662f\u591a\u5c11\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u51fd\u6570\u662f\u4e0a\u51f8\u8fd8\u662f\u4e0b\u51f8\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec3f0f7aa803416a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, can you please help me find the value of y in the equation 3x + 5y = 15 when x is equal to 2?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Great! Please show me the steps."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you! Can you also find the value of y when x is equal to 4?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2af82898440f4de6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Bana x^2 + 2x - 8 fonksiyonunun k\u00f6klerini nas\u0131l bulabilece\u011fimi a\u00e7\u0131klayabilir misiniz?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "K\u00f6kleri bulduktan sonra, bu fonksiyonu \u00e7arpanlar\u0131na ay\u0131rabilir miyiz?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e0bfc941d5cf4cb3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6c42\u89e3\u65b9\u7a0b $$x^2 + 2x - 3 = 0$$"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5c87df39e6d415d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me understand the function f(x) = x^2 - 4x + 6 and its key characteristics, like the vertex and x-intercepts?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I find the y-intercept of the function?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a2ab027276b4350",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do I find the roots of a quadratic equation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the roots of the equation 3x^2 - 5x + 2 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the equation is x^2 + 4x + 5 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do I determine if a quadratic equation has real or complex roots?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What's the discriminant for 2x^2 - 3x + 1 = 0?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b2f61bc8cebb4fa3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me find the point of intersection between the lines y = 2x + 1 and y = -3x + 4?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If I wanted to find the slope of the line perpendicular to y = 2x + 1, how would I do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If I wanted to find the equation of the line perpendicular to y = 2x + 1 and passing through the point (3, 4), how would I do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2f48da9f39884950",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I find the area enclosed by the curve y = x^2 and the line y = 2x?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to find the volume of the solid generated by revolving the enclosed area around the x-axis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you very much for the detailed explanation!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e18495dd396c4084",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Me puedes ayudar a resolver esta ecuaci\u00f3n cuadr\u00e1tica: 5x^2 - 3x + 2 = 0"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Interesante, \u00bfpodr\u00edas mostrarme un ejemplo de c\u00f3mo graficar esta funci\u00f3n cuadr\u00e1tica?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Excelente, muchas gracias por tu ayuda."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13d076452c404a29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8ba1\u7b97\uff1a\n\n$$f(x) = x^2 - 2x + 1$$\n\n$$g(x) = x^2 - 4x + 3$$\n\n\u627e\u51fa f(x) \u548c g(x) \u7684\u4ea4\u70b9\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "764ef5efbdb9408e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6c42\u89e3 $$x^2 - 4x + 4 = 0$$ \u7684\u6839"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dc1b560b7a934861",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f7f\u7528\u4ee3\u6570\u65b9\u6cd5\u89e3\u8fd9\u4e2a\u4e8c\u6b21\u65b9\u7a0b $$x^2 - 6x + 8 = 0$$"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]
