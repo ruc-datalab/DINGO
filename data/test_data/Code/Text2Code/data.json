@@ -1,0 +1,1158 @@
+[
+    {
+        "id": "829a8073fd4a49bb",
+        "basic_question": "Write a function to convert a date of yyyy-mm-dd format to dd-mm-yyyy format.",
+        "reference_answer": "import re\r\ndef change_date_format(dt):\r\n        return re.sub(r'(\\d{4})-(\\d{1,2})-(\\d{1,2})', '\\\\3-\\\\2-\\\\1', dt)\r\n        return change_date_format(dt)",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a function to convert a date of yyyy-mm-dd format to dd-mm-yyyy format. Hurry up!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I want it in JavaScript, not Python!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the input date is invalid?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "810114ea14e64ddc",
+        "basic_question": "Write a function to clear the values of the given tuples.",
+        "reference_answer": "def clear_tuple(test_tup):\r\n  temp = list(test_tup)\r\n  temp.clear()\r\n  test_tup = tuple(temp)\r\n  return (test_tup) ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to clear the values of the given tuples."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you show me an example of clearing a list instead of a tuple?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between using clear() method and assigning an empty list?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Create a simple calculator that takes two numbers and an operator as input and performs the specified operation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "359ca1c0caa6447c",
+        "basic_question": "Write a function to find out the second most repeated (or frequent) string in the given sequence.",
+        "reference_answer": "from collections import Counter \r\n\t\r\ndef second_frequent(input): \r\n\tdict = Counter(input) \r\n\tvalue = sorted(dict.values(), reverse=True)  \r\n\tsecond_large = value[1] \r\n\tfor (key, val) in dict.items(): \r\n\t\tif val == second_large: \r\n\t\t\treturn (key) ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write a Python function to find the second most frequent string in a given sequence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ef21b3d675c4d4d",
+        "basic_question": "Write a function to find squares of individual elements in a list using lambda function.",
+        "reference_answer": "def square_nums(nums):\r\n square_nums = list(map(lambda x: x ** 2, nums))\r\n return square_nums",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a function in Python that takes a list of integers and returns a new list with the squares of each element, using a lambda function. Can you provide an example of how to achieve this?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e51592aec714fb6",
+        "basic_question": "Write a python function to find the first repeated word in a given string.",
+        "reference_answer": "def first_repeated_word(str1):\r\n  temp = set()\r\n  for word in str1.split():\r\n    if word in temp:\r\n      return word;\r\n    else:\r\n      temp.add(word)\r\n  return 'None'",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to find the first repeated word in a given string."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to find the first repeated word in a case-insensitive manner?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "928cf19cb94843c5",
+        "basic_question": "Write a function to check whether the entered number is greater than the elements of the given array.",
+        "reference_answer": "def check_greater(arr, number):\r\n  arr.sort()\r\n  if number > arr[-1]:\r\n    return ('Yes, the entered number is greater than those in the array')\r\n  else:\r\n    return ('No, entered number is less than those in the array')",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a function that checks if a given number is greater than all elements in an array?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to use the `every` method instead of a for loop?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How would I implement this in Python?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75294a2b53e74afd",
+        "basic_question": "Write a function to caluclate perimeter of a parallelogram.",
+        "reference_answer": "def parallelogram_perimeter(b,h):\r\n  perimeter=2*(b*h)\r\n  return perimeter",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5199\u4e00\u4e2a\u51fd\u6570\uff0c\u8ba1\u7b97\u5e73\u884c\u56db\u8fb9\u5f62\u7684\u5468\u957f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "80d8af236f6945f0",
+        "basic_question": "Write a python function to find the sum of fifth power of first n even natural numbers.",
+        "reference_answer": "def even_Power_Sum(n): \r\n    sum = 0; \r\n    for i in range(1,n+1): \r\n        j = 2*i; \r\n        sum = sum + (j*j*j*j*j); \r\n    return sum; ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to find the sum of fifth power of first n even natural numbers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0626596d10c429a",
+        "basic_question": "Write a function to find the intersection of two arrays using lambda function.",
+        "reference_answer": "def intersection_array(array_nums1,array_nums2):\r\n result = list(filter(lambda x: x in array_nums1, array_nums2)) \r\n return result",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been thinking about how to find the intersection of two arrays using a lambda function in Python. Can you help me with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That's great! Now, what if I want to make this function more readable and maintainable by removing the lambda function and using a named function instead?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b1b37e5879604ee4",
+        "basic_question": "Write a function to sort each sublist of strings in a given list of lists using lambda function.",
+        "reference_answer": "def sort_sublists(input_list):\r\n    result = [sorted(x, key = lambda x:x[0]) for x in input_list] \r\n    return result\r",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5199\u4e00\u4e2a\u51fd\u6570\uff0c\u4f7f\u7528lambda\u51fd\u6570\u5bf9\u7ed9\u5b9a\u5217\u8868\u4e2d\u7684\u6bcf\u4e2a\u5b57\u7b26\u4e32\u5b50\u5217\u8868\u8fdb\u884c\u6392\u5e8f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55202ef82d594210",
+        "basic_question": "Write a python function to check whether one root of the quadratic equation is twice of the other or not.",
+        "reference_answer": "def Check_Solution(a,b,c): \r\n    if (2*b*b == 9*a*c): \r\n        return (\"Yes\"); \r\n    else: \r\n        return (\"No\"); ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to check whether one root of the quadratic equation is twice of the other or not."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to check for complex roots also?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What would be an example of a quadratic equation where one root is twice the other?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca29bd29d00f4a90",
+        "basic_question": "Write a function to find the union of two arrays using lambda function.",
+        "reference_answer": "def union_array(array_nums1, array_nums2):\r\n    result = list(set(array_nums1) | set(array_nums2))\r\n    return result",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a function to find the union of two arrays using lambda function in Python. Can you assist me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Great! Now, how can I modify this function to exclude duplicate elements in the result?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "65d885df6a4e4de0",
+        "basic_question": "Write a function to filter out odd numbers from a list using lambda function.",
+        "reference_answer": "def filter_odd_numbers(nums):\r\n    result = list(filter(lambda x: x % 2 == 0, nums))\r\n    return result",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to filter out odd numbers from a list using a lambda function in Python. Can you help me with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a way to modify this function to filter even numbers instead?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f7c66f6ea58b43ad",
+        "basic_question": "Write a function to calculate the factorial of a number using a recursive lambda function.",
+        "reference_answer": "factorial = (lambda f: lambda x: 1 if x == 0 else x * f(f)(x - 1))(lambda f: lambda x: 1 if x == 0 else x * f(f)(x - 1))",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about calculating the factorial of a number using a recursive lambda function in Python. Can you guide me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I modify this function to handle non-negative integers only?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3736d4b78fd24cbe",
+        "basic_question": "Write a function to convert a tuple of string values to a tuple of integer values.",
+        "reference_answer": "def tuple_int_str(tuple_str):\r\n    result = tuple((int(x[0]), int(x[1])) for x in tuple_str)\r\n    return result",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi! I have a tuple containing string values, and I need to convert them into integer values. Can you help me write a function to achieve this?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a14611ab1d654b00",
+        "basic_question": "Write a function to check whether an element exists within a tuple.",
+        "reference_answer": "def check_tuplex(tuplex,tuple1): \r\n  if tuple1 in tuplex:\r\n    return True\r\n  else:\r\n     return False",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to check whether an element exists within a tuple."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you show me an example of how to use this function with a tuple of strings?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I have a nested tuple? Can this function still work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide the same solution in JavaScript?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9eca74aa2298457f",
+        "basic_question": "Write a function that gives loss amount if the given amount has loss else return none.",
+        "reference_answer": "def loss_amount(actual_cost,sale_amount): \r\n  if(sale_amount > actual_cost):\r\n    amount = sale_amount - actual_cost\r\n    return amount\r\n  else:\r\n    return None",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function that gives loss amount if the given amount has loss else return none."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now I want this function to return profit if there is profit, loss if there is a loss and none if there is no profit and no loss."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Modify the function to return a tuple containing the type (profit or loss) and the amount."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you change it to a class-based implementation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "62bf5b662fbe49ee",
+        "basic_question": "Write a Python function using a lambda for calculating the nth Fibonacci number?",
+        "reference_answer": "fibonacci = (lambda f: lambda x: x if x <= 1 else f(f)(x - 1) + f(f)(x - 2))(lambda f: lambda x: x if x <= 1 else f(f)(x - 1) + f(f)(x - 2)",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a student eager to understand recursion. Can you show me how to calculate the nth Fibonacci number using a lambda function in Python?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I modify this function to handle negative integers gracefully?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9ed18cf57d2f4ed5",
+        "basic_question": "Write a lambda function that squares each element of a list using the map function?",
+        "reference_answer": "square_list = lambda nums: list(map(lambda x: x ** 2, nums))",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm exploring map functions in Python. How can I use a lambda function to square each element of a list using the map function?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a way to modify this function to cube each element instead?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa41ac8da7314424",
+        "basic_question": "Write a lambda function to filter out strings with a specific prefix from a list of strings?",
+        "reference_answer": "filter_prefix = lambda prefix, strings: list(filter(lambda x: x.startswith(prefix), strings))",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a Python developer facing a challenge. Can you guide me on using a lambda function to filter out strings with a specific prefix from a list?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is it possible to modify this function to filter out strings with a specific suffix instead?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "46f84275439b47f3",
+        "basic_question": "Write a lambda function to remove outliers from a list of numerical data?",
+        "reference_answer": "remove_outliers = lambda data: list(filter(lambda x: x >= min(data) and x <= max(data), data))",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a data scientist delving into lambda functions for data cleaning. Can you show me how to use a lambda function to remove outliers from a list of numerical data?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I adapt this function to handle cases where I want to remove outliers based on a specific percentile range?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b86ed70b7990464e",
+        "basic_question": "Write a python function to find sum of odd factors of a number.",
+        "reference_answer": "import math\r\ndef sum_of_odd_Factors(n): \r\n    res = 1\r\n    while n % 2 == 0: \r\n        n = n // 2 \r\n    for i in range(3,int(math.sqrt(n) + 1)): \r\n        count = 0\r\n        curr_sum = 1\r\n        curr_term = 1\r\n        while n % i == 0: \r\n            count+=1 \r\n            n = n // i \r\n            curr_term *= i \r\n            curr_sum += curr_term    \r\n        res *= curr_sum  \r\n    if n >= 2: \r\n        res *= (1 + n) \r\n    return res ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide a Python function to find the sum of odd factors of a given number?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "098e79a8d23b41dd",
+        "basic_question": "Write a python function to check whether the given number is even or not using bitwise operator.",
+        "reference_answer": "def is_Even(n) : \r\n    if (n^1 == n+1) :\r\n        return True; \r\n    else :\r\n        return False; ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to check whether the given number is even or not using bitwise operator."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1ed305bb0c694e9a",
+        "basic_question": "Write a function for computing square roots using the babylonian method.",
+        "reference_answer": "def babylonian_squareroot(number):\r\n    if(number == 0):\r\n        return 0;\r\n    g = number/2.0;\r\n    g2 = g + 1;\r\n    while(g != g2):\r\n        n = number/ g;\r\n        g2 = g;\r\n        g = (g + n)/2;\r\n    return g;",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function for computing square roots using the Babylonian method. Do it now."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4985bcd1770b45a1",
+        "basic_question": "Write a function to insert a given string at the beginning of all items in a list.",
+        "reference_answer": "def add_string(list,string):\r\n add_string=[string.format(i) for i in  list]\r\n return add_string",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to insert a given string at the beginning of all items in a list."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the list contains integers instead of strings?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can the function be modified to handle lists with a mix of strings and integers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to insert the prefix only to the strings in the list?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae2f5dbbfe224ab2",
+        "basic_question": "Write a python function to check whether the given number can be represented by sum of two squares or not.",
+        "reference_answer": "def sum_Square(n) : \r\n    i = 1 \r\n    while i*i <= n : \r\n        j = 1\r\n        while (j*j <= n) : \r\n            if (i*i+j*j == n) : \r\n                return True\r\n            j = j+1\r\n        i = i+1     \r\n    return False",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to check whether the given number can be represented by sum of two squares or not."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "can you also return the values of the two squares if the number can be represented as a sum of two squares?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1df08965bbdd46c9",
+        "basic_question": "Write a python function to count minimum number of swaps required to convert one binary string to another.",
+        "reference_answer": "def min_Swaps(str1,str2) : \r\n    count = 0\r\n    for i in range(len(str1)) :  \r\n        if str1[i] != str2[i] : \r\n            count += 1\r\n    if count % 2 == 0 : \r\n        return (count // 2) \r\n    else : \r\n        return (\"Not Possible\") ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Escribe una funci\u00f3n en Python para contar el n\u00famero m\u00ednimo de intercambios necesarios para convertir una cadena binaria en otra."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfQu\u00e9 pasa si quiero contar el n\u00famero m\u00ednimo de intercambios para cualquier par de caracteres y no solo para '0' y '1'? \u00bfC\u00f3mo modificar\u00eda la funci\u00f3n?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ed8a8d859314a97",
+        "basic_question": "Write a python function to find common divisor between two numbers in a given pair.",
+        "reference_answer": "def ngcd(x,y):\r\n    i=1\r\n    while(i<=x and i<=y):\r\n        if(x%i==0 and y%i == 0):\r\n            gcd=i;\r\n        i+=1\r\n    return gcd;\r\ndef num_comm_div(x,y):\r\n  n = ngcd(x,y)\r\n  result = 0\r\n  z = int(n**0.5)\r\n  i = 1\r\n  while(i <= z):\r\n    if(n % i == 0):\r\n      result += 2 \r\n      if(i == n/i):\r\n        result-=1\r\n    i+=1\r\n  return result",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to find common divisor between two numbers in a given pair."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I want the common divisors, not the greatest common divisor."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7508fd7299504bfd",
+        "basic_question": "Write a function to find the closest smaller number than n.",
+        "reference_answer": "def closest_num(N):\r\n  return (N - 1)",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to find the closest smaller number than n."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there any more efficient ways to find the closest smaller number?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can the binary search approach be modified to find the closest larger number instead of the smallest one?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "65a0bf7f91d547c6",
+        "basic_question": "Write a function to convert tuple to a string.",
+        "reference_answer": "def tup_string(tup1):\r\n  str =  ''.join(tup1)\r\n  return str",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to convert tuple to a string."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I add a separator between the elements in the tuple?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a more efficient way to accomplish this?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e2c8d8ace014019",
+        "basic_question": "Write a function to replace characters in a string.",
+        "reference_answer": "def replace_char(str1,ch,newch):\r\n str2 = str1.replace(ch, newch)\r\n return str2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please write a Python function to replace specific characters in a given string?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff9202b697114e0c",
+        "basic_question": "Write a function to trim each tuple by k in the given tuple list.",
+        "reference_answer": "def trim_tuple(test_list, K):\r\n  res = []\r\n  for ele in test_list:\r\n    N = len(ele)\r\n    res.append(tuple(list(ele)[K: N - K]))\r\n  return (str(res)) ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to write a function to trim each tuple by k in the given tuple list. For example, if I have a list of tuples like this: [(1, 2, 3), (4, 5, 6), (7, 8, 9)], and I want to trim it by k=1, the result should be [(1, 2), (4, 5), (7, 8)]. How can I do this in Python?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to trim the tuples from the end? For example, if k=1, the result should be [(1, 3), (4, 6), (7, 9)]."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you! This solution works perfectly for my needs."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "771e0f6c7dca4756",
+        "basic_question": "Write a function to generate a 3d array having each element as '*'.",
+        "reference_answer": "def array_3d(m,n,o):\r\n array_3d = [[ ['*' for col in range(m)] for col in range(n)] for row in range(o)]\r\n return array_3d",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please provide a Python function to generate a 3D array filled with asterisks (*)."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bed1d8aaee74b4b",
+        "basic_question": "Write a python function to find whether the given number is present in the infinite sequence or not.",
+        "reference_answer": "def does_Contain_B(a,b,c): \r\n    if (a == b): \r\n        return True\r\n    if ((b - a) * c > 0 and (b - a) % c == 0): \r\n        return True\r\n    return False",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to find whether the given number is present in the infinite sequence or not."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "The sequence is generated by the formula: n * (3 * n - 1) / 2, where n is a positive integer."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8423cb8a395d407b",
+        "basic_question": "Write a python function to add a minimum number such that the sum of array becomes even.",
+        "reference_answer": "def min_Num(arr,n):  \r\n    odd = 0\r\n    for i in range(n): \r\n        if (arr[i] % 2): \r\n            odd += 1 \r\n    if (odd % 2): \r\n        return 1\r\n    return 2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to add a minimum number such that the sum of array becomes even."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Write a python function to add a minimum number such that the sum of array becomes odd."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e31a77bcadd9477a",
+        "basic_question": "Write a function to extract the frequency of unique tuples in the given list order irrespective.",
+        "reference_answer": "def extract_freq(test_list):\r\n  res = len(list(set(tuple(sorted(sub)) for sub in test_list)))\r\n  return (res)",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please help me write a Python function to extract the frequency of unique tuples in a given list while ignoring the order of elements in the tuples?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That's great, but can you modify the function to return a dictionary with tuples as keys instead of frozensets?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af201f9a8e6547ed",
+        "basic_question": "Write a function to add the given list to the given tuples.",
+        "reference_answer": "def add_lists(test_list, test_tup):\r\n  res = tuple(list(test_tup) + test_list)\r\n  return (res) ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to add the given list to the given tuples."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Write a function to add the given tuple to each element in the given list of lists."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Write a function to add the given tuple to each element in the given list of tuples."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a010b3e4cc5b4d62",
+        "basic_question": "Write a function to remove multiple spaces in a string.",
+        "reference_answer": "import re\r\ndef remove_spaces(text):\r\n return (re.sub(' +',' ',text))",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a function to remove multiple spaces in a string."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide an example of how to use this function?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide an example in JavaScript?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide an example of how to use this JavaScript function?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a6ffbb3ee93648d9",
+        "basic_question": "Write a function to re-arrange the elements of the given array so that all negative elements appear before positive ones.",
+        "reference_answer": "def re_arrange_array(arr, n):\r\n  j=0\r\n  for i in range(0, n):\r\n    if (arr[i] < 0):\r\n      temp = arr[i]\r\n      arr[i] = arr[j]\r\n      arr[j] = temp\r\n      j = j + 1\r\n  return arr",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you write a Python function that rearranges the elements of a given array so that all negative elements appear before positive ones?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, can you write the same function, but using two pointers technique instead of creating new lists?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "67c06ad12ce34b7a",
+        "basic_question": "Write a function to search some literals strings in a string by using regex.",
+        "reference_answer": "import re\r\ndef check_literals(text, patterns):\r\n  for pattern in patterns:\r\n    if re.search(pattern,  text):\r\n        return ('Matched!')\r\n    else:\r\n        return ('Not Matched!')",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a function that searches for specific literal strings within a given string using regular expressions in Python."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85bd70d2ea63431f",
+        "basic_question": "Write a function to find the most common elements and their counts of a specified text.",
+        "reference_answer": "from collections import Counter \r\ndef most_common_elem(s,a):\r\n  most_common_elem=Counter(s).most_common(a)\r\n  return most_common_elem",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please write a function to find the most common elements and their counts in a given text?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I need the most common words instead of characters?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you! What if I want to ignore certain words like 'the', 'a', 'an', and 'and'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "28253c3daf094346",
+        "basic_question": "Write a function to check if a triangle of positive area is possible with the given angles.",
+        "reference_answer": "def is_triangleexists(a,b,c): \r\n    if(a != 0 and b != 0 and c != 0 and (a + b + c)== 180): \r\n        if((a + b)>= c or (b + c)>= a or (a + c)>= b): \r\n            return True \r\n        else:\r\n            return False\r\n    else:\r\n        return False",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Escribe una funci\u00f3n para verificar si es posible un tri\u00e1ngulo de \u00e1rea positiva con los \u00e1ngulos dados."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfC\u00f3mo puedo adaptar esta funci\u00f3n para que tome un solo argumento en forma de lista?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfQu\u00e9 pasa si la lista tiene m\u00e1s o menos de tres \u00e1ngulos?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4319d9e798448c4",
+        "basic_question": "Write a python function to check whether the triangle is valid or not if 3 points are given.",
+        "reference_answer": "def check_Triangle(x1,y1,x2,y2,x3,y3): \r\n    a = (x1*(y2-y3)+x2*(y3-y1)+x3*(y1-y2))   \r\n    if a == 0: \r\n        return ('No') \r\n    else: \r\n        return ('Yes') ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a python function to check whether the triangle is valid or not if 3 points are given."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e99cff41c6e46c0",
+        "basic_question": "Write a function to push all values into a heap and then pop off the smallest values one at a time.",
+        "reference_answer": "import heapq as hq\r\ndef heap_sort(iterable):\r\n    h = []\r\n    for value in iterable:\r\n        hq.heappush(h, value)\r\n    return [hq.heappop(h) for i in range(len(h))]",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u628a\u6240\u6709\u503c\u63a8\u5230\u5806\u91cc\uff0c\u7136\u540e\u4f9d\u6b21\u5f39\u51fa\u6700\u5c0f\u503c\u7684\u51fd\u6570\uff0c\u5199\u51fa\u6765"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u51fd\u6570\u600e\u4e48\u786e\u4fdd\u5806\u91cc\u7684\u5143\u7d20\u662f\u4ece\u5c0f\u5230\u5927\u6392\u5217\u7684\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "620d63dd4ee5491f",
+        "basic_question": "Write a function to find the sequences of one upper case letter followed by lower case letters.",
+        "reference_answer": "import re\r\ndef text_uppercase_lowercase(text):\r\n        patterns = '[A-Z]+[a-z]+$'\r\n        if re.search(patterns, text):\r\n                return 'Found a match!'\r\n        else:\r\n                return ('Not matched!')",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a function that can find sequences of one upper case letter followed by lower case letters in a string. Hurry up!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you rewrite it in JavaScript?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "590a6f074dbd4fe6",
+        "basic_question": "Write a function to extract the maximum numeric value from a string by using regex.",
+        "reference_answer": "import re \r\ndef extract_max(input): \r\n\tnumbers = re.findall('\\d+',input) \r\n\tnumbers = map(int,numbers) \r\n\treturn max(numbers)",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7528\u6b63\u5219\u8868\u8fbe\u5f0f\u7f16\u5199\u4e00\u4e2a\u51fd\u6570\uff0c\u4ece\u5b57\u7b26\u4e32\u4e2d\u63d0\u53d6\u6700\u5927\u7684\u6570\u503c\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6fb5af6f91cd4bc8",
+        "basic_question": "Write a python function to find the highest power of 2 that is less than or equal to n.",
+        "reference_answer": "def highest_Power_of_2(n): \r\n    res = 0; \r\n    for i in range(n, 0, -1): \r\n        if ((i & (i - 1)) == 0): \r\n            res = i; \r\n            break; \r\n    return res; ",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8acb\u6211\u7b97\u51fa\u4e00\u4e2a Python \u51fd\u6570\uff0c\u8a72\u51fd\u6570\u80fd\u627e\u51fa\u4e0d\u5927\u65bc n \u7684\u6700\u5927\u7684 2 \u7684\u5e7e\u6b21\u65b9"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5982\u679c\u6211\u60f3\u8a66\u8a66\u9019\u500b\u51fd\u6570\uff0c\u8a66\u8a66 n=20\uff0c\u7d50\u679c\u662f\u591a\u5c11?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "910c3f4d95004cef",
+        "basic_question": "Write a function to convert rgb color to hsv color.",
+        "reference_answer": "def rgb_to_hsv(r, g, b):\r\n    r, g, b = r/255.0, g/255.0, b/255.0\r\n    mx = max(r, g, b)\r\n    mn = min(r, g, b)\r\n    df = mx-mn\r\n    if mx == mn:\r\n        h = 0\r\n    elif mx == r:\r\n        h = (60 * ((g-b)/df) + 360) % 360\r\n    elif mx == g:\r\n        h = (60 * ((b-r)/df) + 120) % 360\r\n    elif mx == b:\r\n        h = (60 * ((r-g)/df) + 240) % 360\r\n    if mx == 0:\r\n        s = 0\r\n    else:\r\n        s = (df/mx)*100\r\n    v = mx*100\r\n    return h, s, v",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I write a function to convert an RGB color to an HSV color in Python?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to write my own function without using the colorsys library?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the logic behind the RGB to HSV conversion formulas used in this function?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]
