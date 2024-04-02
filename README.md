@@ -7,7 +7,7 @@ This repository contains data and evaluation code for the paper "DINGO: Towards 
 # Evaluation
 
 ## Data Prepare
- The predicted results of the model need to be organized into a multi-level file format similar to `data/test_data`, and named as `data/{model_name}`, for example `data/llama-7B`. Specifically, for the sample format in `data/test_data` as follows, 
+ The predicted results of the model need to be organized into a multi-level file format similar to `data/test_data`, and named as `data/{model_name}`, for example `data/llama-7B`. Specifically, each example should be in the following form: 
 
  ```sh
 {
@@ -27,7 +27,6 @@ This repository contains data and evaluation code for the paper "DINGO: Towards 
 }
  ```
 
-the model should fill in AI responses.
 
 ## Get Evaluation Score
 
