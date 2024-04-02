@@ -1,0 +1,818 @@
+[
+    {
+        "id": "b2a08483995b4484",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you create a 1-minute video script about a new fitness app that focuses on personalized workout plans for users?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the app also has a nutrition feature?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d5a9123b3e34aaf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc548\ub155\ud558\uc138\uc694. 30\ucd08 \ub3d9\uc548\uc758 \uce5c\ud658\uacbd \uc81c\ud488\uc5d0 \ub300\ud55c \uad11\uace0 \ube44\ub514\uc624 \uc2a4\ud06c\ub9bd\ud2b8\ub97c \uc791\uc131\ud574 \uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c870058816c042b3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a script for a promotional video about a futuristic tech gadget. Can you help with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "49a69bf38a7c4c4d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a 45-second video script for a comedy series pilot. It's about time-traveling cats. Sounds quirky, right?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5b10f1e577b4550",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a script for an emotional short film about overcoming challenges. Can you create a heartfelt 1-minute script?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "224fec02c6b54e7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I need a snappy and attention-grabbing script for a mobile game trailer. Can you whip up something exciting in 30 seconds?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71cf6d9f5cd948c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a script for an explainer video on renewable energy solutions. We want it to be informative but not too technical. Think you can do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "61f67f7319874009",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a script for a documentary-style video highlighting the history of a local community. Can you capture the essence of its uniqueness?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a16848cd8c841a5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a script for an animated educational video targeted at kids. Make it both fun and educational, covering basic science concepts."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33c6fcb19f554946",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm launching a fashion brand. Can you write a script for a chic and stylish promotional video for our upcoming collection?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6977e28f496241dd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a script for a travel vlog episode showcasing the hidden gems of a tropical paradise. Make it feel like a virtual vacation!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2488a9ee7822495e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a charity event. Can you help with a script for a touching video that encourages people to contribute and make a difference?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6de2ab83391649b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I would like you to act as a marketing expert for a software company that specializes in productivity tools. Could you please help me create a video script that showcases the product's features and benefits in a way that encourages potential customers to try it out?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6309a0cbfb8f40fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Du bist ein Experte f\u00fcr Werbevideo-Drehb\u00fccher. Entwirf zwei verschiedene Video-Drehb\u00fccher f\u00fcr eine 30-Sekunden-Anzeige f\u00fcr ein Fitness-Studio, die auf Facebook und Instagram ver\u00f6ffentlicht werden soll. Die Anzeige sollte sich auf die Vorteile des Trainierens in diesem Studio konzentrieren und die Zuschauer dazu bringen, sich dort anzumelden."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1fb79ed31f5e4c8d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the recipe for a classic margarita?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do you recommend using fresh lime juice or the bottled one for the best taste?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Any special tips for rimming the glass with salt?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What type of tequila is ideal for a top-notch margarita?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e6edc5dc13084e51",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a weekend trip to Paris. Any must-visit places you'd recommend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How's the weather in Paris during the upcoming weekend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b447837898be4607",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking of starting a podcast. What equipment do you suggest for a beginner?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I focus on a specific niche or cover a broader range of topics for a wider audience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "74b8948a5b314c3d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to learn a musical instrument. Any suggestions for a beginner?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I start with online tutorials or consider taking in-person lessons?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "462e19d073584c70",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5199\u4e00\u4e2a\u5173\u4e8e\u73af\u4fdd\u77ed\u7247\u768430\u79d2\u89c6\u9891\u5267\u672c\uff0c\u5411\u5927\u5bb6\u5c55\u793a\u73af\u4fdd\u7684\u91cd\u8981\u6027\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "368fe7d442204c81",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u6211\u521b\u5efa\u4e00\u4e2a1\u520630\u79d2\u7684\u89c6\u9891\u5267\u672c\uff0c\u4e3b\u9898\u662f\u5982\u4f55\u5229\u7528\u865a\u5047\u4fe1\u606f\u548c\u5047\u65b0\u95fb\u4f5c\u4e3a\u653f\u6cbb\u6b66\u5668"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72d35622d1d84885",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create a video script for a promotional video of a new eco-friendly reusable water bottle? The video should be about 1 minute long and emphasize the importance of reducing plastic waste."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if we want to include a feature that the bottle is made from recycled materials and has an insulated design to keep drinks cold or hot?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "825fd3b9890a4764",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, could you help me come up with a short and fun script for a 15-second video promoting a quirky invention? It's a gadget that helps people find their lost keys in a creative way!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff3b1585dd864598",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your creative touch for a 2-minute video script that showcases the adventures of a time-traveling cat detective. Can you make it humorous and engaging?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bce7b91639340f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a 45-second video script for a fitness product. The focus is on making exercise fun and accessible to everyone. Can you inject some energy and motivation into the script?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0c668301496649ff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me out with a 1-minute script for a heartwarming video about random acts of kindness. Let's spread positivity and inspire people to make a difference in someone's day!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a481d2e143f94b81",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a script for a 30-second video introducing a high-tech gadget for pet owners. I want it to highlight how this device enhances the bond between humans and their furry friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac5f01548aa749ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking of a 1-minute video script that promotes a mobile app for learning new languages. Make it dynamic and showcase the app's unique features that make language learning a breeze."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3345151882b84644",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a 45-second script for a video about the charm of traditional crafts in the modern world. Let's celebrate craftsmanship and inspire people to appreciate handmade goods."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "323d2a80b70d40e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a script for a 1-minute video that introduces a revolutionary cooking gadget. Emphasize its time-saving features and how it makes cooking an enjoyable experience for busy individuals."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de3f9f9df86e470d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me create a 30-second video script that highlights the importance of mindfulness in our fast-paced lives. Let's encourage people to take a moment for self-reflection and well-being."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "59fa4cb37c724a07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a 1-minute script for a video showcasing the evolution of technology over the past century. Make it nostalgic and futuristic at the same time, capturing the essence of progress."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc720c6a881b4df3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me a short video script promoting a new fitness app."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2967a5ee205f4d18",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an advertising director, create a 1-minute video script for a new energy drink called 'PowerBurst'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ae0324064d740c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a short video script for a new smartphone launch"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c3e28a4374844797",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a compelling 30-second video script for a luxury car commercial."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "84304f8f0ef243a3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a travel enthusiast; create an engaging script for a travel app promotional video."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1751e3183b0a4c74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a chef, script a short video introducing a new cooking app for foodies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfa07c865756490a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a detective in a crime thriller; create an intriguing video script for a mystery game app."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "66d3f09bf6034425",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a humorous 1-minute video script for a comedy podcast launch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d20d99b5b4554e33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're an astronaut; create a captivating script for a space-themed educational app."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "35d297af816b4499",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a fashion icon; script a trendy promotional video for a clothing brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6881076c2a2c4012",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please write a 30-second video script for a new organic skincare line targeting environmentally-conscious consumers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you include a brief mention of a specific product, such as a facial cleanser, and emphasize its benefits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you add a call to action at the end of the script to encourage people to visit our website?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8faaa253fa4e4d36",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create a 1 minute video script about the future of marketing in the age of AI"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "51594c9a13f14c50",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please provide a brief video script idea for promoting a new eco-friendly water bottle."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c987e95805a14ee7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Kannst du mir bitte ein 30-Sekunden-Video-Skript erstellen, das die Vorteile von Social-Media-Marketing im Jahr 2023 zeigt?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Wie w\u00fcrde das Skript aussehen, wenn der Schwerpunkt auf der Bedeutung von Influencer-Marketing liegt?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Kannst du ein Skript erstellen, das sowohl Social-Media-Marketing als auch Influencer-Marketing in den Fokus r\u00fcckt?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "79d5f867a8a24fef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a creative marketing expert, now create a 1-minute video script promoting an AI-powered language learning app"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d86117107afb499b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a 30-second video script about a new energy drink called 'BoostMeUp'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e68c347746a4e3b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a marketing expert for a new fitness app. Create a video script for a 30-second ad that highlights its unique features and convinces people to download it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,777 @@
+[
+    {
+        "id": "3fb714e3e9704e2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u8bbe\u8ba1\u4e00\u4efd\u9488\u5bf9\u5927\u5b66\u751f\u5c31\u4e1a\u7684\u95ee\u5377\u8c03\u67e5\uff0c\u8c03\u67e5\u5185\u5bb9\u5305\u62ec\u4e86\u5b66\u751f\u5bf9\u5c31\u4e1a\u884c\u4e1a\u7684\u4e86\u89e3\u3001\u671f\u671b\u85aa\u916c\u3001\u671f\u671b\u5de5\u4f5c\u5730\u70b9\u7b49\u65b9\u9762\uff0c\u95ee\u5377\u5e94\u8be5\u5982\u4f55\u8bbe\u8ba1\u9898\u76ee\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53c45f778ffa4878",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a questionnaire to gather feedback about a mobile app from its users"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa16bb1d40c94d44",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I need to create a fun and engaging survey for a school project about student hobbies and interests. Any tips on making it interesting and getting honest responses?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ae0d17ef025465f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm tasked with crafting a survey for a health and wellness event. What should I ask to understand people's preferences regarding fitness activities and dietary choices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "059c9c7e7fed4212",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to create a comprehensive survey for a customer satisfaction analysis in a restaurant. Can you suggest questions that cover food quality, service, and ambiance effectively?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e54dd577b33143c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me design a unique survey for a study on social media usage patterns among teenagers. I want to understand how it influences their daily lives and interactions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f17fa485bec24ca4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a survey for a travel blog to capture readers' preferences. What questions can I include to understand their travel habits, favorite destinations, and travel-related challenges?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc066891f28e425a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Need your expertise to create a concise survey for event feedback. What questions will help me gather insights on attendees' satisfaction, suggestions for improvement, and likelihood of attending future events?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "665be8c8e5964aa2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm developing a survey for a research project on environmental awareness. Can you guide me on framing questions to assess people's understanding of climate change and their willingness to adopt sustainable practices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4d794445e86a409c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assist me in creating a tech-related survey for a startup. I want to explore users' preferences in app features, user interface design, and overall satisfaction. What questions should I include?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cba0d6b4d73e47e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a survey for a non-profit organization to understand donor motivations. What questions will help me gauge their connection to the cause, satisfaction with previous contributions, and potential for future support?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7ae0a88d967c4881",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to create a survey for a political science project, focusing on public opinion. What questions should I include to capture diverse perspectives on current political issues, trust in government, and preferred communication channels for political information?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "91a71dde78d04db7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I need to create a fun and engaging survey for a school project about student hobbies and interests. Please provide 8 questions, and use emojis as numbering to make it lively and interesting!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "570f50ee870f42e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm tasked with crafting a survey for a health and wellness event. Give me exactly 10 questions, and use different colors to number them for visual appeal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0b5cdf994d994de7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to create a comprehensive survey for a customer satisfaction analysis in a restaurant. Provide me 12 questions and use Roman numerals for numbering to give it a classic touch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a0c17d0e4d94915",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me design a unique survey for a study on social media usage patterns among teenagers. Please include 15 questions and use alphabetical letters as numbering for clarity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8778994ce5d54d70",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a survey for a travel blog to capture readers' preferences. Suggest 10 questions and use symbols like stars as numbering for a travel-themed touch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0edfbd3ea786496b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Need your expertise to create a concise survey for event feedback. Provide me 8 questions and use arrows as numbering for a dynamic and forward-looking feel."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e1186b66bb1d4bce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm developing a survey for a research project on environmental awareness. Suggest 12 questions and use Earth symbols as numbering to align with the theme."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7913911b3cf643be",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assist me in creating a tech-related survey for a startup. Suggest 10 questions and use binary code as numbering for a tech-savvy touch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb1882c582a94de2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a survey for a non-profit organization to understand donor motivations. Provide me 10 questions and use heart symbols as numbering to convey gratitude."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5219ab8f3c5488f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to create a survey for a political science project, focusing on public opinion. Suggest 15 questions and use political party symbols as numbering for a political touch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d975dc61cec4e15",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u4e00\u4f4d\u5fc3\u7406\u5b66\u7814\u7a76\u5458\uff0c\u6211\u60f3\u8bbe\u8ba1\u4e00\u4e2a\u9488\u5bf9\u5927\u5b66\u751f\u7684\u5fc3\u7406\u5065\u5eb7\u8c03\u67e5\u95ee\u5377\u3002\u95ee\u5377\u7684\u76ee\u7684\u662f\u4e86\u89e3\u5927\u5b66\u751f\u7684\u5fc3\u7406\u538b\u529b\u3001\u6291\u90c1\u75c7\u72b6\u3001\u7126\u8651\u75c7\u72b6\u53ca\u5176\u4e0e\u6210\u7ee9\u7684\u5173\u7cfb\u3002\u8bf7\u95ee\u5e94\u8be5\u4ece\u54ea\u4e9b\u65b9\u9762\u8bbe\u8ba1\u95ee\u9898\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "39b1c87ae13a45aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a marketing executive. Create a survey to evaluate the effectiveness of a recent promotional campaign."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "605558e603a74edb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I'm organizing a community event and want to create a survey to gauge people's preferences. What kind of questions should I include to ensure we meet everyone's expectations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d887ac05409847b2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a nutritionist planning a dietary habits survey. What are the key questions to gather insightful information about people's eating patterns and choices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "992948e90d674ff1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a teacher, I want to create a student feedback survey. Could you guide me on framing questions that encourage honest and constructive feedback?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "acc818ce434944b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a travel blogger planning to conduct a survey about travel preferences. How can I design questions that capture the diverse interests of my audience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43e54a9d74794a45",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a technology adoption survey. What should be the focus areas in the questions to understand how users embrace new technologies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "110bd6e35c89424f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planning a charity impact assessment survey. What questions would help me gauge the effectiveness of our initiatives and the community's perception?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eb49027d2a404c7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a fashion designer wanting to conduct a survey on clothing preferences. How can I structure questions to capture the evolving tastes and trends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08efd7ae4d034d3a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a startup founder preparing a customer satisfaction survey. What kind of questions will give me actionable insights into improving our product and service?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "df2d6eff822a4dc4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Organizing a gaming event and want to gather feedback. What questions can I include to understand the gaming preferences and expectations of the participants?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64ff26f048064a5c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a human resources manager planning an employee engagement survey. Can you help me design questions that delve into job satisfaction, work-life balance, and team dynamics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1f4f49eb99d24dae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a questionnaire for a mobile app development company to gather information from potential clients about their app project needs."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73327acccff94c80",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a survey for a university research project aimed at understanding how students' preferred learning styles affect their academic performance. Make sure the questions progressively become more difficult and challenging."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b331a96a1ee14c5c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a customer satisfaction survey for our new online store covering product quality, shipping, and customer service."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "331c8ccbc6124908",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I work for an insurance agency and I want to design a questionnaire for policyholders to fill out, to understand their comprehension of and opinions on our online claim filing system, as well as their impressions of our instructional video. What kind of questions should I include in the questionnaire?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some additional questions that I can ask?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "91bb926312ce4d02",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a quirky and engaging survey for event attendees, focusing on their favorite moments, suggestions for future events, and how likely they are to recommend to friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "632ae946f3ca4d1f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a survey to assess user experience for a mobile app, covering navigation, design appeal, and feature preferences. Keep it short and snappy!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f143d08ddfa3459f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a formal survey for academic research, exploring students' opinions on online learning effectiveness, instructor communication, and challenges faced during remote education."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4e24806dd7a446ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a creative survey to capture pet owners' preferences in pet food, favorite pet activities, and their thoughts on sustainable pet products."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac73952338ea4849",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a questionnaire to gather feedback on a new e-commerce website"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what if the user did not make a purchase"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what if the user is a first-time visitor"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "user is interested in purchasing but needs more information about the product"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8187acbf6b0d40a5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc124\ubb38 \uc870\uc0ac\ub97c \uc704\ud55c \uc9c8\ubb38\uc9c0\ub97c \ub9cc\ub4e4\uc5b4\uc8fc\uc138\uc694. \uc774 \uc9c8\ubb38\uc9c0\ub294 \ud559\uc0dd\ub4e4\uc758 \ub9cc\uc871\ub3c4\uc640 \uad50\uc721 \ud6a8\uacfc\uc5d0 \ub300\ud55c \uc758\uacac\uc744 \uc218\uc9d1\ud558\ub294 \uac83\uc774 \ubaa9\ud45c\uc785\ub2c8\ub2e4."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ud559\uc0dd\ub4e4\uc758 \uc2a4\ud2b8\ub808\uc2a4 \uc218\uc900\uacfc \uad00\ub828\ub41c \uc9c8\ubb38\ub3c4 \ucd94\uac00\ud574 \uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d301fb9b6f8d496b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am part of a research team, and we want to create a survey for people who use online streaming services. We want to understand their habits, preferences, and satisfaction levels with different platforms. What kind of questions should we include in the survey?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4fab5c877038442e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am trying to create a survey to gauge the interest of our community members in participating in a new local initiative. Can you help me draft a survey that encourages reflection and polite responses?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "df9824ec79c54eba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u8bbe\u8ba1\u4e00\u4e2a\u5173\u4e8e\u5458\u5de5\u6ee1\u610f\u5ea6\u8c03\u67e5\u7684\u95ee\u5377\uff0c\u5305\u62ec\u5bf9\u516c\u53f8\u6587\u5316\u3001\u798f\u5229\u5f85\u9047\u3001\u5de5\u4f5c\u73af\u5883\u3001\u57f9\u8bad\u53d1\u5c55\u7b49\u65b9\u9762\u7684\u6ee1\u610f\u5ea6\u8bc4\u4ef7\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b30121775c644f79",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u4e00\u5bb6\u5065\u8eab\u623f\u7684\u8001\u677f\uff0c\u6211\u60f3\u4e3a\u6211\u4eec\u7684\u4f1a\u5458\u8bbe\u8ba1\u4e00\u4e2a\u7b80\u77ed\u7684\u6ee1\u610f\u5ea6\u8c03\u67e5\u95ee\u5377\uff0c\u4f60\u80fd\u5e2e\u6211\u8bbe\u8ba1\u4e00\u4e0b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "952f1f16d867458a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a survey to assess the productivity and satisfaction of remote workers in a company. Include questions that prompt reflection on their work-from-home experience, challenges faced, and suggestions for improvement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

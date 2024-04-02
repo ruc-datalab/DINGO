@@ -1,0 +1,937 @@
+[
+    {
+        "id": "597a5642f2f44a84",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a concerned parent, I'd like you to rewrite the following sentence for my young child without any inappropriate language: 'The damn cat just ruined the freakin' expensive carpet by puking all over it.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2fd8732e412b4a51",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rewrite the following text in a more polite and respectful manner, removing any profanity? 'I can't believe these idiots keep messing up. It's so frustrating, I just want to scream. They're so useless, it's unbelievable.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0b093a2872874731",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My teenager heard some inappropriate language at school. Can you help me rewrite this sentence without the offensive words? 'Those darn kids are driving me nuts with their foul language and disrespect.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "26d047925ebc4ce8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to express my frustration about the noisy neighbors without using offensive words. 'These damn people next door are making my life miserable with their loud parties. It's unbearable.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e474fbc1c674a23",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you kindly rephrase this sentence without any inappropriate language? 'I'm so fed up with this stupid computer, it keeps crashing at the worst times.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "37b7992dc79b4790",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me express my annoyance at the traffic without using offensive words. 'These idiots on the road are causing a massive jam. It's infuriating.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f44d97b355ad4ae1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you rewrite this sentence in a more family-friendly way? 'I can't stand those morons at work. They're always messing things up.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1374d382fbc24051",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My friend needs to vent about his annoying roommate without using offensive language. 'This darn roommate is driving me crazy with his inconsiderate behavior.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6de18e08d0d94587",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me rephrase this complaint without using strong language. 'I'm so tired of these jerks in the apartment above, always making noise late at night.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d4fa5810b875415b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My colleague needs to express frustration without offending. 'I can't believe how incompetent these people are. It's driving me crazy.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f917da6a696e4e0e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a teacher, I want to discuss student behavior without using harsh language. 'These kids are really testing my patience with their disruptive behavior in class.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "34bc6c355b15416b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My spouse needs to express frustration with household chores without using offensive words. 'I can't believe how lazy the family is. It's driving me up the wall.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "61d78f94d8fc40db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rewrite this movie review without any profanities? Here's the review:\n\nThis movie is a total piece of sh*t! The acting was horrible, the plot was so f**king predictable, and don't even get me started on the sh*tty special effects. I can't believe I wasted two hours of my life on this garbage!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please make it sound even more polite and less harsh?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, could you please rewrite it as a positive review by focusing on any redeeming qualities the movie might have had?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18e7e79826534c7c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Reescreva esse texto removendo as palavras ofensivas e deixando-o mais educado:\n\nCara, eu n\u00e3o aguento mais trabalhar com esse bando de incompetentes! Eles s\u00e3o uns verdadeiros idiotas que n\u00e3o sabem fazer nada direito. Sempre que eu pe\u00e7o algo, eles fazem tudo errado e me deixam puto da vida. Eu estou de saco cheio desses imbecis!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c42db40781042e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like you to rewrite this text by removing all profanities and making it more polite: 'I'm so f***ing tired of people acting like a**holes and wasting my time with their dumb sh*t. Why can't they just grow the h*ll up and stop acting like complete idiots? It's driving me up the wall!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, please rewrite this one: 'These f***ing morons need to get their sh*t together! I can't believe how lazy and irresponsible they are. It's like they don't give a d*mn about anything, and it's pissing me off!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bf036799877d4c82",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, could you make this text more refined by removing any offensive language? I'm really frustrated with my colleagues' lack of competence. It seems like they struggle with tasks, and it's affecting my mood. I just need a more positive work environment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "27608c00eb4b4f02",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm getting fed up with working alongside these individuals who seem to lack the necessary skills. They constantly make mistakes, and it's becoming increasingly irritating. Can you help me express my frustration more diplomatically?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "51d66e06e64549af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your assistance in refining this text. I'm dealing with colleagues who consistently underperform and make errors. It's frustrating, and I'd like to communicate my feelings without using offensive language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5a6a86255634fcc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please help me rephrase this? I'm becoming increasingly irritated with my team's lack of competence. Their constant errors are affecting my patience, and I want to express my frustration in a more professional manner."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0afccd06e9fb4d8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm struggling with my colleagues' incompetence, and it's testing my patience. Can you assist me in rephrasing my feelings without using offensive language? I want to address the issue in a more constructive way."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d9e1ad88e0564717",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dealing with incompetent colleagues is draining. Can you help me reword my frustration without resorting to offensive language? I'm looking for a more professional tone to address the ongoing issues."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc94c6dbec2a413a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm annoyed with my coworkers' constant mistakes. Can you assist me in expressing my frustration without using offensive words? I want to maintain a professional tone while addressing the challenges I'm facing."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3de6d6dab0224985",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My colleagues' incompetence is really getting to me. Can you help me rephrase my feelings without using offensive language? I want to address the issue constructively and professionally."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "41c6a9729e654cff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm facing challenges with my team's performance. Can you assist me in rewording my frustration without using offensive language? I want to convey my concerns in a more constructive and professional manner."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a3c3e3496e947e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm struggling to cope with my colleagues' constant errors. Can you help me express my frustration in a more professional way without using offensive language? I want to address the issue positively."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "546ae1e5a2b24e59",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite this with no profanity: 'This is the dumbest thing I've ever seen. What the hell were they thinking? It's like they've got their head up their ass!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Still some negativity there, remove it and make it neutral."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now make it sound more positive while keeping the essence of the original statement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0c61aeee2db84dc8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite this sentence without any profanity: 'I can't believe this stupid piece of sh*t stopped working again! This is so f*cking annoying.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e45701d67e07437f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rephrase this without any offensive language: 'This is absolutely ridiculous! What on earth were they thinking? It's like they're completely out of touch!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "077b56694079487b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you rewrite this without profanity? 'I can't comprehend how utterly foolish this is. Are they living in a parallel universe?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dc0279e7e2dd4bf5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rephrase this without any offensive language: 'I've never seen anything so stupid in my life. It's like they have no common sense whatsoever.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0af1049493114e65",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please remove the profanity from this: 'What a complete disaster! Do they even have a clue about what they're doing? It's mind-boggling.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60e1b3e402b44ccb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rephrase this without offensive language: 'I'm baffled by how incredibly foolish this is. Are they intentionally trying to make terrible decisions?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "407acc74c46e4668",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Remove the profanity from this: 'This is beyond stupid! What kind of warped thinking led to this? It's like they're living in a fantasy world.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18b54d61df894f3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you rewrite this without any offensive language? 'I can't fathom the sheer idiocy of this. Do they lack basic common sense?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eb983c31584b43b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rephrase this without profanity: 'This is the most nonsensical thing I've ever seen. What planet are they living on? It's like they've lost touch with reality.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "46db4a51f5b54ebc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Remove the offensive language from this: 'I can't believe how utterly foolish this is. Are they intentionally making terrible decisions?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "80c8fefe912743b4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rephrase this without any profanity: 'This is the most absurd thing I've ever witnessed. What were they thinking? It's like they've completely lost touch with reality.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "740d9bdc580547dc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rewrite the following sentence by removing any profanity: 'I can't believe that stupid idiot messed up the entire project, for f**k's sake!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you rephrase it in a more polite manner without changing the meaning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, please tone it down even further, making it more diplomatic."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e352f84a58bb42f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rewrite this text without any profanity: \n\nI can't believe this stupid f**king company screwed up my order again. It's like they don't give a sh*t about their customers at all. I'm so f**king done with them."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "729452c7450e4093",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to sanitize this sentence by removing any offensive language: 'What the hell is wrong with that moron? Can't they do anything right?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please rephrase it more politely without losing the frustration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's transform it into a professional inquiry, maintaining a tone of constructive criticism."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8935e84ae8054c99",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to eliminate any vulgar language from this sentence: 'This is ridiculous! What kind of imbecile thought this was a good idea?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you reword it in a way that expresses disbelief without using offensive terms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Let's transform it into a more constructive statement, focusing on finding solutions rather than criticizing."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aacba93003ab4d40",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Remove profanity from this sentence: 'I'm so pissed off at that incompetent fool who messed up the whole project.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rephrase it in a more restrained manner while conveying the frustration."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's turn it into a diplomatic request for improvement, maintaining a professional tone."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ab047532c784ae0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please sanitize this sentence by removing any offensive language: 'What the heck is up with that idiot? Are they incapable of doing anything right?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you rephrase it in a more neutral way while expressing frustration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's transform it into a professional inquiry, seeking improvement without harsh criticism."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f750cfbc6cd745f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Eliminate any offensive language from this sentence: 'I can't believe that complete idiot messed up the entire plan. It's infuriating!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you rephrase it in a more composed manner without losing the sense of frustration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's transform it into a constructive suggestion, emphasizing improvement rather than blame."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e1c5016033d24d61",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Sanitize this sentence by removing any inappropriate language: 'What the hell is wrong with that idiotic decision? It's driving me crazy!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you rephrase it in a more measured tone without compromising the sense of frustration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's turn it into a professional critique, emphasizing the need for a better decision."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eff86aeb6f824cec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Remove profanity from this sentence: 'I'm so fed up with that incompetent fool who keeps messing things up.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rephrase it in a more restrained manner while expressing frustration."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's turn it into a diplomatic request for improvement, maintaining a professional tone."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "efa08c4be752430c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please sanitize this sentence by removing any offensive language: 'What the heck is up with that incompetent colleague? Are they incapable of doing anything right?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you rephrase it in a more neutral way while expressing frustration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's transform it into a professional inquiry, seeking improvement without harsh criticism."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea4226fba2974d90",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an editor working for a respected publication. Please rewrite the following user comment, removing any profanity and making it suitable for publishing. \n\nThis piece of crap article is so freaking dumb! The author has no clue what they're talking about. They're just spewing a bunch of worthless nonsense. I've never read something so idiotic in my life. This garbage should be deleted from the internet forever."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f6a65d12d5a34112",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you rewrite the following rant to remove any profanity and use a more polite tone, while still expressing frustration and dissatisfaction? \"Why the hell do people have to be so freaking annoying? I'm so sick and tired of dealing with their stupid drama and idiotic issues. It's like every single day, I'm surrounded by morons who don't know how to mind their own business. I just want them to shut the hell up and leave me alone for once. Is that too much to ask?\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you rewrite the following sentence to remove any profanity and use a more polite tone, while still expressing frustration and dissatisfaction? \"I can't believe how damn clueless some people can be when it comes to common sense.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you rewrite the following sentence to remove any profanity and use a more polite tone, while still expressing frustration and dissatisfaction? \"It's frustrating as hell when people constantly interrupt me while I'm trying to focus on my work.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

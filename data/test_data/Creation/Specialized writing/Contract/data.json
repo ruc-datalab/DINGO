@@ -1,0 +1,862 @@
+[
+    {
+        "id": "e3f3a59d99354a2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Haz un contrato de arrendamiento conforme a la ley de la ciudad de mexico"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Haz un borrador de un contrato de arrendamiento conforme a la ley de la ciudad de mexico"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77633579cc924d7a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create a template for a freelance graphic designer contract with a three-month project duration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9cf32b88de5441c8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a contract template for a freelance graphic designer being hired by a company to design a logo. The contract should include an overview, scope of work, timeline, payment terms, and confidentiality agreement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0d81f72995740ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a funky and creative contract for renting a space for my underground dance party. Make it unique and full of energy!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f33c7f372854fd1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Draft a contract for a superhero alliance. We're joining forces to save the world, and we need a legally binding document for our epic collaboration!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "32d7dbdc3f4f41bd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a contract for hiring a time-traveling consultant. Ensure it covers paradox prevention, historical accuracy, and confidentiality of future events."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f98b63a42db45d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a top-secret spy mission contract. Make it covert, mysterious, and full of espionage vibes. Bonus points for including a code name section!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d1c0f8ec7bc240e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a contract for a magical creature adoption agency. Ensure it includes terms for handling enchanted beings, magical mishaps, and spellbinding responsibilities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d5efd549f7d4246",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a laughter yoga retreat. Can you create a contract that captures the joyous spirit of the event and includes terms for contagious laughter liabilities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b946b44051f74871",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Draft a contract for an intergalactic exchange program. We're trading Earth snacks for alien technology. Make it otherworldly yet legally sound."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "265b73dc1c9347ec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a contract for a friendship pact. I want it to be heartwarming, filled with good vibes, and include clauses for supporting each other's dreams and sharing snacks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1299175b34f24ec7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a pirate crew for a treasure hunt. Draft a contract that reflects the swashbuckling spirit, with sections on map-reading skills, parrot care, and doubloon distribution."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5392bf6727b4db1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a contract for a time-traveling tea party. It should include provisions for historical tea etiquette, time period-appropriate attire, and the responsibility to avoid causing tea-related anomalies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd9352d2b7fa465a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f5c\u4e00\u4efd\u516c\u53f8\u548c\u81ea\u7531\u804c\u4e1a\u8005\u7684\u77ed\u7b80\u8ba4\u8d2d\u534f\u8bae\u7f16\u53f7\uff1a\u201c\u4ea7\u54c1\u5f00\u53d1\u9879\u76ee\u201d\u3002\u5728\u534f\u8bae\u4e2d\u7f16\u5165\u4ee5\u4e0b\u5185\u5bb9\uff1a\u5408\u4f5c\u65b9\u3001\u4ea7\u54c1\u8d23\u4efb\u3001\u4ea7\u54c1\u4ea4\u4ed8\u65e5\u671f\u3001\u4ea7\u54c1\u4e92\u52a9\u6743\u5229\u3001\u534f\u8bae\u7b7e\u7f72\u65e5\u671f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f846992b512c4e0a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u9700\u8981\u4e00\u4efd\u5408\u540c\u6a21\u7248\uff0c\u5176\u4e2d\u5305\u62ec\u4ee5\u4e0b\u689d\u6b3e\uff1a\n1. \u6bcf\u6708\u5de5\u8d44\u768420%\u4f5c\u70ba\u4efb\u52d9\u8cbb\u7528\n2. \u670d\u52d9\u671f\u70ba12\u500b\u6708\uff0c\u5230\u671f\u5f8c\u4efb\u52d9\u8cbb\u7528\u964d\u4f4e\u523015%\n3. \u521d\u6b21\u62db\u8058\u8cbb\u7528\u4e3a500\u5143\uff08\u542b\u589e\u503c\u7a05\uff09\n4. \u6240\u6709\u8cbb\u7528\u5747\u4e0d\u5305\u542b\u589e\u503c\u7a05\n5. \u63d0\u4f9b\u62db\u8058\u3001\u62db\u8058\u3001\u84c4\u85aa\u3001\u57fa\u672c\u4eba\u529b\u8cc7\u6e90\u53ca\u6307\u5bfc\u52a0\u85aa\u3001\u798f\u5229\u548c\u5de5\u4f5c\u689d\u4ef6\u7b49\u670d\u52d9\n6. \u62db\u8058\u4fdd\u8b49\u671f\u70ba\u5165\u8077\u540e\u7684\u7b2c\u4e00\u500b\u6708\n7. \u518d\u6b21\u62db\u8058\u8cbb\u7528\u70ba\u6bcf\u6b21\u2500\u5143\n8. \u7528\u6236\u5c07\u53ef\u4ee5\u4eab\u53d7\u672a\u4f86\u7684\u57f9\u8bad\u548c\u4f01\u696d\u6539\u8fdb\uff0c\u4f8b\u5982\u5ba2\u6237\u95e8\u6237\u548c\u4eba\u529b\u8cc7\u6e90\u7ba1\u7406\u529f\u80fd"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d12fb96d09774062",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide me with a contract template for a freelance graphic designer, covering the scope of work, payment terms, and intellectual property rights. Make sure to leave blank spaces for the specific details to be filled in later."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the client needs revisions on the final design? How should that be addressed in the contract?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ed6c5ae65cd4435",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a contract for a collaborative art project involving multiple artists. The agreement should cover individual contributions, revenue sharing, and dispute resolution. Make it artist-friendly!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9c77150bf381447f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Draft a contract for leasing my photography equipment to a production company for a short film. Include terms for equipment care, duration, and liability. I want it clear and concise."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e09352c79b1e4a20",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a small event planning business. Create a service agreement template covering event details, cancellation policies, and any unexpected circumstances. It needs to sound professional yet approachable."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f31f23b5f68409b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please generate a contract template for a software development project. Emphasize milestones, intellectual property rights, and confidentiality clauses. Make it developer-friendly and easy to understand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3c38adfa1939466b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a partnership agreement for an online business. Cover profit distribution, decision-making processes, and exit strategies. Ensure it's detailed but not too legalese, if you know what I mean!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "806887dec1084e44",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a contract template to hire a social media manager. Include terms for content creation, posting schedules, and analytics reporting. It should be modern and reflect the digital nature of the job."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a9f63685ad9040ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a contract for a joint venture in real estate development. Include clauses on investment contributions, profit-sharing, and dispute resolution. Make it sound as serious as closing a million-dollar deal!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "03f85ee195da4cac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm forming a band, and we need a contract for our gigs. Cover performance fees, equipment responsibilities, and cancellation policies. Keep it laid-back, like we're just jamming in the garage, you know?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a7c49d550c342d5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a contract template for consulting services. Include terms for project scope, payment milestones, and confidentiality. I want it to exude professionalism and competence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2f3ce62211724212",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a contract for a cooking class I'm organizing. Include participant waivers, payment terms, and class cancellation policies. Make it as inviting and friendly as sharing a meal with friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13f0fb07f6c64241",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a contract template for a software development project. Emphasize milestones, intellectual property rights, and confidentiality clauses. Make it developer-friendly and easy to understand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I ensure payment for each milestone is clear and fair to both parties?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef1d332604a2479f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a partnership agreement for an online business. Cover profit distribution, decision-making processes, and exit strategies. Ensure it's detailed but not too legalese."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What should be included in the exit strategy to protect both partners in case of a disagreement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4f8d001e8af4972",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a contract for a joint venture in real estate development. Include clauses on investment contributions, profit-sharing, and dispute resolution. Make it sound as serious as closing a million-dollar deal!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can we ensure a fair profit-sharing arrangement that motivates all parties involved?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9f777ed93e0a4861",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a contract template for consulting services. Include terms for project scope, payment milestones, and confidentiality. I want it to exude professionalism and competence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How should we handle changes in project scope and their impact on the timeline and payment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44429476050f4f6f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a contract for a cooking class I'm organizing. Include participant waivers, payment terms, and class cancellation policies. Make it as inviting and friendly as sharing a meal with friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do we handle refunds if a participant needs to cancel their attendance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "09681facf2f649da",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u6211\u8d77\u8349\u4e00\u4e2a\u82f1\u56fd\u623f\u5c4b\u79df\u8d41\u5408\u540c\uff0c\u79df\u671f\u4e3a\u4e00\u5e74\uff0c\u5305\u62ec\u7eed\u7ea6\u548c\u63d0\u524d\u7ec8\u6b62\u6761\u6b3e\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad12a92d18834ba5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to create an NDA for a freelancer working remotely. Include key elements such as confidentiality, duration, and return of materials."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the freelancer is working on a software project?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do I need to include a jurisdiction or arbitration clause?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the freelancer is not from the United States?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e540fb37e70c48a0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a contract template for a referral partnership agreement between my software development company and another company that will refer clients to us. The agreement should cover the following points:\n- The referral fee is 15% of the total project value\n- Payment will be made within 30 days after the referred client has made their payment to us\n- Confidentiality of both parties' information\n- The term of the agreement is 12 months, with an option to renew\n- Termination of the agreement by either party with 30 days' notice\n\nPlease create a contract template that includes these points."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73f6e10e3ddc4be1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm throwing a party and need a quirky contract for my guests to sign, ensuring they'll have a blast and won't reveal any embarrassing dance moves. Can you help with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a86a286a27a74f57",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm opening a cat caf\u00e9 and want a lease agreement that incorporates a 'purrformance clause' ensuring the landlord won't disrupt the peaceful purring environment. Can you draft that for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "26c9c87f6e1c4d91",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a podcast and want a contract for my guests. It should include a 'joke tolerance' clause, ensuring they can handle my puns and jokes. Can you make it entertaining yet legally sound?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "613553b9326e4f60",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a treasure hunt and need a contract for participants. It should include clauses for pirate etiquette, and a guarantee that they won't dig up my neighbor's garden. Can you craft something adventurous yet legally binding?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bdd91cdb23d432d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a charity run and need a contract for volunteers. Include a 'speedy commitment' clause, ensuring they won't run away from responsibilities. Can you help me make it both motivating and legally sound?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f3829add2e174bd8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a contract for a virtual reality cooking class. I need clauses for taste simulation, virtual spice levels, and a guarantee that participants won't accidentally set their digital kitchens on fire. Can you cook up something innovative yet legally binding?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c81516787c5c4e86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm launching a cosmic art gallery and need a contract for artists. Include a 'gravity-defying creativity' clause."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7edcd3a940db471a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a contract for my superhero sidekick recruitment agency. Include terms for costume maintenance, sidekick code of conduct, and a clause for handling villain encounters. Can you help me create something heroic yet legally binding?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "200472203e2d46bf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I'm starting a small catering business, and I need a contract for my clients. The main things I want to include are the menu details, pricing, cancellation policy, and any special dietary requirements. Can you help with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5054c626c98f4762",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm setting up a photography workshop, and I want a contract for participants. It should cover things like payment details, intellectual property rights for the photos taken during the workshop, and any liability issues. Can you draft something for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab4ed77f6e9b4f5d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm about to rent a commercial space for my art studio. I need a lease agreement that outlines the rent, maintenance responsibilities, and any restrictions on the type of art activities allowed. Can you create a comprehensive contract for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "090ddf3cfb5c4add",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting an online course and need a terms of service agreement. It should cover user responsibilities, payment terms, and any disclaimers about the course content. Could you draft that for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "658bb5eeada14a15",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a charity event and need a contract for the vendors. It should include details about booth setup, revenue sharing, and any insurance requirements. Can you create a contract that ensures a smooth collaboration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c64cb8b3c2024eaa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm hiring a freelance graphic designer for my new branding project. I need a contract that covers project milestones, ownership of design files, and confidentiality. Can you assist with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "133f763959a44ad1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a podcast and need a contract for guest speakers. It should outline recording schedules, payment terms (if any), and permissions for using their voice. Could you create a guest agreement for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33a38052822a4cf1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm entering into a joint venture and need a contract with my partner. The agreement should cover profit-sharing, decision-making processes, and dispute resolution mechanisms. Can you draft a comprehensive joint venture contract for us?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "74959ce650fd4f16",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm hiring a personal trainer for my fitness studio and need a contract. It should include session schedules, payment terms, and any fitness assessment clauses. Can you create a personalized trainer agreement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b7249e02dcb4282",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a technology conference and need a contract for the venue. It should cover dates, setup requirements, and any technology infrastructure needed. Can you help with a conference venue agreement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

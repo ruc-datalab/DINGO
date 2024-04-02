@@ -1,0 +1,770 @@
+[
+    {
+        "id": "0e41cd1b07d6436b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide a brief introduction for an article about the benefits of organic skincare products for a company's blog?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d7ee4e62fb054461",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am a new tech startup called 'Innovate365'. Our main product is a cutting-edge project management software that helps teams collaborate seamlessly, prioritize tasks, and track progress. Our target audience is primarily small to medium-sized businesses. I need an official account article that would promote our product. Make it convincing and engaging. I don't have much time, so make it quick!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e6c8e6c69313453b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I run a travel agency named 'Wanderlust Adventures.' Can you help me draft an engaging blog post about the top 10 offbeat travel destinations for 2023?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c66e2e23fd5c48dc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a fitness enthusiast managing 'FitFusion.' Create a compelling article for our fitness blog, emphasizing the benefits of a balanced diet and the impact on overall health."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae7114c3f78747a3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a chef running 'Gourmet Delights,' I need a mouth-watering blog post on the evolution of fusion cuisine. Can you capture the essence and excitement of culinary innovation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "82ba9e3e32f84b8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a tech blogger at 'CodeCrafters.' Craft a thought-provoking article on the impact of artificial intelligence on software development and its future implications."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec81917e7080448a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Running 'PawsParadise,' a pet care business. Can you help create a heartwarming blog post about the joys and challenges of adopting rescue pets?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "51dc5a1432554c22",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a financial consultant at 'WealthWise.' Write an informative article on investment strategies for beginners, focusing on risk management and long-term gains."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f41c3621aa15495b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Running 'EcoSolutions,' an environmental awareness initiative. Craft a compelling blog post about the small changes individuals can make to reduce their carbon footprint."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2d416b4803544b19",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a beauty influencer at 'GlamGuru.' Create an attention-grabbing article highlighting the latest trends in skincare and beauty for the upcoming season."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "188a1ef5143f453f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Operating 'TechTrendsNow.' Write a blog post on the emerging technologies shaping the future, with a focus on their practical applications in daily life."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fbab5c6fdb094de1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a lifestyle blogger for 'UrbanChic.' Can you help me create a vibrant article on urban gardening and its positive impact on city living?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7af5d90e8bc84688",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to imagine that you are the editor-in-chief of a popular online magazine, and I need a captivating article about the benefits of using eco-friendly products. I expect you to include the impact on the environment, human health, and the economy. Make it engaging and informative."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5061d6fe302c4017",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a blog post outline for a marketing agency discussing the top 5 social media trends for small businesses in 2023?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "788dae40480e476f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As the creative director of a lifestyle magazine, I need a unique and visually stunning article about the emerging trends in sustainable fashion. Make it visually appealing and highlight the impact on consumer choices and the fashion industry as a whole."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99091e303e594e3d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a guest speaker at a tech conference. Craft a thought-provoking speech on the ethical implications of artificial intelligence in our society. Dive into issues like privacy, bias, and the responsibility of tech companies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68507d98b03f4c62",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a travel blogger with a large following. Write a captivating post about the transformative power of travel on personal growth. Share personal anecdotes, cultural insights, and tips on making meaningful connections on the road."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69235f9154aa478b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture yourself as a science journalist. Craft an article on the latest breakthroughs in renewable energy, emphasizing their potential to reshape the global energy landscape. Make it accessible to a broad audience without sacrificing scientific accuracy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4d68e7f5fbf041f5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the shoes of a TED Talk speaker, prepare a script addressing the importance of fostering creativity in education. Delve into the ways creativity enhances problem-solving skills, critical thinking, and overall student engagement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb824dffe37e4bf5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are the host of a popular cooking show. Create an episode script featuring innovative plant-based recipes that appeal to both vegans and meat lovers. Showcase the delicious side of sustainable and cruelty-free eating."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00e5be94ca984e5f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a political commentator, draft an opinion piece on the role of technology in shaping modern democracy. Discuss the pros and cons, potential risks, and benefits, and propose ways to strike a balance between innovation and safeguarding democratic values."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77bc9d6b63794624",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a fitness guru with a massive online following. Craft an inspiring article on the holistic benefits of combining physical and mental well-being. Share personal experiences, expert insights, and practical tips for achieving a balanced lifestyle."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "411e665b92c74a1d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a renowned tech reviewer. Write a comprehensive analysis of the latest advancements in wearable technology, focusing on their impact on health, productivity, and daily life. Include recommendations for different user demographics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6087c4f0f5ee4d41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the role of a financial analyst, compose an article exploring the potential economic implications of a cashless society. Discuss the benefits, challenges, and societal shifts that may arise as digital currencies become more prevalent."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "35fbc8f67e8b4aee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an engaging opening paragraph for an article promoting a new fitness app that helps people track their workouts, nutrition, and progress."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "397f4a0e11c14c24",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a Marketing Specialist for a global technology company. They want to create a series of articles for their official account. The articles should focus on the company's latest innovations, eco-friendly initiatives, and future plans. Can you please provide a brief overview of each topic and suggest some catchy headlines for the articles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I need ten more headlines for eco-friendly initiatives."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please provide ten more headlines for the future plans topic."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "47726957300a4fcb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u6784\u5efa\u4e00\u7bc7\u5173\u4e8e\u300c\u63d0\u9ad8\u4e13\u6848\u7ba1\u7406\u6548\u7387\u300d\u7684\u516c\u4f17\u53f7\u6587\u7ae0\uff0c\u5e76\u63d0\u4f9b 5 \u4e2a\u4e0d\u540c\u7684\u89d2\u5ea6\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9366a807dd53459f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a captivating opening paragraph for a blog post about the impact of mindfulness on workplace productivity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0dfedbdb8f4248f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an attention-grabbing introduction for an article discussing the future of space exploration and its potential impact on our daily lives."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9e5254bb75f40dd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a compelling opening paragraph for a social media post introducing a new line of sustainable fashion products."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8cf7b1c041704f92",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a travel blogger. Write an enticing paragraph to kick off a blog post about hidden gems and lesser-known travel destinations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "938045c9fd594248",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create an engaging introduction for an article on the role of artificial intelligence in shaping the future of healthcare."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f3189a1995e042e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a captivating opening for a video script highlighting the importance of mental health in the modern digital age."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4690eaf516e94637",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a food enthusiast, help me start a blog post about the cultural significance of street food around the world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e2de7ec8eee447e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a compelling opening paragraph for a podcast episode discussing the impact of climate change on biodiversity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85a18e29bb0d4cb6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a catchy introduction for an infographic showcasing the evolution of technology over the past decade."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94507b7b725048d1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a fitness coach. Write a compelling opening for a blog post on the psychological benefits of regular exercise."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3d4ec1c0bd494d2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u4e00\u7bc7\u4ecb\u7ecd\u521b\u4e1a\u5fc3\u5f97\u7684\u516c\u4f17\u53f7\u6587\u7ae0\u5199\u4e00\u4e2a\u771f\u8bda\u7684\u5f00\u7bc7\u6bb5\u843d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9ee9a093982a4797",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4e00\u7bc7\u5173\u4e8e\u4e2d\u56fd\u53e4\u4ee3\u8bd7\u8bcd\u4e4b\u7f8e\u7684\u516c\u4f17\u53f7\u6587\u7ae0\u521b\u4f5c\u4e00\u4e2a\u5bcc\u6709\u6587\u91c7\u7684\u5f00\u5934\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20b05503a3314145",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u60f3\u8c61\u4e00\u4e0b\u4f60\u662f\u4e00\u4f4d\u7f8e\u98df\u535a\u4e3b\uff0c\u4e3a\u4e00\u7bc7\u5173\u4e8e\u4f20\u7edf\u5bb6\u5e38\u83dc\u7684\u516c\u4f17\u53f7\u6587\u7ae0\u5199\u4e00\u4e2a\u63a5\u5730\u6c14\u7684\u5f00\u7bc7\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0197a6f18ae84f26",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u64b0\u5199\u4e00\u7bc7\u5173\u4e8e\u672a\u6765\u79d1\u6280\u8d8b\u52bf\u7684\u516c\u4f17\u53f7\u6587\u7ae0\uff0c\u5e76\u4e3a\u5176\u8bbe\u8ba1\u4e00\u4e2a\u5f15\u4eba\u5165\u80dc\u7684\u5f00\u5934\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e4995331cc44e0b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4e00\u7bc7\u4ecb\u7ecd\u5065\u5eb7\u751f\u6d3b\u65b9\u5f0f\u7684\u516c\u4f17\u53f7\u6587\u7ae0\u5199\u4e00\u4e2a\u5f15\u4eba\u6ce8\u610f\u7684\u5f00\u7bc7\u6bb5\u843d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a568d24d6b3042ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4f4d\u73af\u4fdd\u6d3b\u52a8\u5bb6\u7684\u8eab\u4efd\uff0c\u4e3a\u4e00\u7bc7\u5173\u4e8e\u96f6\u5e9f\u5f03\u751f\u6d3b\u65b9\u5f0f\u7684\u516c\u4f17\u53f7\u6587\u7ae0\u64b0\u5199\u4e00\u4e2a\u5f15\u4eba\u5165\u80dc\u7684\u5f00\u5934\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f97f3ce437af4324",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4f4d\u6444\u5f71\u5e08\u7684\u8eab\u4efd\uff0c\u4e3a\u4e00\u7bc7\u8bb2\u8ff0\u6444\u5f71\u6280\u5de7\u7684\u516c\u4f17\u53f7\u6587\u7ae0\u5199\u4e00\u4e2a\u4e13\u4e1a\u7684\u5f00\u7bc7\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6b4af37d12c94f50",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want an article about the benefits of using eco-friendly products for a company's official account. It should be brief, to the point, and engaging."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide some examples of eco-friendly products?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6e9fa54a28a4555",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I would like you to pretend to be a social media content expert for a sustainable fashion brand. We need to create shareable and engaging content for our Instagram account. Our target audience is primarily environmentally-conscious women between the ages of 18 and 35. Can you please provide some content ideas to make our Instagram account more appealing and interactive?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the content ideas. Could you please suggest some Instagram Stories ideas to further engage our audience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please provide five examples of captions I can use for Instagram posts, focusing on promoting our sustainable fashion brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4705b4dc15a7495b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u7ed9\u6211\u6d4b\u8bd5\u4e00\u4e2a\u5fae\u4fe1\u516c\u4f17\u53f7\u63a8\u6587\u7684\u6807\u9898\u548c\u6982\u8981\uff0c\u4e3b\u9898\u662f\u201c\u590f\u65e5\u4fdd\u5065\u201d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "96241662b2814f32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an engaging article intro about the benefits of using organic skincare products. Make it captivating, but hurry up."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Too long! Condense it into two sentences that instantly grab the reader's attention."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

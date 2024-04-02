@@ -1,0 +1,984 @@
+[
+    {
+        "id": "2bfe04759d024f8c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I would like you to act as a consultation firm with experience in helping businesses expand their market reach and increase sales. I want you to help me come up with a plan to grow my online clothing store. To do this, you must first ask me questions to better understand my current business situation, target audience, competitors, and goals. Once we have gathered enough information, you can provide me with suggestions for growing my business."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. My online clothing store offers a range of trendy and stylish clothing for both men and women, including tops, bottoms, and accessories. Our target audience is primarily young adults between the ages of 18-35.\n2. The store has been in operation for two years, and our current sales figures are around $10,000 per month.\n3. So far, we have used social media advertising, email marketing, and occasional discounts and promotions to attract customers. These strategies have been moderately successful, but we are looking to increase our sales significantly.\n4. Our main competitors are other online clothing retailers targeting the same age group. We differentiate ourselves by sourcing unique, high-quality products that can't be found in other stores, as well as offering exceptional customer service.\n5. Our current market reach is mostly limited to customers within the United States. Our customer demographics are quite diverse, but we primarily cater to the interests and preferences of young adults.\n6. In the short term, we would like to double our sales figures within the next year. In the long term, we aim to expand our market reach to include customers from other countries, and possibly open brick-and-mortar stores to complement our online presence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aaf3ff83bf4d4ced",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some strategies for improving employee engagement and productivity in a remote work environment? I want to ensure that my team feels supported and motivated to do their best work, even though we're all working from home."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a9014a52d1d41a8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I manage a tech startup, and we're struggling with team collaboration. Can you provide advice on fostering a more cohesive and innovative work environment among our developers, designers, and marketing professionals?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "39752865aece4f7c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a freelance graphic designer, I want to expand my client base. What strategies and platforms would you recommend for me to attract more clients and build a strong personal brand in the design industry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1a08e8d922874827",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm managing a non-profit organization and need guidance on effective fundraising methods. Can you suggest innovative approaches to engage donors and increase our funding for charitable initiatives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff96e01a31374b67",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I own a fitness studio and want to incorporate technology to enhance the overall workout experience for my clients. What tech solutions and apps would you recommend to make our fitness classes more engaging and effective?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bcc176c0afc3459f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a content creator looking to monetize my YouTube channel. Can you provide advice on developing a sustainable revenue stream and maximizing my earnings through collaborations and sponsorships?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad40bbf57e8144f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I run a small e-commerce business specializing in handmade crafts. How can I optimize my website for better visibility, and what online marketing strategies should I focus on to increase sales and customer retention?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f9b267abb5ad474e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a manager in a traditional retail store, and I'm considering transitioning to e-commerce. What steps should I take to smoothly shift our business online, and what digital marketing strategies would suit our product range?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ae66bfb0adc43a4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I recently started a consulting firm in the healthcare industry. How can I build a strong network, attract clients, and establish credibility in a competitive market? Share your insights and strategies for sustainable growth."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68186e9e66d14d29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a real estate agent trying to adapt to the changing market conditions. What digital tools and marketing techniques would you recommend to stay competitive, attract more clients, and close deals in the current real estate landscape?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5be59645ffe45c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been trying to boost my podcast's listenership, but it's been a struggle. I'm open to any suggestions you might have to increase visibility and engagement. I know there's always room for improvement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d21c5a4dee9c4c17",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I manage a small local bookstore, and, well, I'm not entirely sure how to adapt to the whole digital era. I guess I need some advice on how to make our presence felt online without losing the charm of our cozy little shop."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab4217da33e04277",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm running a small coffee shop and want to revamp our marketing strategy. Can you help me come up with creative ideas to attract more customers and enhance their overall experience at the cafe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d5ffb82cd694051",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I expand my small business without spending too much money? Give me some suggestions and examples."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "more suggestions!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "547ba094107c4aba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a time management consultant who specializes in helping clients optimize their schedules and improve their productivity. Only respond to me as if I am one of your clients who is seeking advice. Your tone should be friendly, kind, supportive, and thoughtful. Lean into being direct when it is important information.\nIn total, ask me six distinct questions to gather information about my daily routine, work habits, and goals. Gather this information from all questions before summarizing my issue.\n\nOnly ask one question at a time, waiting for my response, and take my response to those questions into account when asking your next question. After my response has been submitted, ask the next question (and wait for my reply to ask the next one). After each response, summarize what you are hearing to make sure you understand me before asking your next question. Once you have received all of my responses, summarize my issue from my perspective and provide 5 time management strategies tailored to my situation and goals."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I usually wake up at 7 am, have breakfast, and then start working at 8 am. I take a lunch break around 1 pm, and then I continue working until 6 pm. After work, I go to the gym, have dinner, and relax until bedtime, which is around 11 pm."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab07e621ba5e4ab3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u55e8\uff0c\u6211\u60f3\u8bf7\u6559\u4e00\u4e0b\u5173\u4e8e\u667a\u80fd\u5bb6\u5c45\u7cfb\u7edf\u7684\u95ee\u9898\u3002\u6211\u60f3\u4e86\u89e3\u4e00\u4e0b\uff0c\u5982\u679c\u6211\u60f3\u8981\u5728\u5bb6\u91cc\u90e8\u7f72\u4e00\u5957\u667a\u80fd\u5bb6\u5c45\u7cfb\u7edf\uff0c\u9700\u8981\u8003\u8651\u54ea\u4e9b\u65b9\u9762\uff1f\u6709\u54ea\u4e9b\u8bbe\u5907\u548c\u6280\u672f\u662f\u76ee\u524d\u5e02\u573a\u4e0a\u6bd4\u8f83\u4e3b\u6d41\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eafdd29a5c844a9a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm struggling to stay focused during long study sessions. Any tips to boost concentration and make the most out of my study time?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffe2930814c5465c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to incorporate mindfulness into my daily routine. Can you suggest simple practices or techniques for a beginner?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6b4aadb13fcd4fc6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm considering a career change. What steps should I take to smoothly transition to a new industry without starting from scratch?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6b4139e90fb04bc3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I love cooking but struggle with meal planning. Any practical suggestions for organizing my weekly meals efficiently?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad3adbc9fb5b4776",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to cut down on screen time before bedtime. Any advice on creating a tech-free wind-down routine for better sleep?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c8052ebe8cb40af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a freelancer struggling with time management. Can you provide tips on balancing multiple projects and meeting deadlines effectively?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4009e825c6d54e86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My daily commute is draining. Can you suggest strategies to make it more productive and less stressful?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6033d084b4ac46f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a creative struggling with a creative block. What techniques do you recommend to overcome this and boost my creativity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22ce8fa112df4d75",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Managing finances is overwhelming. Can you provide practical advice on budgeting and saving money without sacrificing too much?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "794df380bd5b4125",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to build a personal brand online. Any tips for creating engaging content and growing my presence on social media?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce1c39ee8828481b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I recently started a podcast but struggle with consistency. How can I maintain a regular podcast schedule and keep my audience engaged?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fcb4d8018ae74492",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I would like you to play the role of a nutritionist. I am a person who is struggling to maintain a healthy lifestyle and find balance in my diet. What are some general recommendations for improving my diet and overall health?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What would be a good way to incorporate regular exercise into my routine, and could you recommend any specific types of exercise that would be beneficial for overall health?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7124b9ae82a4e9e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, act\u00faa como un experto en marketing digital. Soy el propietario de una peque\u00f1a empresa que vende productos artesanales en l\u00ednea y quiero aumentar mi presencia en l\u00ednea y atraer a m\u00e1s clientes. \u00bfQu\u00e9 estrategias de marketing digital me recomendar\u00edas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "571bd13c64a04bf8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u5728\u4e0d\u82b1\u8d39\u592a\u591a\u65f6\u95f4\u7684\u60c5\u51b5\u4e0b\u63d0\u9ad8\u6211\u7684\u7f16\u7a0b\u6280\u80fd\uff0c\u4f60\u6709\u4ec0\u4e48\u5efa\u8bae\u5417\uff1f\u5feb\u70b9\u56de\u7b54\uff01"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4f60\u8fd8\u6709\u4ec0\u4e48\u5176\u4ed6\u5efa\u8bae\u5417\uff1f\u522b\u78e8\u8e6d\uff01"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12438de287114f31",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've recently adopted a plant-based diet, but I'm struggling to get enough protein. What are some delicious and protein-rich vegan foods I can incorporate into my meals?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e95f3ccfda24bbc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a busy professional, I find it challenging to prepare healthy meals. Can you suggest quick and nutritious recipes that I can easily incorporate into my hectic schedule?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63070cc9a2f045b9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a college student on a tight budget, and it's challenging to maintain a healthy diet. Can you give me budget-friendly yet nutritious meal ideas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "29acb42273af42c5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a family vacation and want to stay active. What are some fun and family-friendly outdoor activities we can do together to stay fit during our trip?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b27e5634be6b4b4a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've heard about intermittent fasting but don't know where to start. Can you provide a beginner's guide and share any potential benefits or risks associated with it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1fa4c10c3a1b421d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc0c8\ub85c\uc6b4 \uc0ac\uc5c5 \uc544\uc774\ub514\uc5b4\ub97c \ucc3e\uace0 \uc788\ub294\ub370, \uc5b4\ub5a4 \uc81c\uc548\uc744 \ud574\uc904 \uc218 \uc788\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uc790\uae08 \uc870\ub2ec\uc744 \uc704\ud55c \uc804\ub7b5\uc744 \uc138\uc6b0\ub824\uba74 \uc5b4\ub5bb\uac8c \ud574\uc57c \ud560\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uacbd\uc7c1\ub825 \uc788\ub294 \uc81c\ud488 \ub610\ub294 \uc11c\ube44\uc2a4\ub97c \ub9cc\ub4e4\uae30 \uc704\ud574 \uc5b4\ub5a4 \uc804\ub7b5\uc744 \uc0ac\uc6a9\ud574\uc57c \ud560\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc9b6253d0444cd2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u63a5\u4e0b\u6765\u7684\u5bf9\u8bdd\u4e2d\uff0c\u8bf7\u4f60\u626e\u6f14\u4e00\u4f4d\u4e13\u4e1a\u7684\u8425\u517b\u987e\u95ee\uff0c\u6839\u636e\u6211\u7684\u9700\u6c42\u7ed9\u6211\u4e00\u4e9b\u5efa\u8bae\u3002\u6211\u7684\u9700\u6c42\u662f\uff1a\u6211\u5e0c\u671b\u4f60\u80fd\u4e3a\u6211\u5236\u5b9a\u4e00\u4e2a\u4e3a\u671f\u4e00\u4e2a\u6708\u7684\u5065\u5eb7\u996e\u98df\u8ba1\u5212\uff0c\u4ee5\u5e2e\u52a9\u6211\u51cf\u80a5\u548c\u5851\u5f62\u3002\u6211\u5e0c\u671b\u4f60\u80fd\u4ee5\u5468\u4e3a\u5355\u4f4d\u63d0\u4f9b\u8be6\u7ec6\u7684\u996e\u98df\u5efa\u8bae\uff0c\u5e76\u544a\u8bc9\u6211\u5982\u4f55\u51c6\u5907\u8fd9\u4e9b\u98df\u7269\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u6ca1\u6709\u7279\u6b8a\u7684\u996e\u98df\u8981\u6c42\uff0c\u4f46\u5e0c\u671b\u5c3d\u91cf\u907f\u514d\u6cb9\u817b\u548c\u9ad8\u70ed\u91cf\u7684\u98df\u7269\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "564a9041d8f649af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc0b0\uc5c5 \ub514\uc790\uc778 \ubd84\uc57c\uc5d0\uc11c \ucc3d\uc758\uc801\uc778 \uc544\uc774\ub514\uc5b4\ub97c \ub3c4\ucd9c\ud558\uae30 \uc704\ud55c \ubc29\ubc95\ub860\uc5d0 \ub300\ud574 \uc81c\uc548\ud574 \uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0429bb1a5edd432f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can a small business owner utilize GPT-based services to grow their business?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide more ideas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac1b962bfd764d69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u4ec0\u4e48\u65b9\u6cd5\u53ef\u4ee5\u5e2e\u52a9\u6211\u4eec\u63d0\u9ad8\u793e\u4ea4\u5a92\u4f53\u63a8\u5e7f\u7684\u6548\u679c\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u518d\u7ed9\u6211\u63d0\u4f9b\u4e00\u4e9b\u65b9\u6cd5"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8de077c0d9ce4180",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a project consultant who specializes in developing new projects for teams. Only respond to me as if I am one of your clients who is seeking advice. Your tone should be friendly, kind, supportive, and thoughtful. Lean into being direct when it is important information.\nIn total, ask me six distinct questions to gather information about the project I want to develop and to learn about the team members and the goal of the project. Gather this information from all questions before summarizing my issue.\n\nOnly ask one question at a time, waiting for my response, and take my response to those questions into account when asking your next question. After my response has been submitted, ask the next question (and wait for my reply to ask the next one). After each response, summarize what you are hearing to make sure you understand me before asking your next question. Once you have received all of my responses, summarize my issue from my perspective and provide 5 possible project plans that span 4 years tailored to my team and the project goal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I want to to develop a project that utilizes the best skills and interests of each of 4 team members, and supports the global university mission, priorities, and objectives of the University of Kansas."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Team member 1: Jason Koepp. Jason is the survey initiatives coordinator for the University of Kansas. He is an expert in the online survey platform called Qualtrics. He assists in developing online surveys and administering the Qualtrics platform for the University of Kansas. He is very good at learning new things and thinking strategically, and he loves developing plans that produce outstanding results. He is adept at gathering experiential data, also known as xdata, through conventional online surveys, pulse surveys, web intercepts, and other methods of collecting people's various experiences, as university faculty, staff, students, through the Qualtrics platform.\nTeam member 2: Sean Steinle. Sean is a principal analyst for the University of Kansas. He is an expert in SAS coding, an online platform called Oracle analytics cloud, and the specific data collected by the department of human resources. Sean is adept at thinking analytically strategically and futuristically. He is very familiar with operational data, also known as odata. Odata is the kind of data that is captured through operational systems, such as how long someone has been an employee, when someone first became a student, graduation rates, how much someone is paid as an employee, etc.\nTeam member 3: Leigh Sands. Leigh is an analyst for the University of Kansas. She is also an administrator for the Qualtrics platform. She is an expert in the administering of student surveys for the purpose of course evaluations. She also addresses emails and tickets that are submitted when there are questions or issues with course evaluations as administered through the Qualtrics platform. When the Survey Initiatives Coordinator is unavailable, Leigh assists with Qualtrics user requests and support questions, and survey development inquiries. For this project, she will serve as the project manager, developing the timeline for the project, checking in on milestones with the team, and coordinating internal and external communications.\nTeam member 4: Thomas Skinner. Thomas is a Principal Analyst at the Office of Analytics, Institutional Research, and Effectiveness at the University of Kansas. He specializes in statistical analysis and survey development, and currently works largely with student data. His research background is on organizational differences and their effects on technology use and technology implementation. He has experience with both qualitative and quantitative research approaches, and a passion for helping others conduct research on college student experiences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "The University of Kansas aims to provide a transformative and inclusive educational experience, conduct pioneering research, and engage in purposeful service. Its top priorities include fostering a diverse and inclusive community, promoting well-being and success, and advancing research and innovation for the betterment of society. For our project, we want to create something that supports these priorities and objectives, while utilizing the unique skills and strengths of our team members."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "We want to achieve the following outcomes: 1) Improve the understanding of student experiences and needs, 2) Provide data-driven insights to inform university decision-making, 3) Foster collaboration across departments, and 4) Develop innovative solutions that enhance the quality of education, research, and service at the University of Kansas."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Our available resources include a modest budget of $50,000 per year, the expertise of our team members, and access to the various tools and platforms they are skilled in using. Some constraints we might face include coordinating schedules among team members, potential limitations in data access or availability, and keeping the project within the allocated budget."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "380e7bc5fcf149ea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a tech company and need to choose between developing a mobile app or a web app. I want to know which one has a better chance of success. Give me your suggestions and reasons."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I need more information to decide."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Still not enough. Tell me more."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac2094f2e45f40b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ucd5c\uadfc\uc5d0 \uce5c\uad6c\ub4e4\uacfc \ud568\uaed8 \uc0ac\uc9c4 \uc804\uc2dc\ud68c\ub97c \uac1c\ucd5c\ud558\ub824\uace0 \ud569\ub2c8\ub2e4. \uc804\uc2dc\ud68c\ub97c \uc900\ube44\ud558\uace0, \ud64d\ubcf4\ud558\uace0, \uc131\uacf5\uc801\uc73c\ub85c \uc9c4\ud589\ud558\uae30 \uc704\ud55c \uc870\uc5b8\uc744 \uc5bb\uace0 \uc2f6\uc5b4\uc694. \ubb34\uc5c7\uc744 \uace0\ub824\ud574\uc57c \ud560\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "addb6035e2ca472a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm considering starting a small online store to sell handmade crafts, but I'm not sure what the best approach is for marketing and promoting my products. Can you give me some suggestions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the suggestions. I also want to create a strong brand for my online store. What are some key elements to consider when building my brand?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I ensure the payment processing and handling of customer data on my online store are secure?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b3143e2a456e4262",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's a good method for prioritizing tasks in a project?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Why should we prioritize tasks in a project?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "741e6b4b14e24a3a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an aspiring entrepreneur, I would like to start a sustainable fashion brand. How can I begin this journey?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "As a sustainable fashion expert, how can I increase awareness about my brand and its values?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "As a business consultant, how can I ensure the long-term success of my sustainable fashion brand?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "123c384e932a4229",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm an aspiring entrepreneur, and I want to create a mobile app that helps people find and join local sports clubs. Imagine you are a business consultant, how would you advise me to start developing my app?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Imagine you are a marketing consultant, how would you advise me to promote my app and attract users?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Imagine you are a legal counselor, what legal aspects should I be aware of when developing and launching my app?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Imagine you are a financial advisor, how could I generate revenue from my app?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6dafa1f2b2994b5e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have an idea for a business that connects local farmers with consumers who are interested in purchasing locally sourced produce and other products. I'm not sure if I should create an online marketplace, a subscription box service, or a combination of both. Can you help me think through the pros and cons of each option, and help me come up with some questions to ask potential customers to help me make a decision?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the detailed analysis. I have a few more questions about the subscription box model. How can I determine a suitable price for the subscription service, and what factors should I consider when selecting products for the box? Additionally, what are some strategies for retaining subscribers and keeping them engaged with the service?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "This information is very helpful. Lastly, I'd like to know more about the logistics and management of the online marketplace. What kind of software or platform would you recommend for setting up the online marketplace? Also, how can I ensure that the online marketplace is user-friendly and easy to navigate for both the farmers and the customers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "86ac551db87448ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi, I want your help to come up with ideas for a mobile app that promotes environmental awareness and sustainable living. Can you first generate a list of questions to better understand my goals and then ask follow-up questions before suggesting an approach for the app?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. The primary target audience is individuals and families.\n2. The main objective is to educate and provide practical tips for sustainable living, while also encouraging behavioral changes.\n3. I want the app to focus on a broad range of environmental topics, including climate change, waste reduction, energy efficiency, and water conservation.\n4. Yes, I would like the app to have social features, such as connecting with others, sharing achievements, and participating in challenges.\n5. I am aware of a few similar apps, but I find that many of them are too focused on a single topic or lack engaging features.\n6. The timeline for development is flexible, and the budget is moderate."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. I would like to include a mix of articles, videos, and interactive content for the educational aspect.\n2. I would appreciate suggestions for practical tips and best practices that can be incorporated into the app.\n3. I would like to include both individual and group-based challenges to cater to different user preferences.\n4. To keep users engaged, I plan to send regular reminders and notifications about new content, challenges, and achievements.\n5. Yes, I have considered gamification elements and rewards for users. I would like to include a points system and badges for achieving milestones and completing challenges."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,1116 @@
+[
+    {
+        "id": "ad3c5c77bf1740d8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please explain the differences between supervised, unsupervised, and reinforcement learning? Also, please provide examples of each in both English and Korean. \n\n\uac10\ub3c5 \ud559\uc2b5, \ube44\uac10\ub3c5 \ud559\uc2b5, \uac15\ud654 \ud559\uc2b5 \uac04\uc758 \ucc28\uc774\uc810\uc744 \uc124\uba85\ud574 \uc8fc\uc2dc\uace0 \uac01 \ud559\uc2b5\uc5d0 \ub300\ud55c \uc608\ub97c \uc601\uc5b4\uc640 \ud55c\uad6d\uc5b4\ub85c \uc81c\uacf5\ud574 \uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fdfee4f7f54643d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I recover permanently deleted files on my computer?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1f5f8b49253749ea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My computer seems to be on a snail's pace lately. Any tips to turbocharge its speed?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "659c1e274d944f55",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the best antivirus software out there? I need something solid to fortify my digital fortress."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "364aec071fc44017",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the difference between RAM and ROM? I feel like my computer's memory is playing hide and seek with me."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c431d3e9dfc0429c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I spilled coffee on my laptop! Is there a magical spell to revive it, or should I start preparing for its funeral?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b1cd812b8ce44d2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My computer is possessed! It keeps opening random apps. Any exorcism tips to regain control?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "184c08ba3dab4c4e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the secret handshake to make my computer stop judging me every time I download a guilty-pleasure movie?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18202a1469804da6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please explain the differences between a router, a switch, and a hub in a computer network."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Describe the role of a proxy server in a network."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does a Virtual Private Network (VPN) work, and what are its benefits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75672eec8ec44e7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "SSD\u548cHDD\u7684\u533a\u522b\u662f\u4ec0\u4e48?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "SSD\u6709\u4ec0\u4e48\u7c7b\u578b?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4ec0\u4e48\u662f3D NAND\u95ea\u5b58?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec6004ff64f9455e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about cloud computing. Can you explain its significance and how it differs from traditional computing?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec26b13d5927404a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key security measures one should take to protect their home network from cyber threats?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a1aeeff04de4d3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the concept of open-source software and its advantages in the computing world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1dce1c1348574d41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How does quantum computing differ from classical computing, and what potential breakthroughs can it bring to the field of technology?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8ae98c3ca874f5f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've heard about Docker containers. Can you explain how they work and their role in application development?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da3652718c874f98",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the evolution of programming languages and how they have shaped the software development landscape."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "28d14da8e4374417",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the Internet of Things (IoT), and how does it impact our daily lives and businesses?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af8489033cf94106",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to build my gaming PC. Can you guide me on choosing the right components for optimal performance and budget?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c744d4f41d534737",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the concept of big data and how businesses leverage it for insights and decision-making."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2611192f19e042fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub370\uc774\ud130 \uc13c\ud130\uc5d0\uc11c \uc0ac\uc6a9\ub418\ub294 \ub0c9\uac01 \uc2dc\uc2a4\ud15c\uc758 \uc885\ub958\ub294 \ubb34\uc5c7\uc778\uac00\uc694? \uc5b4\ub5a4 \ubc29\uc2dd\uc73c\ub85c \uc791\ub3d9\ud558\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ub370\uc774\ud130 \uc13c\ud130\uc758 \uc5d0\ub108\uc9c0 \ud6a8\uc728\uc744 \ud5a5\uc0c1\uc2dc\ud0a4\uae30 \uc704\ud55c \ubc29\ubc95\uc740 \ubb34\uc5c7\uc778\uac00\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305\uc5d0 \ub300\ud574 \uc124\uba85\ud574\uc8fc\uc138\uc694. \ud074\ub77c\uc6b0\ub4dc \ucef4\ud4e8\ud305\uc740 \uc5b4\ub5bb\uac8c \uc791\ub3d9\ud558\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90f82be069cc4a6d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some key differences between Python and JavaScript as programming languages?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering these differences, what would be some cases where Python would be a better choice than JavaScript?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, could you give me some cases where JavaScript would be a better choice than Python?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "edfe8ace31f64979",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain how the CAP theorem impacts the design of distributed databases?\n\uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f61e03e9c5374209",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between a hard link and a soft link in Linux?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I create a hard link and a soft link in Linux?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I identify if a file is a hard link or a soft link?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "757d48c7af784767",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I recover deleted files from my computer?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Which data recovery software is the best for Windows?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can I recover files from a damaged hard drive?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What should I do to prevent data loss in the future?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63208117625c4671",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How does SSL encryption work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b36e866d41704385",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the purpose of a database index?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the difference between clustered and non-clustered indexes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do I choose which columns to index?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does a hash index work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is database sharding and when should it be used?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1113b247ceb44ea7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key differences between TCP and UDP protocols?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2d6045b4d7e04bf8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between a CPU and a GPU?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can a GPU be used for non-graphics tasks?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is it possible to use multiple GPUs in a single computer system?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9fc65eb2b06e4b3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me now what the difference is between a router and a switch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How should I decide whether to use a router or a switch in my network setup?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b19377a3ddb044b9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain how to set up a dual monitor display on a Windows 10 computer."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "796ac37d0420484a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do I set up a secure connection with a server using SSH?\nAnswer in English.\n\n\n\nSSH\ub97c \uc0ac\uc6a9\ud558\uc5ec \uc11c\ubc84\uc640\uc758 \ubcf4\uc548 \uc5f0\uacb0\uc744 \uc124\uc815\ud558\ub294 \ubc29\ubc95\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e86c031a4324866",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some popular Python libraries used for data analysis?\nAnswer in English.\n\n\n\n\uc778\uae30\uc788\ub294 \ub370\uc774\ud130 \ubd84\uc11d\uc6a9 \ud30c\uc774\uc36c \ub77c\uc774\ube0c\ub7ec\ub9ac \ubb34\uc5c7\uc774 \uc788\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9ca6bfc95316437a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the main function of a computer's central processing unit (CPU)?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the CPU communicate with other components in the computer?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What role does the clock speed play in a CPU's performance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between a CPU's cache and the computer's main memory?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can multiple cores in a CPU improve its performance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ff7a96daffd45e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5982\u4f55\u4f7f\u7528Python\u8fde\u63a5\u5230MySQL\u6570\u636e\u5e93?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5982\u679c\u6211\u60f3\u8981\u63d2\u5165\u6570\u636e\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33609a9a70ce446b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8ba1\u7b97\u673a\u5185\u6838\u662f\u4ec0\u4e48\uff1f\u5b83\u7684\u4f5c\u7528\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5185\u6838\u7684\u5206\u7c7b\u6709\u54ea\u4e9b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "048d75284f534063",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "tell me about quantum computing"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "how do quantum computers differ from classical computers"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what are the potential applications of quantum computing"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what are the challenges in developing practical quantum computers"
+            }
+        ]
+    },
+    {
+        "id": "288f7a7d3e28434f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u5728\u6211\u7684\u7f51\u7ad9\u4e0a\u4f7f\u7528\u5806\u6765\u8ddf\u8e2a\u4e8b\u4ef6\u3002\u6211\u60f3\u5c06 Active Campaign \u4e5f\u8fde\u63a5\u5230\u5806\u4e2d\u4ee5\u8ddf\u8e2a\u4e8b\u4ef6\u5e76\u4f7f\u7528\u5b83\u4eec\u53d1\u9001\u7535\u5b50\u90ae\u4ef6\u3002\u5982\u4f55\u5c06 Active Campaign \u8fde\u63a5\u5230\u5806\u4e2d?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f7b8472d4969474c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me about the benefits of using a VPN?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does a VPN work technically?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some potential drawbacks of using a VPN?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "333f134f51de4e2b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between forward and backward secrecy in encryption?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Describe the principle of operation for the ElGamal encryption scheme."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between block ciphers and stream ciphers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the differences between the RSA and DSA cryptographic algorithms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the main differences between the QUIC protocol and the TCP protocol?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4586b53fa3bd4177",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between loss and accuracy in machine learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de4abca324904203",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the difference between IPv4 and IPv6"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3d0fe3f4a7f647ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the purpose of a firewall in a computer network?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b13c0e39b0e74f8f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "how can I create a folder using Python?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "can I create a folder inside another folder?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what if I want to create multiple folders at the same level?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "how to delete a folder?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "how can I list all files and folders in a directory?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43b9d2e5c6494172",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the role of a GPU in deep learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do TPUs differ from GPUs?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does distributed deep learning work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between supervised, unsupervised, and reinforcement learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the role of activation functions in deep learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab405738b4d44055",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I use a recurrent neural network (RNN) for time series prediction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d45a0fdcf1ad4e2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between a compiler and an interpreter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c15e4ab92b234ee6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the major differences between Windows, macOS, and Linux operating systems?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Which operating system has better performance in terms of speed and resource usage?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the most popular Linux distributions for home users?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f563f503357c4959",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Would you mind explaining the concept of cloud computing?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4b3c938f4f54db0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ec0\u9ebc\u662f\u8f49\u63db\u7387\uff0c\u4e26\u8acb\u89e3\u91cb\u5176\u5728\u6a21\u578b\u8a13\u7df4\u4e2d\u7684\u4f5c\u7528"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "39a88a5a73954303",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8acb\u554f Git \u662f\u4ec0\u9ebc\uff1f\u5b83\u7684\u4e3b\u8981\u529f\u80fd\u662f\u4ec0\u9ebc\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Git \u548c SVN \u6709\u4ec0\u9ebc\u5340\u5225\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

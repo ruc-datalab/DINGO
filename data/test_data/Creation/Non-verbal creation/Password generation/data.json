@@ -1,0 +1,809 @@
+[
+    {
+        "id": "abd41480e031496f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a Python password generator based on user input"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I add a check to ensure the generated password contains at least one character from each selected category?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "df682f4a88cc4b4b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a 12-character password with at least 2 uppercase letters, 3 lowercase letters, 3 numbers, and 1 special character."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now create a 16-character password with at least 3 uppercase letters, 5 lowercase letters, 4 numbers, and 2 special characters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dec23d5b50824b5f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password based on these inputs: length = 12, capitalized = 2, lowercase = 6, numbers = 3, special = 1."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12c409d1265f47a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a super secure password. Make it 20 characters long with a mix of uppercase, lowercase, numbers, and symbols. Surprise me!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca4db5a6db154958",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a password for me! It should be 15 characters and include my favorite animal name, a number representing my age, and a random symbol. Go wild!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4553a40240754d74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm terrible with passwords. Generate one for me, 8 characters, with at least 2 uppercase letters and 2 numbers. Keep it simple!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfe7208294204d23",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cook up a passphrase, 14 characters, with the first letter of each word capitalized. I want it to sound like a secret code!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "74da263a25b04820",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a memorable password. Make it 10 characters, mix in some numbers and symbols, and make sure it's easy to type without looking!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ce6eceed1ef4fb4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password with my favorite color, the current year, and a special character. 16 characters, please!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f735144e65a84a01",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want a password that reflects my love for coding. 12 characters, mix of uppercase, lowercase, and include a coding-related symbol!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0fa1502ecd384975",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a password that feels like a song lyric. 18 characters, mix in some numbers and a musical note symbol, please!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a51289b660564875",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a secure password for my new blog. 14 characters, with at least 3 special characters and no repeating characters. Can you do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2374f0f875654edd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password inspired by space and stars. 15 characters, mix of uppercase, lowercase, and include a planet symbol. Thanks!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1069c8b2d02e49e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a Python script for generating a password?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I ensure the password is pronounceable and easier to remember?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to include a digit in the password?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ab9fa35540347ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "G\u00e9n\u00e9rateur de mots de passe en Python"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Est-ce que je peux choisir les types de caract\u00e8res \u00e0 inclure dans mon mot de passe ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "67b08121123f45fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been thinking about the importance of secure passwords. Could you help me generate a strong password, taking into account factors like length, capitalization, numbers, and special characters?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'd like a password that is 14 characters long, with at least 2 capitalized letters, 3 numbers, and 1 special character."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "47c154ff437f43ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some general tips for creating a strong password that's easy to remember?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d53caac96a67480e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password with a length of 12, one uppercase letter, one lowercase, one number, and one special character."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now generate a password that is 16 characters long, with at least two uppercase letters, three lowercase, two numbers, and two special characters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bf3de75f57c4834",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate 12-character password with 3 special characters"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "049f58fe4ec64fb1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password that is 25 characters long, includes 5 capitalized letters, 5 lowercase letters, 5 numbers, and 5 special characters, but also has every fifth character be a vowel."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now generate a password that is 30 characters long with 3 capitalized letters, 3 lowercase letters, 3 numbers, and 3 special characters while maintaining a Fibonacci sequence in their arrangement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c260a0fab98a427d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "G\u00e9n\u00e8re un mot de passe de 12 caract\u00e8res"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "83a4fd56b3cc4867",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a secure 16-character password with at least 4 special characters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72266f5327e743b9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a passphrase consisting of 20 characters with a mix of uppercase letters, lowercase letters, and at least 3 symbols."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb4bd4a102a4448a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a 14-character password containing 2 special characters and 3 consecutive numbers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6721f65954244677",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a 22-character password with alternating uppercase and lowercase letters, ending with a numeric digit."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a48085be5aac4993",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a password of length 18 with 6 randomly placed special characters and at least one word from the dictionary."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5598e4c0739f45f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a 15-character password using a combination of your favorite colors and at least 3 unique symbols."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cff960e1295343b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a 28-character password with 5 randomly placed uppercase letters, 5 lowercase letters, 7 numbers, and 11 special characters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef73c761b03b40bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a 19-character password with a mix of letters, numbers, and symbols, ensuring no consecutive characters are the same."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b15522e797f49dc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a secure 24-character password containing at least 6 special characters, 6 numbers, and 6 uppercase letters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "16fac2dbe91045b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please generate a secure password using the following input forms: length = 12, capitalized = 2, lowercase = 6, numbers = 3, special = 1. Thank you."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eadc7f494b68436e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "G\u00e9n\u00e8re un mot de passe en utilisant Python"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Je veux un mot de passe sans caract\u00e8res sp\u00e9ciaux"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e9ab3ce22cf478a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a passphrase for my personal blog that includes the words 'adventure,' 'serendipity,' and 'wanderlust.' Make it poetic, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9af6e72ae2704639",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a password with the combination of my birthdate (DDMMYYYY) and the initials of my favorite book. Add at least 4 special characters for extra security."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b7a900c51b94c61",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a unique and secure password using only emoji characters. Make it fun and memorable!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "323d48bf33664677",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a password for my online art gallery account. Create a 16-character password inspired by famous paintings and artists."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5924747f7804323",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a secure password for my fitness app, incorporating the names of different workout routines and equipment. Make it energetic!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ced4551091d404b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a password with a tech twist. Include coding terms and software names. Make it geeky and 20 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1fe429cfa36f4e67",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a password that reflects my love for astronomy. Include celestial terms and my favorite constellation. Make it cosmic!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eca6087bd65046f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password that incorporates elements from my favorite board game and adds an element of mystery. Make it strategic and 18 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "605bf7d965d34830",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a password for my cooking blog. Use ingredients and cooking terms to create a 14-character password that's savory and fun."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1eab27916a3a4196",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a password for my pet care app. Include pet names, breeds, and playful terms. Make it cute and 16 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c50531d514214ed7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a password that reflects my passion for hiking and nature. Use trail names, outdoor terms, and a touch of adventure. Make it rugged and 22 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43caab0799ee4daf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a secure password for my online book club. Include book titles, author names, and literary terms. Make it bookish and 20 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "457ebfa2da0c4c0c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password inspired by science fiction. Include spaceship names, alien terms, and futuristic elements. Make it out-of-this-world and 24 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2bdd425eee754e32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a futuristic password for my tech startup account. Use futuristic terms, innovation buzzwords, and a dash of cyberpunk. Make it cutting-edge and 22 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "547094b45cd14936",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a pirate-themed password for my sailing blog. Include ship names, sea shanties, and a pirate's charm. Make it seafaring and 18 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "034be7bfe01e42f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a password for my nature photography account. Use wildlife names, photography terms, and the beauty of nature. Make it picturesque and 20 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0eafd73db604088",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a password inspired by time travel. Include historical events, famous dates, and the concept of time. Make it timeless and 24 characters long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

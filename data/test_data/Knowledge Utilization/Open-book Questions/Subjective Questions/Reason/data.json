@@ -1,0 +1,810 @@
+[
+    {
+        "id": "ca64b56e8e824de4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Stellen Sie sich vor, Sie sind ein Experte f\u00fcr erneuerbare Energien. Wie w\u00fcrden Sie die Vorteile der erneuerbaren Energien im Vergleich zu fossilen Brennstoffen erkl\u00e4ren?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Welche Herausforderungen gibt es bei der Umstellung auf erneuerbare Energien und wie k\u00f6nnten sie gel\u00f6st werden?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5ec41ee1d0a44a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why is it so hard to find a decent job these days?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I got skills and degree, but still no luck. What's the point of higher education then?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I've already tried everything. Why can't I just get a break?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c66c94c972cb4588",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do people procrastinate, and how can one overcome this habit effectively?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a scientific explanation for why we dream, and do dreams have any practical significance in our lives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12a10da125df4ba2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What motivates people to engage in extreme sports, and are there any psychological benefits to participating in such activities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explore the impact of technology on modern relationships and suggest ways to maintain genuine connections in the digital age?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bbcf57f8f2a84ea7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a world obsessed with productivity, why do people still value leisure and downtime? What's the psychological importance of relaxation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do cultural differences influence the perception of beauty, and why do societal standards of beauty vary across different cultures?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb5d9a3f630641d0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What factors contribute to the rise of conspiracy theories, and how can individuals critically evaluate information to avoid falling into such belief systems?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a link between creativity and mental health, and how can fostering creativity positively impact one's overall well-being?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e90a38c6d75045a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What societal factors contribute to the perpetuation of stereotypes, and how can individuals challenge and overcome these ingrained biases?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does nostalgia influence decision-making, and can it have both positive and negative effects on an individual's choices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e66d93b51e24dc2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do people enjoy traveling?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77db9dcb5f1043e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why move to a smaller city?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "072ecf7d53094faf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What motivates people to pursue extreme sports?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6cc1810e1f994879",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explore the reasons behind the popularity of vintage fashion trends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4afa13ea2eff4820",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Unravel the motives behind the fascination with dystopian literature."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d57a5c9ecd5408e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What prompts individuals to adopt a minimalist lifestyle?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e64086b7587a408a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Seek the underlying reasons for the resurgence of interest in traditional craftsmanship."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d30cc5655fd8443f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What drives the fascination with true crime documentaries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4b7dfee25e7e4094",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the reasons behind the preference for remote work in modern society."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e9217c010ea4123",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What motivates people to engage in social activism?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd900666a62f45db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Uncover the reasons behind the popularity of mindfulness practices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dde9578581fc4f02",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you investigate the motivations behind people's obsession with celebrity culture?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b09c36471b7247e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What motivates people to volunteer?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "335f411c13744b64",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u8ba4\u4e3a\u4ec0\u4e48\u6837\u7684\u4eba\u4f1a\u66f4\u5bb9\u6613\u6210\u529f\uff1f\u8bf7\u7b80\u8ff0\u539f\u56e0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "47196aaf27734c3d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do some people prefer physical books over digital ones, even though digital books are more convenient and accessible?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some potential downsides to relying solely on digital books?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de33b108fee24911",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u4f55\u6709\u4e9b\u4eba\u5bf9\u827a\u672f\u60c5\u6709\u72ec\u949f\uff1f\u4f60\u8ba4\u4e3a\u8fd9\u80cc\u540e\u7684\u539f\u56e0\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "168b2e6502554660",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain why certain individuals are drawn to extreme sports? What factors contribute to this attraction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1145f5167f854e42",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In your opinion, what motivates people to engage in volunteer work? Provide insights into the underlying reasons."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "beb260b520a94b9d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do individuals develop a passion for collecting rare stamps? Share your thoughts on the reasons behind this unique hobby."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5387e0c97924dd6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Curious minds want to know: What motivates people to pursue careers in scientific research? Unravel the reasons behind this intellectual journey."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "880c73cb54b340b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your insights on why certain individuals thrive in chaotic environments. What psychological factors contribute to their success amidst chaos?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5871bdf388744567",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u4f55\u6709\u4eba\u5bf9\u53e4\u4ee3\u5386\u53f2\u7740\u8ff7\uff1f\u8bf7\u5206\u6790\u4e00\u4e0b\u8fd9\u79cd\u5174\u8da3\u80cc\u540e\u7684\u539f\u56e0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e451a4064d34ecd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What drives people to embrace minimalism in their lifestyles? Delve into the reasons behind the choice for simplicity and decluttering."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24cebaf3372a4f73",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u89e3\u91ca\u4e3a\u4f55\u6709\u4e9b\u4eba\u559c\u6b22\u8ffd\u6c42\u6781\u7aef\u7684\u996e\u98df\u4e60\u60ef\uff1f\u4f60\u8ba4\u4e3a\u8fd9\u80cc\u540e\u7684\u539f\u56e0\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64d11ef3b8eb405f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do individuals find solace in spending time alone? Explore the psychological reasons behind the preference for solitude."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5982e260865a4493",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do some people prefer working from home while others thrive in an office environment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What challenges might people face when transitioning from an office environment to working from home?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1aeee5405b442af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u89c9\u5f97\u4ece\u4e8b\u6559\u80b2\u5de5\u4f5c\u548c\u4ece\u4e8b\u79d1\u7814\u5de5\u4f5c\u54ea\u4e2a\u66f4\u6709\u610f\u4e49\uff1f\u4e3a\u4ec0\u4e48\uff0c\u6211\u60f3\u77e5\u9053\u539f\u56e0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2efa70d0b2274597",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Warum sollte man sich f\u00fcr ein Elektroauto statt eines Autos mit Verbrennungsmotor entscheiden?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b8beb6af5a714c20",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why would anyone choose to live in a small town instead of a big city? Give me reasons."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f9e5fb4acef740df",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por que as pessoas gostam de m\u00fasica?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90df9a0a7f314e5c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain why someone would choose to buy a car instead of leasing it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now explain why someone would choose to lease a car instead of buying it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f3d59842e4b244c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do we experience d\u00e9j\u00e0 vu?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c3780dc43568407a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share the reasons behind people's fascination with mystery novels."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffb158c1af5b494f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What motivates individuals to pursue extreme sports?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b27457654f6344d2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Unravel the reasons why people find solace in nature."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "38f08e9112e64a35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What prompts individuals to become collectors of rare artifacts?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c3a501bb9cf84ab8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the reasons behind the popularity of mobile gaming."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea5ca5e22ee54f3d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the underlying reasons for the rising trend of minimalistic living."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a95ba8ffc21c4e76",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What drives people to choose remote work over traditional office setups?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d203a074bd004eeb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Uncover the reasons behind the popularity of food documentaries."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b705688787e94c71",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Delve into the reasons why certain historical events continue to captivate our interest."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

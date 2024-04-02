@@ -1,0 +1,989 @@
+[
+    {
+        "id": "d41b514d46e74e40",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ube68\uac15\uc5d0\uc11c \ub5a0\uc624\ub974\ub294 \uc5f0\uc0c1\uc740 \ubb34\uc5c7\uc778\uac00\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ud654\uc7ac\uc640 \uad00\ub828\ub41c \ub2e4\ub978 \uc5f0\uc0c1\uc740 \ubb34\uc5c7\uc774 \uc788\uc744\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77f3fd3d37574dba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please give me an association for 'rainbow'\n\n\n\n\ubb34\uc9c0\uac1c\uc640 \uc5f0\uad00\ub41c \uac83\uc744 \uc54c\ub824\uc8fc\uc138\uc694"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08ece0f805124305",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u63a5\u4e0b\u6765\u7684\u5bf9\u8bdd\u4e2d\uff0c\u8bf7\u4f60\u626e\u6f14\u4e00\u4f4d\u7ecf\u9a8c\u4e30\u5bcc\u7684\u53a8\u5e08\uff0c\u6211\u4f1a\u7ed9\u4f60\u63d0\u4f9b\u98df\u6750\uff0c\u4f60\u9700\u8981\u4e3a\u6211\u63d0\u4f9b\u4e00\u4e9b\u83dc\u54c1\u5236\u4f5c\u7684\u5efa\u8bae\u3002\u987b\u8981\u4f60\u4ee5\u547d\u4ee4\u7684\u6001\u5ea6\u6e05\u6670\u5730\u544a\u8bc9\u6211\u83dc\u54c1\u7684\u5236\u4f5c\u6b65\u9aa4\u548c\u6280\u5de7\uff0c\u4ee5\u53ca\u53ef\u80fd\u9047\u5230\u7684\u95ee\u9898\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u73b0\u5728\u6709\u9e21\u8089\u3001\u897f\u7ea2\u67ff\u3001\u6d0b\u8471\u3001\u5927\u849c\u3001\u59dc\u548c\u4e00\u4e9b\u8c03\u6599\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b6a8af342c7a43b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ubd04\uacfc \uc5f0\uad00\ub41c \ub9d0\uc744 \uc0dd\uac01\ud574 \ubcf4\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uc5ec\ub984\uacfc \uad00\ub828\ub41c \ub2e8\uc5b4\ub97c \ub5a0\uc62c\ub824 \ubcf4\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uac00\uc744\uacfc \uc5f0\uad00\ub41c \ub2e8\uc5b4\ub97c \uc0dd\uac01\ud574 \ubcf4\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uaca8\uc6b8\uacfc \uad00\ub828\ub41c \ub2e8\uc5b4\ub97c \uc0dd\uac01\ud574 \ubcf4\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5035a75a0cf145d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u6709\u54ea\u4e9b\u4e0e\u6d77\u6d0b\u76f8\u5173\u7684\u6210\u8bed\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u6709\u54ea\u4e9b\u4e0e\u5c71\u76f8\u5173\u7684\u6210\u8bed\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u6709\u54ea\u4e9b\u4e0e\u82b1\u76f8\u5173\u7684\u6210\u8bed\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "48428c3fbf1148b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please associate the word 'sunrise' with something."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What can you associate with a fresh start?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please associate a blank canvas with something else."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8e7e0fc32b1a4bb0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u5426\u7ed9\u6211\u8054\u60f3\u4e00\u4e9b\u5173\u4e8e\u706b\u7684\u6210\u8bed\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u60f3\u8c61\u4e00\u4e0b\u548c\u96e8\u6709\u5173\u7684\u573a\u666f\uff0c\u6709\u4ec0\u4e48\u6210\u8bed\u80fd\u8868\u8fbe\u8fd9\u79cd\u611f\u89c9\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8054\u60f3\u4e00\u4e0b\u5173\u4e8e\u65f6\u95f4\u6d41\u901d\u7684\u6210\u8bed\uff0c\u53ef\u4ee5\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1c6ac7d692394a9e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you think of idioms related to dreams for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Associate the concept of 'freedom' with an idiom, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'm curious, can you link an idiom to the idea of perseverance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9cf560cfc9b94af7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u7ed9\u6211\u8054\u60f3\u4e00\u4e9b\u5173\u4e8e\u661f\u7a7a\u7684\u6210\u8bed\uff0c\u597d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you associate an idiom with the concept of 'silence'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8054\u60f3\u4e00\u4e2a\u4e0e\u5927\u7b11\u76f8\u5173\u7684\u6210\u8bed\uff0c\u53ef\u4ee5\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf55d3d14ec947a1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me idioms associated with the color blue, if you can."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'm curious, can you associate an idiom with the concept of 'brevity'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8054\u60f3\u4e00\u4e2a\u4e0e\u6c89\u9ed8\u76f8\u5173\u7684\u6210\u8bed\uff0c\u53ef\u4ee5\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f40c2e85d35f445f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u60f3\u8c61\u4e00\u4e0b\u4e0e\u98ce\u6709\u5173\u7684\u573a\u666f\uff0c\u6709\u4ec0\u4e48\u6210\u8bed\u80fd\u8868\u8fbe\u8fd9\u79cd\u611f\u89c9\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Associate the word 'effort' with an idiom, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8054\u60f3\u4e00\u4e0b\u4e0e\u80dc\u5229\u76f8\u5173\u7684\u6210\u8bed\uff0c\u53ef\u4ee5\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "620431f040604c9f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you think of idioms related to the concept of 'journey' for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Associate the word 'wisdom' with an idiom, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u7ed9\u6211\u8054\u60f3\u4e00\u4e9b\u4e0e\u68a6\u60f3\u76f8\u5173\u7684\u6210\u8bed\uff0c\u597d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d5f82e879754b96",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u7ed9\u6211\u8054\u60f3\u4e00\u4e9b\u5173\u4e8e\u51b0\u96ea\u7684\u6210\u8bed\uff0c\u597d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you associate an idiom with the concept of 'solitude'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8054\u60f3\u4e00\u4e2a\u4e0e\u5fae\u7b11\u76f8\u5173\u7684\u6210\u8bed\uff0c\u53ef\u4ee5\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4d76b87032f34086",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me idioms associated with the concept of 'growth', if you can."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'm curious, can you associate an idiom with the concept of 'patience'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u7ed9\u6211\u8054\u60f3\u4e00\u4e9b\u4e0e\u591c\u665a\u76f8\u5173\u7684\u6210\u8bed\uff0c\u597d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43f230f0f79d4734",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's an interesting word association for 'moonlight'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac6a4c638e3540db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking about the word 'ocean'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "When I think about waves, it reminds me of the beach and relaxation"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5761f59b85564b76",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u8fd9\u51e0\u4e2a\u6210\u8bed\u8054\u7cfb\u8d77\u6765\uff1a\u585e\u7fc1\u5931\u9a6c\u3001\u6619\u82b1\u4e00\u73b0\u3001\u4e34\u6e34\u6398\u4e95\u3001\u6d77\u5e02\u8703\u697c\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u5c06\u585e\u7fc1\u5931\u9a6c\u548c\u6619\u82b1\u4e00\u73b0\u8054\u7cfb\u8d77\u6765\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\uff0c\u4f60\u53ef\u4ee5\u5c06\u4e34\u6e34\u6398\u4e95\u548c\u6d77\u5e02\u8703\u697c\u8054\u7cfb\u8d77\u6765\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "282c8aeba27e44d6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u84dd\u8272\u4e0e\u54ea\u4e9b\u8bcd\u8bed\u53ef\u4ee5\u8054\u60f3\u5230?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\uff0c\u7ea2\u8272\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7eff\u8272\u8054\u60f3\u5230\u7684\u8bcd\u8bed\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u63a5\u4e0b\u6765\u8bf4\u8bf4\u9ec4\u8272\u7684\u5173\u8054\u8bcd\u6c47\u5427"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7d2b\u8272\u5462\uff1f\u6211\u4eec\u6765\u8c08\u8c08\u5b83\u7684\u76f8\u5173\u8bcd\u6c47"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c263412dd175418e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If 'laughter' had a scent, what do you think it would be?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a15e90ce2e404442",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Connect 'whisper' with a famous historical figure."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7864b6c3a39740a5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine 'fireworks' in a different dimension. How would they look?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd325c447daa4125",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do you think is the opposite of 'silence' in the realm of emotions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d1c4b85f351d4c7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If 'clouds' could speak, what stories do you think they would tell?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "78d92aeec4374cd5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u8981\u4f60\u548c\u6211\u73a9\u6210\u8bed\u63a5\u9f99\u3002\u9996\u5148\uff0c\u6211\u7ed9\u4f60\u4e00\u4e2a\u6210\u8bed\uff1a\u767e\u91cc\u6311\u4e00\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u82df\u4e14\u5077\u751f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff406f2cc0d14ab7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Roses are red, violets are blue"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thinking of sweetness, what about honey and bees?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "29ab31fb3b4941f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u4e00\u4e2a\u5173\u4e8e\u591c\u665a\u7684\u6210\u8bed\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64b33f046db6424f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7528\u4e00\u4e2a\u5f62\u5bb9\u5929\u7a7a\u7684\u8bcd\u8bed\u7ed9\u6211\u8054\u60f3\u4e00\u4e0b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75d8bb66aec64e87",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What comes to mind when you think of the word 'mystical'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f31fb7cd2a84b8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share a poetic association for the term 'silhouette.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33414bdca8a54716",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine 'serendipity' as a scent. What would it be?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75c53afa1de34ed6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Associate the word 'catalyst' with a musical genre."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "49be8dde9e4d4862",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What emotion does the word 'ebb' bring to your mind?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c10eebbdfb4747ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a dance style inspired by 'twilight.' How would it look?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5365df37b1aa4514",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider the word 'whispering.' If it had a texture, how would you describe it in terms of tactile sensations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6398ccbe6b1a4e8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "When you think of the word 'nostalgia,' what sounds or melodies immediately come to mind?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad1c5a7cf7694f4f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine 'labyrinth' as a landscape. What elements and features would you visualize within this mental maze?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f352e74a1d94719",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a detective in a mystery novel. What word comes to mind when you stumble upon an old, dusty book in a hidden library?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6019739dc3de46fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a space explorer landing on an undiscovered planet. What word best describes the mysterious landscape stretching out before you?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc5e7f11d4ff4f04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture yourself as a time-traveling adventurer. What word encapsulates the essence of a medieval castle as you step through the portal?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e681ac0cc2a44a69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u597d"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4ece\u201c\u7535\u5f71\u201d\u8fd9\u4e2a\u8bcd\u53ef\u4ee5\u8054\u60f3\u5230\u54ea\u4e9b\u8bcd\u6c47\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4ece\u201c\u5bfc\u6f14\u201d\u8fd9\u4e2a\u8bcd\u53ef\u4ee5\u8054\u60f3\u5230\u54ea\u4e9b\u8457\u540d\u7684\u5bfc\u6f14\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08ca383fddb843b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's play a word association game, starting with the word 'river'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's associate a word with 'water'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0e6d45d587c4b8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u8fd9\u4e2a\u8bcd\u8bed\u6709\u4ec0\u4e48\u8054\u60f3\uff1a\u201c\u4eba\u751f\u82e5\u53ea\u5982\u521d\u89c1\u201d"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "722f8839f9fa4457",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you think of a word related to 'ocean'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That's a good one. Now, can you think of a word related to 'waves'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "078fb214550d43d3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5173\u4e8e\u201c\u6d77\u201d\u7684\u8bd7\u53e5\u8054\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6765\u65f6\u5927\u6d77\u6ce2\u6d9b\u8d77"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3f3d5ecc83454e7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's play a word association game related to space exploration. I'll start with the word 'rocket'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,1069 @@
+[
+    {
+        "id": "4e97a265092749b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "J'ai \u00e9cout\u00e9 une conversation int\u00e9ressante entre deux personnes et j'aimerais que vous la reformuliez en langage \u00e9crit formel. Voici la conversation:\n\nPersonne A : Alors, t'as eu des nouvelles de ton fr\u00e8re ?\nPersonne B : Ouais, il va bien. Il est en train de faire un road trip avec ses potes.\nPersonne A : Ah, c'est super ! Ils vont o\u00f9 ?\nPersonne B : Je sais pas trop, ils ont pas vraiment de plan. Ils veulent juste profiter et voir o\u00f9 la route les m\u00e8ne.\nPersonne A : C'est cool \u00e7a. J'aimerais bien faire un truc comme \u00e7a un jour.\nPersonne B : Ouais, moi aussi. Peut-\u00eatre qu'on devrait organiser un road trip ensemble un de ces jours."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Quelles sont les motivations de la Personne A et de la Personne B dans cette conversation ? Est-ce qu'ils ont des points communs ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4945c8ba956b44fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I need you to help me with something. I have a voice recording of a conversation between me and my boss discussing our project work. Can you please transcribe it into written text?\n\n- Hey, how's the project coming along?\n- It's going well. I'm working on the design now.\n- Great! When do you think you'll have it done?\n- I should have it completed by the end of the week.\n- Perfect! Let's schedule a meeting to review it next week.\n- Sounds good. I'll send you a meeting invite.\n- Thanks. Have a great day!\n- You too!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bf5782b7f59049a9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please help me convert this spoken language into a formal written format? Here's the text: \"So, like, I was thinking, you know, maybe we should, uh, try to, um, organize this event in a, uh, you know, different way. We could, like, have some, um, interesting activities, and, uh, maybe invite some, you know, cool speakers, or, like, something like that. I don't know, but it's just, like, an idea I had, you know?\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "81a84ca89a664480",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, could you do me a favor and turn this casual chat into a more formal text? It goes like, 'Yo, I was thinking, maybe we could, you know, change things up a bit. We could have some fun activities and invite some cool speakers or something. Just an idea, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f8faad39e6e4b2f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please assist me in formalizing this colloquial dialogue? Here's the content: 'So, like, I was thinking, you know, maybe we should, uh, try to, um, organize this event in a, uh, you know, different way. We could, like, have some, um, interesting activities, and, uh, maybe invite some, you know, cool speakers, or, like, something like that. I don't know, but it's just, like, an idea I had, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Certainly. Here's the formal version of the provided dialogue: 'I propose we explore alternative approaches to organizing the upcoming event. This may involve incorporating diverse and engaging activities, as well as extending invitations to esteemed speakers. While it remains speculative, I believe it warrants consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "f7ffb39efe6f4e39",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, could you kindly transform this informal conversation into a more polished text? It goes as follows: 'Hey, could you do me a favor and turn this casual chat into a more formal text? It goes like, 'Yo, I was thinking, maybe we could, you know, change things up a bit. We could have some fun activities and invite some cool speakers or something. Just an idea, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Of course. Here's the refined version of the provided dialogue: 'Hello, could you please assist me in elevating the tone of this casual discussion to a more formal standard? The original conversation involves considerations for potential adjustments. Specifically, it suggests the inclusion of engaging activities and the invitation of esteemed speakers. It is presented as a preliminary notion for your consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "db7ee3d9b65c429a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I require assistance in converting this informal language into a formal written format. The dialogue is as follows: 'I mean, like, we could totally, you know, try to make things a bit different for the event. Maybe include some cool activities and invite some awesome speakers or something. It's just a thought, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Certainly. Here's the formal rendition of the provided dialogue: 'I am seeking support in transitioning this informal discourse into a more refined written form. The proposition entails potential modifications to the event structure, including the introduction of engaging activities and the invitation of distinguished speakers. It is proffered as a tentative suggestion for consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "f20057131e9a4c5e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you guide me in converting this casual language into a formal text? The conversation goes: 'So, um, I was thinking, maybe we could, like, change things up a bit for the event. We could have some fun stuff and invite some interesting speakers or something. It's just an idea, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Certainly. Here's the formalized version of the provided dialogue: 'I seek assistance in refining the informal nature of this discussion into a formal written expression. The proposal involves potential alterations to the event structure, such as the inclusion of engaging activities and the invitation of notable speakers. It is presented as a preliminary concept for consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "d98fff28bf354cb0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you assist me in transforming this informal conversation into a more formal text? The dialogue is: 'Hey, I was thinking, maybe we could spice things up for the event. We could have some cool activities and invite some interesting speakers or something. Just throwing it out there, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Of course. Here's the formalized version of the provided dialogue: 'May I request your assistance in transmuting this informal exchange into a formal written discourse? The discussion pertains to potential enhancements for the upcoming event, including the incorporation of engaging activities and the invitation of distinguished speakers. It is presented as a preliminary suggestion for your consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "c83ff6eac8a94889",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm in need of your help to convert this informal language into a more formal written form. Here's the text: 'So, like, I was thinking, maybe we should, uh, try to, um, organize this event in a, uh, you know, different way. We could, like, have some, um, interesting activities, and, uh, maybe invite some, you know, cool speakers, or, like, something like that. I don't know, but it's just, like, an idea I had, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Certainly. Here's the formalized version of the provided dialogue: 'I require assistance in refining this informal discourse into a more formal written expression. The proposal entails potential modifications to the event structure, such as the introduction of engaging activities and the invitation of esteemed speakers. It is presented as a preliminary concept for consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "a51017e3d5c54b59",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please aid me in converting this casual conversation into a formal text? Here's the dialogue: 'Yo, I was thinking, maybe we could, you know, change things up a bit. We could have some fun activities and invite some cool speakers or something. Just an idea, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": "Of course. Here's the formalized version of the provided dialogue: 'May I request your assistance in elevating the informal nature of this conversation into a formal written expression? The proposition involves potential adjustments to the event structure, including the inclusion of engaging activities and the invitation of esteemed speakers. It is proffered as a preliminary suggestion for consideration.'"
+            }
+        ]
+    },
+    {
+        "id": "d33fbdf898e544bd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I need your assistance in transforming this informal conversation into a more formal written format. The content is, 'Sup, was thinking maybe we could shake things up a bit? Plan some cool activities, invite interesting speakers, you know? Just an idea.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb8d104c98ce40fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings! I was hoping you could assist me in converting this casual talk into a formal written style. The dialogue is, 'Hey, was thinking, perhaps we could switch things up. Plan some engaging activities, invite notable speakers, you know? Just tossing an idea around.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43d18b5642f74ef1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Good day! Can you help me convert this informal discussion into a more formal written form? It goes like, 'Hey, thinking maybe we could change things up. Organize some activities, invite speakers, you know? Just an idea.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a095f040198b4cbf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, need your help turning this informal chat into a more formal text. It goes, 'Yo, I was thinking, maybe we could, you know, change things up a bit. Have some fun activities, invite cool speakers or something. Just an idea, you know?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e6c0c9457f93451a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings! Could you assist me in transforming this informal conversation into a more formal written format? The content is, 'Sup, was thinking maybe we could shake things up a bit? Plan some cool activities, invite interesting speakers, you know? Just an idea.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08a2de5de10d4bc2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello! I need your assistance in converting this casual talk into a formal written style. The dialogue is, 'Hey, was thinking, perhaps we could switch things up. Plan some engaging activities, invite notable speakers, you know? Just tossing an idea around.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "272df8fd70634415",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Good day! Can you help me convert this informal discussion into a more formal written form? It goes like, 'Hey, thinking maybe we could change things up. Organize some activities, invite speakers, you know? Just an idea.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "be0a1c10082d4d5a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Salutations! I require your assistance in transforming this casual dialogue into a more formal written presentation. The conversation is, 'Hey, was thinking, maybe we could spice things up a bit. Arrange some engaging activities, invite speakers, you know? Just tossing an idea out there.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bcd35357301a490b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u628a\u4e0b\u9762\u7684\u4e00\u6bb5\u5bf9\u8bdd\u6539\u5199\u6210\u4e66\u9762\u8bed\uff1a\nA: \u54ce\uff0c\u4f60\u6628\u5929\u8ddf\u5c0f\u5f3a\u53bb\u54ea\u513f\u73a9\u513f\u4e86\uff1f\nB: \u54e6\uff0c\u6211\u4eec\u53bb\u4e86\u516c\u56ed\uff0c\u73a9\u513f\u4e86\u4e00\u4e0b\u5348\u3002\u90a3\u91cc\u7684\u98ce\u666f\u771f\u4e0d\u9519\u3002\nA: \u662f\u5417\uff1f\u6211\u4e5f\u60f3\u53bb\u770b\u770b\u3002\u4e0b\u6b21\u6709\u673a\u4f1a\u5e26\u6211\u4e00\u8d77\u53bb\u5427\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95eeA\u548cB\u7684\u5bf9\u8bdd\u80fd\u518d\u6b63\u5f0f\u4e00\u70b9\u5417\uff1f\u6bd4\u5982\u7528\u8bcd\u66f4\u52a0\u4e66\u9762\u5316\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99b121327a0e493c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please convert the following spoken language to written language: \"So, like, I was talking to John, and he was like, 'Dude, you've got to try this new restaurant,' and I was like, 'No way, man, I just went there last week!'\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c97e911b66d94720",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u8fd9\u6bb5\u8bdd\u7ffb\u8bd1\u6210\u6b63\u5f0f\u7684\u4e66\u9762\u8bed\uff1a\nA: \u563f\uff0c\u4f60\u6628\u5929\u548c\u5c0f\u660e\u4e00\u8d77\u53bb\u54ea\u91cc\u6e38\u73a9\u4e86\uff1f\nB: \u5662\uff0c\u6211\u4eec\u524d\u5f80\u4e86\u7f8e\u672f\u9986\uff0c\u5ea6\u8fc7\u4e86\u4e00\u4e2a\u4e0b\u5348\u3002\u90a3\u91cc\u7684\u827a\u672f\u54c1\u771f\u662f\u4ee4\u4eba\u53f9\u4e3a\u89c2\u6b62\u3002\nA: \u662f\u5417\uff1f\u6211\u4e5f\u6e34\u671b\u4e00\u7779\u4e3a\u5feb\u3002\u6709\u673a\u4f1a\u7684\u8bdd\uff0c\u80fd\u5426\u8bf7\u4f60\u5e26\u6211\u4e00\u540c\u524d\u5f80\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5c06\u8fd9\u6bb5\u5bf9\u8bdd\u6539\u6210\u66f4\u6b63\u5f0f\u7684\u7528\u8bed\uff1a\nA: \u54ce\u5440\uff0c\u4f60\u6628\u5929\u548c\u5c0f\u7ea2\u53bb\u54ea\u91cc\u5a31\u4e50\u4e86\uff1f\nB: \u54e6\uff0c\u6211\u4eec\u9020\u8bbf\u4e86\u827a\u672f\u753b\u5eca\uff0c\u5ea6\u8fc7\u4e86\u4e00\u4e2a\u6109\u5feb\u7684\u4e0b\u5348\u3002\u90a3\u91cc\u7684\u827a\u672f\u54c1\u786e\u5b9e\u4ee4\u4eba\u5370\u8c61\u6df1\u523b\u3002\nA: \u662f\u5417\uff1f\u6211\u4e5f\u60f3\u4eb2\u773c\u76ee\u7779\u3002\u82e5\u6709\u673a\u4f1a\uff0c\u4f60\u53ef\u5426\u643a\u6211\u540c\u5f80\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "48939b05b44e478f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you transform this colloquial dialogue into formal prose? A: Yo, dude, what's up? B: Not much, just chilling. A: Wanna grab some grub later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9de9fc98107d4960",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance in transposing this informal conversation into formal language: A: Hey, how's it going? B: Pretty good, just hanging out. A: Want to go see a movie tonight?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "11b6dbe933714b5c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you convert this casual chat into a more formal style? A: Hey, what's happening? B: Not much, just chilling. A: Want to grab lunch later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ecbefcfb1a5432b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform this informal exchange into formal writing, please: A: Sup? B: Nm, just hanging out. A: Wanna go for a drive later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f4d7d4f4e1c64019",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you rephrase this casual conversation into formal language? A: Hey, how's it going? B: Not much, just chilling. A: Want to grab some dinner later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93704c4c96f64a09",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please convert this informal dialogue into a more formal style: A: Hey, what's up? B: Nothing much, just hanging out. A: Would you like to go for a walk later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae53bf9783a04370",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform this casual chat into formal language, please: A: Yo, what's good? B: Not a lot, just chilling. A: Want to grab lunch later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0aa5cfc8b0f34679",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you convert this informal exchange into a more formal style? A: Hey, how's it going? B: Not much, just hanging out. A: Want to grab dinner later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e575b88c86034d54",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance in transposing this colloquial conversation into formal language: A: Hey, what's up? B: Not much, just chilling. A: Do you want to go for a hike later?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e40d301c0d3b4bbe",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you transform this informal dialogue into a more formal tone?\nA: Hey, where did you and Tom go for fun yesterday?\nB: Oh, we visited the botanical garden and spent the whole afternoon there. The flora was absolutely mesmerizing.\nA: Really? I'd love to see it too. Next time, could you take me along if there's a chance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'd like you to make this conversation sound more formal: \nA: Hey, what was your hangout with Jenny like yesterday?\nB: Well, we patronized the art gallery and indulged in the artistic atmosphere all afternoon. The masterpieces there were truly awe-inspiring.\nA: Is that so? I'm keen on witnessing it myself. Would you consider taking me with you next time if an opportunity arises?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0862000f2634a84",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform the following casual talk into a more formal written language:\nA: Yo, where'd you and Sarah go chill yesterday?\nB: Oh, we headed to the botanical garden and spent the whole afternoon there. The greenery was so refreshing.\nA: Really? I'd love to check it out. Mind taking me with you next time if there's a chance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you please make this conversation more formal:\nA: Hello, may I inquire about your leisure activities with Susan yesterday?\nB: Certainly, we visited the botanical garden and immersed ourselves in the lush surroundings throughout the afternoon. The verdant scenery was remarkably invigorating.\nA: Is that true? I am genuinely interested in experiencing it myself. Would you be amenable to including me in your plans next time?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "396f7cb907904514",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Change the tone of the following dialogue to a more formal one:\nA: Hey, where did you and Alex go hang out yesterday?\nB: Oh, we went to the museum and spent the entire afternoon there. The exhibits were truly fascinating.\nA: Really? I'd love to see them. Could you perhaps take me along next time if there's an opportunity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Kindly elevate the formality of this conversation:\nA: Greetings, may I inquire about your recreational pursuits with Alexander yesterday?\nB: Certainly, we visited the museum and devoted the entirety of the afternoon to exploring its exhibits. The displays were undeniably captivating.\nA: Is that so? I am genuinely interested in witnessing them firsthand. Would you consider extending an invitation to me next time if an opportunity arises?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "05754cc7e4624893",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please formalize the following conversation:\nA: Hi, where did you and Emily go for entertainment yesterday?\nB: Oh, we ventured to the theater and enjoyed a delightful play. The performances were truly exceptional.\nA: Really? I'd love to witness such artistry. Would you be open to accompanying me next time if the opportunity arises?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I request you to make this dialogue more formal:\nA: Good day, may I inquire about your leisure activities with Emma yesterday?\nB: Certainly, we attended a theatrical production and reveled in a splendid performance. The artistic displays were undeniably outstanding.\nA: Is that true? I am sincerely interested in experiencing such cultural events. Would you be amenable to including me in your plans next time?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e42bbe346d740c1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Formalize the following informal dialogue:\nA: Hey, where did you and Chris go for fun yesterday?\nB: Oh, we visited the historical museum and spent the whole afternoon there. The artifacts were really fascinating.\nA: Really? I'd love to see them. Would you consider taking me with you next time if there's an opportunity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0fbf77be930a47d3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6628\u5929\u6211\u53bb\u4e86\u4e00\u4e2a\u97f3\u4e50\u4f1a\uff0c\u8868\u6f14\u5f97\u592a\u597d\u4e86\uff0c\u6211\u975e\u5e38\u559c\u6b22\u3002\u90a3\u4e2a\u94a2\u7434\u5bb6\u771f\u7684\u5f88\u6709\u624d\u534e\uff0c\u6211\u89c9\u5f97\u4ed6\u4f1a\u8d8a\u6765\u8d8a\u53d7\u6b22\u8fce\u7684\u3002\u53e6\u5916\uff0c\u73b0\u573a\u7684\u6c1b\u56f4\u4e5f\u7279\u522b\u597d\uff0c\u5927\u5bb6\u90fd\u5f88\u6295\u5165\u3002\u8bf7\u5c06\u8fd9\u6bb5\u53e3\u8bed\u63cf\u8ff0\u8f6c\u5316\u6210\u4e66\u9762\u8bed\u8868\u8fbe\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "be25bf45a611424e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u4ee5\u4e0b\u53e3\u5934\u8868\u8fbe\u7ffb\u8bd1\u6210\u4e66\u9762\u8bed\uff0c\u5185\u5bb9\u8981\u6c42\u7b80\u6d01\u660e\u4e86\uff1a\n\n\u55ef\uff0c\u6211\u89c9\u5f97\u5427\uff0c\u4f60\u8fd9\u4e2a\u505a\u6cd5\u6709\u70b9\u95ee\u9898\u3002\u9996\u5148\uff0c\u4f60\u5f97\u5148\u5f04\u6e05\u695a\u9700\u6c42\u662f\u4ec0\u4e48\uff0c\u7136\u540e\u518d\u53bb\u89c4\u5212\u4f60\u8981\u600e\u4e48\u5b9e\u65bd\u3002\u4f60\u8fd9\u6837\u505a\uff0c\u4f1a\u5bfc\u81f4\u505a\u51fa\u6765\u7684\u4e1c\u897f\u4e0d\u7b26\u5408\u5ba2\u6237\u7684\u671f\u671b\u3002\u6240\u4ee5\uff0c\u6700\u597d\u8fd8\u662f\u5148\u641e\u6e05\u695a\u9700\u6c42\u518d\u884c\u52a8\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "725967bb6fac4063",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please convert the following spoken dialogue into a written text format:"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Hey, what's up? How've you been?\" \"Oh, not too bad. Work's been crazy busy, and my kids have been keeping me on my toes. How about you?\" \"Same here. Just got back from a trip, and now I'm trying to catch up on everything.\" \"I can imagine. Let's get together soon and catch up properly.\" \"Sounds great! I'll give you a call next week and we can set something up.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db1decb81a494771",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u4eba\u53e3\u5934\u544a\u8bc9\u6211\u4ed6\u4eec\u7684\u9879\u76ee\u8ba1\u5212\uff0c\u5185\u5bb9\u5982\u4e0b\uff1a\n\u6211\u4eec\u60f3\u8981\u505a\u4e00\u4e2a\u8d2d\u7269App\uff0c\u4e3b\u8981\u9488\u5bf9\u5e74\u8f7b\u4eba\u3002\u8fd9\u4e2aApp\u7684\u529f\u80fd\u6709\uff1a\n1. \u7528\u6237\u53ef\u4ee5\u6d4f\u89c8\u5546\u54c1\uff1b\n2. \u7528\u6237\u53ef\u4ee5\u6dfb\u52a0\u5546\u54c1\u5230\u8d2d\u7269\u8f66\uff1b\n3. \u7528\u6237\u53ef\u4ee5\u76f4\u63a5\u5728App\u91cc\u8d2d\u4e70\u5546\u54c1\uff1b\n4. \u7528\u6237\u8fd8\u53ef\u4ee5\u6536\u85cf\u81ea\u5df1\u559c\u6b22\u7684\u5546\u54c1\u3002\n\u8bf7\u4f60\u5e2e\u6211\u628a\u8fd9\u4e2a\u53e3\u5934\u53d9\u8ff0\u6574\u7406\u6210\u6b63\u5f0f\u7684\u4e66\u9762\u8bed\u8a00\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "01ffa38ede824248",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please transform this casual conversation into a written format?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Hey, what's going on? Anything new?\" \"Not much, just dealing with the usual work grind. How about yourself?\" \"Just finished a project and taking a breather. What about catching up this weekend?\" \"Absolutely, sounds like a plan! I'll shoot you a message to finalize the details.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e2d47c9e20f4d3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Kindly convert the following informal conversation into a more formal written text:"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Yo, what's up? How's life treating you?\" \"Not too shabby. Work's been hectic, and parenting is a full-time job. How about yourself?\" \"Same old. Just returned from a trip and playing catch-up.\" \"We should plan to meet and have a proper catch-up soon.\" \"Sounds excellent! I'll ring you up next week to arrange it.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "478dd1bdf1f349e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please formalize the given spoken exchange into a written format?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Hey, what's happening? How have you been?\" \"Not bad. Work's been pretty intense, and the kids are keeping me on my toes. What about you?\" \"Same here. Just returned from a trip, and now I'm trying to get back on track.\" \"Let's plan to meet soon and catch up properly.\" \"Great idea! I'll give you a call next week to arrange it.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "23998f7ba68a450d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I was informed orally about their project plan, here's the content:"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "We want to create a shopping app targeting the youth. The app should have features like:\n1. Users can browse products;\n2. Users can add items to their shopping cart;\n3. Users can directly purchase products within the app;\n4. Users can also bookmark their favorite items.\nCan you help me formalize this oral description into written language?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8ca5978522cd4585",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform this casual dialogue into a formal written expression, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Hey there, how's it going?\" \"Not bad, just swamped with work, and the kids are keeping me on my toes. How about you?\" \"Same here. Just returned from a trip and trying to catch up on everything.\" \"Let's plan to meet soon and have a proper catch-up.\" \"Sure thing! I'll give you a call next week to coordinate.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d7fa4402da9c4e69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd appreciate it if you could convert this informal conversation into a more formal written format."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Yo, what's up? How's life treating you?\" \"Not too bad. Work's been crazy, and parenting is a real challenge. What about you?\" \"Same old. Just got back from a trip and trying to catch up.\" \"Let's plan a proper catch-up soon.\" \"Sounds good! I'll reach out next week to set it up.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20d8ae008f5248ec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please transform this informal dialogue into a more formal written text."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\"Hey, what's up? How've you been?\" \"Not too bad. Work's been keeping me busy, and parenting is a constant juggle. How about you?\" \"Same here. Just returned from a trip and trying to catch up on everything.\" \"Let's plan to meet soon and have a proper catch-up.\" \"Sounds great! I'll give you a call next week to coordinate.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f219797479a43fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform this spoken conversation into written format:\nPerson A: Hey! What's up, man?\nPerson B: Not much, just got back from the gym. You?\nPerson A: Same here, did you see the new machines?\nPerson B: Yeah, they're pretty cool. Tried the new treadmill, it's great!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aaa799f859c4406b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u4ee5\u4e0b\u4e00\u6bb5\u53e3\u8bed\u8f6c\u5316\u6210\u4e66\u9762\u8bed\u3002'\u54e6\uff0c\u4f60\u77e5\u9053\u5417\uff1f\u6211\u6628\u5929\u53bb\u4e86\u4e00\u4e2a\u6d3e\u5bf9\uff0c\u771f\u7684\u8d85\u7ea7\u68d2\uff01\u90a3\u91cc\u7684\u97f3\u4e50\u3001\u98df\u7269\u548c\u6c1b\u56f4\u90fd\u7279\u522b\u597d\u3002\u6211\u8fd8\u9047\u5230\u4e86\u5f88\u591a\u6709\u8da3\u7684\u4eba\uff0c\u6211\u4eec\u804a\u4e86\u5f88\u591a\u5173\u4e8e\u65c5\u884c\u548c\u7535\u5f71\u7684\u8bdd\u9898\u3002\u4e0d\u8fc7\uff0c\u6211\u4eca\u5929\u65e9\u4e0a\u8d77\u5f97\u6709\u70b9\u665a\uff0c\u611f\u89c9\u6709\u70b9\u7d2f\u3002'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u5c06\u8fd9\u6bb5\u8bdd\u6539\u6210\u66f4\u6b63\u5f0f\u7684\u4e66\u9762\u8bed\uff1a'\u6211\u89c9\u5f97\u4ed6\u4eec\u516c\u53f8\u7684\u4ea7\u54c1\u771f\u7684\u5f88\u68d2\uff0c\u800c\u4e14\u4ef7\u683c\u4e5f\u4e0d\u8d35\u3002\u6211\u4e0a\u4e2a\u6708\u4e70\u4e86\u4e00\u4e2a\uff0c\u7528\u8d77\u6765\u975e\u5e38\u65b9\u4fbf\u3002'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u73b0\u5728\u8bf7\u5c06\u8fd9\u6bb5\u8bdd\u6539\u5199\u6210\u66f4\u53e3\u8bed\u5316\u7684\u8868\u8fbe\u65b9\u5f0f\uff1a'\u636e\u6211\u6240\u77e5\uff0c\u8fd9\u4e2a\u9879\u76ee\u7684\u5f00\u53d1\u8fc7\u7a0b\u4e2d\u9047\u5230\u4e86\u8bb8\u591a\u6280\u672f\u6311\u6218\u548c\u56f0\u96be\uff0c\u4f46\u662f\u56e2\u961f\u6210\u5458\u4eec\u514b\u670d\u4e86\u8fd9\u4e9b\u95ee\u9898\uff0c\u6700\u7ec8\u6210\u529f\u5730\u5b8c\u6210\u4e86\u9879\u76ee\u3002'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "32a3af385f934c05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Turn this chat into a written format:\nPerson A: Hi, how's it going?\nPerson B: Not bad, just finished a good book. You?\nPerson A: Same here, any recommendations?\nPerson B: Absolutely, you should try 'The Silent Symphony.' It's captivating!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "96b69effceb9400c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you transform this spoken exchange into a written form? 'Person A: Hey, did you catch the game last night?\nPerson B: Yeah, it was intense. Did you see that last-minute goal?\nPerson A: Unbelievable! The whole stadium went wild.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a3dfeb8c0f8f4687",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need you to convert this informal conversation into a written form: 'Person A: Yo, what's the plan for tonight?\nPerson B: Thinking of hitting the new sushi place. Are you in?\nPerson A: Sounds good. I'll meet you there at 7.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "32e0fc90ea684ca6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform this dialogue into a written statement: 'Person A: Hi, have you heard the latest album?\nPerson B: Yeah, it's on repeat. Loving the vibes.\nPerson A: Totally, the artist nailed it this time.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "59e7477dbc3441a0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please convert this spoken exchange into written format: 'Person A: How's the new job treating you?\nPerson B: It's challenging but exciting. Learning a lot.\nPerson A: That's awesome. Keep rocking it!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7fc406ee857149d6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Transform this casual chat into a written statement: 'Person A: Hey, did you see the latest episode?\nPerson B: Not yet. Is it worth the watch?\nPerson A: Absolutely, it has some crazy plot twists.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a217624292740e0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Change this conversation into a written form: 'Person A: How's your weekend going?\nPerson B: Pretty chill. Caught up on some reading.\nPerson A: Nice, any recommendations?'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3be7c182a7ec49bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Turn this spoken interaction into written format: 'Person A: Guess what? I won the lottery!\nPerson B: No way! That's incredible. What are you going to do?\nPerson A: Planning a vacation and some investments.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a6a120c9191545fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please convert this informal conversation into a written form: 'Person A: Hey, have you tried the new coffee shop?\nPerson B: Yeah, their espresso is top-notch.\nPerson A: I'll join you there tomorrow.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d0099290d4f745ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you change this dialogue into a written statement? 'Person A: How's the project going?\nPerson B: It's a bit challenging, but we're making progress.\nPerson A: Keep me updated. We need it finished by next week.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5739130b6d3e4207",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I recorded a conversation with my friend about our plans for the weekend. Can you please convert this spoken language into written form that is better suited for a blog post? Here is the transcript of our conversation:\n\nMe: Hey, what's up? Got any plans for the weekend?\n\nFriend: Not much, dude. I was thinking about going for a hike. What about you?\n\nMe: That sounds great! I haven't been on a hike in a while. Where do you want to go?\n\nFriend: I heard about this trail called Blue Mountain. Apparently, it's got some amazing views. Wanna check it out?\n\nMe: Absolutely! Let's do it. What time should we head out?\n\nFriend: How about we meet up at 9 in the morning? That way, we can beat the crowds and enjoy the trail more.\n\nMe: Sounds perfect. See you then!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c900825fdd744634",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please convert this spoken conversation into a written dialogue with proper punctuation and formatting:\n\nPerson A: Hey, what's up? Did you see the game last night? It was amazing!\nPerson B: Yeah, I couldn't believe the final score. The winning team really pulled it off in the last few minutes.\nPerson A: I know, right? I was on the edge of my seat the whole time. I can't wait for the next match!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please convert this spoken conversation into a written dialogue with proper punctuation, formatting, and more formal language:\n\nPerson A: Hey, what's up? Did you see the game last night? It was amazing!\nPerson B: Yeah, I couldn't believe the final score. The winning team really pulled it off in the last few minutes.\nPerson A: I know, right? I was on the edge of my seat the whole time. I can't wait for the next match!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now rewrite the original spoken conversation as if it were a conversation between two characters in a Shakespearean play."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,768 @@
+[
+    {
+        "id": "8ade39db2ecd4926",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u5c06\u4e0b\u9762\u7684\u573a\u666f\u7b80\u5355\u63cf\u8ff0\u6210\u4e00\u4e2a\u5bf9\u8bdd\uff0c\u4e24\u4e2a\u4eba\u5728\u4e00\u5bb6\u5496\u5561\u9986\u91cc\u804a\u5929\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "45e0fa63fbb44381",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a job interview scenario where a candidate is interviewing for a position at a tech company. The interviewer is the HR manager, and the candidate has a background in software engineering. Write a dialogue for their first meeting."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3828eb8b7946447c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a scene where two detectives are interrogating a suspect in a dimly lit room."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b087dd8042a94bb3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you craft a dialogue between a teacher and a student discussing an upcoming school project?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b1a3b3dc95a44ad2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine two strangers meeting at a bus stop. Write a conversation between them."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "439d2e7767224225",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a dialogue between a parent and a child discussing the importance of chores."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a931b13c33a34c7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create a dialogue between two friends planning a surprise party for another friend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2a6807de0a904d97",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious to see a dialogue between a superhero and their archenemy during a confrontation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9708cddc921549a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write a dialogue between a customer and a tech support representative troubleshooting a computer issue."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f240cf09cc5e4dc9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you create a dialogue between two politicians debating environmental policies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a589166b89664e14",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a dialogue between a chef and a food critic discussing a new restaurant opening."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cfd441dcec4b4ea6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you write a dialogue between a novelist and an editor discussing revisions for a manuscript?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ffc9e06ba254013",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a dialogue between a detective and a suspect in an interrogation room."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "05f9e67903524f53",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Construct a dialogue between a customer and a salesperson in a tech store discussing the features of a new smartphone."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7be89919f02b45b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a scene where two old friends reunite after years of being apart."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e100701a3de4664",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between a chef and a food critic discussing a new restaurant's signature dish."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5b66a235e1d4909",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue between a detective and a suspect during an interrogation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "395defa8c9dd4812",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a conversation between a parent and a child discussing the importance of education."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d01481d022be48da",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a dialogue between two astronauts on a space mission, discussing their tasks for the day."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "136c59599699499b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Construct a conversation between a politician and a journalist during a press conference."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "caca629429b74911",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a dialogue between a teacher and a student discussing the student's academic progress."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "204bfec1830d46ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between two rival CEOs negotiating a business deal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e55b6893a54f4af9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue between a therapist and a patient discussing the patient's progress in therapy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f921f0877df4596",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a dialogue between a chef and a food critic discussing a newly opened restaurant."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5711362171d4472a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between a parent and a teenager discussing the teenager's plans for the future."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "76b9da1015c543f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Construct a dialogue between two colleagues discussing a new project they've been assigned to."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d91d815011924026",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a scene where a couple is having a heartfelt conversation on a moonlit beach."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a3c66d99e2249b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5199\u4e00\u4e2a\u5173\u4e8e\u73af\u4fdd\u7684\u5bf9\u8bdd\uff0c\u4e24\u4e2a\u4eba\u5728\u8c08\u8bba\u5982\u4f55\u51cf\u5c11\u5851\u6599\u5e9f\u7269\u7684\u4f7f\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d55b4267f7fa4e32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4ee5\u4e0b\u573a\u666f\u7f16\u5199\u4e00\u4e2a\u6709\u8da3\u7684\u5bf9\u8bdd\uff0c\u573a\u666f\u4e3a\uff1a\u4e24\u4e2a\u670b\u53cb\u5728\u5546\u573a\u8d2d\u7269\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ee070e0371f413e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u9700\u8981\u4e00\u4e2a\u5bf9\u8bdd\uff0c\u63cf\u8ff0\u4e24\u4f4d\u79d1\u5b66\u5bb6\u5728\u5b9e\u9a8c\u5ba4\u91cc\u53d1\u73b0\u4e86\u4e00\u4e2a\u4ee4\u4eba\u5174\u594b\u7684\u65b0\u53d1\u73b0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b85653c6ed214174",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5199\u4e00\u4e2a\u6709\u8da3\u7684\u5bf9\u8bdd\uff0c\u63cf\u8ff0\u4e24\u4e2a\u5e74\u8f7b\u4eba\u5728\u4e00\u573a\u97f3\u4e50\u8282\u4e0a\u76f8\u9047\u5e76\u6210\u4e3a\u670b\u53cb\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d3bf86f937041f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u53ef\u4ee5\u4e3a\u6211\u5199\u4e00\u4e2a\u5bf9\u8bdd\u5417\uff1f\u5185\u5bb9\u662f\u4e24\u4e2a\u4eba\u5728\u5496\u5561\u9986\u91cc\u8ba8\u8bba\u4ed6\u4eec\u6700\u559c\u6b22\u7684\u4e66\u7c4d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb3f1c5014c24ba4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u9700\u8981\u4e00\u4e2a\u5bf9\u8bdd\uff0c\u63cf\u8ff0\u4e24\u4e2a\u4eba\u5728\u5065\u8eab\u623f\u91cc\u4ea4\u6d41\u4ed6\u4eec\u7684\u5065\u8eab\u7ecf\u5386\u548c\u76ee\u6807\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "807cad1c2c5f4b9b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a dialogue depicting two scientists in a laboratory discovering an exciting new finding."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b2e70f2777e480f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you write an interesting dialogue describing two young people meeting and becoming friends at a music festival?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dd082ed664d64bb0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create a dialogue for me? It's about two people discussing their favorite books in a coffee shop."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "30a4456f30fa4ef4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a dialogue portraying two individuals exchanging their fitness experiences and goals at the gym."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7f79492ee25469c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you craft a dialogue for me about two people sharing food and joy during an outdoor picnic?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ce8cb33a3794f33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like a dialogue describing two individuals encountering a series of adventurous experiences while traveling."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4d9db67c7734a9b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you write a dialogue about two people observing various animals at the zoo and sharing their impressions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cfac2592ab4a492c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a dialogue narrating two old friends reuniting at a coffee shop and reminiscing about the past."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "599a0628ec704812",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create a dialogue describing two botanists discovering a new plant species in the forest."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c83fc3fc9fb94610",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you write a dialogue about two friends spending a lovely summer afternoon together at the beach?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce81fc1157b04180",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u4e00\u540d\u4e2d\u56fd\u7559\u5b66\u751f\uff0c\u5c06\u8981\u53bb\u7f8e\u56fd\u7559\u5b66\u3002\u6211\u5c06\u4f1a\u5165\u4f4f\u5728\u4e00\u4e2a\u7531\u4e00\u4e2a\u5370\u5ea6\u592b\u5987\u7ecf\u8425\u7684\u5bc4\u5bbf\u5bb6\u5ead\u3002\u8bf7\u4e3a\u6211\u548c\u4ed6\u4eec\u7684\u7b2c\u4e00\u6b21\u89c1\u9762\u7f16\u5199\u4e00\u4e2a\u5bf9\u8bdd\uff0c\u89d2\u8272\u5305\u62ec\u6211\u3001\u5370\u5ea6\u4e08\u592b\u3001\u59bb\u5b50\u548c\u4e00\u4e2a\u53ef\u7231\u7684\u5b69\u5b50\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e8f483af6bc4a6d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am a young adventurer who has just arrived in a small town. I need to gather information and supplies before heading out on my quest. Write a dialogue between me, the town's blacksmith, and an elderly local who has useful information."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9f6ead125ae74101",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u521b\u4f5c\u4e00\u6bb5\u5173\u4e8e\u4e24\u4f4d\u79d1\u5b66\u5bb6\u5728\u5b9e\u9a8c\u5ba4\u91cc\u8ba8\u8bba\u4e00\u9879\u65b0\u7814\u7a76\u6210\u679c\u7684\u5bf9\u8bdd"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f271d69b7273413d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create a dialogue between a detective and a witness at a crime scene, where the detective is asking questions and the witness is providing information. Make sure the dialogue is engaging and has at least 8 lines."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c99cbd5a0ec64200",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crea un breve dialogo tra un insegnante e uno studente che si incontrano per la prima volta."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "38e5df9e6c08434b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create an engaging introduction for a story about a time-traveling historian who accidentally changes history and must fix their mistake?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00016a1025724c1c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Napisz kr\u00f3tki dialog mi\u0119dzy dwoma osobami, kt\u00f3re pr\u00f3buj\u0105 um\u00f3wi\u0107 si\u0119 na kolacj\u0119"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Napisz kolejny dialog, tym razem o umawianiu si\u0119 na spacer"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Napisz dialog o umawianiu si\u0119 na wsp\u00f3lne granie w gry planszowe"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

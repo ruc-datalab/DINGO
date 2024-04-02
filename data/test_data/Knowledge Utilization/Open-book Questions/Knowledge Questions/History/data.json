@@ -1,0 +1,1137 @@
+[
+    {
+        "id": "cb22e142b9a54076",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u80fd\u544a\u8bc9\u6211\u6709\u5173\u62ff\u7834\u4ed1\u6218\u4e89\u7684\u4e00\u4e9b\u77e5\u8bc6\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u62ff\u7834\u4ed1\u7684\u5d1b\u8d77\u662f\u5982\u4f55\u5f71\u54cd\u6b27\u6d32\u7684\u653f\u6cbb\u683c\u5c40\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ecc934d1c27e4458",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u77e5\u9053\u6cd5\u56fd\u5927\u9769\u547d\u662f\u4ec0\u4e48\u65f6\u5019\u53d1\u751f\u7684\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6cd5\u56fd\u5927\u9769\u547d\u7684\u4e3b\u8981\u539f\u56e0\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c04235f2faa343c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u7ed9\u6211\u4ecb\u7ecd\u4e00\u4e0b\u53e4\u5e0c\u814a\u7684\u54f2\u5b66\u601d\u60f3\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "82d75c3c1077491e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u4e86\u89e3\u4e00\u4e0b\u4e9a\u5386\u5c71\u5927\u5927\u5e1d\u5f81\u670d\u6ce2\u65af\u7684\u8fc7\u7a0b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b33f3736b18494c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u5173\u6587\u827a\u590d\u5174\u65f6\u671f\u7684\u610f\u5927\u5229\u827a\u672f\u5bb6\uff0c\u4f60\u80fd\u7ed9\u6211\u5206\u4eab\u4e00\u4e9b\u4fe1\u606f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e55e2bd1637487b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5173\u4e8e\u53e4\u4ee3\u4e2d\u56fd\u7684\u4e1d\u7ef8\u4e4b\u8def\uff0c\u4f60\u6709\u4e86\u89e3\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d7157d286204f29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u5173\u65e5\u672c\u6218\u56fd\u65f6\u4ee3\u7684\u6b66\u58eb\u9053\uff0c\u4f60\u6709\u4ec0\u4e48\u4e86\u89e3\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "046559a2f8e4418a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u53ef\u4ee5\u544a\u8bc9\u6211\u4e00\u4e9b\u4e2d\u4e16\u7eaa\u6b27\u6d32\u7684\u9ed1\u6b7b\u75c5\u7684\u5386\u53f2\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "be31ba3719dc4f12",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u6709\u5173\u5370\u5ea6\u72ec\u7acb\u8fd0\u52a8\u7684\u4e00\u4e9b\u6545\u4e8b\u53ef\u4ee5\u5206\u4eab\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e562462f76b44d75",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5173\u4e8e\u57c3\u53ca\u53e4\u4ee3\u6587\u660e\u7684\u5efa\u7b51\u6280\u672f\uff0c\u4f60\u80fd\u63d0\u4f9b\u4e00\u4e9b\u4fe1\u606f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a62c8d28b5384b41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u4e86\u89e3\u4e00\u4e0b\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218\u7684\u6218\u7565\u548c\u6218\u672f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d2e63981a4b440c2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the events leading up to the fall of the Roman Empire"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Describe the impact of the Gutenberg printing press on the European society"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2a917b99ffc04e7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1les fueron las causas y consecuencias de la Revoluci\u00f3n Mexicana?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfQu\u00e9 papel desempe\u00f1aron las mujeres en la Revoluci\u00f3n Mexicana?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfC\u00f3mo afect\u00f3 la Revoluci\u00f3n Mexicana a las relaciones exteriores de M\u00e9xico?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "48d42bc2771b47d8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please explain the significance of the Magna Carta in British history?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90e2a2720009444a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What role did political ideologies play in shaping the outcomes of the Cold War?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Examine the cultural impact of the Renaissance on art and literature."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8179142d929b4a75",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How did the Industrial Revolution impact social structures in 19th-century Europe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explore the geopolitical implications of the Treaty of Versailles after World War I."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "518da6c161b8405e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How did the Enlightenment influence the American Revolution and the formation of the United States?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss the historical significance of the Silk Road in connecting civilizations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eb788d6a0ce54c53",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How did the concept of divine right influence monarchies in medieval Europe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss the impact of the Black Death on European society and the economy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3290c742f41e4702",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the impact of the French Revolution on the political landscape of Europe."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the invention of the steam engine contribute to the Industrial Revolution?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "891a5811ea6f4baa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "1). \u4e8c\u6218\u5bf9\u5168\u7403\u8303\u56f4\u5185\u7684\u56fd\u5bb6\u4ea7\u751f\u4e86\u600e\u6837\u7684\u5f71\u54cd\uff1f\n\n2). \u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218\u4e0e\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6218\u4e4b\u95f4\u7684\u56fd\u9645\u653f\u6cbb\u548c\u7ecf\u6d4e\u72b6\u51b5\u662f\u600e\u6837\u7684\uff1f\n\n3). \u8bf7\u63cf\u8ff0\u4e00\u4e0b\u6218\u540e\u7684\u5fb7\u56fd\u5982\u4f55\u5b9e\u73b0\u4e86\u7ecf\u6d4e\u5947\u8ff9\u3002\n\n4). \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6210\u7acb\u5bf9\u4e16\u754c\u653f\u6cbb\u683c\u5c40\u4ea7\u751f\u4e86\u54ea\u4e9b\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4dc88acf4fb447eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, ind\u00edcame un breve resumen de la Revoluci\u00f3n Industrial y su impacto en la sociedad."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f77ce0cfc09642e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, expl\u00edcame brevemente sobre el papel de las mujeres en la Revoluci\u00f3n Francesa y c\u00f3mo afect\u00f3 sus derechos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d8333b26013643fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Fale sobre a evolu\u00e7\u00e3o da escrita na hist\u00f3ria"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "O que voc\u00ea acha sobre a diferen\u00e7a entre a escrita hierogl\u00edfica e a escrita cuneiforme?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "E sobre a rela\u00e7\u00e3o entre a escrita e a cultura? Como isso se reflete ao longo da hist\u00f3ria?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "78d2ed5a09084c74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6e05\u671d\u706d\u4ea1\u7684\u539f\u56e0\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "922395cfb4d44671",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ece\u5386\u53f2\u89d2\u5ea6\u8bc4\u4ef7\u6e05\u671d\u7687\u5e1d\u987a\u6cbb\u5bf9\u6e05\u671d\u7684\u8d21\u732e"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "027f0f8016ef4adb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What was the Silk Road?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What were some key cities on the Silk Road?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ded43dfe1e0d4b4a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u544a\u8bc9\u6211\u6e05\u671d\u7684\u7687\u5e1d\u5171\u6709\u591a\u5c11\u4eba\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6e05\u671d\u7684\u7687\u5e1d\u4e2d\u54ea\u4f4d\u7edf\u6cbb\u65f6\u95f4\u6700\u957f\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "723fd7c5616c428b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the impact of the Industrial Revolution on European societies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did technological advancements during the Industrial Revolution shape the role of women in society?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1312ac150ed94a8f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the causes and consequences of the French Revolution."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In what ways did the French Revolution influence political ideologies in the 19th century?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5954bb38999141e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the significance of the Renaissance in the cultural development of Europe."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Renaissance impact art and literature during that period?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4382f7a875ff4b47",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What were the main factors leading to the fall of the Roman Empire?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the fall of the Roman Empire contribute to the emergence of medieval Europe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d2495fa8f774969",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the role of religion in the colonization of the Americas."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the interactions between European colonizers and indigenous peoples shape the religious landscape of the Americas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d7666147b3da4e2c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the cultural exchanges between East and West during the Byzantine Empire."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Byzantine Empire influence the development of art and architecture in medieval Europe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a779e226509841b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Examine the role of alliances in shaping the outcomes of World War I."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Treaty of Versailles impact the geopolitical landscape of the early 20th century?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3842ace7e42546f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the economic factors that contributed to the Great Depression."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In what ways did the Great Depression shape government policies and international relations in the 1930s?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a50f2c2cf424043",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the causes and consequences of the Opium Wars in China."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Opium Wars impact China's political and economic transformation in the 19th century?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db2b3b19b44043d5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the role of propaganda in shaping public opinion during World War II."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did wartime propaganda influence cultural perceptions and societal norms in the post-war period?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8111a327abdd4b68",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ecb\u7ecd\u4e00\u4e0b\u7f8e\u6d32\u5370\u7b2c\u5b89\u4eba\u7684\u5386\u53f2\u548c\u6587\u5316"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e26a1963ea2640ff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the French Revolution."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss the impact of the French Revolution on the development of modern democracy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain the role of the Reign of Terror in the French Revolution."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf9c229bf1a243e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the connection between the Treaty of Versailles and the rise of Adolf Hitler?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain how the Treaty of Versailles contributed to the economic problems in Germany"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What was the impact of the Treaty of Versailles on other European powers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73fa6a2718224a2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide a brief overview of the causes and consequences of the French Revolution?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please explain how the Industrial Revolution transformed the global economy and the lives of ordinary people."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you kindly explain how the decline of the Ottoman Empire affected the geopolitical landscape of the Middle East and Europe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99f878f4a31348fe",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u00bfPodr\u00edas hablarme sobre la ca\u00edda de Constantinopla en 1453?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1l fue el impacto de la ca\u00edda de Constantinopla en la era de los descubrimientos?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfC\u00f3mo influy\u00f3 la ca\u00edda de Constantinopla en el Renacimiento en Europa?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfQu\u00e9 legado dej\u00f3 el Imperio bizantino en t\u00e9rminos de arte y arquitectura?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "000a6291d7844dd7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u60a8\u4e86\u89e3\u82f1\u56fd\u7684\u5de5\u4e1a\u9769\u547d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5de5\u4e1a\u9769\u547d\u65f6\u671f\u7684\u84b8\u6c7d\u673a\u5bf9\u4e8e\u79d1\u6280\u548c\u793e\u4f1a\u53d1\u5c55\u6709\u4ec0\u4e48\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\uff0c\u968f\u7740\u5de5\u4e1a\u9769\u547d\uff0c\u793e\u4f1a\u9636\u7ea7\u7ed3\u6784\u662f\u5982\u4f55\u6539\u53d8\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "371e2e4ba6ad4de7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uace0\ub300 \uc138\uacc4 7\ub300 \ubd88\uac00\uc0ac\uc758 \uc911 \uc544\uc9c1\ub3c4 \ubcf4\uc77c \uc218 \uc788\ub294 \uac83\uc740 \ubb34\uc5c7\uc785\ub2c8\uae4c?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uae30\uc9c0\uc758 \ud06c\uc728 \ud30c\ub77c\uc624\uc988\uc758 \uac74\uc124\uc5d0 \uc788\uc5b4 \uac00\uc7a5 \ud070 \ub3c4\uc804\uc774\ub77c\uace0 \uc0dd\uac01\ud558\uc2dc\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uae30\uc9c0\uc758 \ud06c\uc728 \ud30c\ub77c\uc624\uc988\ub97c \ube44\ub86f\ud55c \ub300\ub2e8\ud55c \uc5ed\uc0ac\uc801\uc778 \uac74\ucd95\uc774 \ub098\uc5fc \ub2e4\ub978 \uc5b4\ub514\uc5d0 \uc788\uc744\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8c1111a4508c4811",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u544a\u8bc9\u6211\u5173\u4e8e\u7f8e\u56fd\u72ec\u7acb\u6218\u4e89\u7684\u4fe1\u606f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u544a\u8bc9\u6211\u5173\u4e8e\u4e54\u6cbb\u00b7\u534e\u76db\u987f\u5728\u8fd9\u573a\u6218\u4e89\u4e2d\u7684\u4f5c\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c08\u8c08\u6258\u9a6c\u65af\u00b7\u6770\u6590\u900a\u5728\u8fd9\u573a\u6218\u4e89\u4e2d\u7684\u4f5c\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c08\u8c08\u6cd5\u56fd\u5728\u7f8e\u56fd\u72ec\u7acb\u6218\u4e89\u4e2d\u7684\u4f5c\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c08\u8c08\u7f8e\u56fd\u72ec\u7acb\u6218\u4e89\u540e\u5bf9\u7f8e\u56fd\u653f\u6cbb\u5236\u5ea6\u7684\u5f71\u54cd\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "21b5fdc39f6542ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What was the main purpose of the Berlin Wall?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Why did East Germans want to flee to West Germany?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the construction of the wall impact the lives of Berliners?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What were some key events leading to the wall's destruction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What happened after the wall came down?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "37d32263d80a4d95",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What was the significance of the Silk Road?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What led to the decline of the Silk Road?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Did the Silk Road only involve trade of goods, or were there other forms of exchange as well?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you tell me about some important cities along the Silk Road?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc5633f69f4a41b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5728\u660e\u671d\u65f6\u671f\uff0c\u4e16\u754c\u4e0a\u6700\u5148\u8fdb\u7684\u79d1\u6280\u53d1\u5c55\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u660e\u671d\u65f6\u671f\u7684\u822a\u6d77\u6280\u672f\u6709\u54ea\u4e9b\u7a81\u7834\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u660e\u671d\u65f6\u671f\u706b\u836f\u7684\u5e94\u7528\u6709\u54ea\u4e9b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a1cba27f8eeb4a6c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u65e5\u672c\u306e\u660e\u6cbb\u7dad\u65b0\u306b\u3064\u3044\u3066\u8981\u7d04\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

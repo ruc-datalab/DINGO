@@ -1,0 +1,869 @@
+[
+    {
+        "id": "e6231aa385bc4ed0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u603b\u7ed3\u4e00\u4e0b\u8fd9\u4e2a\u6587\u7ae0\u5185\u5bb9\uff1a\n\n\u5728\u5f53\u4eca\u7684\u79d1\u6280\u65f6\u4ee3\uff0c\u4eba\u5de5\u667a\u80fd\u548c\u5927\u6570\u636e\u6b63\u5728\u6539\u53d8\u7740\u6211\u4eec\u7684\u751f\u6d3b\u3002\u8bb8\u591a\u4f01\u4e1a\u548c\u653f\u5e9c\u90e8\u95e8\u5df2\u7ecf\u5f00\u59cb\u5229\u7528\u8fd9\u4e9b\u6280\u672f\u6765\u63d0\u9ad8\u6548\u7387\uff0c\u964d\u4f4e\u6210\u672c\uff0c\u63d0\u9ad8\u5ba2\u6237\u6ee1\u610f\u5ea6\u3002\u5728\u8fd9\u4e2a\u8fc7\u7a0b\u4e2d\uff0c\u6570\u636e\u5206\u6790\u5e08\u548c\u6570\u636e\u79d1\u5b66\u5bb6\u7684\u89d2\u8272\u53d8\u5f97\u8d8a\u6765\u8d8a\u91cd\u8981\u3002\u4ed6\u4eec\u8d1f\u8d23\u6536\u96c6\uff0c\u5206\u6790\u548c\u89e3\u91ca\u6570\u636e\uff0c\u4ee5\u4fbf\u4f01\u4e1a\u548c\u653f\u5e9c\u90e8\u95e8\u53ef\u4ee5\u505a\u51fa\u66f4\u660e\u667a\u7684\u51b3\u7b56\u3002\n\n\u7136\u800c\uff0c\u6570\u636e\u5206\u6790\u548c\u6570\u636e\u79d1\u5b66\u5bb6\u9762\u4e34\u7740\u8bb8\u591a\u6311\u6218\u3002\u9996\u5148\uff0c\u6570\u636e\u91cf\u5e9e\u5927\uff0c\u4e14\u683c\u5f0f\u591a\u6837\uff0c\u8fd9\u4f7f\u5f97\u6570\u636e\u5206\u6790\u53d8\u5f97\u590d\u6742\u4e14\u8017\u65f6\u3002\u6b64\u5916\uff0c\u6570\u636e\u8d28\u91cf\u548c\u51c6\u786e\u6027\u4e5f\u662f\u4e00\u4e2a\u5173\u952e\u95ee\u9898\uff0c\u56e0\u4e3a\u9519\u8bef\u7684\u6570\u636e\u53ef\u80fd\u4f1a\u5bfc\u81f4\u9519\u8bef\u7684\u51b3\u7b56\u3002\u6700\u540e\uff0c\u6570\u636e\u5b89\u5168\u548c\u9690\u79c1\u95ee\u9898\u4e5f\u8d8a\u6765\u8d8a\u53d7\u5230\u5173\u6ce8\uff0c\u56e0\u4e3a\u8d8a\u6765\u8d8a\u591a\u7684\u6570\u636e\u88ab\u6536\u96c6\u548c\u5b58\u50a8\u3002\n\n\u4e3a\u4e86\u5e94\u5bf9\u8fd9\u4e9b\u6311\u6218\uff0c\u6570\u636e\u5206\u6790\u5e08\u548c\u6570\u636e\u79d1\u5b66\u5bb6\u9700\u8981\u638c\u63e1\u5404\u79cd\u6280\u80fd\u548c\u5de5\u5177\u3002\u4f8b\u5982\uff0c\u4ed6\u4eec\u9700\u8981\u5b66\u4f1a\u4f7f\u7528\u7f16\u7a0b\u8bed\u8a00\uff08\u5982Python\u548cR\uff09\u548c\u6570\u636e\u5206\u6790\u5de5\u5177\uff08\u5982Excel\u548cTableau\uff09\u6765\u5904\u7406\u548c\u5206\u6790\u6570\u636e\u3002\u6b64\u5916\uff0c\u4ed6\u4eec\u8fd8\u9700\u8981\u5177\u5907\u826f\u597d\u7684\u6c9f\u901a\u548c\u56e2\u961f\u534f\u4f5c\u80fd\u529b\uff0c\u4ee5\u4fbf\u4e0e\u5176\u4ed6\u56e2\u961f\u6210\u5458\u5408\u4f5c\uff0c\u5206\u4eab\u6570\u636e\u6d1e\u5bdf\u548c\u5efa\u8bae\u3002\n\n\u603b\u4e4b\uff0c\u968f\u7740\u4eba\u5de5\u667a\u80fd\u548c\u5927\u6570\u636e\u6280\u672f\u7684\u4e0d\u65ad\u53d1\u5c55\uff0c\u6570\u636e\u5206\u6790\u5e08\u548c\u6570\u636e\u79d1\u5b66\u5bb6\u7684\u89d2\u8272\u5c06\u53d8\u5f97\u8d8a\u6765\u8d8a\u91cd\u8981\u3002\u4ed6\u4eec\u9700\u8981\u4e0d\u65ad\u5b66\u4e60\u548c\u9002\u5e94\u65b0\u6280\u80fd\uff0c\u4ee5\u4fbf\u5728\u8fd9\u4e2a\u5feb\u901f\u53d1\u5c55\u7684\u9886\u57df\u4e2d\u4fdd\u6301\u7ade\u4e89\u529b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "31f7aa9e89c24418",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarize the following text about the benefits of exercise for mental health: Exercise has long been recognized as essential for maintaining good physical health. However, its positive impact on mental health is often overlooked. Studies have shown that regular physical activity can help reduce stress, anxiety, and depression while improving mood and overall well-being. Exercise releases endorphins, which are natural chemicals in the brain that act as mood elevators and pain relievers. Additionally, engaging in regular physical activities can help increase self-esteem and boost confidence. Exercise also serves as a healthy coping mechanism, allowing individuals to focus on something positive and productive while dealing with life's challenges. Furthermore, it has been proven that regular exercise can improve cognitive function, including memory, attention, and learning. In conclusion, incorporating regular exercise into one's lifestyle can have a significant positive impact on mental health and well-being."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5f89a0205164468",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the content of this article:\n\nIn today's technological age, artificial intelligence and big data are changing our lives. Many businesses and government departments have begun utilizing these technologies to improve efficiency, reduce costs, and enhance customer satisfaction. In this process, the roles of data analysts and data scientists are becoming increasingly important. They are responsible for collecting, analyzing, and interpreting data so that businesses and government departments can make wiser decisions.\n\nHowever, data analysts and data scientists face many challenges. Firstly, the vast and diverse formats of data make data analysis complex and time-consuming. Additionally, data quality and accuracy are key issues because incorrect data may lead to faulty decisions. Finally, data security and privacy concerns are also gaining attention as more data is being collected and stored.\n\nTo address these challenges, data analysts and data scientists need to master various skills and tools. For example, they need to learn programming languages such as Python and R, and data analysis tools such as Excel and Tableau to process and analyze data. Furthermore, they also need to possess good communication and teamwork skills to collaborate with other team members and share data insights and recommendations.\n\nIn conclusion, as artificial intelligence and big data technologies continue to evolve, the roles of data analysts and data scientists will become increasingly important. They need to continuously learn and adapt new skills to remain competitive in this rapidly developing field."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e49eda43ce5040be",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarize the following text about the benefits of exercise for mental health: Exercise has long been recognized as essential for maintaining good physical health. However, its positive impact on mental health is often overlooked. Studies have shown that regular physical activity can help reduce stress, anxiety, and depression while improving mood and overall well-being. Exercise releases endorphins, which are natural chemicals in the brain that act as mood elevators and pain relievers. Additionally, engaging in regular physical activities can help increase self-esteem and boost confidence. Exercise also serves as a healthy coping mechanism, allowing individuals to focus on something positive and productive while dealing with life's challenges. Furthermore, it has been proven that regular exercise can improve cognitive function, including memory, attention, and learning. In conclusion, incorporating regular exercise into one's lifestyle can have a significant positive impact on mental health and well-being."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69d6fdc94fb54f00",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u5173\u52a8\u7269\u7ed3\u6784\u9002\u5e94\u7684\u6587\u7ae0\n\u52a8\u7269\u7684\u7ed3\u6784\u9002\u5e94\u662f\u4f7f\u5b83\u4eec\u80fd\u591f\u5728\u81ea\u7136\u754c\u4e2d\u7ade\u4e89\u7684\u8eab\u4f53\u7279\u5f81\u3002\u52a8\u7269\u7684\u7ed3\u6784\u9002\u5e94\u79cd\u7c7b\u7e41\u591a\uff0c\u5982\u950b\u5229\u7684\u722a\u5b50\u53ef\u6355\u6349\u730e\u7269\u3001\u6316\u6d1e\u6216\u5728\u6811\u4e0a\u6293\u75d5\u4ee5\u6807\u8bb0\u9886\u5730\u3002\u6811\u6728\u4e0a\u7684\u6293\u75d5\u662f\u4e00\u79cd\u884c\u4e3a\u9002\u5e94\u3002\n\n\u6355\u98df\u8005\u548c\u730e\u7269\u5f80\u5f80\u5177\u6709\u76f8\u4f3c\u7684\u9002\u5e94\u6027\u3002\u5b83\u4eec\u90fd\u53ef\u80fd\u5177\u6709\u826f\u597d\u7684\u89c6\u529b\u548c\u542c\u529b\u3002\u730e\u7269\u901a\u5e38\u5728\u5934\u4e24\u4fa7\u6709\u773c\u775b\u4ee5\u4fbf\u4e8e\u53d1\u73b0\u6355\u98df\u8005\u3002\u800c\u6355\u98df\u8005\u901a\u5e38\u5728\u5934\u90e8\u524d\u65b9\u6709\u773c\u775b\uff0c\u4ee5\u4fbf\u5224\u65ad\u730e\u7269\u4e4b\u95f4\u7684\u8ddd\u79bb\u3002\n\n\u8bf7\u4e3a\u8fd9\u7bc7\u6587\u7ae0\u5199\u4e00\u4e2a\u7b80\u77ed\u7684\u603b\u7ed3\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5897de9004b4579",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize this text:\n\nJohn Smith, a 35-year-old software engineer, has recently developed an innovative application called 'Green Life' that aims to help individuals reduce their carbon footprint by tracking their daily energy consumption. The app allows users to input data on their energy usage, such as electricity, gas, and water consumption, as well as transportation habits. After analyzing the data, the app provides personalized suggestions on how to lower their environmental impact. Additionally, the app offers a reward system that encourages users to adopt eco-friendly habits, such as carpooling, recycling, and minimizing plastic usage. The app has gained traction among environmentally conscious individuals and has received positive reviews for its user-friendly interface and effective recommendations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9c0b721dc4ae4501",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a brief summary of the following text? \"The process of photosynthesis in plants involves the conversion of sunlight, water, and carbon dioxide into glucose and oxygen. This process is essential for plant growth and energy production. Chlorophyll, the green pigment found in plants, plays a crucial role in capturing sunlight and converting it into energy through a series of chemical reactions.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please rephrase the summary to emphasize the role of chlorophyll in photosynthesis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5ad589d82214db1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you summarize this passage? 'A recent study conducted by scientists at Harvard University suggests a correlation between regular exercise and improved cognitive function in older adults. The study involved a group of participants aged 65 and above who engaged in moderate physical activity for at least 30 minutes, three times a week, for six months. The results indicated significant enhancements in memory, attention, and problem-solving skills among the participants.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08c66d9bf78d4fef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please summarize this paragraph: 'The evolution of smartphones has revolutionized communication and connectivity. These devices, equipped with advanced features such as high-speed internet access, GPS navigation, and social media integration, have become indispensable tools in everyday life. Smartphones enable instant communication through calls, texts, and social networking apps, facilitating seamless interaction and information exchange.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63410767b06948be",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide a summary of this text? 'The concept of mindfulness, rooted in ancient Buddhist traditions, has gained popularity in modern psychology and wellness practices. Mindfulness involves cultivating present-moment awareness and non-judgmental acceptance of one's thoughts, feelings, and sensations. Through mindfulness meditation and exercises, individuals can develop mental clarity, emotional resilience, and stress reduction, leading to improved overall well-being.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d613c70efefc4481",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize this passage: 'The Industrial Revolution, which began in the late 18th century, marked a significant shift in human history. It brought about rapid advancements in manufacturing, transportation, and technology, leading to urbanization and economic growth. Steam engines, mechanized factories, and new methods of production transformed societies and spurred global trade and colonization.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "19ae49aae9a24b35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you summarize this paragraph? 'The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef ecosystem. Spanning over 2,300 kilometers, it comprises thousands of individual reefs and islands, teeming with diverse marine life. The reef is a UNESCO World Heritage Site and a popular tourist destination, attracting millions of visitors each year for snorkeling, diving, and ecotourism activities.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a2a116df110a47ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please provide a summary of this text: 'The concept of artificial intelligence (AI) refers to the development of computer systems capable of performing tasks that typically require human intelligence. These tasks include problem-solving, pattern recognition, natural language processing, and decision-making. AI technologies such as machine learning and neural networks enable computers to learn from data, adapt to new information, and make autonomous decisions.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "70fd215ac5ff4603",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you summarize this paragraph? 'Climate change, driven by human activities such as burning fossil fuels and deforestation, poses significant threats to global ecosystems and human societies. Rising temperatures, extreme weather events, sea-level rise, and disruptions to agriculture and water resources are among the adverse impacts of climate change. Mitigation efforts such as transitioning to renewable energy sources and implementing sustainable land-use practices are essential to address this urgent issue.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf4021837a024856",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a summary of this text? 'The human brain, the most complex organ in the body, governs various cognitive and physiological functions. Comprising billions of neurons and intricate neural networks, the brain controls movement, sensation, emotion, and cognition. Neuroplasticity, the brain's ability to reorganize and adapt, underpins learning, memory formation, and recovery from injury. Understanding the brain's structure and functions is crucial for advancing neuroscience and developing treatments for neurological disorders.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "66467251275c434f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please summarize this paragraph: 'The rise of social media platforms has transformed the way people communicate and share information. With billions of users worldwide, platforms such as Facebook, Twitter, and Instagram facilitate instant connection and interaction across geographical boundaries. Social media users can share text, photos, and videos, engage in discussions, and discover news and trends in real-time, shaping public discourse and cultural norms.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5f3f5df389b46ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you summarize this passage? 'Climate change, driven by human activities such as burning fossil fuels and deforestation, poses a grave threat to the planet. Rising temperatures lead to melting ice caps, sea level rise, extreme weather events, and disruptions to ecosystems and agriculture. Mitigating climate change requires global cooperation, transitioning to renewable energy sources, and implementing sustainable practices.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "413bf3e0d0204f78",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a summary of this paragraph: 'The Industrial Revolution, starting in the 18th century, marked a significant shift in human history. It led to mechanization, urbanization, and the emergence of modern capitalism. Industries such as textiles, manufacturing, and transportation underwent radical changes, transforming economies and societies worldwide.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d876a0379904ad5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you give me a summary of this text? 'The theory of evolution, proposed by Charles Darwin in the 19th century, revolutionized our understanding of life on Earth. It explains how species adapt and change over time through natural selection, genetic mutation, and other mechanisms. Evolutionary principles are fundamental to biology and have applications in fields such as medicine, agriculture, and conservation.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3df949b585964df5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please summarize this paragraph: 'Artificial intelligence (AI) is reshaping industries and societies, offering unprecedented opportunities and challenges. AI technologies, such as machine learning and deep learning, enable automation, predictive analytics, and personalized experiences. While AI holds promise for efficiency and innovation, concerns about ethics, job displacement, and bias require careful consideration.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "54052a22f55d4a34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like a summary of this passage: 'Globalization, characterized by interconnectedness and interdependence, has reshaped economies, cultures, and societies. It facilitates the exchange of goods, services, ideas, and cultures across borders. While globalization has led to economic growth and cultural exchange, it also raises concerns about inequality, cultural homogenization, and environmental degradation.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "078f007100fc46ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide a summary of this text? 'The importance of education in shaping individuals and societies cannot be overstated. Education equips individuals with knowledge, skills, and values necessary for personal and societal development. It fosters critical thinking, creativity, and social mobility, playing a crucial role in reducing poverty and promoting social cohesion.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d812bc595a924cc1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please summarize this paragraph: 'The exploration of space has captivated human imagination for centuries. Advancements in space technology have enabled humans to venture beyond Earth's atmosphere, leading to space exploration missions, satellite launches, and the establishment of space stations. Space exploration fosters scientific discovery, technological innovation, and international collaboration.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1c9c5cb758a64d8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you give me a summary of this text? 'The field of medicine has made significant advancements over the centuries, improving healthcare outcomes and quality of life. Medical innovations such as vaccines, antibiotics, and surgical procedures have led to the eradication of diseases, prolonged life expectancy, and enhanced patient care. Continued research and innovation are essential for addressing emerging health challenges.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ce9e57b0dad44ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please summarize this passage: 'The impact of technology on society is profound and multifaceted. Technological advancements have revolutionized communication, transportation, and commerce, making information more accessible and facilitating global connectivity. However, technology also raises concerns about privacy, cybersecurity, and social inequality, highlighting the need for ethical and regulatory frameworks.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1238670df81a4922",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a summary of the following text in 80 words? \"The process of photosynthesis in plants involves the conversion of sunlight, water, and carbon dioxide into glucose and oxygen. This process is essential for plant growth and energy production. Chlorophyll, the green pigment found in plants, plays a crucial role in capturing sunlight and converting it into energy through a series of chemical reactions.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please rephrase the summary to emphasize the role of chlorophyll in photosynthesis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a9b1c6af8eb460c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a summary of the following text in 80-100 words? \"The process of photosynthesis in plants involves the conversion of sunlight, water, and carbon dioxide into glucose and oxygen. This process is essential for plant growth and energy production. Chlorophyll, the green pigment found in plants, plays a crucial role in capturing sunlight and converting it into energy through a series of chemical reactions.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please rephrase the summary to emphasize the role of chlorophyll in photosynthesis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "313dc39d8b2b479e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Fasse diesen Text zusammen: 'Die Entwicklung der Elektromobilit\u00e4t hat in den letzten Jahren deutlich an Fahrt aufgenommen. Immer mehr Menschen entscheiden sich f\u00fcr ein Elektroauto, um einen Beitrag zum Klimaschutz zu leisten und von den Vorteilen der umweltfreundlicheren Technologie zu profitieren. Neben der Reduzierung von CO2-Emissionen spielen auch wirtschaftliche Aspekte eine Rolle, da Elektroautos in der Regel g\u00fcnstiger im Unterhalt sind als Fahrzeuge mit Verbrennungsmotoren. Allerdings gibt es auch Kritikpunkte, wie etwa die begrenzte Reichweite von Elektroautos und die noch unzureichende Ladeinfrastruktur, die den Durchbruch der Elektromobilit\u00e4t bisher erschweren. Dennoch ist der Trend hin zur Elektromobilit\u00e4t unverkennbar und wird auch von der Politik unterst\u00fctzt.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f44958b5cc9046cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize this text: The increased usage of technology has led to a significant rise in data breaches, making cybersecurity a major concern for organizations worldwide. As cybercriminals become more sophisticated, companies must implement new strategies and technologies to protect their digital assets and sensitive information. Some key measures include employee training, multi-factor authentication, and regular updates to software and hardware. By staying proactive and vigilant, businesses can safeguard themselves against potential security threats and ensure their data remains secure."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08d6d804608b4d11",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5317\u4eac\u65f6\u95f43\u670823\u65e5\uff0cNBA\u5e38\u89c4\u8d5b\uff0c\u52c7\u58eb127-125\u9669\u80dc\u72ec\u884c\u4fa0\u3002\n\n\u52c7\u58eb\uff0838-36\uff09\uff1a\u5e93\u660e\u52a022\u5206\u3001\u5e93\u91cc20\u52065\u7bee\u677f13\u52a9\u653b\u3001\u666e\u5c1416\u52066\u52a9\u653b\u3001\u8ffd\u68a614\u52064\u7bee\u677f8\u52a9\u653b3\u62a2\u65ad4\u5c01\u76d6\u3001\u8fea\u6587\u5c91\u4f5014\u52063\u7bee\u677f\u3001\u5362\u5c3c12\u520612\u7bee\u677f\n\n\u72ec\u884c\u4fa0\uff0836-37\uff09\uff1a\u4e1c\u5951\u594730\u52067\u7bee\u677f17\u52a9\u653b\u3001\u54c8\u8fea27\u52065\u7bee\u677f\u3001\u4f0d\u5fb719\u52064\u7bee\u677f4\u52a9\u653b\u3001\u5e03\u6d1b\u514b15\u5206\u3001\u9c8d\u5a01\u5c1413\u52064\u7bee\u677f\u3001\u683c\u679712\u52064\u7bee\u677f\n\n\u672c\u573a\u6bd4\u8d5b\uff0c\u4e1c\u5951\u5947\u590d\u51fa\uff0c\u6b27\u6587\u7f3a\u9635\u3002\u9996\u8282\u6bd4\u8d5b\uff0c\u53cc\u65b9\u6bd4\u5206\u4ea4\u66ff\u9886\u5148\uff0c\u72ec\u884c\u4fa0\u9886\u51483\u5206\u7ed3\u675f\u7b2c\u4e00\u8282\u3002\u7b2c\u4e8c\u8282\uff0c\u53cc\u65b9\u7ee7\u7eed\u5bf9\u653b\uff0c\u52c7\u58eb\u5b8c\u6210\u53cd\u8d85\u3002\u534a\u573a\u7ed3\u675f\u65f6\uff0c\u52c7\u58eb\u9886\u5148\u72ec\u884c\u4fa02\u5206\u3002\u7b2c\u4e09\u8282\uff0c\u53cc\u65b9\u7ee7\u7eed\u5bf9\u653b\uff0c\u6bd4\u5206\u4e00\u76f4\u5341\u5206\u7126\u707c\u3002\u672b\u8282\uff0c\u53cc\u65b9\u7126\u707c\u5230\u6700\u540e\u65f6\u523b\uff0c\u5e93\u91cc\u4e0a\u7bee\u51c6\u7edd\u6740\u3002\u6700\u7ec8\uff0c\u52c7\u58eb127-125\u9669\u80dc\u72ec\u884c\u4fa0\u3002\n\n\u8acb\u5e6b\u5fd9\u5beb\u4e00\u6bb5\u603b\u7ed3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4107b79fcdae41df",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Entschuldigung, k\u00f6nnten Sie mir bitte dabei helfen, eine Zusammenfassung dieser E-Mail zu erstellen? \n\nSehr geehrte Frau M\u00fcller,\n\nich hoffe, diese E-Mail erreicht Sie in bester Gesundheit. Ich m\u00f6chte Ihnen unsere neueste Produktreihe vorstellen, die speziell f\u00fcr umweltbewusste Kunden entwickelt wurde. Unsere Produkte sind aus recycelten Materialien hergestellt und bieten innovative L\u00f6sungen, um den CO2-Fu\u00dfabdruck zu reduzieren. Unser Sortiment umfasst umweltfreundliche Taschen, Haushaltsgegenst\u00e4nde und Arbeitsmaterialien. Ich bin mir sicher, dass diese Produkte f\u00fcr Ihre Kunden von gro\u00dfem Interesse sein werden. Bitte lassen Sie mich wissen, ob Sie weitere Informationen zu unserem Angebot ben\u00f6tigen oder an einer Zusammenarbeit interessiert sind. Ich freue mich darauf, von Ihnen zu h\u00f6ren.\n\nMit freundlichen Gr\u00fc\u00dfen,\nAnna Schmidt"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5797d4944f8f48fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "kindly provide a brief summary for the following text:\n\nIn recent years, the prevalence of remote work has skyrocketed. This shift in the way people work has led to an increase in the demand for flexible workspaces. Co-working spaces have emerged as a popular solution to this growing need. They offer a variety of benefits, such as flexibility in terms of hours and location, access to a community of like-minded professionals, and cost savings over traditional office leases. In addition, co-working spaces often provide a range of amenities, including high-speed internet, conference rooms, and on-site support staff. As the remote work trend continues to grow, it is expected that the popularity of co-working spaces will only increase in the coming years."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3879bb643c474ed8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "A new report suggests that the average American spends almost 25 hours per week watching television, and this number is only increasing. The study also highlights that the majority of this time is spent watching live television, with streaming services like Netflix and Hulu making up a smaller percentage of the overall viewing time. The report indicates that this trend is expected to continue, with more people turning to their TVs for entertainment and news. Additionally, the researchers found that those who watch more television tend to be older, with younger individuals spending more time on their smartphones and other devices. Summarize this information."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the main point of this study?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you describe the viewing habits of younger individuals?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the role of streaming services like Netflix and Hulu in this trend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a2acce0fd344c1b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4ee5\u4e0b\u6587\u5b57\u63d0\u4f9b\u4e00\u4e2a\u7b80\u6d01\u6458\u8981\uff1a\u5728\u5f53\u4eca\u9ad8\u5ea6\u7ade\u4e89\u7684\u5546\u4e1a\u73af\u5883\u4e2d\uff0c\u4f01\u4e1a\u9700\u8981\u4e0d\u65ad\u521b\u65b0\u624d\u80fd\u4fdd\u6301\u7ade\u4e89\u4f18\u52bf\u3002\u4e3a\u4e86\u5b9e\u73b0\u8fd9\u4e00\u76ee\u6807\uff0c\u5f88\u591a\u516c\u53f8\u5f00\u59cb\u5173\u6ce8\u4eba\u5de5\u667a\u80fd\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\uff0c\u4ee5\u63d0\u9ad8\u751f\u4ea7\u529b\u3001\u964d\u4f4e\u6210\u672c\u548c\u6539\u5584\u5ba2\u6237\u4f53\u9a8c\u3002\u8fd9\u4e9b\u6280\u672f\u5df2\u7ecf\u5728\u8bb8\u591a\u9886\u57df\u53d6\u5f97\u4e86\u663e\u8457\u7684\u6210\u679c\uff0c\u5982\u91d1\u878d\u3001\u533b\u7597\u3001\u96f6\u552e\u548c\u5236\u9020\u4e1a\u3002\u7136\u800c\uff0c\u5f15\u5165\u4eba\u5de5\u667a\u80fd\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\u5e76\u4e0d\u662f\u4e00\u5e06\u98ce\u987a\u7684\uff0c\u4f01\u4e1a\u9700\u8981\u514b\u670d\u4e00\u4e9b\u6311\u6218\uff0c\u5982\u6570\u636e\u5b89\u5168\u3001\u9690\u79c1\u4fdd\u62a4\u3001\u4eba\u624d\u77ed\u7f3a\u548c\u6280\u672f\u6210\u719f\u5ea6\u7b49\u95ee\u9898\u3002\u5c3d\u7ba1\u5982\u6b64\uff0c\u8d8a\u6765\u8d8a\u591a\u7684\u516c\u53f8\u610f\u8bc6\u5230\u8fd9\u4e9b\u6280\u672f\u7684\u6f5c\u529b\uff0c\u6b63\u5728\u79ef\u6781\u5bfb\u6c42\u5c06\u5176\u878d\u5165\u4e1a\u52a1\u6218\u7565\u4e2d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4d7201f52460453f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u8fd9\u6bb5\u8bdd\u5199\u4e2a\u82f1\u6587\u6458\u8981\uff1a\u5728\u5f53\u4eca\u9ad8\u5ea6\u7ade\u4e89\u7684\u5546\u4e1a\u73af\u5883\u4e2d\uff0c\u4f01\u4e1a\u9700\u8981\u4e0d\u65ad\u521b\u65b0\u624d\u80fd\u4fdd\u6301\u7ade\u4e89\u4f18\u52bf\u3002\u4e3a\u4e86\u5b9e\u73b0\u8fd9\u4e00\u76ee\u6807\uff0c\u5f88\u591a\u516c\u53f8\u5f00\u59cb\u5173\u6ce8\u4eba\u5de5\u667a\u80fd\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\uff0c\u4ee5\u63d0\u9ad8\u751f\u4ea7\u529b\u3001\u964d\u4f4e\u6210\u672c\u548c\u6539\u5584\u5ba2\u6237\u4f53\u9a8c\u3002\u8fd9\u4e9b\u6280\u672f\u5df2\u7ecf\u5728\u8bb8\u591a\u9886\u57df\u53d6\u5f97\u4e86\u663e\u8457\u7684\u6210\u679c\uff0c\u5982\u91d1\u878d\u3001\u533b\u7597\u3001\u96f6\u552e\u548c\u5236\u9020\u4e1a\u3002\u7136\u800c\uff0c\u5f15\u5165\u4eba\u5de5\u667a\u80fd\u548c\u673a\u5668\u5b66\u4e60\u6280\u672f\u5e76\u4e0d\u662f\u4e00\u5e06\u98ce\u987a\u7684\uff0c\u4f01\u4e1a\u9700\u8981\u514b\u670d\u4e00\u4e9b\u6311\u6218\uff0c\u5982\u6570\u636e\u5b89\u5168\u3001\u9690\u79c1\u4fdd\u62a4\u3001\u4eba\u624d\u77ed\u7f3a\u548c\u6280\u672f\u6210\u719f\u5ea6\u7b49\u95ee\u9898\u3002\u5c3d\u7ba1\u5982\u6b64\uff0c\u8d8a\u6765\u8d8a\u591a\u7684\u516c\u53f8\u610f\u8bc6\u5230\u8fd9\u4e9b\u6280\u672f\u7684\u6f5c\u529b\uff0c\u6b63\u5728\u79ef\u6781\u5bfb\u6c42\u5c06\u5176\u878d\u5165\u4e1a\u52a1\u6218\u7565\u4e2d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5ff2c14409b40bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please summarize the following text: Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services. It is considered one of the Big Tech technology companies, alongside Amazon, Google, Microsoft, and Facebook. The company's hardware products include the iPhone smartphone, the iPad tablet computer, the Mac personal computer, the iPod portable media player, the Apple Watch smartwatch, the Apple TV digital media player, the AirPods wireless earbuds, and the HomePod smart speaker. Apple's software includes macOS, iOS, iPadOS, watchOS, and tvOS operating systems, the iTunes media player, the Safari web browser, the Shazam music identifier, and the iWork and iLife creativity and productivity suites, as well as professional applications like Final Cut Pro, Logic Pro, and Xcode. Its online services include the iTunes Store, the App Store, Apple Music, Apple TV+, Apple Arcade, and iCloud. Apple is known for its size, being the world's largest information technology company by revenue and the world's third-largest mobile phone manufacturer. In August 2018, Apple became the first publicly traded U.S. company to be valued at over $1 trillion and just two years later in August 2020 became the first $2 trillion U.S. company."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8efb06163a1944e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5c06\u4ee5\u4e0b\u5185\u5bb9\u6539\u5199\u4e3a\u4e00\u5219\u7b80\u77ed\u7684\u6982\u8981\uff1a\n\u8bd7\u4eba\u767d\u5c45\u6613\uff08772-846\uff09\u662f\u5510\u4ee3\u8457\u540d\u7684\u6587\u5b66\u5bb6\uff0c\u4ed6\u7684\u8bd7\u6b4c\u4f5c\u54c1\u4ee5\u6e05\u65b0\u3001\u8d28\u6734\u3001\u6d41\u7545\u8457\u79f0\u3002\u767d\u5c45\u6613\u7684\u8bd7\u6b4c\u6d89\u53ca\u591a\u79cd\u9898\u6750\uff0c\u5305\u62ec\u81ea\u7136\u3001\u4eba\u751f\u54f2\u7406\u3001\u793e\u4f1a\u73b0\u5b9e\u7b49\u3002\u5176\u4e2d\uff0c\u300a\u8d4b\u5f97\u53e4\u539f\u8349\u9001\u522b\u300b\u3001\u300a\u5fc6\u6c5f\u5357\u00b7\u6c5f\u5357\u5fc6\u300b\u3001\u300a\u94b1\u5858\u6e56\u6625\u884c\u300b\u7b49\u4f5c\u54c1\u4e3a\u4eba\u4eec\u6240\u719f\u77e5\u3002\u767d\u5c45\u6613\u8fd8\u5173\u6ce8\u6c11\u751f\uff0c\u63d0\u5021\u6587\u5b66\u4e3a\u6c11\u7684\u7406\u5ff5\uff0c\u4ed6\u5728\u300a\u8d4b\u5f97\u53e4\u539f\u8349\u9001\u522b\u300b\u4e2d\u5199\u9053\uff1a\u201c\u79bb\u79bb\u539f\u4e0a\u8349\uff0c\u4e00\u5c81\u4e00\u67af\u8363\u3002\u91ce\u706b\u70e7\u4e0d\u5c3d\uff0c\u6625\u98ce\u5439\u53c8\u751f\u3002\u201d\u8fd9\u4fbf\u6292\u53d1\u4e86\u5bf9\u5e73\u6c11\u767e\u59d3\u751f\u6d3b\u7684\u5173\u7231\u3002\u767d\u5c45\u6613\u8fd8\u66fe\u62c5\u4efb\u8fc7\u5404\u7ea7\u653f\u5e9c\u7684\u5b98\u5458\uff0c\u79ef\u7d2f\u4e86\u4e30\u5bcc\u7684\u793e\u4f1a\u7ecf\u9a8c\uff0c\u8fd9\u4e9b\u90fd\u4e3a\u4ed6\u7684\u8bd7\u6b4c\u521b\u4f5c\u63d0\u4f9b\u4e86\u5b9d\u8d35\u7684\u7d20\u6750\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9ceb5f716d68425b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "could you please summarize the following passage: The increasing use of technology in various aspects of our lives has led to significant changes in the way we communicate, work, and entertain ourselves. One such change is the growing trend of online streaming platforms, which have revolutionized the entertainment industry. These platforms offer a wide range of content, including movies, television series, documentaries, and other forms of media, making it easier for users to access their favorite content at any time and from any device. Additionally, these platforms have disrupted traditional distribution channels, such as cable and satellite television, by offering more affordable and flexible subscription plans. As a result, many people are cutting the cord and opting for online streaming services instead. However, this trend also raises concerns about the potential for digital piracy, as some users may choose to illegally access copyrighted content."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "51dbe3b6cefe49eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize this text: \"The rapid development of autonomous vehicles has the potential to vastly improve transportation efficiency and safety. Advanced sensors and software enable these vehicles to navigate complex environments, reducing the risk of human error. However, concerns have been raised about the impact on employment, as many driving-related jobs may be lost. Additionally, there are ethical dilemmas surrounding the programming of autonomous vehicles, such as how they should react in situations where a collision is unavoidable.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e2a10c1645d42de",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "summarize this text:\nAcme Corporation recently introduced its latest product, the Acme Widget 3000. The revolutionary device promises to make everyday tasks easier and more efficient for users. With cutting-edge technology and sleek design, the Acme Widget 3000 boasts a range of features, including voice recognition, automation capabilities, and seamless integration with other smart devices. Early reviews have been overwhelmingly positive, with many praising the device's ease of use and innovative features. Acme Corporation expects the Acme Widget 3000 to be a game-changer in the industry and plans to ramp up production to meet the anticipated high demand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb3e810848dd4484",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Here is a paragraph about the effects of social media on mental health: Social media platforms have become an integral part of our daily lives, connecting us with friends, family, and even strangers. While these platforms have made communication more accessible and convenient, they have also brought about concerns regarding their impact on mental health. Studies have shown that excessive use of social media can lead to increased feelings of anxiety, depression, and loneliness, as well as sleep disturbances and decreased self-esteem. On the other hand, some research suggests that social media can also have positive effects on mental well-being, such as providing support networks and opportunities for self-expression. The relationship between social media use and mental health is a complex and ongoing area of study."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f7504d4af54a48a9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4ee5\u4e0b\u5185\u5bb9\u5199\u4e00\u4e2a\u7b80\u77ed\u7684\u6458\u8981\uff1a\n\n\u8fd1\u65e5\uff0c\u56fd\u5bb6\u53d1\u5c55\u6539\u9769\u59d4\u3001\u56fd\u5bb6\u80fd\u6e90\u5c40\u8054\u5408\u53d1\u5e03\u300a\u5173\u4e8e\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\u7684\u610f\u89c1\u300b\uff08\u4ee5\u4e0b\u7b80\u79f0\u300a\u610f\u89c1\u300b\uff09\u3002\u300a\u610f\u89c1\u300b\u63d0\u51fa\uff0c\u8981\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\uff0c\u63a8\u52a8\u7535\u529b\u5e02\u573a\u5316\u4ea4\u6613\u89c4\u6a21\u4e0d\u65ad\u6269\u5927\u3002\u5b8c\u5584\u7ade\u4ef7\u4e0a\u7f51\u673a\u5236\uff0c\u63a8\u8fdb\u98ce\u7535\u3001\u5149\u4f0f\u7b49\u53ef\u518d\u751f\u80fd\u6e90\u7ade\u4ef7\u4e0a\u7f51\u3002\u52a0\u5f3a\u8de8\u533a\u57df\u7535\u529b\u5e02\u573a\u4ea4\u6613\u673a\u5236\u5efa\u8bbe\uff0c\u63a8\u8fdb\u957f\u534f\u3001\u7ade\u4ef7\u7b49\u591a\u79cd\u4ea4\u6613\u65b9\u5f0f\u6709\u673a\u7ed3\u5408\u3002\u540c\u65f6\uff0c\u52a0\u5f3a\u7535\u529b\u5e02\u573a\u76d1\u7ba1\uff0c\u5207\u5b9e\u7ef4\u62a4\u5e02\u573a\u516c\u5e73\u3001\u516c\u6b63\u3001\u516c\u5f00\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cce0ae443b87404e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4ee5\u4e0b\u5185\u5bb9\u751f\u6210\u4e00\u4e2a50\u5b57\u7684\u6458\u8981\uff1a\n\n\u8fd1\u65e5\uff0c\u56fd\u5bb6\u53d1\u5c55\u6539\u9769\u59d4\u3001\u56fd\u5bb6\u80fd\u6e90\u5c40\u8054\u5408\u53d1\u5e03\u300a\u5173\u4e8e\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\u7684\u610f\u89c1\u300b\uff08\u4ee5\u4e0b\u7b80\u79f0\u300a\u610f\u89c1\u300b\uff09\u3002\u300a\u610f\u89c1\u300b\u63d0\u51fa\uff0c\u8981\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\uff0c\u63a8\u52a8\u7535\u529b\u5e02\u573a\u5316\u4ea4\u6613\u89c4\u6a21\u4e0d\u65ad\u6269\u5927\u3002\u5b8c\u5584\u7ade\u4ef7\u4e0a\u7f51\u673a\u5236\uff0c\u63a8\u8fdb\u98ce\u7535\u3001\u5149\u4f0f\u7b49\u53ef\u518d\u751f\u80fd\u6e90\u7ade\u4ef7\u4e0a\u7f51\u3002\u52a0\u5f3a\u8de8\u533a\u57df\u7535\u529b\u5e02\u573a\u4ea4\u6613\u673a\u5236\u5efa\u8bbe\uff0c\u63a8\u8fdb\u957f\u534f\u3001\u7ade\u4ef7\u7b49\u591a\u79cd\u4ea4\u6613\u65b9\u5f0f\u6709\u673a\u7ed3\u5408\u3002\u540c\u65f6\uff0c\u52a0\u5f3a\u7535\u529b\u5e02\u573a\u76d1\u7ba1\uff0c\u5207\u5b9e\u7ef4\u62a4\u5e02\u573a\u516c\u5e73\u3001\u516c\u6b63\u3001\u516c\u5f00\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ea7f243ba6f48aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4ee5\u4e0b\u5185\u5bb9\u5199\u4e00\u4e2a\u7b80\u77ed\u7684\u82f1\u6587\u6458\u8981\uff1a\n\n\u8fd1\u65e5\uff0c\u56fd\u5bb6\u53d1\u5c55\u6539\u9769\u59d4\u3001\u56fd\u5bb6\u80fd\u6e90\u5c40\u8054\u5408\u53d1\u5e03\u300a\u5173\u4e8e\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\u7684\u610f\u89c1\u300b\uff08\u4ee5\u4e0b\u7b80\u79f0\u300a\u610f\u89c1\u300b\uff09\u3002\u300a\u610f\u89c1\u300b\u63d0\u51fa\uff0c\u8981\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\uff0c\u63a8\u52a8\u7535\u529b\u5e02\u573a\u5316\u4ea4\u6613\u89c4\u6a21\u4e0d\u65ad\u6269\u5927\u3002\u5b8c\u5584\u7ade\u4ef7\u4e0a\u7f51\u673a\u5236\uff0c\u63a8\u8fdb\u98ce\u7535\u3001\u5149\u4f0f\u7b49\u53ef\u518d\u751f\u80fd\u6e90\u7ade\u4ef7\u4e0a\u7f51\u3002\u52a0\u5f3a\u8de8\u533a\u57df\u7535\u529b\u5e02\u573a\u4ea4\u6613\u673a\u5236\u5efa\u8bbe\uff0c\u63a8\u8fdb\u957f\u534f\u3001\u7ade\u4ef7\u7b49\u591a\u79cd\u4ea4\u6613\u65b9\u5f0f\u6709\u673a\u7ed3\u5408\u3002\u540c\u65f6\uff0c\u52a0\u5f3a\u7535\u529b\u5e02\u573a\u76d1\u7ba1\uff0c\u5207\u5b9e\u7ef4\u62a4\u5e02\u573a\u516c\u5e73\u3001\u516c\u6b63\u3001\u516c\u5f00\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e0f866766774a3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u603b\u7ed3\u4e0b\u9762\u8fd9\u6bb5\u8bdd\uff1a\n\n\u8fd1\u65e5\uff0c\u56fd\u5bb6\u53d1\u5c55\u6539\u9769\u59d4\u3001\u56fd\u5bb6\u80fd\u6e90\u5c40\u8054\u5408\u53d1\u5e03\u300a\u5173\u4e8e\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\u7684\u610f\u89c1\u300b\uff08\u4ee5\u4e0b\u7b80\u79f0\u300a\u610f\u89c1\u300b\uff09\u3002\u300a\u610f\u89c1\u300b\u63d0\u51fa\uff0c\u8981\u8fdb\u4e00\u6b65\u6df1\u5316\u7535\u529b\u5e02\u573a\u5efa\u8bbe\uff0c\u63a8\u52a8\u7535\u529b\u5e02\u573a\u5316\u4ea4\u6613\u89c4\u6a21\u4e0d\u65ad\u6269\u5927\u3002\u5b8c\u5584\u7ade\u4ef7\u4e0a\u7f51\u673a\u5236\uff0c\u63a8\u8fdb\u98ce\u7535\u3001\u5149\u4f0f\u7b49\u53ef\u518d\u751f\u80fd\u6e90\u7ade\u4ef7\u4e0a\u7f51\u3002\u52a0\u5f3a\u8de8\u533a\u57df\u7535\u529b\u5e02\u573a\u4ea4\u6613\u673a\u5236\u5efa\u8bbe\uff0c\u63a8\u8fdb\u957f\u534f\u3001\u7ade\u4ef7\u7b49\u591a\u79cd\u4ea4\u6613\u65b9\u5f0f\u6709\u673a\u7ed3\u5408\u3002\u540c\u65f6\uff0c\u52a0\u5f3a\u7535\u529b\u5e02\u573a\u76d1\u7ba1\uff0c\u5207\u5b9e\u7ef4\u62a4\u5e02\u573a\u516c\u5e73\u3001\u516c\u6b63\u3001\u516c\u5f00\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2414ae1dd43940ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide a brief summary of the following text? \"In recent years, there has been a growing interest in the development of environmentally friendly and sustainable technologies for energy production. Among these technologies, solar energy has emerged as a promising renewable energy source due to its abundant availability and low environmental impact. However, the efficiency of solar panels remains a challenge, as the conversion of sunlight into electricity is still not optimal. Researchers are continuously working on improving the efficiency of solar panels by exploring new materials, designs, and manufacturing techniques. Some promising advancements include the use of perovskite solar cells, which have shown potential for higher efficiency and lower production costs. Additionally, new solar panel designs, such as bifacial panels and solar trackers, can increase the amount of sunlight captured and converted into electricity. As technology continues to advance, it is expected that solar energy will play an increasingly important role in meeting the world's energy needs while reducing our reliance on fossil fuels.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "42dbcdbac6284234",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide a brief summary of the following text in 50 words? \"In recent years, there has been a growing interest in the development of environmentally friendly and sustainable technologies for energy production. Among these technologies, solar energy has emerged as a promising renewable energy source due to its abundant availability and low environmental impact. However, the efficiency of solar panels remains a challenge, as the conversion of sunlight into electricity is still not optimal. Researchers are continuously working on improving the efficiency of solar panels by exploring new materials, designs, and manufacturing techniques. Some promising advancements include the use of perovskite solar cells, which have shown potential for higher efficiency and lower production costs. Additionally, new solar panel designs, such as bifacial panels and solar trackers, can increase the amount of sunlight captured and converted into electricity. As technology continues to advance, it is expected that solar energy will play an increasingly important role in meeting the world's energy needs while reducing our reliance on fossil fuels.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a2ee48354251464d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide a brief summary of the following text in chinese? \"In recent years, there has been a growing interest in the development of environmentally friendly and sustainable technologies for energy production. Among these technologies, solar energy has emerged as a promising renewable energy source due to its abundant availability and low environmental impact. However, the efficiency of solar panels remains a challenge, as the conversion of sunlight into electricity is still not optimal. Researchers are continuously working on improving the efficiency of solar panels by exploring new materials, designs, and manufacturing techniques. Some promising advancements include the use of perovskite solar cells, which have shown potential for higher efficiency and lower production costs. Additionally, new solar panel designs, such as bifacial panels and solar trackers, can increase the amount of sunlight captured and converted into electricity. As technology continues to advance, it is expected that solar energy will play an increasingly important role in meeting the world's energy needs while reducing our reliance on fossil fuels.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08c06fea8e8e41f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5b66\u4e60\u4e00\u95e8\u5916\u8bed\u9700\u8981\u8d76\u5728\u5c0f\u65f6\u5019\u5f00\u59cb\u3002\u5982\u679c\u4f60\u5230\u4e86\u6210\u4eba\u540e\u624d\u5b66\u4e60\uff0c\u4f60\u5c06\u9700\u8981\u82e6\u5fc3\u5b66\u4e60\u591a\u5e74\uff0c\u4f46\u8fd8\u662f\u5f88\u96be\u8fdb\u5165\u9ad8\u6c34\u5e73\u3002\u5b66\u4e60\u4e00\u95e8\u5916\u8bed\u4e0d\u4ec5\u662f\u4e3a\u4e86\u4e0e\u4e0d\u540c\u6587\u5316\u548c\u4e0d\u540c\u56fd\u5bb6\u7684\u4eba\u4ea4\u6d41\uff0c\u8fd8\u53ef\u4ee5\u4e3a\u81ea\u5df1\u7684\u4e8b\u4e1a\u548c\u4eba\u751f\u5e26\u6765\u66f4\u591a\u7684\u53ef\u80fd\u6027\u3002\n\n\u8bf7\u5bf9\u4e0a\u8ff0\u5185\u5bb9\u8fdb\u884c\u7b80\u5355\u603b\u7ed3\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c83c0488eb75409d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u6839\u636e\u4e0b\u9762\u7684\u6bb5\u843d\u4e3a\u6211\u63d0\u4f9b\u4e00\u4e2a\u7b80\u77ed\u7684\u6458\u8981\uff1a\n\n\u968f\u7740\u79d1\u6280\u7684\u98de\u901f\u53d1\u5c55\uff0c\u667a\u80fd\u624b\u673a\u548c\u79fb\u52a8\u4e92\u8054\u7f51\u5728\u73b0\u4ee3\u751f\u6d3b\u4e2d\u626e\u6f14\u7740\u8d8a\u6765\u8d8a\u91cd\u8981\u7684\u89d2\u8272\u3002\u5982\u4eca\uff0c\u4eba\u4eec\u53ef\u4ee5\u968f\u65f6\u968f\u5730\u8bbf\u95ee\u4fe1\u606f\u3001\u8d2d\u7269\u3001\u7ba1\u7406\u8d26\u6237\u3001\u652f\u4ed8\u8d26\u5355\u3001\u4e0e\u4ed6\u4eba\u6c9f\u901a\u7b49\u3002\u667a\u80fd\u624b\u673a\u548c\u79fb\u52a8\u4e92\u8054\u7f51\u7684\u666e\u53ca\u548c\u4fbf\u6377\u6027\u4f7f\u5f97\u6211\u4eec\u7684\u751f\u6d3b\u53d8\u5f97\u66f4\u52a0\u4e30\u5bcc\u548c\u591a\u5f69\u3002\u7136\u800c\uff0c\u8fd9\u79cd\u6280\u672f\u8fdb\u6b65\u4e5f\u5e26\u6765\u4e86\u4e00\u4e9b\u8d1f\u9762\u5f71\u54cd\u3002\u4f8b\u5982\uff0c\u4eba\u4eec\u6c89\u8ff7\u4e8e\u624b\u673a\u548c\u793e\u4ea4\u5a92\u4f53\uff0c\u5bfc\u81f4\u793e\u4ea4\u6280\u80fd\u548c\u4eba\u9645\u5173\u7cfb\u7684\u4e0b\u964d\u3002\u6b64\u5916\uff0c\u968f\u7740\u79fb\u52a8\u4e92\u8054\u7f51\u7684\u53d1\u5c55\uff0c\u7f51\u7edc\u72af\u7f6a\u548c\u9690\u79c1\u6cc4\u9732\u95ee\u9898\u4e5f\u6108\u53d1\u4e25\u91cd\u3002\u56e0\u6b64\uff0c\u5728\u4eab\u53d7\u79d1\u6280\u5e26\u6765\u7684\u4fbf\u5229\u4e0e\u4e50\u8da3\u7684\u540c\u65f6\uff0c\u6211\u4eec\u4e5f\u5e94\u8b66\u60d5\u5176\u6f5c\u5728\u7684\u8d1f\u9762\u5f71\u54cd\uff0c\u5b66\u4f1a\u5408\u7406\u4f7f\u7528\u79d1\u6280\uff0c\u4ee5\u5145\u5206\u53d1\u6325\u5176\u5728\u6211\u4eec\u751f\u6d3b\u4e2d\u7684\u79ef\u6781\u4f5c\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13193f9fb5584a6c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6458\u8981\u8fd9\u6bb5\u8bdd\uff0c\u9ad8\u4eae\u8981\u70b9\u90e8\u5206\uff1a\n\n\u968f\u7740\u79d1\u6280\u7684\u98de\u901f\u53d1\u5c55\uff0c\u667a\u80fd\u624b\u673a\u548c\u79fb\u52a8\u4e92\u8054\u7f51\u5728\u73b0\u4ee3\u751f\u6d3b\u4e2d\u626e\u6f14\u7740\u8d8a\u6765\u8d8a\u91cd\u8981\u7684\u89d2\u8272\u3002\u5982\u4eca\uff0c\u4eba\u4eec\u53ef\u4ee5\u968f\u65f6\u968f\u5730\u8bbf\u95ee\u4fe1\u606f\u3001\u8d2d\u7269\u3001\u7ba1\u7406\u8d26\u6237\u3001\u652f\u4ed8\u8d26\u5355\u3001\u4e0e\u4ed6\u4eba\u6c9f\u901a\u7b49\u3002\u667a\u80fd\u624b\u673a\u548c\u79fb\u52a8\u4e92\u8054\u7f51\u7684\u666e\u53ca\u548c\u4fbf\u6377\u6027\u4f7f\u5f97\u6211\u4eec\u7684\u751f\u6d3b\u53d8\u5f97\u66f4\u52a0\u4e30\u5bcc\u548c\u591a\u5f69\u3002\u7136\u800c\uff0c\u8fd9\u79cd\u6280\u672f\u8fdb\u6b65\u4e5f\u5e26\u6765\u4e86\u4e00\u4e9b\u8d1f\u9762\u5f71\u54cd\u3002\u4f8b\u5982\uff0c\u4eba\u4eec\u6c89\u8ff7\u4e8e\u624b\u673a\u548c\u793e\u4ea4\u5a92\u4f53\uff0c\u5bfc\u81f4\u793e\u4ea4\u6280\u80fd\u548c\u4eba\u9645\u5173\u7cfb\u7684\u4e0b\u964d\u3002\u6b64\u5916\uff0c\u968f\u7740\u79fb\u52a8\u4e92\u8054\u7f51\u7684\u53d1\u5c55\uff0c\u7f51\u7edc\u72af\u7f6a\u548c\u9690\u79c1\u6cc4\u9732\u95ee\u9898\u4e5f\u6108\u53d1\u4e25\u91cd\u3002\u56e0\u6b64\uff0c\u5728\u4eab\u53d7\u79d1\u6280\u5e26\u6765\u7684\u4fbf\u5229\u4e0e\u4e50\u8da3\u7684\u540c\u65f6\uff0c\u6211\u4eec\u4e5f\u5e94\u8b66\u60d5\u5176\u6f5c\u5728\u7684\u8d1f\u9762\u5f71\u54cd\uff0c\u5b66\u4f1a\u5408\u7406\u4f7f\u7528\u79d1\u6280\uff0c\u4ee5\u5145\u5206\u53d1\u6325\u5176\u5728\u6211\u4eec\u751f\u6d3b\u4e2d\u7684\u79ef\u6781\u4f5c\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1a37fe5ad4da4dc7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the following text:\n\nThe importance of sleep is often overlooked, but it plays a crucial role in our overall health and well-being. A good night's sleep can improve mood, cognitive function, and physical performance, while a lack of sleep can lead to irritability, reduced concentration, and a weakened immune system. Creating a sleep-friendly environment, establishing a regular bedtime routine, and avoiding caffeine and electronics before bed can help promote better sleep. Getting enough sleep should be a priority for everyone, as it can greatly impact our daily lives and long-term health."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a313b7d879654885",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please summarize the main points of this article about the benefits of AI in healthcare?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you tell me more about how AI can improve diagnostics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about AI's role in drug discovery and development?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does AI contribute to personalized medicine?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,872 @@
+[
+    {
+        "id": "17be3d6ff7564292",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u6211\u89c4\u5212\u4e00\u6b21\u5230\u82cf\u5dde\u7684\u65c5\u884c\u8ba1\u5212"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "378397b70a1a49a0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a 5-day food trip itinerary in Tokyo."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9258247836ef48ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u4e00\u4e2a\u53bb\u6cd5\u56fd\u4e24\u5468\u7684\u65c5\u884c\u8ba1\u5212"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1a988664a61147c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5317\u4eac\u4e09\u5929\u65c5\u884c\u8ba1\u5212"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u4e0d\u60f3\u53bb\u4f60\u5b89\u6392\u7684\u7b2c\u4e00\u4e2a\u5730\u65b9\uff0c\u6362\u4e00\u4e2a\u5427\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dfecf43489a04eaf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want an adventurous two-week itinerary in New Zealand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3aa7e1465aa04fc8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest a cultural exploration plan for 7 days in Kyoto."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60fee29279924e4d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me plan a backpacking trip through South America."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ead86b63208c488f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a luxurious retreat itinerary for a week in the Maldives."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "812fd9f0eb83444f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in a historical tour of Rome. Can you help me plan for 4 days?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "145bc553b0a04c32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest an itinerary for a road trip across the USA spanning three weeks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "448286ec844a49ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a solo backpacking trip in Southeast Asia. What's your recommended itinerary for 2 weeks?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da3c47a71528480a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me plan a family-friendly vacation in ShangHai Disney World for two day."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f309f8282a3c4a0e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to trip in Kenya. Can you create a 10-day itinerary?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8fcd08e6e46419b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest an art and culture tour itinerary for 5 days in Barcelona."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3cbb56904b5046bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a digital nomad. Plan an adventurous stay in Bali for a month with good Wi-Fi."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1c7fbdea93aa469a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest a scenic road trip itinerary through the Scottish Highlands for 8 days."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4faf25575704aad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a wellness retreat itinerary for a rejuvenating week in Costa Rica."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9ed9c841d9a4aac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm fascinated by ancient history. Plan a tour of historical sites in Egypt for 12 days."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "29493bbd48dc4038",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest an itinerary for a music festival experience in Austin, Texas, over a weekend."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "546742853acc4336",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to experience a winter wonderland. Plan a trip to Lapland for 7 days."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "335fecc0d0c94be1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a photographer. Create an itinerary for a photography expedition in Iceland for two weeks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3575e1a2df834e10",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide a 5-day itinerary for a solo traveler visiting London that includes popular attractions, local experiences, and some time for relaxation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some tips for using public transportation in London, and what are the costs for a 5-day trip?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b752844a51964c60",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u5236\u5b9a\u4e00\u4e2a\u9002\u5408\u5bb6\u5ead\u51fa\u6e38\u7684\u4e09\u5929\u4e24\u591c\u4e0a\u6d77\u65c5\u884c\u8ba1\u5212\uff0c\u80fd\u5e26\u5b69\u5b50\u4eec\u53bb\u4e00\u4e9b\u6709\u8da3\u7684\u5730\u65b9\uff0c\u8bf7\u4f60\u5e2e\u6211\u89c4\u5212\u4e00\u4e0b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "718a172fa72e47c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a week-long vacation planned, and I'd like to visit some interesting destinations in Europe. I'm particularly interested in history, art, and beautiful landscapes. Can you help me create an itinerary?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I was also considering visiting Paris during this trip. How can I fit that into the itinerary?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the suggestions! What would be the best way to travel between cities in Europe? Are trains the most convenient option?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6df825284bee437c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a romantic getaway to Venice for a weekend. Can you suggest some charming spots and activities for couples?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "865d6e2ff28d44b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm an adventure seeker planning a solo trip to New Zealand. What are some must-visit places and adrenaline-pumping activities you recommend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a22463334fe84aba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to experience the vibrant nightlife in Tokyo. Can you suggest bars, clubs, and entertainment options for a memorable weekend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "785b8dac87a94db5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planning a nature retreat in the Swiss Alps. What are the best hiking trails, scenic spots, and cozy accommodations for a week-long stay?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "83b9e54953fe4a2c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a food enthusiast heading to Barcelona. Can you recommend authentic local restaurants and hidden gems for a culinary adventure?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "948c3663caad4680",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Looking for a budget-friendly backpacking trip in Southeast Asia. Any suggestions for affordable accommodations, attractions, and local experiences?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b34feff4a6d481c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a history buff planning a historical tour in Rome. Which ancient sites, museums, and landmarks should I prioritize during my visit?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a83bb5796d3e4a3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a photography enthusiast planning a trip to Iceland. What are the best locations for capturing stunning landscapes and the Northern Lights?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4f7d6e2b3784b4a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Heading to Rio de Janeiro for the Carnival. Can you suggest the best Carnival events, parades, and cultural experiences for an unforgettable celebration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ecf0b41bf0964fd5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planning a spiritual retreat in Kyoto. Can you recommend tranquil temples, meditation spots, and peaceful gardens for a serene experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "62ca33ede077487e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a 7-day trip to Japan, visiting Tokyo, Kyoto, and Osaka. I'm interested in cultural experiences, food, shopping, and a bit of nature. Can you help me create an itinerary?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I appreciate the adjusted itinerary. I'm also curious about Japanese gardens. Is there a famous garden in Kyoto or Osaka that I can visit?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7daf721dc2e649ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planea un viaje de 3 d\u00edas a Montevideo, Uruguay. Responde en espa\u00f1ol."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1l es la mejor \u00e9poca del a\u00f1o para visitar Montevideo?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d93395bdc2504101",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide a 4-day itinerary for a family trip to San Francisco, California?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "81cee51a23d74662",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planning a solo adventure to explore the vibrant street art scene in Berlin. Any recommendations for must-visit neighborhoods and art galleries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "701538f33d174340",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Embarking on a 5-day wellness retreat to Bali. Seeking yoga retreats, healthy dining spots, and serene beaches. Can you help craft an itinerary focused on relaxation and self-discovery?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de7e3005f2004bbd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planning a road trip along the scenic coast of California. Interested in local delicacies, and photo-worthy spots. What's your suggested route and must-see stops?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac63d9cf1276432a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Organizing a 10-day historical tour of Rome, Italy. I want to explore ancient ruins, museums, and experience authentic Italian cuisine. Could you help me create an itinerary rich in history and culture?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93ea470c856a4939",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Planning a weekend getaway to the Scottish Highlands for hiking and exploring castles. Any insider tips on off-the-beaten-path trails and picturesque castle ruins?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a088cc3607b0418d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a photography enthusiast planning a 7-day trip to Iceland. Looking for the best spots to capture the Northern Lights, waterfalls, and unique landscapes. Can you suggest an itinerary for photographers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3622cd53c24e447f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Heading to Tokyo with a group of friends for a mix of nightlife, street food, and anime culture. Where should we go for the best ramen, gaming arcades, and vibrant nightlife?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72f0257be974432b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please suggest an itinerary for a 3-day trip to Rome, Italy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the must-try local dishes in Rome?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some lesser-known attractions in Rome?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What's the best way to get around Rome?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "40b4418f4eb84057",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been thinking about planning a trip to Japan, and I'm particularly interested in visiting Tokyo and Kyoto. Could you suggest an itinerary that highlights both modern and traditional aspects of these cities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d180fed2d1c843fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a five-day trip to Paris, including must-see landmarks, local cuisine, and museums."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about some hidden gems and lesser-known attractions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3f0c5df59b584469",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Plan a weekend trip from Los Angeles to San Francisco"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the options for transportation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about accommodation in San Francisco?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Any must-visit attractions in San Francisco?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eed40c3448c24bf3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u4e00\u4e2a\u4ece\u5317\u4eac\u53bb\u4e0a\u6d77\u7684\u4e09\u5929\u65c5\u884c\u8ba1\u5212\uff0c\u5305\u62ec\u9152\u5e97\u3001\u666f\u70b9\u548c\u9910\u5385\u3002\u8981\u6c42\u8212\u9002\u5ea6\u9ad8\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfdd6485d3b94e07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Estoy planeando un viaje a Barcelona con mi familia en junio. Nos gustar\u00eda visitar lugares ic\u00f3nicos, aprender sobre la historia y la cultura de la ciudad, y disfrutar de la gastronom\u00eda local. Tambi\u00e9n queremos dedicar algo de tiempo a relajarnos en la playa. Nos quedaremos cinco d\u00edas. \u00bfPodr\u00edas sugerirnos un itinerario para aprovechar al m\u00e1ximo nuestra visita?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Me gustar\u00eda saber un poco m\u00e1s sobre la historia de la Sagrada Familia y su proceso de construcci\u00f3n. Adem\u00e1s, \u00bfqu\u00e9 otros lugares de inter\u00e9s hay cerca de la Sagrada Familia?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1l es la mejor manera de moverse por la ciudad? \u00bfEs conveniente alquilar un coche o es mejor utilizar transporte p\u00fablico?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

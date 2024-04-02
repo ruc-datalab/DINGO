@@ -1,0 +1,939 @@
+[
+    {
+        "id": "6301887cbef749f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "can you create a brief dialogue between a detective and a witness in a polite manner"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c036062ffd424fe1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a scenario where I am a detective investigating a series of mysterious disappearances in a small town. There is a local legend about a supernatural creature being responsible for these events. Can you provide me with some details about the creature and its possible connection to the disappearances?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e176649ebc24f88",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, can you help me craft a conversation where a detective politely questions a witness about a theft in their neighborhood?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8cfd3124b7cc4775",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a detective talking to a witness about a white-collar crime. Keep it professional and serious."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd1a154727894168",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue where a detective is trying to solve a cold case. The witness is hesitant to talk. Make it intriguing."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68be1d7b825a49b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a detective questioning a witness about a possible insurance fraud. Keep it casual but determined."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da3b3b73eeb145fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture a detective talking to a witness in a small town about a missing pet. Make it heartfelt and empathetic."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d08a631a285045fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me with a dialogue between a detective and a witness for a cybercrime investigation. Keep it tech-savvy and sharp."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4bd8d5ff0fe942f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a conversation where a detective is questioning a witness in a historical mystery. Make it sound like it's set in the 1800s."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a1d8251771c845ca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue between a detective and a witness for a case involving art theft. Keep it sophisticated and cultured."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "10afba215fa54b88",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a detective questioning a witness about a mysterious event in a science fiction setting. Make it futuristic and suspenseful."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2c6f0b68420e477b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a dialogue between a pirate captain and a stowaway on a ship, set in the golden age of piracy. "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a99aa77579146e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a dialogue between a fairy princess and a mischievous gnome in an enchanted forest. Make it whimsical and magical."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4158b27c97f14455",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a conversation between a superhero and their arch-nemesis, locked in battle atop a skyscraper. "
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "763e00daf823428d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between a wizard and an apprentice, discussing the intricacies of spellcasting and the dangers of dark magic. Make it mystical."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44123f4a3c264386",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a dialogue between a vampire and a werewolf, meeting under a full moon to discuss an uneasy truce between their rival factions. Make it tense and filled with supernatural tension."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cac7a28885374133",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue between a spy and a contact in a high-stakes espionage mission. Maintain an air of secrecy and intrigue."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c45a02a7327f4c29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between two diplomats negotiating a peace treaty between rival nations. Keep it diplomatic and tense."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b1d4c44fe3fd4284",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between an archeologist and a mysterious guide exploring an ancient, undiscovered civilization. Keep it adventurous and enigmatic."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db9c0f1f97b346e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue between a scientist and an AI entity discussing the ethical implications of advanced technology. Keep it intellectually stimulating and thought-provoking."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3c4dde2d0c2747c6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between a time traveler and a historical figure in an altered timeline. Keep it intriguing and full of historical references."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55b911488ebf48c2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue between a space explorer and an extraterrestrial being on a distant planet. Keep it otherworldly and filled with cosmic wonder."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "23651c6ed845480d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a conversation between a master detective and a brilliant criminal mastermind in a cat-and-mouse game. Keep it intellectually challenging and suspenseful."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "190776300ab34f8d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a dialogue between a detective and a witness in a comedic manner, investigating a case of mistaken identity. Keep it light-hearted and funny."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5d1deb2f2dad4a8f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine que tu es un d\u00e9tective c\u00e9l\u00e8bre fran\u00e7ais du 19\u00e8me si\u00e8cle. D\u00e9cris-moi une affaire complexe et myst\u00e9rieuse que tu as r\u00e9solue."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Et si je te disais que je suis le majordome et que je veux prendre ma revanche sur toi, comment te prot\u00e9gerais-tu et comment me confondrais-tu \u00e0 nouveau?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "396bdba5d24b4396",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a wise oracle, and I seek answers to my questions about life and the universe. Please share your wisdom and insights with me."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Oh wise oracle, what is the meaning of life?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73365782d7e2421e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're the captain of a pirate ship, and I'm your first mate. We've just discovered a treasure map. Describe the map and our next steps."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How are we going to navigate the treacherous waters surrounding the island?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12910061e85f42e9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's engage in a role-play scenario. I will be an investigative reporter, and you will play a scientist who has just made a groundbreaking discovery about a new energy source. As a polite reporter, I will ask you questions about your discovery, and you will respond as the scientist. Let's begin. Reporter: Excuse me, Dr. Smith, could you please tell us about the new energy source you have discovered?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Reporter: That sounds fascinating, Dr. Smith. Could you please explain the process of extracting energy from these elements and how it differs from traditional methods?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "825f12c120ca4162",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Vous incarnez un d\u00e9tective priv\u00e9 appel\u00e9 Dupont. Racontez votre enqu\u00eate sur la disparition soudaine d'un c\u00e9l\u00e8bre \u00e9crivain."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a6e5b57462e46cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an all-knowing oracle, and I am a weary traveler seeking wisdom. I have journeyed far and wide to ask you a question. May I ask you my question, wise oracle?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you, wise oracle. My question is this: How can I find true happiness and fulfillment in my life?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "03b45c64a9b14b3b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cr\u00e9e un sc\u00e9nario de jeu de r\u00f4le dans lequel je suis un d\u00e9tective priv\u00e9 et toi un informateur myst\u00e9rieux"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aff28da1c19d4a17",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's engage in a text-based role-play set in a fictional medieval world filled with magic. I'll be playing the role of a young mage named Elara, and you can take on the role of my wise mentor, Master Orin. Our quest will involve locating a powerful artifact that has been lost for centuries. I'll begin with an introduction, and then we'll continue with the role-play."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e54a5ac2aa2424a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a historian exploring ancient civilizations. You, my AI guide, assist in navigating the temporal currents. Our destination: the lost city of Atlantis. Ready to unravel its mysteries, Temporal Guide?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Temporal Guide, we've arrived in Atlantis. What historical artifacts should we seek to uncover its secrets?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ac1262eaaab4e2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a world of knights and dragons, I'm a wandering bard seeking epic tales. You, my AI companion, possess vast knowledge. Ready to chronicle our adventures, Lorekeeper AI?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff6d04b9f323458c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ahoy, matey! In a swashbucklin' world of pirates and treasures, I be Captain Redbeard on a quest for the legendary Black Pearl. Will ye join me, shipmate, as the savvy navigator who guides us through treacherous waters?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1815b3a1a13446d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's soar through the cosmos as spacefaring adventurers. I'm Captain Celestia, commander of the Starship Aurora. Care to be my AI companion, navigating the cosmic anomalies we encounter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1306aea697ec49d5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a world where I'm a historian journeying through epochs. You, my trusty AI guide, assist in navigating the intricacies of the past. Ready to unravel historical mysteries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d8425412cde43ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there, paranormal investigator! I find myself in a realm of supernatural mysteries. I'm Detective Shadows, and you, my spectral AI sidekick, help me decipher cryptic messages from the other side. Spooky, huh?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f36919c0f8df45eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "jungle explorer! Picture a lush, untamed wilderness where I'm on a quest for a mythical creature. You, my trusty AI guide, assist with high-tech gadgets. Ready to face the unknown dangers of the primal rainforest?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e741b53110f4a1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, artful con artist! In a world of high-stakes heists and intrigue, I'm the mastermind thief, and you're my techno-wizard accomplice. Our goal? The most daring theft of the century. Up for the challenge?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9eea56c4740410d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ahoy, cosmic traders! Imagine a galaxy where I'm a space merchant seeking rare artifacts. You, my AI business partner, help navigate trade routes and negotiate with extraterrestrial entities. Ready to make deals among the stars?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2a1a53d9bb5f475f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, dungeon delver! In a world of dark magic and perilous dungeons, I'm a rogue seeking lost treasures. You, my AI comrade, assist with your knowledge of ancient traps and secret passages. Ready to delve into the shadows?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f2c7a772ec3744d5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imaginez que vous \u00eates un professeur de chimie fran\u00e7ais. Cr\u00e9ez un jeu de r\u00f4le ridicule et exag\u00e9r\u00e9 pour enseigner la chimie \u00e0 des \u00e9l\u00e8ves de coll\u00e8ge."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9630ef371e744945",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a text-based role-playing game scenario where I play as a detective trying to solve a murder mystery. The setting is a small town in the 1940s. Provide me with two to four options for each situation I may encounter. For each option, assign a random success rate based on a dice roll, where success leads to progress in the investigation, and failure causes setbacks. Update the scenario's outcome based on my chosen option and the dice roll result. Include any relevant character or setting descriptions to enhance the role-playing experience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4141dcb163be492f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's create a role-playing scenario where I am a detective trying to solve a mysterious case, and you are the owner of a small antique shop who may have some information about the case. The detective will ask you questions to gather information, and you will answer as the shop owner. Also, as the shop owner, you may provide some useful hints or clues to the detective's investigation. Make it interesting and engaging, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d93a5cc080194c08",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a wise mage in a fantasy world, and I am a young adventurer seeking guidance on how to obtain a magical artifact that can grant me immense power. How would you advise me on my quest?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "38a5c7c7ff264dd7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's create a short role-playing scenario where I am a detective interviewing a suspect in a theft case. You will play the role of the suspect."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you please state your name and occupation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Where were you on the night of the robbery, specifically between 9 pm and 11 pm?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b9e69c1f97541f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Would you mind starting a role-play where you are a wise old wizard, and I am an apprentice learning magic from you? Thank you."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1fe7cfa6b6d048fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Nous allons jouer un sc\u00e9nario de Sherlock Holmes et du Dr Watson. Je suis Sherlock Holmes et tu es le Dr Watson. Nous sommes dans un manoir \u00e0 la recherche d'indices sur un meurtre. Je vais te poser des questions et tu r\u00e9pondras en tant que Dr Watson. Fais en sorte que ton personnage soit coh\u00e9rent avec son r\u00f4le et r\u00e9ponds \u00e0 mes questions. Commen\u00e7ons : Sherlock Holmes : Dr Watson, quels sont les indices que vous avez trouv\u00e9s sur la sc\u00e8ne du crime ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Sherlock Holmes : Bien, Dr Watson. Pouvez-vous me donner plus d'informations sur cette lettre ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6dd944faf186431b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings! Let's dive into a futuristic scenario. You are an advanced AI assistant, and I'm a space explorer seeking information about a mysterious celestial anomaly. Provide me with data and insights, if you will."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Ahoy there! Picture this: you're a pirate captain, and I'm your loyal shipmate. We've just discovered a hidden treasure island. Describe our plan to plunder the riches, Captain!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da96d051fa5345fd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's switch gears! You're a time-traveling scientist, and I'm your assistant. We need to fix a temporal rift. Explain the science behind it and our mission, Doctor Timebender!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How about a classic fairy tale scenario? You're a magical creature, and I'm a curious adventurer stumbling upon your enchanted realm. Share your mystical wisdom with me, mystical being!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cec43bfca13048e4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine this: you're an undercover spy, and I'm your contact. We need to exchange critical information in a crowded market. Employ your espionage skills and guide me through the covert operation, Agent Shadow!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How about a wild west scenario? You're a seasoned sheriff, and I'm the newly appointed deputy. There's trouble brewing in the saloon. What's our plan to restore peace, Sheriff Dusty Trails?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "413b6f7d60dd4055",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a valiant warrior, and I'm your squire. Our kingdom is under threat, and the king seeks our counsel. Share your strategic insights and battle plans, Sir Gallant!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Transport us to the realm of high fantasy! You're an ancient dragon, and I'm a brave adventurer seeking your wisdom. What challenges must I overcome to prove my worth, Wise Wyrm?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b3afb029104498b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u626e\u6f14\u4e00\u4e2a\u52c7\u6562\u7684\u52c7\u58eb\uff0c\u63cf\u8ff0\u4e00\u4e0b\u4f60\u5728\u63a2\u9669\u8fc7\u7a0b\u4e2d\u9047\u5230\u7684\u4e00\u4e2a\u5371\u9669\u573a\u666f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "309ad81ec14742c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Begin a role-playing scenario. You are an alien scientist and I am a human who has just been abducted. Remember, I control the human actions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Attempt to break free from the restraints."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

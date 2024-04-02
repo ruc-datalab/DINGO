@@ -1,0 +1,919 @@
+[
+    {
+        "id": "aaf169d419de496d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Je souhaite cr\u00e9er un tableau pour suivre les KPIs de mes campagnes marketing sur une base hebdomadaire. Pouvez-vous me donner quelques conseils sur les \u00e9l\u00e9ments \u00e0 inclure dans ce tableau ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Veuillez inclure le KPI 'nombre de contacts \u00e9tablis' dans le tableau hebdomadaire."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b253bc09adff4860",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table with the first 10 elements of the periodic table."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the atomic weight of each element?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb8abb4d0eac4ad9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table comparing the iPhone 12 and iPhone 13 models with their storage options and prices"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add the iPhone 12 Mini and iPhone 13 Mini prices to the table"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "11178e10d4754186",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the capital cities of the first 10 countries in Africa."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the population of each capital city?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3f821fd2fd874c6e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a comparison table for the top 5 laptops, including specifications and prices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add information about the battery life for each laptop in the table."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "21642718da534eab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table with 6 examples of vegetarian recipes. Include the list of ingredients and cooking instructions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d0cb109622514d84",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compile a table of the top 10 highest-grossing movies of all time, including their release years and worldwide box office earnings."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the genres of these movies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f44d1a11caa4101",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Build a table with the specifications of the latest 8 smartphones, including camera quality and battery capacity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a24796b2bb40471b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a table showcasing the nutritional information of 5 popular fruits."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0480bfe1bbd948cc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table with the specifications and prices of the latest 6 digital cameras."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c84a91aa0e4a4ef8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a table comparing the features and prices of the top 7 smartwatches on the market."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a2b25a41f1764b7b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a table listing the top 5 travel destinations, including average flight costs and hotel expenses."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9cdc522694649bb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a table with the specifications of the latest 8 gaming laptops, highlighting their graphics cards and RAM capacity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00aaa5f115174c5e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cr\u00e9ez une table avec des id\u00e9es d'articles pour renforcer l'autorit\u00e9 d'un sujet autour du mot-cl\u00e9 \"SEO IA\". La table doit \u00eatre en fran\u00e7ais et contenir six lignes. La premi\u00e8re ligne est l'en-t\u00eate avec les noms des colonnes. Les cinq autres lignes sont des id\u00e9es de sujets li\u00e9s au mot-cl\u00e9 principal, \"strat\u00e9gies SEO\", qui devraient \u00eatre renforc\u00e9es par ces articles de soutien. Les colonnes doivent \u00eatre : 1. Titre de l'article avec un maximum de 45 caract\u00e8res, 2. Description de l'article avec un maximum de 120 caract\u00e8res, 3. suggestions des trois principaux mots-cl\u00e9s strat\u00e9giquement choisis pour l'article, 4. classification de l'intention de recherche en un mot. Cr\u00e9ez cette table pour m'aider \u00e0 renforcer l'autorit\u00e9 de mon sujet pour mon site Web et mon article principal sur \"SEO IA\"."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1279695025844a34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cr\u00e9ez un tableau pour les informations suivantes\n\nSN. Noms Age. Classe Ge.\n 1. Alamin Abubakar 17y Terminale M\n 2. Christabel Chukwujeku 15y Terminale F\n 3. Faith John 15y Terminale F\n 4. Fidelis Alawa 16y Terminale M \n 5. Samson Sunday 18y Terminale M\n 6. Chisom Iroanya 17y Terminale M\n 7. Wisdom Ochihu. 16y Premi\u00e8re M\n 8. Chukwu Emeka 14y Premi\u00e8re M\n 9. Favour O. Chris 15y Premi\u00e8re F\n10. Joshua Richard 13y Seconde M\n11. Ibrahim Abdulwahab 15y Seconde F\n12. Ifeoma Ogbonna 14y Seconde F\n13. Peace Solomon 14y Troisi\u00e8me F\n14. Benedict Benard 12y Troisi\u00e8me M\n15. Emmanuel Okafor 13y Troisi\u00e8me M\n16. Agbochiri Helen 20y Troisi\u00e8me M\n17. Yahuza Musa 16y Troisi\u00e8me M\n18. Goodluck Popoola. 13y Troisi\u00e8me M\n19. Jonathan Sylvia. 16y Troisi\u00e8me M\n20. Peculiar Onuche 12y Troisi\u00e8me M\n21. Samuel Iorlumun 14y. Troisi\u00e8me M\n22. Fatima Abdullahi 10y Quatri\u00e8me M\n23. Bright Friday 12y Quatri\u00e8me F\n24. Joy Okawu 18y Quatri\u00e8me F\n25. Eniola Joseph. 11y Quatri\u00e8me F\n26. Abdulkareem Khadijat 14y Cinqui\u00e8me F\n27. Maryjane Nwachinemere 10y Cinqui\u00e8me F\n28. Eteneg Emmanuel 10y Cinqui\u00e8me M\n30. Amos Elijah. 16y Cinqui\u00e8me M\n31. Yahuza Saflahi 11y Cinqui\u00e8me M\n32. Uba Ikechukwu 15y Cinqui\u00e8me M\n33. Jessy Richard. 10y Sixi\u00e8me M\n34.Dennis Joseph. 10y Sixi\u00e8me M\n35.Hassan Ja'afaru Abo. 10y Sixi\u00e8me M\n36.Eniola Popoola 9y Sixi\u00e8me F\n37.Juliet hagai 12y Sixi\u00e8me F\n38.prince A.A Adegazu. 10y Sixi\u00e8me M\n39.lolade Joseph 9y Sixi\u00e8me F"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4c9f514467984a3a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you kindly create a table that showcases the sales performance of various products in a store over a period of five months? Do include columns for product name, monthly sales, and average customer rating."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Would you kindly refine the table by adding a percentage change column to show the month-to-month sales growth?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please add a column for the total sales of each product during the five-month period?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7b7d6619d8ab4a26",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a chart illustrating the evolution of project milestones for our upcoming software release. Include columns for milestone names, due dates, and responsible team members."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8a980f23bb94eb2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a visual representation of employee attendance for the past quarter. Include columns for employee names, total hours worked, and any instances of tardiness or absence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7ac9c2fcc8eb4a25",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Construct a table outlining the progress of marketing campaigns for the last six months. Columns should include campaign names, budget allocations, and key performance indicators."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "551f6ef7899c45f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Devise a graphical representation of customer satisfaction scores for our product line. Include columns for product names, survey scores, and any notable customer comments."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "523fc03c14074b58",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a table displaying the allocation of departmental expenses for the past fiscal year. Include columns for department names, budget vs. actual expenses, and explanations for any significant variances."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fefa2236935e49f1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a visual representation of website traffic data for the last three months. Include columns for page views, unique visitors, and the sources of traffic."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7b845041ecdb4d35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a table summarizing the inventory levels of our top-selling products over the past year. Columns should include product names, current stock, and average monthly sales."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a61d60517d44bab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a graphical representation of customer feedback trends for our customer support services. Include columns for positive and negative feedback, response times, and resolution rates."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "798f3517e0e546aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a table showcasing employee training completion rates for the last quarter. Columns should include employee names, training modules completed, and any outstanding courses."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f9df26e18bbf4bc8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a visual representation of social media engagement metrics for our brand over the past six months. Include columns for likes, shares, comments, and overall reach."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "724a304469c14e8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table comparing features of smartphones A, B, and C."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20b9990f6d114eb3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a table with columns for Name, Age, and Occupation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you add data for 3 people in the table?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6953fb8f96074935",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create a table with products, prices, and units sold"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "add columns for revenue and profit"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "89a5535de0504134",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a table of top 5 programming languages in 2022. Name, Popularity, Use Cases, Average Salary"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24fb3a7b4c35400e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create a table for five different types of renewable energy sources, along with their benefits, limitations, and efficiency levels. Also, I would like to know your thoughts on how these renewable energy sources can contribute to a sustainable future.\n\nPlease write in English language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the table and your insights. Can you please create a similar table for five different energy storage technologies, along with their benefits, limitations, and efficiency levels? Also, please share your thoughts on how these storage technologies can support the integration of renewable energy sources into the grid."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "79e8252f0b76459a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create a table comparing advantages and disadvantages of electric cars"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "678a3aae71314549",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a table to track my daily water intake?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5951addd7e144abd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create a table comparing different types of fruits, their prices per pound, and their nutritional value in terms of vitamins and minerals?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I appreciate the table you've created. Could you add blueberries, raspberries, and mangoes along with their fiber content?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c1b82f437d2f40aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a table summarizing the pros and cons of remote work. Can you do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3b8a3b9b8735454c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Construct a table illustrating the key features and drawbacks of smartphones versus traditional cell phones."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44b62832bd8e4fca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a book club, and I need a table comparing different genres of literature with their typical book lengths and common themes. Can you help?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4983a70781ca424b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table outlining the advantages and disadvantages of vegetarian and vegan diets."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4db34e77e734952",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a trip and need a table comparing different travel destinations based on cost, weather, and tourist attractions. Can you assist?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4847995374894fa6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm designing a workout routine and would like a table comparing various exercises, their muscle groups targeted, and required equipment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d8d312cf7154b00",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a table listing the features and drawbacks of popular streaming platforms for movies and TV shows?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f6c3c0857f35493d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm researching programming languages. Please generate a table comparing Python, Java, and C++ in terms of syntax, popularity, and use cases."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec4d9ff74a6f45a4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in adopting a pet. Could you create a table comparing different breeds of dogs, including size, temperament, and exercise needs?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e11ed34d80cb4a83",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a wedding and need a table comparing various wedding venues based on location, capacity, and amenities. Can you provide that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "56f39a6e983c4206",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create a table comparing 5 budget hotels in New York City, including their names, addresses, room rates, and amenities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you add a column for the distance from Times Square?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you add a column for the TripAdvisor rating?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2a30c2c2c3754239",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cr\u00e9ez un tableau comparant les mod\u00e8les de voitures \u00e9lectriques en termes d'autonomie, de vitesse maximale et de prix"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "06e748c4563b454f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a table comparing major smartphone brands, their latest flagship models, and their prices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Include the battery capacities for these phones."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add screen sizes and resolutions for each phone."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33bc2009c94e4ed2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate a table comparing top 5 programming languages based on readability, efficiency, and popularity"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff073c945f3149e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a vegetarian diet. Could you provide me with a table comparing different types of legumes, their protein content, and any other nutritional information?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thanks for the legume table. Can you include chickpeas, lentils, and black beans, and specify their fiber and iron content?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c9e306bee63c49a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in learning about different types of teas. Can you create a table comparing green tea, black tea, and herbal tea, including their caffeine content and any health benefits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "The tea comparison was helpful. Could you add white tea, oolong tea, and chamomile tea, and mention their antioxidant levels and potential medicinal properties?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db15b03ed4ba4836",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to create a workout routine. Can you provide me with a table comparing different types of exercises, their target muscle groups, and the calories burned per hour?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you include yoga, Pilates, and swimming, and specify their flexibility and core engagement, along with calories burned?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

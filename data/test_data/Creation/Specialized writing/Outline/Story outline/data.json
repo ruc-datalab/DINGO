@@ -1,0 +1,752 @@
+[
+    {
+        "id": "f1e5e02a0a354915",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a 5-chapter outline for a mystery novel about a detective who discovers a sinister secret about their own family while solving a high-profile case."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "31d81906ce074116",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create a 5-chapter outline for a fantasy novella about a young girl who discovers she has magical powers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d018a952b9144587",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create a 5-chapter outline for a fantasy novel about a magical sword that chooses its wielder."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a92a10b745d94f33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a 5-chapter outline for a science fiction novel featuring time travel and a protagonist who accidentally alters the course of history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6fb4987bd49e4427",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a 5-chapter outline for a romance novel set in a small coastal town, focusing on two characters with contrasting backgrounds."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "41b6976da229480e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like a 5-chapter outline for a historical fiction novel set during the Renaissance, with a strong-willed artist as the main character."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bdb95e7f091d409b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Fashion a 5-chapter outline for a comedy novel set in a quirky town, where the residents attempt to host an eccentric festival."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "309da024e9da4b49",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a detailed storyboard for a science fiction short film, incorporating elements of artificial intelligence and the ethical dilemmas surrounding it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eab2f260e9594fe6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a poetic narrative structure for a fantasy novella about a sentient forest, exploring themes of nature's resilience and the balance of life."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b92cd19b908048fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design an interactive choose-your-own-adventure story set in a steampunk world, allowing readers to shape the destiny of the protagonist."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f9394ec16344d86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a mockumentary script that humorously explores the lives of characters in a fictional town dealing with bizarre supernatural occurrences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff5a92d175bc4e0d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop an outline for a mystery podcast series, featuring a detective solving cases in a cyberpunk future with a noir storytelling style."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ed5725ed381f4285",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a series of abstract flash fiction pieces, each exploring a different emotion and its impact on human relationships."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "50dfc3e7e5e841d8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a screenplay for an animated children's adventure, featuring anthropomorphic animals on a quest to save their enchanted forest home."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a74704c6ca847a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Outline a non-linear narrative structure for a historical drama, exploring the perspectives of different characters during a pivotal event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9f46d72f53224dd2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a series bible for a science fantasy TV show, detailing the lore, characters, and episodic plots within a complex multiverse."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99c32472fa974415",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a series of interconnected short stories set in a dystopian future, exploring the impact of technological advancements on human connection."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71336adeeef14389",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a librarian, please help me create a reading list of 10 books for young adults that focus on themes of self-discovery and overcoming challenges."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53e6cb2b741b4008",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop an outline for a 5-chapter book about a young artist's journey of self-discovery and the impact of their art on the world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73e256c94a3f4bfa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a plot outline for a mystery novel set in a small town, where the protagonist is an amateur detective uncovering long-buried secrets."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0847d5f5b0bf4085",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me outline a science fiction story about an astronaut stranded on an alien planet, exploring themes of survival and the unknown."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b453c7ca60fd4cd6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a story outline for a romantic comedy involving time travel and mistaken identities, with a twist in each chapter."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "393e7ae10337426a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Outline a fantasy epic with a chosen one on a quest to save their realm, featuring mythical creatures, ancient prophecies, and unexpected alliances."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ba4157433b3c4740",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Devise a story outline for a historical drama set during a pivotal moment in history, focusing on the personal struggles of individuals caught in the midst of it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "100b2a01612f44ca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a psychological thriller. Provide a suspenseful plot outline with unexpected twists and turns that keep the reader guessing until the end."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "88565353378e458b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Outline a coming-of-age story set in a magical world, where a group of young friends discovers their unique powers and faces challenges that test their bonds."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3bfa83a6163c4a71",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crea un riassunto di una storia in 5 capitoli sull'amicizia tra un ragazzo e un drago."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "34acca2ab3634a1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Outline a sci-fi novel about a group of explorers traveling to a distant planet to establish a new colony."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8ca8a0cfc7e4044",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u521b\u5efa\u4e00\u4e2a\u5173\u4e8e20\u4e16\u7eaa80\u5e74\u4ee3\u768410\u96c6\u7535\u5f71\u6545\u4e8b\u5927\u7eb2\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1cf5876e62644a90",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the plot for a mystery novel set in a small coastal town during the 1920s prohibition era."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9e04b70fb184cce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Elaborate on a fantasy tale involving a reluctant hero, magical artifacts, and a quest to save a realm on the brink of destruction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa143651964347f3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Invent a dramatic story arc about a spacefaring society grappling with the ethical implications of advanced artificial intelligence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cd127064437a4d68",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a comedy screenplay outline featuring a group of mismatched characters trying to organize the world's quirkiest talent show."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7986578afd0f4bda",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Propose a story concept for an animated children's series set in a magical forest populated by talking animals and mischievous fairies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd59a096bb434b78",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a suspenseful narrative centered around a brilliant detective solving a series of mysterious crimes in a futuristic cyberpunk city."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e36ed1cb017441eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a historical drama set during the Renaissance, exploring the complexities of love and power in the court of a renowned monarch."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ed5fdb3a3ed4b6a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a plot for a psychological thriller involving a protagonist who starts receiving mysterious messages from their future self."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3b4a7e6167a74be7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u521b\u4f5c\u4e00\u4e2a\u6d89\u53ca\u52c9\u5f3a\u7684\u82f1\u96c4\u3001\u9b54\u6cd5\u6cd5\u5668\u548c\u62ef\u6551\u6fd2\u4e34\u6bc1\u706d\u7684\u738b\u56fd\u7684\u5947\u5e7b\u6545\u4e8b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12e2d5db868b4a48",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u521b\u4f5c\u4e00\u4e2a\u641e\u7b11\u7684\u5267\u672c\u5927\u7eb2\uff0c\u63cf\u7ed8\u4e00\u7fa4\u683c\u683c\u4e0d\u5165\u7684\u89d2\u8272\u8bd5\u56fe\u7ec4\u7ec7\u4e16\u754c\u4e0a\u6700\u53e4\u602a\u7684\u624d\u827a\u79c0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "59c38a5d9b8e4273",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me a story outline involving a main character who discovers a hidden ability after turning 25, and how their life changes as they learn to control it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e2a740a6f474c37",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a story outline about a protagonist who discovers a hidden ability after turning 25, and depict how their life transforms as they learn to control it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b356976692b7470e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a story framework where the main character unlocks a secret power at the age of 25, and detail the impact on their life as they strive to master it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "379030509d094019",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a narrative centered around a main character who, after reaching the age of 25, unlocks a secret power. Specify the key milestones in each chapter as they master this newfound ability."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6da5d311b4734b3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Devise a plot where the lead character discovers a hidden talent at 25. Define the crucial elements in each chapter, and explore how their life changes as they strive to harness this latent ability."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aca051e4c4084ea9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "5. Construct a narrative featuring a main character who uncovers a latent ability after turning 25. Utilize numerical markers for each chapter and illustrate the evolving aspects of their life as they strive to control it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ced5c1b19e2d4b11",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a narrative outline featuring a central character unlocking a latent power at 28, and explore the consequences of their newfound ability on personal relationships. Each chapter should be marked and integrate the elements of 'telepathy' and 'betrayal.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "754d8b6c0b6b4b7b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Devise a plot summary with a main figure discovering a secret skill on their 27th birthday, and illustrate how their career evolves with this power. Please structure it with chapter divisions and incorporate the themes of 'shape-shifting' and 'identity crisis.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f330647855294681",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an outline for a 5-chapter fantasy novel about a young mage discovering their powers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0fa42b3e9c564fb6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crie um esbo\u00e7o de 10 cap\u00edtulos para um livro sobre a vida e desafios dos solteiros na casa dos 30 anos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e550227ed0648dd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please provide an outline for a children's story about a brave squirrel and his forest friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

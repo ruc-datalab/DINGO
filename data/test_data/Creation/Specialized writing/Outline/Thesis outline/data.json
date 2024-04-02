@@ -1,0 +1,826 @@
+[
+    {
+        "id": "0a7b32bfe168487a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a thesis outline on the impact of artificial intelligence on the job market. Include 5 chapters with at least 7 subheadings each."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2195683730f6446e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide an outline for a thesis on the effects of climate change on global food security"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffcfe29d65c54b82",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u4e00\u4e2a\u5173\u4e8e\u4eba\u5de5\u667a\u80fd\u5728\u533b\u7597\u9886\u57df\u5e94\u7528\u7684\u8bba\u6587\u5927\u7eb2"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5818446502314493",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a comprehensive thesis outline on the ethical considerations in artificial intelligence development."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4b048a8ad5c45f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a thesis outline exploring the cultural impact of emerging technologies, such as AI and virtual reality."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd9c7805e5e040f6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm seeking a thesis outline exploring the intersection of art and technology, specifically how virtual reality is influencing contemporary art practices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "97f04cfcedf54b56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a thesis outline examining the historical evolution of renewable energy sources and their impact on sustainable development."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bceacd678cb546d5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm in need of a thesis outline on the psychological effects of virtual reality gaming on adolescents. Please structure it with 7 subheadings per chapter."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c38f6341f70e48b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a thesis outline exploring the use of nanotechnology in medicine, focusing on breakthroughs, challenges, and future prospects."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "248d67bf60524b63",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a thesis outline on the influence of cultural diversity on corporate innovation. Include examples and case studies from various industries."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bfed28182144a56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a thesis outline exploring the historical evolution and impact of space exploration on technological advancements and global collaboration."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "297c7644e1b64b1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a thesis outline analyzing the role of artificial intelligence in enhancing cybersecurity measures. Focus on current challenges and future implications."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44e3a421884a4cdb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're an aspiring entrepreneur seeking a thesis outline on the impact of artificial intelligence on future business models. What would be the key chapters and subheadings you'd include in this exploration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "25f794ca5fbf4c85",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you're a passionate environmentalist eager to understand the implications of climate change on biodiversity. Share an outline for a thesis that would dive deep into this crucial issue."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4815e345478945db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Envision yourself as a medical researcher intrigued by the potential of artificial intelligence in healthcare. What chapters and subheadings would you include in a thesis outlining its applications in the medical field?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3fab0e3f10ae4a76",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture yourself as a curious historian wanting to explore the societal impact of the Renaissance. Provide me with an outline for a thesis capturing the essence of this transformative period."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a167f8186c14550",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a technology enthusiast fascinated by the potential of quantum computing. Share your vision for a thesis outline that delves into the current state and future possibilities of quantum computing."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "449ead482ea548ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a thesis outline on the 'Impact of Artificial Intelligence on Employment' with 6 chapters, each more complex than the previous one."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e434becc88546db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u4e00\u4e2a\u5173\u4e8e\u91cf\u5b50\u8ba1\u7b97\u7684\u8bba\u6587\u5927\u7eb2"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3d82c4f6a4944676",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a marketing student, I'd like a thesis outline on the changing landscape of digital marketing. Can you provide a structure with key chapters and subheadings?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I'm particularly interested in the impact of artificial intelligence on personalized marketing strategies. Let's focus on that."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a2f861aa1034d87",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create a thesis outline on climate change"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8c9152de43824c7e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u6211\u7f16\u5199\u4e00\u4e2a\u5173\u4e8e\u73b0\u4ee3\u79d1\u6280\u5bf9\u4eba\u7c7b\u751f\u6d3b\u5f71\u54cd\u7684\u8bba\u6587\u5927\u7eb2"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9fbf2cc910834d7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u521b\u5efa\u4e00\u7bc7\u5173\u4e8e\"\u6697\u9ed1\u5fc3\u7406\u5b66\"\u7684\u8bba\u6587\u5927\u7eb2\uff0c\u5305\u62ec\u4e03\u7ae0\uff0c\u6bcf\u7ae0\u81f3\u5c11\u670910\u4e2a\u5b50\u6807\u9898\uff0c\u5f62\u5f0f\u4e3a\u5217\u8868\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94a20d2b2cac4d96",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crea un'introduzione e l'indice per un articolo sulle cause e gli effetti dei cambiamenti climatici sulle risorse idriche del pianeta."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c60403e3f29b4070",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ubbf8\ub798 \ub3c4\uc2dc \uae30\uc220\uc5d0 \ub300\ud55c \uae30\uc0ac \uac1c\uc694\ub97c \uc791\uc131\ud574\uc918"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ubbf8\ub798 \ub3c4\uc2dc \uae30\uc220\uc758 \uc8fc\uc694 \uc694\uc18c \ubd80\ubd84\uc5d0 \ub300\ud574 \uc880\ub354 \uad6c\uccb4\uc801\uc73c\ub85c \uc124\uba85\ud574\uc918"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d8dad79374d34c55",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an outline for a research paper on the impact of artificial intelligence on job markets. Include eight chapters, each with at least 15 subheadings presented in a bullet-point format."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b32d24a5bea84449",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you assist me in drafting an outline for a thesis on sustainable urban development? I need six chapters with a minimum of 12 subsections for each chapter, organized in a structured manner."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "457ac8618f0d49ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like you to create an outline for a paper exploring the cultural impact of social media. Provide nine chapters, and ensure there are at least 10 detailed subtopics within each chapter."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b7955d98a7f4ff9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an outline for a dissertation on the psychological effects of virtual reality. I need seven chapters, and each chapter should consist of no less than 12 distinct subcategories."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "96bdb9896864442f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me outline a paper on the evolution of e-commerce in the modern business landscape. Create six chapters with a minimum of 15 detailed subsections for each chapter."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "40ebadff7f814e37",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a comprehensive outline for a thesis on the role of women in STEM fields. Generate eight chapters, and ensure each chapter has at least 10 well-researched subtopics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99ff98b044224c61",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an outline for a research paper on the ethical considerations of gene editing. I need five chapters with a minimum of 20 subheadings in total, distributed across the chapters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99e80bcfc12b4c3a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a paper about renewable energy. Can you create an outline for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I want it to cover solar, wind, and hydro energy. And please include a section on policy implications. Thanks!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c72b27ec0b7d4495",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help with a paper outline on the future of artificial intelligence. Can you assist?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I want chapters on ethics, societal impact, and future trends. Also, make sure to include specific examples of AI applications. Thanks!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8e82e3c04cc741dd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm writing a paper on the role of women in STEM. Can you help with an outline?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I need sections on historical contributions, challenges faced, and future prospects. Also, emphasize the importance of diversity in STEM. Thanks!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "42211f7f993b4604",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assist me in outlining a research paper on the ethical implications of artificial intelligence. Start with a general overview in the first chapter and provide detailed exploration in subsequent chapters. Each of the six chapters should have at least 15 subheadings. Begin with the societal impact."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In the second chapter, focus on legal considerations and precedents. Ensure to include case studies. Move on to the technological aspects in the third chapter, exploring AI development and its challenges."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "For the fourth chapter, delve into global perspectives on AI ethics. Discuss international policies and collaborations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a4b305f0dee841ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u521b\u5efa\u4e00\u7bc7\u5173\u4e8e\"\u672a\u6765\u80fd\u6e90\u53d1\u5c55\u8d8b\u52bf\"\u7684\u8bba\u6587\u5927\u7eb2\uff0c\u5305\u62ec\u516d\u7ae0\uff0c\u6bcf\u7ae0\u81f3\u5c11\u67093\u4e2a\u5b50\u6807\u9898\uff0c\u5f62\u5f0f\u4e3a\u5217\u8868\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u8981\u5728\u8bba\u6587\u4e2d\u91cd\u70b9\u63a2\u8ba8\u53ef\u518d\u751f\u80fd\u6e90\u7684\u89d2\u8272\u548c\u6280\u672f\u521b\u65b0\u3002\u4f60\u80fd\u5728\u5927\u7eb2\u4e2d\u7a81\u51fa\u8fd9\u4e9b\u65b9\u9762\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "901ae5fd2c97401e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create an article outline about the history of the Korean War.\nAnswer in English.\uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a15892dbb9a84647",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide an outline for a 1500-word article about the benefits of meditation and how to practice it for beginners?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0dd7a1447f9e4501",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create an outline for an article comparing the benefits and drawbacks of solar energy and wind energy? Thank you."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7dd131379d6b4010",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create an outline for an article on the benefits of plant-based diets"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d443113bf6c4456e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you kindly provide an outline for an article discussing the environmental benefits of electric cars and the challenges they currently face?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "82811b9d8b734f6d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an article outline about the benefits of solar energy. Do it now."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you expand on the job creation in the solar industry section? Explain more about it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I need more information about government incentives and tax credits for solar energy. Expand that part."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43dcd1b06ec5400e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Potresti creare un sommario per un articolo sulle principali tendenze tecnologiche del 2022?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Potresti aggiungere una sezione sull'automazione e i robot?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Potresti aggiungere una sezione sull'energia rinnovabile e le tecnologie sostenibili?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Grazie! Potresti aggiungere una sezione sulle tecnologie per la salute e il benessere?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dae4bbcd85ff4c64",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I would like to write an article comparing the differences between Korean and American education systems. Can you help me create an outline for the article?\nAnswer in English.\uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "98a9bc4109c0416a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide an outline for an article about the benefits of learning a second language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ffe58135b4f4bde",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an engaging blog article outline about the benefits of adopting a plant-based diet."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71ddee297291484b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design an outline for an article on sustainable living practices to reduce carbon footprint"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

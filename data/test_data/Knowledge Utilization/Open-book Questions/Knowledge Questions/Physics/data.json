@@ -1,0 +1,1244 @@
+[
+    {
+        "id": "868c72b5ac574708",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain how the Doppler effect works and provide an example."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can the Doppler effect be observed in everyday life, and how does it affect our perception of sound?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "daaa454b79744916",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the time dilation effect in special relativity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between time dilation and length contraction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd806292446e4648",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the concept of dark matter and its role in the universe."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a connection between quantum entanglement and teleportation in theoretical physics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e325ce35a394f69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the concept of wave-particle duality in quantum mechanics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the uncertainty principle impact our understanding of subatomic particles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cd930c3d7d6a4c53",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the concept of parallel universes in the context of multiverse theory."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do black holes challenge our current understanding of space and time?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85acda2240a44118",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the role of symmetry in fundamental physics and its implications."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you elaborate on the concept of quantum tunneling and its applications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f55bee8e8f9408b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the significance of the Higgs boson in the Standard Model of particle physics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the concept of entropy relate to the arrow of time in thermodynamics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "164942df1e3748f6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the concept of supersymmetry and its potential implications for particle physics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the role of quantum computing in advancing our understanding of complex physical phenomena?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "226859a460b24929",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the concept of antigravity and its feasibility in the realm of theoretical physics."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the concept of chaos theory apply to the behavior of complex systems in physics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d2fe2968e5584a56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the concept of time crystals and their potential impact on quantum computing."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the concept of dark energy contribute to the expansion of the universe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3322bf4eda2d4877",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the concept of quantum entanglement and its potential applications in quantum communication."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the concept of string theory attempt to unify the fundamental forces in physics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d8df910611294959",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the concept of the multiverse and its implications for the nature of reality."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do gravitational waves provide insights into the cosmic events shaping our universe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "39f800664baa4ebd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please explain the concept of gravitational waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do detectors like LIGO work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What kind of astronomical events produce gravitational waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can gravitational waves help us detect dark matter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c66332597c4949aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Expl\u00edcame la relatividad general."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bde39da1a33b4396",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key principles of special relativity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do these principles relate to the concept of spacetime?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some practical applications of special relativity in our everyday lives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "009d304ce59a40b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between scalar and vector quantities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the different types of forces in physics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between speed and velocity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the Doppler effect work in the context of sound waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the principle of superposition of waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f4effc4e3b3482f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the importance of the Higgs boson particle?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f87332e33b0c4a15",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How does the speed of light affect time dilation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e017e0dddca46ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How does the phenomenon of superposition in quantum mechanics impact our understanding of reality, and what implications does it have for the theory of classical physics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f493f1f34beb42e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the double-slit experiment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fdbf11a88d444e04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been thinking about the double-slit experiment and its implications. Can you please explain the concept of wave-particle duality?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9cd2e33de0644317",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assume you're a physics expert, and I'm an interviewer testing your knowledge on the topic of special relativity. Answer the following questions:\n\n1. State the two postulates of special relativity.\n2. Explain time dilation and provide the formula.\n3. Define the term 'Lorentz contraction'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain the concept of simultaneity in special relativity"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3ad3a81577d34c7b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been thinking about how photons can be both a particle and a wave. Can you explain the concept of wave-particle duality in simple terms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a09b6aa77a844af4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a tour guide in the fascinating world of quantum mechanics. What mind-bending phenomena would you showcase to amaze your audience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8985a3835584890",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the realm of astrophysics, elaborate on the significance of black holes and their role in shaping the cosmos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43a2e5fcbcd34815",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a futuristic physicist, share your vision on the potential applications of quantum computing in revolutionizing scientific research."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d50be0c9f2e43d0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture yourself in a dialogue with an extraterrestrial being. How would you explain the laws of thermodynamics to an alien intelligence?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d81e9c6ff9664a2e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If you were a science fiction writer incorporating quantum entanglement into a storyline, how would you creatively twist its implications for the plot?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ede59632eaa4497c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a hypothetical universe with altered physical constants, speculate on how the laws of physics might differ from our own."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b84a965e5ef64738",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a physics enthusiast, discuss the philosophical implications of the observer effect in quantum mechanics and its connection to consciousness."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "28e8d37e0f464e00",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the difference between classical mechanics and quantum mechanics"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss some implications of the uncertainty principle"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain wave-particle duality in the context of the double-slit experiment"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Describe the role of wave functions and probability in quantum mechanics"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93cb9cda2fcc4f6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the photoelectric effect and its applications, and then explain the Compton effect and its significance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some factors that affect the photoelectric effect?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now explain the factors affecting the Compton effect."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22d29adcea4e41d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u8bb2\u8bb2\u91cf\u5b50\u529b\u5b66\u7684\u57fa\u672c\u6982\u5ff5\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fe43c8097d1740a1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How does the uncertainty principle play a role in the behavior of particles at the quantum level, and what implications does this have on the macroscopic scale?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the concept of entanglement challenge our classical understanding of the world?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In what ways have our understanding of quantum mechanics influenced the development of new technologies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "75b8550f325849e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quelle est l'importance des donn\u00e9es sur le rayonnement solaire? \u00c0 Bhubaneswar, les observations suivantes ont \u00e9t\u00e9 faites. Dur\u00e9e maximale th\u00e9orique du soleil = 9,5 h; Dur\u00e9e moyenne mesur\u00e9e d'une journ\u00e9e en avril = 9,0 h; Rayonnement solaire pour une journ\u00e9e claire, Ho = 2100 kJ/m2/jour; Constantes: a = 0,27, b = 0,50. Calculez le rayonnement global quotidien moyen"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22a2462511564efa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Qu'est-ce que la force de Coriolis et comment cela affecte-t-il les mouvements sur Terre ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Quelle est la diff\u00e9rence entre la force centrifuge et la force centrip\u00e8te ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Comment fonctionne un acc\u00e9l\u00e9rateur de particules ?"
+            }
+        ]
+    },
+    {
+        "id": "4f55f4cbcb2d4480",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the photoelectric effect in brief."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How is it related to Planck's constant?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f1948e1fd1346f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the fundamentals of electromagnetic induction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What's the difference between self-induction and mutual induction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can the efficiency of a transformer be improved?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the principles of wireless power transfer?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d82ddf01886a4238",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u00bfPodr\u00edas explicarme qu\u00e9 es la teor\u00eda de cuerdas en f\u00edsica?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1ntas dimensiones se proponen en la teor\u00eda de cuerdas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1l es la relaci\u00f3n entre la teor\u00eda de cuerdas y la gravedad cu\u00e1ntica?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00bfCu\u00e1l es la diferencia entre la teor\u00eda de cuerdas y la teor\u00eda de campos?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8539e8414c0e4678",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been thinking about how light travels in a vacuum, which is devoid of matter. How is it possible for light to travel through a vacuum without any medium?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I've also pondered how we can see objects that are not light sources themselves. How does this happen?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about the phenomenon of refraction? How does it relate to the way we see things?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "It seems like reflection and refraction are important in understanding how we perceive the world around us. Can you explain dispersion as well?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e423690e2d1a4149",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the fundamental difference between classical and quantum mechanics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the Heisenberg uncertainty principle relate to the wave nature of particles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the role of the observer in quantum mechanics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the double-slit experiment and its implications for quantum mechanics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7b32bb41b5d442e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following is true about the speed of light in a vacuum?\na) (A) It is the same in all directions\nb) (B) It is affected by gravity\nc) (C) It depends on the wavelength of the light\nd) (D) It is slower than the speed of light in air"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5728\u4e0b\u5217\u60c5\u51b5\u4e0b\uff0c\u5149\u5728\u771f\u7a7a\u4e2d\u7684\u901f\u5ea6\u4f1a\u53d7\u5230\u5f71\u54cd\uff1f\na) (A) \u4ece\u5730\u9762\u5230\u592a\u7a7a\u7684\u8fd0\u52a8\nb) (B) \u4ece\u592a\u7a7a\u5230\u5730\u9762\u7684\u8fd0\u52a8\nc) (C) \u4ece\u5730\u9762\u5230\u5730\u5fc3\u7684\u8fd0\u52a8\nd) (D) \u5728\u4efb\u4f55\u65b9\u5411\u7684\u8fd0\u52a8"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2332594e47774680",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do the laws of thermodynamics apply to the development of heat engines?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the implications of these laws on our ability to create perpetual motion machines?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do these principles impact the design of more efficient energy conversion devices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "62582e2ef8394a3c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the relationship between voltage, current, and resistance in an electrical circuit?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can Ohm's Law be applied to series and parallel circuits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the role of a capacitor in a circuit and how does it store energy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do inductors store energy in a circuit?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e19afe7a29b4167",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the principle of superposition in the context of wave interference?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the principle of superposition apply to sound waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the significance of the principle of superposition in the context of quantum mechanics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you provide an example of a quantum superposition in a real-world application?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d28705338e2c4ae8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you briefly explain the concept of quantum entanglement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b14d9825a6c0443d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the concept of dark matter and its significance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some proposed candidates for dark matter particles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How are scientists trying to detect dark matter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If dark matter isn't found, what would this imply about our current understanding of the universe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "654c31ad82304e8a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain string theory, quantum gravity, and the multiverse. Describe the relationship between them. How do they impact our understanding of the universe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60584347682d4e09",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following is not a unit of energy?\na) (A) Calorie\nb) (B) Joule\nc) (C) Watt\nd) (D) Electronvolt"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In a vacuum, which of the following properties is the same for all forms of electromagnetic radiation?\na) (A) Speed\nb) (B) Wavelength\nc) (C) Frequency\nd) (D) Energy"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "A conducting wire has a diameter of 2 millimeters. If the resistivity of the conductor is 1.7 x 10^-8 ohm-meters, what is the resistance per meter of the wire?\na) (A) 2.7 x 10^-5 ohms\nb) (B) 5.4 x 10^-7 ohms\nc) (C) 1.4 x 10^-2 ohms\nd) (D) 3.4 x 10^-4 ohms"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If a 50-ohm resistor has a current of 2 amperes flowing through it, what is the potential difference across the resistor?\na) (A) 25 volts\nb) (B) 100 volts\nc) (C) 50 volts\nd) (D) 200 volts"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0e6f3997ae0468c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the differences between mechanical waves and electromagnetic waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do the speed of these waves differ in various media?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do these waves interact with their surroundings?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide examples of practical applications of these waves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

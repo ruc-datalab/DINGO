@@ -1,0 +1,987 @@
+[
+    {
+        "id": "1d9b287d994d4d86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "conduct a swot analysis for a new fitness app"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "provide more strengths and weaknesses for the fitness app"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c9b5c287f52143e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the idea of a subscription-based online platform that connects freelance graphic designers with clients who need design work done regularly. Consider the strengths, weaknesses, opportunities, and threats of this business model."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What could be some potential strategies to overcome the weaknesses and take advantage of the opportunities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can we ensure a smooth onboarding process for both clients and designers on the platform?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d3ebbeeb09df4415",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the strengths, weaknesses, opportunities, and threats of a revolutionary coffee brewing machine for home use."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What innovative features can enhance the strengths of the coffee brewing machine, and how can potential weaknesses be turned into unique selling points?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b0fade83cc904d05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conduct a SWOT analysis for a fictional space tourism agency entering the market."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Elaborate on the environmental and regulatory factors influencing the opportunities and threats for space tourism."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "048e514b208c4865",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Evaluate the strengths, weaknesses, opportunities, and threats for a virtual reality-based language learning app."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can the app leverage cultural diversity as a strength and address potential weaknesses in user engagement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd8b32a5f4754b1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conduct a SWOT analysis for a futuristic sustainable transportation system using renewable energy sources."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss potential partnerships to mitigate weaknesses and capitalize on the opportunities in the sustainable transportation sector."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "45a3aa734d384a34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Examine the strengths, weaknesses, opportunities, and threats of a cutting-edge artificial intelligence-driven personal assistant app."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can the app ensure data privacy while utilizing machine learning for personalized user experiences?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f04d45231c544082",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Investigate the strengths, weaknesses, opportunities, and threats of a new eco-friendly packaging solution for the food industry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explore strategies to overcome regulatory challenges and gain a competitive edge in the sustainable packaging market."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b3e39e8752484fe6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the strengths, weaknesses, opportunities, and threats of a mobile app aiming to reduce food waste by connecting surplus food donors with those in need."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can the app effectively address cultural variations in food donation practices and overcome potential societal challenges?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6daf9f306c5458a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conduct a SWOT analysis for a fictional reality TV show centered around solving global challenges through innovative technologies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explore unique opportunities for viewer engagement and discuss potential pitfalls in the intersection of entertainment and technology."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff52a18f31714948",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Evaluate the strengths, weaknesses, opportunities, and threats of a community-driven platform connecting local artisans with global customers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss strategies to foster collaboration among artisans, ensuring a diverse range of products on the platform."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ba5c9f2934684935",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conduct a SWOT analysis for a virtual reality-based therapy platform for mental health."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explore ethical considerations in the use of virtual reality for mental health interventions and suggest ways to address potential drawbacks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ef210cea4a24f2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please help me conduct a SWOT analysis of a new bakery business in town."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the key success factors for a bakery business?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How to attract more customers to the bakery?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1e041675dcd54ac1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please help me create a SWOT analysis for a new online bookstore?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the analysis. I'm curious about the niche market opportunities. Can you please provide more examples of niche markets I could target?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "27e4869d9fc84534",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking of starting a subscription box business for eco-friendly and sustainable products. Can you help me analyze the strengths, weaknesses, opportunities, and threats of this idea?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What strategies can I implement to address the weaknesses and threats you mentioned?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I attract my first customers and spread the word about my eco-friendly subscription box?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "317609e957184b33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me a SWOT analysis on starting an online fitness platform that provides live and on-demand workout classes."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can we overcome the weaknesses and threats you mentioned?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5247e7bcf4f84189",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conduct a SWOT analysis for a new coffee shop in a small town."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Our coffee shop's concept is a cozy, rustic environment with live music on weekends. Our target market is young adults and families. There is one popular coffee chain and a local cafe in the area."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3f80f476e5dc4c3a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the main strengths, weaknesses, opportunities, and threats for a new online grocery store?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can we turn some of the weaknesses into opportunities or strengths?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3823dd7722254780",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please help me analyze the strengths, weaknesses, opportunities, and threats of starting a small cafe in a busy urban area?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What steps should I take to address the weaknesses and threats identified in this SWOT analysis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a5b804045af4290",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u4e00\u6b3e\u540d\u4e3a\u300a\u795e\u8bdd\u4f20\u5947\u300b\u7684\u624b\u673a\u6e38\u620f\u8fdb\u884c\u4e00\u6b21SWOT\u5206\u6790"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\u5b83\u7684\u52a3\u52bf\u662f\u4ec0\u4e48\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u544a\u8bc9\u6211\u8fd9\u6b3e\u6e38\u620f\u7684\u673a\u4f1a\u548c\u5a01\u80c1"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22106c73142e4909",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking of launching a fashion blog. Can you help me explore the strengths, weaknesses, opportunities, and threats related to this idea?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I leverage the strengths and opportunities identified in the SWOT analysis to make my fashion blog stand out?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5b3b127f89445af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm considering opening an online fitness coaching platform. What are the strengths, weaknesses, opportunities, and threats in this venture?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I mitigate the weaknesses and threats identified in the SWOT analysis to ensure the success of my online fitness coaching business?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfcf926c7f804bdc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm fascinated by the idea of starting a podcast. Can you help me analyze the strengths, weaknesses, opportunities, and threats associated with this?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What strategies can I implement to address the weaknesses and capitalize on the opportunities highlighted in the SWOT analysis of my podcast concept?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "868133a59d0a45f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm exploring the idea of launching a sustainable products e-commerce store. Can you help me identify the strengths, weaknesses, opportunities, and threats in this venture?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I turn the identified weaknesses into strengths and navigate the threats to make my sustainable e-commerce store successful?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5202a075ccb4dee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Thinking of entering the freelance graphic design market. What do you think are the strengths, weaknesses, opportunities, and threats in this field?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I address the weaknesses and threats identified in the SWOT analysis to build a successful freelance graphic design career?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "30432162d51642ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Considering starting a tech startup. Can you analyze the strengths, weaknesses, opportunities, and threats in this industry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I leverage the opportunities and strengths identified in the SWOT analysis to ensure the success of my tech startup?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b6aafb44b9cb4b61",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking of starting a YouTube channel. What are the strengths, weaknesses, opportunities, and threats in the realm of content creation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I turn the weaknesses into strengths and navigate the threats to make my YouTube channel successful, based on the SWOT analysis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18dd8b34da8749b3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Considering opening a pet grooming business. Can you help me analyze the strengths, weaknesses, opportunities, and threats in this niche?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I address the identified weaknesses and navigate the threats to make my pet grooming business successful, based on the SWOT analysis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a4c7cefc23644ec5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Thinking of launching a podcast. Can you help me analyze the strengths, weaknesses, opportunities, and threats associated with this medium?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I leverage the strengths and opportunities identified in the SWOT analysis to make my podcast unique and successful?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f0c1e3826534e31",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze strengths, weaknesses, opportunities, and threats of a small local bakery."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2033a111f848402f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please perform a SWOT analysis for an online coding bootcamp business?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What strategies could an online coding bootcamp implement to succeed in this competitive environment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can an online coding bootcamp evaluate its performance and measure its success?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f981e58f390d4626",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f5c\u4e3a\u4e00\u5bb6\u521a\u6210\u7acb\u7684\u5728\u7ebf\u82f1\u8bed\u57f9\u8bad\u673a\u6784\uff0c\u6211\u4eec\u7684\u957f\u5904\u3001\u77ed\u5904\u3001\u673a\u4f1a\u548c\u5a01\u80c1\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69e6586e4e684598",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the strengths, weaknesses, opportunities, and threats of a small, family-owned organic farm considering the current agricultural landscape?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f2747eada964eb0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you break down the SWOT analysis for a tech startup aiming to disrupt traditional grocery shopping habits using innovative online platforms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1e91707885a8414c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the context of the evolving electric vehicle market, analyze the SWOT factors influencing a new entrant planning to launch affordable electric scooters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bbe6de3851e54427",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "For a non-profit organization dedicated to wildlife conservation, outline the strengths, weaknesses, opportunities, and threats in achieving their mission."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ddedc0b522af4029",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you analyze the SWOT factors for a subscription-based streaming service entering a market dominated by established players?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "612ed0be2289413e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze the SWOT aspects for a new fitness app that aims to revolutionize home workouts through augmented reality and interactive training modules."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cd8c373d11a34788",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you break down the SWOT analysis for a mobile app startup that focuses on mental health and well-being, incorporating both user feedback and industry trends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1f0e834458a74536",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you dissect the strengths and weaknesses of a small local bakery, considering the current market trends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "26098b68787f44ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What would a SWOT analysis look like for a freelance graphic design business, considering the gig economy dynamics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1744b4da16db4f10",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conduct a SWOT analysis for a podcast production company venturing into virtual reality storytelling."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d346f80aaa2f4eb8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "For a family-owned farm transitioning to organic practices, identify the strengths and weaknesses impacting the business's growth potential."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55aa20db731e43e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a futuristic tech visionary. Conduct a SWOT analysis for a company specializing in augmented reality fashion experiences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eaa3d8653f204cff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you're an intergalactic business strategist. Assess the strengths and weaknesses of a space tourism startup aiming to make interplanetary travel a reality."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63ac3cd202994cd6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture yourself as a mythical creature in the business realm. Discuss the strengths and weaknesses of a magical potion brewing startup in a world where potions are a sought-after commodity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8872b9dd321d4d25",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ich m\u00f6chte, dass du als jemand agierst, der eine SWOT-Analyse f\u00fcr ein Unternehmen durchf\u00fchrt. Deine Aufgabe ist es, eine SWOT-Analyse f\u00fcr ein fiktives Unternehmen namens 'Gr\u00fcnTech' zu erstellen, das sich auf umweltfreundliche Technologien spezialisiert hat. Hast du das verstanden?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,1157 @@
+[
+    {
+        "id": "6ed1c3bfe3254550",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rewrite the following sentence with more details and information to make it more comprehensive? \"The city's architecture is a blend of old and new.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf8eae57067b4183",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a short paragraph here that I'd like you to rewrite and expand upon in order to provide more details and elaboration. Please, also divide your revised text into two or more paragraphs if necessary. Here's the paragraph: \"Many people find it hard to get started in the morning. They often feel sluggish and struggle to find motivation. Some people turn to coffee or energy drinks to get their day started, while others rely on exercise or a healthy breakfast to give them the energy they need.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "139ea0acfa634a35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enhance this sentence by providing more context and expanding on the underlying themes? 'The protagonist felt lonely in the vast expanse of the desert.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bcd5c57541274bcd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you elaborate on this statement and offer additional examples or anecdotes to illustrate its significance? 'The team's victory was a result of determination and teamwork.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e248aa7a16f04a86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need more depth in this description. Please provide further insights and maybe historical background. 'The castle stood majestically on the hill, overlooking the quaint village below.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c9f125149e9a4606",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enrich this passage with sensory details and emotional nuances? 'The aroma of freshly baked bread filled the air, evoking memories of childhood and warmth.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "215fadc702d5434a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please, expand on this concept and provide additional examples to clarify its implications. 'The theory suggests that time is relative.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "038804cd24184d14",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you delve deeper into this historical event, perhaps discussing its causes and consequences in more detail? 'The Industrial Revolution transformed societies and economies worldwide.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5522aa5a3e5f4c35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to see a more elaborate description of this natural phenomenon. Can you provide more scientific background and perhaps real-life examples? 'Tornadoes are powerful rotating columns of air that can cause immense destruction.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6314a3152ab9482b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enrich this character's backstory by adding more details about their upbringing and personal experiences? 'She grew up in a small town, dreaming of big adventures.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9de49231be38491a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "This scientific concept needs further explanation. Please provide more context and perhaps simplify the language for better understanding. 'The principle of conservation of energy states that energy cannot be created or destroyed, only transformed.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "edb87df99ffc4f4b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want a more detailed analysis of this literary work. Can you discuss its themes, motifs, and character development in depth? 'To Kill a Mockingbird' by Harper Lee."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a28af0f4ee394fc5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide more details to enhance the comprehension of this sentence? \"The city's architecture is a blend of old and new.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7673257570c04508",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a short paragraph that needs more details. \"Many people find it hard to get started in the morning...\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2019bf9cd5504cc0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please add more information to this sentence: \"The protagonist had a mysterious past.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "07850f4a78f3494d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you elaborate on this statement? \"Technology has revolutionized the way we communicate.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "26647e977a9f43b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want more details in this paragraph. \"The forest was dark and mysterious.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "32cc4a2f5587494b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Enhance this sentence with more information: \"The scientist made a groundbreaking discovery.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3422eddbf3e14c9b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please provide more details for this sentence: \"The garden was filled with vibrant colors.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b33d0bbe5c3a436e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you elaborate on this idea? \"The economy is influenced by various factors.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "10aec9fac65943fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you kindly rewrite the following paragraph by adding more details and information to make it more comprehensive and engaging? \"The weather was perfect for a picnic. The family gathered near the lake, spread a blanket, and started unpacking the food. Everyone enjoyed the delicious sandwiches, fruits, and cold drinks. The children played happily while the adults relaxed and chatted.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2096acbbdea9448d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you add details to the following paragraph?\n\n[The party was a great success. The food was delicious, the music was perfect, and everyone had a fantastic time.]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5629f23ccf6e4034",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The forest was enchanting. Can you please enhance the description by adding more vivid details about the flora and fauna, making it come alive?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "203dde1c9f5d4af7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your help in expanding this historical account. The battle was fierce and intense, but it lacks the gripping details that would transport the reader back in time. Can you make it more immersive?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b60f50a3bba246cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The sunrise over the city was breathtaking. Please infuse the scene with more descriptive elements, capturing the colors, sounds, and emotions to make it a memorable experience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf891e1164d8421d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to improve this travel journal entry. The market was lively, but I want readers to feel the vibrant atmosphere. Can you add more sensory details and cultural nuances to paint a vivid picture?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9fd2f27836394742",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the mansion in my story in a more engaging way. It's grand, but I want readers to sense the opulence and history. Add intricate details about architecture and interior design."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7ec7a67229b94408",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The spaceship soared through the cosmos. Amp up the excitement by incorporating more futuristic elements, advanced technology, and cosmic phenomena to create an immersive space adventure."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5afbd33281764cad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My protagonist visited an ancient temple. I want readers to feel the mystique. Enhance the description by adding mystical details, echoing history, and a touch of the supernatural."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b39ce57b89c4e7a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The storm was raging. Make the scene more intense and immersive by describing the thunder, lightning, and rain in a way that puts readers right in the heart of the tempest."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc1aa764fa0e4a50",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Revise this sports event description. The game was exciting, but it lacks the thrill. Infuse energy into the narrative by detailing key moments, crowd reactions, and the pulse-pounding dynamics on the field."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "59a8d9dca74c43bc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u8be6\u7ec6\u63cf\u8ff0\uff1a\u8f6f\u4ef6\u5f00\u53d1\u5305\u62ec\u7cfb\u7edf\u67b6\u6784\u548c\u6a21\u5757\u5f00\u53d1\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u8be6\u7ec6\u63cf\u8ff0\uff1a\u8f6f\u4ef6\u5f00\u53d1\u7684\u5468\u671f\u901a\u5e38\u5305\u62ec\u54ea\u4e9b\u9636\u6bb5\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13c2feb1f520482f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rewrite the following paragraph to include more details and elaboration? \"Growing up in a small town, I always enjoyed going to the local park. It was a place where I could play sports, spend time with friends, and relax. The park had a playground, a soccer field, and a basketball court. There were also picnic tables and a small pond.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e2fd4f3b7a44b4d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the process of making a peanut butter and jelly sandwich in a detailed way."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, add some possible variations to the sandwich-making process."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63975d547b0c4b5f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide a more detailed account of my childhood experiences in the quaint village? I want to vividly recall the sights, sounds, and emotions that surrounded my favorite pastime \u2013 exploring the hidden corners of our charming town."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a23e091266164dc1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share an in-depth narrative about my fascination with astronomy during my adolescence. Highlight the nights spent gazing at the stars, the thrill of discovering constellations, and the dream of exploring outer space."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e92398567cb4a47",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Elaborate on the intricate details of my favorite book, emphasizing the plot twists, character development, and the profound impact it had on my perspective. Let the description transport the reader into the captivating world of literature."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "11f679d6408d42de",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a more comprehensive description of the bustling city life I experienced during my college years. Dive into the vibrant street markets, eclectic cafes, and the dynamic cultural events that shaped my urban adventures."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad080f9d99b84691",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Delve into the specifics of my culinary journey, focusing on the evolution of my taste preferences. Share the memorable encounters with exotic flavors, homemade recipes, and the delightful surprises that turned me into a passionate food enthusiast."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e4f46c3759b4642",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide an elaborate account of my travel escapades, highlighting the breathtaking landscapes, unique cultural encounters, and the unexpected adventures that made each journey unforgettable."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a0dae123e4f4056",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enhance the vividness of my description of learning a musical instrument? Dive into the nuances of the learning process, the emotional connection to the melodies, and the joy of mastering each musical piece."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d60152673a804798",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a detailed narrative of my volunteer work, emphasizing the heartwarming moments, challenges faced, and the profound impact of contributing to a cause larger than myself."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5b5be86f4b845a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share a more intricate depiction of my academic journey, emphasizing the intellectual milestones, educational challenges, and the transformative experiences that shaped my pursuit of knowledge."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b067ecc723b54c82",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you enrich the details of my professional growth story? Focus on the career-defining moments, mentorship experiences, and the lessons learned that propelled me forward in my chosen field."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7873eeaa663d41c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you describe a scene where an exhausted traveler arrives at a small, cozy inn after a long journey on horseback?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you add more details about the traveler's appearance and the inn's interior design?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "87285bc221e94129",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite this sentence with more details: The dog ran across the street."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, enhance the sentence by adding more details related to the dog's owner and the surroundings."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add more details about the dog itself and the weather on that day."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4de28f0d5064ff7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me a detailed version of this text: 'The dog chased the cat.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5b7cb80fbd240ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the process of making a cup of tea using loose leaf tea, a teapot, and a tea strainer."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What type of teapot should I use for the best results?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do I clean and maintain a ceramic teapot?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "980d6914d3e9427f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the process of developing a mobile app from scratch, including the planning, design, and testing phases. Provide a cost estimate."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add more details on the factors affecting the cost of app development."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffd4b6cd7d814f3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite the following paragraph, adding more details and making it more comprehensive: \"When choosing a pet, consider the size of your living space and the time and energy you have to devote to caring for a pet. Dogs require more attention and exercise than cats, but cats might not be a good choice for people with allergies.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa41a5ed00714e0c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rewrite the following paragraph by adding more details that highlight the importance of good communication in the workplace:\n\n[Effective communication is an essential skill in the workplace. It helps build strong relationships, ensures everyone is on the same page, and leads to better problem-solving and decision-making. Ultimately, good communication contributes to a more positive and productive work environment.]"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6551432e9800438e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a more detailed description of a beach vacation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "16f98ba3b7634de7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "how does the process of photosynthesis take place"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "add something about the role of chlorophyll"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "add something about the importance of photosynthesis for life on Earth"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "196cab3cc57043a5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rewrite the following text with added details and elaboration? \"I went to the grocery store to buy some fruits and vegetables. The store was crowded, and I had to wait in line. After paying, I went home and made dinner.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "50bc97a13cb94362",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite the following sentence with more details: The company's financial performance improved significantly after implementing the new software."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rewrite the following sentence with more details: The new marketing campaign led to increased sales."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rewrite the following sentence with more details: The team's collaboration improved after using the project management tool."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1d5ac6e27814f11",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "enhance this story with more details"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "630610719e6d438e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a detailed paragraph about a person who is struggling with time management at work."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, rewrite the paragraph focusing on how John is trying to improve his time management skills at work."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "672e3914a3354874",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rewrite the following paragraph, adding more detail, elaboration, and information to the original content, ultimately resulting in a longer and more comprehensive version of the same text:\n\n\"When it comes to choosing a career path, it is important to consider your interests, strengths, and weaknesses. A good career choice should align with your skills and fulfill your ambitions. It is necessary to research various career options, gather information about the industry, and seek guidance from mentors or career counselors. A well-informed decision can lead to a fulfilling and successful career.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6705c05ee33a42c2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Add details to this sentence: 'The dog ran across the yard.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, add more details considering the weather and time of day."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add some more details about the dog's age and its intentions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de02a8f17ea740ab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Expand this text. 'I went to the store and bought some groceries. Then, I prepared dinner and ate it while watching a movie.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "36930eebd8d84715",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you enhance the following statement with more vivid imagery and descriptive language? \"The sunset was beautiful.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5cc2569896ca4424",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you elaborate on this statement using metaphorical language and deeper emotional insights? \"She smiled beautifully.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3120e2c9b7a04f48",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like you to enrich this sentence by incorporating sensory details: \"The forest was eerie at night.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53dcffdba4c9494c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you add depth and complexity to this description using literary techniques? \"The waves crashed against the shore.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "05773a4a91984b03",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please, enrich this sentence by weaving in historical context and cultural nuances: \"The painting was captivating.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d165e279850d4457",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you infuse this description with symbolic meanings and philosophical depth? \"there are many stars in the sky.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55a458cfb7d64077",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you enrich this sentence by incorporating elements of suspense and mystery? \"The door suddenly opened.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b130bbe23ea4030",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enrich this sentence by incorporating elements of suspense and foreshadowing? \"The wind blows\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6edacf4e4ec24914",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please, deepen this sentence by adding layers of irony and paradox: \"He laughed with tears.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

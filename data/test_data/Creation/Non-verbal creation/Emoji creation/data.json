@@ -1,0 +1,944 @@
+[
+    {
+        "id": "ebfb94a25d5146fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can I create an emoji of a smiling face?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "83e5d4bb2fbb4aeb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide an SVG code for a smiling face emoji?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3bbd28d8e2004003",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you show me an example of an animated SVG smiling face emoji?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I make the smile change to a frown in the animation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b732a27231ea4b52",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create an SVG icon of a book.\n\nPlease write in English language.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please create an SVG icon of a pencil.\n\nPlease write in English language.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc9885cb01d7423b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need an SVG emoji of a cat wearing sunglasses. Can you make it cool and stylish?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you animate an SVG of a rocket blasting off into space? I want it to have a sense of excitement and adventure."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1cc0edf290c4b98",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm in need of an SVG emoji representing a cup of coffee. Can you make it look warm and inviting?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you design an SVG icon of a bicycle? I'd like it to have a vintage feel, reminiscent of old-timey rides."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd58b6cfb98342fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want an SVG emoji of a sunflower that radiates positivity. Can you capture its vibrant energy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you craft an animated SVG of a bouncing basketball? I need it to evoke the spirit of sportsmanship and competition."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff443e0b9cd64bbb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm searching for an SVG emoji portraying a slice of pizza. Can you make it look utterly delicious?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you design an SVG icon of a tree? I want it to embody the tranquility of nature."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22d4963222424109",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create emojis to represent these concepts: Coding, teamwork, brainstorming, celebration, and deadline."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, please create a combination of two emojis for each concept that hasn't been used before."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "447e1f8d23c349e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pouvez-vous me montrer des emojis pour repr\u00e9senter la joie, la tristesse, la col\u00e8re et la surprise ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Quels emojis pourrais-je utiliser pour repr\u00e9senter un anniversaire ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fad2bd2543094b04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create an SVG icon representing a rocket ship?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d64f611372c14dae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need emojis for technology, relaxation, adventure, and food. Can you design them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ad2c818e4cb4c4a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Translate these words into emojis: Love, success, failure, and surprise."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4185c5f81b9a45e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need an SVG icon for a tree and emojis for happiness, creativity, and victory."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da2e7bc9b9284568",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design an SVG icon representing music notes. Please use English language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9293e30e994c4aac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Translate 'peace' and 'joy' into emojis and create an SVG icon for a dove."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63b45284ea7c42b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design emojis to represent emotions: Love, confusion, excitement, and calmness."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d4d33450a8a433e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Peux-tu cr\u00e9er des emojis pour symboliser la nature, l'aventure, la r\u00e9ussite et la tristesse ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a361a84706f4917",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create emojis representing nature, technology, emotions, and travel."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "96a9b3e32e354439",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "make svg icon of a camera."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you also create a svg icon of a video camera?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a8c3d9a4b73c423f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Je vous demande d'agir comme un g\u00e9n\u00e9rateur d'emoji. En tant que g\u00e9n\u00e9rateur d'emojis, vous serez charg\u00e9 de cr\u00e9er et de fournir une s\u00e9rie d'emojis qui v\u00e9hiculent des \u00e9motions, des id\u00e9es ou des concepts sp\u00e9cifiques. Vous devez \u00eatre capable de comprendre le contexte ou le message que la personne souhaite exprimer et de trouver les emojis appropri\u00e9s qui peuvent \u00eatre utilis\u00e9s pour am\u00e9liorer le message ou le rendre plus attrayant. Les emojis doivent \u00eatre visuellement attrayants et doivent pouvoir \u00eatre facilement compris et reconnus par le public vis\u00e9. Ils doivent \u00e9galement \u00eatre appropri\u00e9s et ne pas \u00eatre offensants. Vous pouvez utiliser diff\u00e9rentes plateformes pour g\u00e9n\u00e9rer des emojis, par exemple en utilisant les emojis existants de Unicode Standard ou en cr\u00e9ant des emojis personnalis\u00e9s \u00e0 l'aide d'un logiciel de conception graphique. Vous devez \u00e9galement \u00eatre en mesure de proposer une vari\u00e9t\u00e9 d'options \u00e0 l'utilisateur. Cr\u00e9ez des emojis pour : Ing\u00e9nierie, cas d'utilisation, d\u00e9veloppement de la communaut\u00e9, suggestions, retours d'exp\u00e9rience, tutoriels, actualit\u00e9s, assistance technique."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Cr\u00e9ez des emojis pour : \u00c9tudiants, sp\u00e9cialistes du marketing, vendeurs, fondateurs de startups, d\u00e9veloppeurs de logiciels, chefs de produits, influenceurs, designers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7099ec50dd064d68",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pourriez-vous me cr\u00e9er des emojis pour exprimer diff\u00e9rentes \u00e9motions telles que la joie, la tristesse, la col\u00e8re et la surprise ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Pouvez-vous \u00e9galement cr\u00e9er des emojis pour exprimer l'amour et l'amiti\u00e9 ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4cfee4eaf8774491",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create emojis for the following scenarios using existing Unicode emojis: winning a race, receiving a job promotion, graduating from university, celebrating a birthday, and going on a vacation. You must use at least 3 emojis for each scenario."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4b2fea4560394475",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you create emojis for the following situations: happiness, excitement, confusion, anger, and sadness?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d592fa68437a4765",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create an emoji with sunglasses\n\nPlease write in English language.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18e716fa34d54650",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Bonjour, pouvez-vous m'aider \u00e0 cr\u00e9er des emojis pour les \u00e9v\u00e9nements suivants : anniversaire, mariage, naissance, r\u00e9union de famille et vacances ? Je vais les utiliser pour envoyer des messages \u00e0 mes amis et \u00e0 ma famille."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Merci beaucoup ! Pourriez-vous \u00e9galement me proposer des emojis pour les situations suivantes : r\u00e9ussite professionnelle, promotion, d\u00e9m\u00e9nagement, retraite et anniversaire de mariage ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d74a5674f3ae4b8c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a laughing emoji SVG code now. Also, provide the translation in Korean. \n\n\uc9c0\uae08 \uc6c3\uace0 \uc788\ub294 \uc774\ubaa8\ud2f0\ucf58 SVG \ucf54\ub4dc\ub97c \ub9cc\ub4e4\uc5b4\uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bf7ed9e623e491f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Cr\u00e9e des emojis pour exprimer l'amour, la tristesse, la col\u00e8re, la surprise, et le bonheur."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0849ef299a7408a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help understanding quantum physics concepts. Can you explain the basics in simple terms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a94d08d882e4a1b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Recommend a classic novel that combines mystery and romance. I want something captivating!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9951ca95e17a4e7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a trip to Japan. What are the must-visit places and unique cultural experiences?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55b9cdc4d7e54473",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest some effective stress-relief techniques. Work has been overwhelming lately."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a353313664714015",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the latest advancements in artificial intelligence. Can you provide an overview?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da391710e4574c08",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key elements of a successful marketing strategy for a small business?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "470748ee2d4c4987",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share some tips on maintaining a healthy work-life balance. I feel burnt out."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "be6d76bc6fbf4877",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the environmental benefits of adopting a plant-based diet?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb73b02a2a73449e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to learn a new programming language. Which one would you recommend for a beginner?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "29b102403f9f4a79",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the process of creating a podcast from ideation to publication. I'm considering starting one."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca8dcda5a07a4e4f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create a circular version of the YouTube logo?\n\nPlease write in English language.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I modify the SVG code to make the triangle smaller?\n\nPlease write in English language.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "523ebaacd93e4788",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do I create a smiling face emoji using Unicode characters?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about a winking face emoji?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a16b0b339ee7436b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the history of ancient Egyptian hieroglyphics. Can you provide a brief overview?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you recommend some good books on quantum physics for beginners?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a0bc53dd05e74157",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me an interesting fact about space that most people don't know."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What's the process of making traditional Japanese sushi?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a54d0f90ef3c4f04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your thoughts on the impact of artificial intelligence on future employment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some practical tips for improving focus and productivity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "daaf6172936946c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key ingredients for a successful career in entrepreneurship?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you recommend a healthy and delicious recipe for a quick dinner?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24227edc9d9b43e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share some interesting trivia about famous historical figures."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can one develop effective communication skills in the workplace?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8cff080e312e4753",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the main principles of sustainable living, and how can individuals contribute?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Tell me about the cultural significance of a traditional dance from India."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e8c017c85174919",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share some tips for novice photographers looking to improve their skills."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the health benefits of practicing mindfulness meditation regularly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b5e47b0f0494358",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the advancements in renewable energy technologies in the last decade."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some effective strategies for time management in a busy work schedule?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e1b473f657be473c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the significance of a specific cultural festival in South America?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can individuals contribute to environmental conservation in their daily lives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4aa51a57ae024d2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share some interesting facts about the evolution of technology in the 21st century."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the key elements of a successful science fiction story?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

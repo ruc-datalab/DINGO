@@ -1,0 +1,1154 @@
+[
+    {
+        "id": "7b0373ed43464cd5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you suggest some hobbies that I can try?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you tell me more about photography?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "80ee0d4e6a454daf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "suggest some books for personal growth"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5b8b28309914693",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need some cool music recommendations. What's your go-to song these days?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7fea8998fd26477f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you recommend a restaurant with a unique menu for a special date night?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "085c459b6b3d4fe3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm feeling adventurous. Any offbeat travel recommendations that aren't on the usual tourist lists?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9cc4a8bca816445e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm into sci-fi. Any mind-bending movie recommendations that will make me question reality?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b011988a509744c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm stuck in a reading rut. Recommend a book that will completely transport me to another world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "91d193541e3c4534",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to start cooking more. Any easy-to-follow recipe book recommendations for beginners?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6271e2ac7e949f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a productivity boost. Recommend some apps or tools that will make me more efficient."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "431acbb36d8f4e1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a history buff. Recommend a documentary that delves into a lesser-known historical event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72a7524a848d4ed4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to be more eco-friendly. Can you recommend sustainable living practices or products?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9984624d20441d5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a good laugh. Recommend a comedy movie that never fails to make people burst into laughter."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d47684fd36184abb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking to start a small business, but I'm not sure what kind of business to start. Can you give me some ideas based on current market trends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What other factors should I consider when choosing a business to start?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7228f5a1381405f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc5ec\ud589\uc9c0\ub85c \ucd94\ucc9c\ud560\ub9cc\ud55c \uad6d\ub0b4 \ub3c4\uc2dc 5\uacf3\uc744 \uc54c\ub824\uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ub300\ud55c\ubbfc\uad6d\uc5d0\uc11c \uac00\uc7a5 \uc544\ub984\ub2e4\uc6b4 \uacc4\uc808\uc740 \uc5b8\uc81c\uc778\uac00\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a12eb7fd4b2648c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a surprise date night. Can you recommend a unique and romantic restaurant in the city?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some creative date ideas that go beyond the typical dinner and a movie?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12efc9739d2c487d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm redecorating my living room. Can you recommend some trendy and affordable furniture stores?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the current interior design trends for small apartments?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e95a77dda8364235",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a good book recommendation. Can you suggest a captivating mystery novel?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some classic novels that everyone should read at least once in their lifetime?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68b0cdd14bdb4f5e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a weekend getaway. Can you recommend a charming bed and breakfast in a scenic location?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some underrated travel destinations that offer a unique experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d77cf9609604d33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to adopt a healthier lifestyle. Can you recommend some nutritious yet delicious recipes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the key components of a balanced and wholesome diet?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "327cf70726724df2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a workout routine. Can you recommend an effective and time-efficient fitness program?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some innovative exercise trends that people are trying out nowadays?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ec144bce838f4530",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm into photography. Can you recommend a good camera for beginners with a limited budget?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some essential tips for capturing stunning photographs?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f89465687b0e4f48",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to learn a new language. Can you recommend an app or method that makes language learning fun and effective?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some proven strategies for mastering a foreign language quickly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7e35ece95b14ca3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Preciso de ideias de presentes originais para um amigo que gosta de arte. Pode me ajudar?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Esses s\u00e3o muito comuns, me sugira algo mais \u00fanico por favor."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "outro"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e3bdb8ddfb34cae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you suggest some ideas for a weekend getaway for a couple living in New York City? I'm looking for something romantic and unique within a few hours' drive."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about a romantic weekend in Vermont? Can you suggest some specific places to visit there?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "843fd7475da6458b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u7ed9\u6211\u63a8\u8350\u51e0\u90e8\u7ecf\u5178\u7684\u79d1\u5e7b\u5c0f\u8bf4"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5176\u4e2d\u6709\u6ca1\u6709\u8bb2\u8ff0\u672a\u6765\u4e16\u754c\u7684\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6bf151bcf4ce457f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you recommend some TV shows based on my preference for science fiction, mystery, and fantasy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about some lesser-known TV shows in the same genres?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Which shows have a similar vibe to Black Mirror?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2af866c37fa24862",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you recommend some interesting hobbies or activities to pick up during weekends that can help with personal growth and relaxation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the suggestions! I'm particularly interested in learning a new language. How can I go about starting and maintaining a consistent language learning routine during weekends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Those are great tips! Can you suggest some popular language learning apps that I can use to supplement my weekend study sessions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9168ff12bfb3456f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some healthy dinner ideas for a vegetarian?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "072987c8c4f24292",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you recommend some interesting hobbies that can be done indoors?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there any hobbies that don't require much investment or special equipment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about hobbies that can also help me make money?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I decide which hobby is right for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "075ab88cad57415d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you suggest a unique team-building activity for a company retreat?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That's interesting, but I'm looking for something more physically challenging. Any ideas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "It's a good suggestion, but I want something even more challenging and mentally engaging too. What else can you suggest?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I like the idea, but can you suggest something that can be done outdoors?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That sounds exciting, but let's explore more options. What about a team-building activity involving water?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Nice idea, but I want something even more challenging and unique. What else can you come up with?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d8df94192704c34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a challenging riddle to share with my friends. Can you give me one?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That's a good one, but I'd like another one, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Interesting, but I'd like to try another one, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Another one, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "One more, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Another one, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "One last riddle, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08e9d109e03a4626",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u8981\u4e00\u4e2a\u9002\u5408\u521d\u5b66\u8005\u7684\u5065\u8eab\u8ba1\u5212\uff0c\u63a8\u8350\u4e00\u4e0b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f025a347b0fb4c77",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you suggest some family-friendly activities to do during a weekend getaway?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please provide a list of outdoor activities"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you recommend activities that can be done in a city?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the weather is bad during our weekend getaway? Can you suggest indoor activities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fedb25ba1677488f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Estou procurando um livro para ler, voc\u00ea pode me sugerir um?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Hmm, j\u00e1 li esse. Voc\u00ea tem alguma outra sugest\u00e3o?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Interessante, mas estou buscando algo mais contempor\u00e2neo. Alguma sugest\u00e3o nesse sentido?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Parece bom, mas estou procurando algo na categoria de fic\u00e7\u00e3o cient\u00edfica. Alguma sugest\u00e3o nesse g\u00eanero?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Bom, mas preferiria algo mais cl\u00e1ssico na fic\u00e7\u00e3o cient\u00edfica. Alguma ideia?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u00d3timas sugest\u00f5es! Vou escolher entre esses dois. Muito obrigado!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7566bd4ffa444a82",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub0a0\uc528 \ubcc0\ud654\uc5d0 \uc801\uc751\ud558\ub294 \uc88b\uc740 \uc2dd\ubb3c 3\uac00\uc9c0\ub97c \ucd94\ucc9c\ud574 \uc8fc\uc138\uc694. \uc65c \uadf8\uac83\ub4e4\uc774 \uc88b\uc740\uc9c0\ub3c4 \uc54c\ub824\uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5196065852e841ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List 5 highly recommended books for startup founders"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e45b36d76ac4d44",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to think of ideas for a unique and exciting first date. What do you recommend?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some ways to make the date even more memorable and enjoyable, regardless of the activity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I prepare myself mentally and emotionally for the date to ensure a positive experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a92f9b1fa10b47b3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you recommend some team-building activities suitable for remote teams?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can we ensure everyone participates actively in these activities?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b57f2ec35ec64f88",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quickly tell me the top marketing strategies for a small business with a limited budget."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e18ddc9fd8c64395",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a few book recommendations that can help me develop better communication skills, especially in professional settings. I'd also like to understand the psychology behind effective communication. Can you suggest a few titles and give a brief overview of their content and relevance to my interests?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd3fc5da4db74417",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me three industries with high growth potential."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f96bf637ec5f4b71",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a romantic weekend getaway for my partner and me, and I want it to be memorable. We both enjoy nature, good food, and cultural experiences. Can you suggest some activities and places that we can visit?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "These are amazing ideas! What would you recommend for a romantic surprise during our getaway?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac16311e110c4498",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc5ec\ud589\uc9c0 \ucd94\ucc9c \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4. \uc601\uc5b4\ub85c \ub2f5\ubcc0\ud574\uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4c0d970afda1436e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you suggest some effective time management techniques for a busy college student? I want to make the most out of my time."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cadcd4eaaf254878",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u63a8\u8350\u4e00\u4e9b\u827a\u672f\u5c55\u89c8"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u5bf9\u6570\u5b57\u827a\u672f\u611f\u5174\u8da3\uff0c\u4f60\u80fd\u63a8\u8350\u4e00\u4e9b\u4e0e\u6570\u5b57\u827a\u672f\u76f8\u5173\u7684\u5c55\u89c8\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d7b7c58a2bdf46e9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u63a8\u8350\u4e00\u672c\u9002\u5408\u521d\u5b66\u8005\u7684\u7f16\u7a0b\u4e66\u7c4d\uff0c\u8981\u6c42\u4e66\u7c4d\u9002\u5408\u4ece\u96f6\u57fa\u7840\u5f00\u59cb\u5b66\u4e60\uff0c\u5185\u5bb9\u6613\u61c2\uff0c\u6548\u679c\u597d\u3002\u73b0\u5728\u56de\u7b54\uff01"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "38d1a833e937455b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a trip to Europe and want to visit 5 must-see cities. Could you recommend some cities and explain why they are worth visiting?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Would you please suggest some lesser-known cities that are still worth visiting?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4049670be5e64ab6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ub370\uc774\ud130 \ubd84\uc11d\uc744 \uc704\ud55c 3\uac00\uc9c0 \ub3c4\uad6c\ub97c \ucd94\ucc9c\ud574\uc8fc\uc138\uc694. \uc601\uc5b4\ub85c \ub2f5\ubcc0\ud574 \uc8fc\uc138\uc694. \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

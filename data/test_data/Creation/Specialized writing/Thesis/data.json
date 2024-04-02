@@ -1,0 +1,813 @@
+[
+    {
+        "id": "f52d8b3ec4b44163",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in the field of artificial intelligence. Your task is to write a comprehensive thesis on the ethical implications of AI and its potential impact on society. Include an introduction, methodology, literature review, results, discussion, and conclusion. Be thorough in your analysis and make sure to address various ethical concerns, such as job displacement, privacy issues, bias in algorithms, and the moral responsibility of AI creators. Also, provide recommendations for policymakers and AI developers to address these ethical concerns. Confirm that you understand these instructions, and I will provide more specific details on each section."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Provide an introduction that gives an overview of AI, its development, and the ethical concerns surrounding its use. In the methodology section, discuss the research methods used to gather information and analyze the ethical implications. For the literature review, summarize and analyze the current research on AI ethics. In the results section, present the findings of your research, and in the discussion, critically analyze these findings. Finally, in the conclusion, summarize the research and provide recommendations for addressing the ethical concerns of AI."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5cb73846660544eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to write a thesis on the impact of social media on the mental health of teenagers. Can you help me outline the main points and analysis for a 10,000-word thesis, with original content?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6050c90896d0437e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance crafting a thesis on renewable energy sources and their potential to mitigate climate change. Can you help me structure it effectively, covering topics such as solar, wind, and hydroelectric power?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "65a83cf47f614da7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide guidance on outlining a thesis exploring the role of cultural diversity in enhancing workplace productivity and innovation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc2683e29c6c4660",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm tasked with writing a thesis on the impact of globalization on indigenous communities. Can you help me structure it and suggest key points to cover?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "579174625f2344a0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to explore the relationship between nutrition and mental health for my thesis. Can you assist me in developing a comprehensive outline and analysis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bba8919205394e11",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in writing a thesis on the economic impact of automation on labor markets. Could you help me structure it and suggest methodologies for analysis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85a800ba79e44d24",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you provide guidance on crafting a thesis that examines the effectiveness of online education compared to traditional classroom learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a47e8f8a46584e23",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance structuring a thesis on the impact of artificial intelligence on healthcare delivery. Can you help me outline key areas of focus and potential methodologies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8afb9912a0743a3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you assist me in developing a thesis on the psychological effects of social media usage among adolescents, particularly focusing on addiction and self-esteem?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a0f4aa0be5742eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in writing a thesis on the impact of climate change on biodiversity loss. Can you help me structure it and suggest key points to explore?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a4b285b581264990",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need guidance in crafting a thesis that investigates the influence of social media on political discourse and public opinion formation. Can you assist me in outlining the main areas of research?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f09d8f1c8d8f41ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assume you are an expert in academic research. I want you to write a thesis abstract about the problems and solutions in the field of 'Financial Management in Healthcare Organizations' with approximately 200 words. The content should be original and creative."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa4b4966da9442e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a thesis discussing the impact of social media influencers on consumer purchasing decisions"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8c1ff0ad06f549a3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assume you are an expert in academic research. I want you to write a thesis abstract about the problems and solutions in the field of 'Financial Management in Healthcare Organizations' with approximately 200 words. The content should be original and creative."
+            },
+            {
+                "from": "AI",
+                "value": "The thesis abstract investigates the intricacies of financial management within healthcare organizations, delving into pressing issues and innovative solutions. It examines the challenges of budget allocation, resource optimization, and regulatory compliance in the dynamic healthcare landscape. Through empirical analysis and case studies, the abstract proposes novel strategies for cost control, revenue enhancement, and risk management. It explores the integration of technology, strategic partnerships, and policy reforms to foster financial sustainability and improve patient outcomes. By synthesizing theoretical frameworks with practical insights, the thesis contributes to the advancement of financial management practices in healthcare, addressing the complexities of balancing fiscal responsibility with quality care delivery."
+            }
+        ]
+    },
+    {
+        "id": "18b81759524141f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a thesis discussing the impact of social media influencers on consumer purchasing decisions"
+            },
+            {
+                "from": "AI",
+                "value": "This thesis explores the profound influence wielded by social media influencers on consumer behavior and purchasing decisions. It scrutinizes the mechanisms through which influencers shape consumer preferences, attitudes, and brand perceptions in the digital era. Employing qualitative and quantitative methodologies, the thesis examines the effectiveness of influencer marketing strategies across diverse industries and consumer demographics. It analyzes the psychological factors driving consumer engagement with influencer-generated content and the implications for brand loyalty and market competitiveness. By elucidating the nuances of influencer-consumer dynamics, the thesis offers valuable insights for marketers, businesses, and policymakers seeking to harness the power of social media influencers to drive sales and enhance brand equity."
+            }
+        ]
+    },
+    {
+        "id": "e85a98d4a5324eb5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a thesis abstract examining the impact of climate change on global food security."
+            },
+            {
+                "from": "AI",
+                "value": "This thesis abstract investigates the multifaceted ramifications of climate change on global food security, elucidating the complex interplay between environmental degradation, agricultural productivity, and socio-economic vulnerabilities. It assesses the adverse effects of extreme weather events, shifting precipitation patterns, and temperature fluctuations on crop yields, food production systems, and distribution networks. Through interdisciplinary research methodologies, including remote sensing analysis and socio-economic modeling, the abstract identifies mitigation and adaptation strategies to bolster food resilience in the face of climate-induced challenges. It explores the potential of sustainable agriculture practices, technological innovations, and policy interventions to enhance food accessibility, affordability, and nutritional quality for vulnerable populations worldwide. By synthesizing scientific evidence with policy implications, the thesis contributes to the discourse on building climate-resilient food systems to safeguard global food security in a changing climate."
+            }
+        ]
+    },
+    {
+        "id": "96ea7e7413a94626",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you write a thesis abstract on the impact of artificial intelligence on employment patterns in the 21st century?"
+            },
+            {
+                "from": "AI",
+                "value": "This thesis abstract examines the transformative influence of artificial intelligence (AI) on employment dynamics in the contemporary labor market. It scrutinizes the disruptive effects of AI technologies, such as automation, machine learning, and robotics, on job displacement, skill requirements, and income inequality across various industries and occupational sectors. Through empirical analysis and theoretical frameworks, the abstract explores the complex interplay between technological innovation, workforce adaptation, and socio-economic implications. It investigates the potential of AI to create new job opportunities, enhance productivity, and foster economic growth while addressing concerns regarding job polarization and structural unemployment. By synthesizing empirical evidence with policy implications, the thesis contributes to understanding the implications of AI-driven automation for future employment patterns and informs strategies for mitigating adverse consequences and maximizing societal benefits in the digital age."
+            }
+        ]
+    },
+    {
+        "id": "a03fc3894bf84863",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a thesis abstract exploring the ethical implications of genetic engineering in humans."
+            },
+            {
+                "from": "AI",
+                "value": "This thesis abstract delves into the ethical quandaries surrounding genetic engineering in the context of human enhancement, disease prevention, and reproductive technologies. It critically evaluates the moral dilemmas posed by gene editing techniques, such as CRISPR-Cas9, in altering the human genome to mitigate genetic disorders, enhance cognitive abilities, and prolong life expectancy. Through a multidisciplinary lens encompassing bioethics, law, and philosophy, the abstract examines the principles of autonomy, justice, and beneficence in guiding responsible scientific research and clinical applications of genetic engineering. It addresses concerns related to genetic discrimination, consent, and equitable access to genetic therapies, while advocating for transparent governance frameworks and public engagement in shaping the ethical contours of human genetic enhancement. By fostering informed dialogue and ethical reflection, the thesis contributes to navigating the ethical complexities of genetic engineering and ensuring its responsible and equitable use for the betterment of human health and well-being."
+            }
+        ]
+    },
+    {
+        "id": "0fb6757a08424730",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assume you are an expert in the field of environmental studies. Write a reflective 2000-word essay on the topic of 'The Impact of Climate Change on Biodiversity and Ecosystems' with original content. Make sure to include your own thoughts and ideas throughout the essay."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa3a0ce9ec4b4389",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a computer science student who's working on a thesis about using machine learning algorithms to identify fake news on social media platforms. I need guidance on how to structure my thesis, what sections to include, and what resources I should reference. Can you provide me with some guidance on how to approach this task?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you so much for your guidance! This outline and resources are very helpful. Do you have any advice on how to avoid common mistakes when writing a thesis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "40876bcf67e34046",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an expert in environmental science, please craft a thesis abstract exploring the correlation between climate change and biodiversity loss."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "723ed61492614789",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you compose a thesis abstract elucidating the psychological effects of virtual reality gaming on adolescents?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cd90b070053f4523",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in criminal justice. Can you create a thesis abstract discussing the effectiveness of rehabilitation programs for juvenile offenders?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63d9a3f96e0c4f26",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a thesis abstract exploring the impact of automation on employment in the manufacturing sector."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b7b7faeea1aa4527",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you draft a thesis abstract analyzing the role of cultural factors in shaping dietary habits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f898e5b84bf415b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write a thesis abstract examining the effects of mindfulness meditation on stress reduction in corporate settings."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22c4d59d24ea4036",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an expert in economics, can you create a thesis abstract exploring the impact of globalization on income inequality?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6bb3c40cca12476c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a thesis abstract examining the effectiveness of online learning platforms in higher education."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1dcdeb28adf24c8e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you compose a thesis abstract discussing the impact of artificial intelligence on job automation in the service industry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea836148077a4a4d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in education. Please write a thesis abstract exploring the effectiveness of inclusive education programs for students with disabilities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ff1642067b24071",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance crafting a thesis abstract focusing on renewable energy technologies and their impact on sustainable development goals."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b54efbc508ea4211",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me draft a thesis abstract examining the psychological effects of social media usage on adolescents?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5521cbda8c2421d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crafting a thesis abstract on the influence of cultural diversity on workplace productivity would be greatly appreciated."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1bdbe6407fa54546",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you assist me in composing a thesis abstract exploring the role of music therapy in improving mental health outcomes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6ed6d75c65048dc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm seeking guidance in formulating a thesis abstract analyzing the effectiveness of mindfulness practices in stress reduction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a3c5e1d4788e40e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me craft a thesis abstract investigating the role of gender stereotypes in shaping career choices?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5baca101b3ac4bc8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in exploring environmental conservation. Can you assist me in drafting a thesis abstract on the effectiveness of wildlife corridors in preserving biodiversity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fedaa2eebea2439f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crafting a thesis abstract on the impact of storytelling in indigenous cultures on community resilience is my current task."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0471418ea18446ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you assist me in composing a thesis abstract discussing the role of parental involvement in early childhood education outcomes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b3c7a8232eeb42e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in healthcare. Could you help me craft a thesis abstract exploring the effectiveness of telemedicine in rural healthcare delivery?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef1128dbcb7246df",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a cybersecurity expert and I am a student pursuing a Master's degree in Cybersecurity. As my thesis supervisor, you have asked me to write a thesis about the future of cybersecurity. \n\nI need you to outline the structure of my thesis, including the chapters, and the content of each chapter. Make sure the thesis covers the latest trends, challenges, and possible solutions in cybersecurity. Ensure that the content is well-organized, comprehensive, and provides a deep analysis of the subject matter. \n\nOnce you provide the outline, I will proceed with writing the thesis."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d4de143c22749f6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you are a graduate student who needs to write a thesis on the impact of artificial intelligence on the future job market. Write an abstract for this thesis, and make sure you include the main points and arguments you will discuss."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2b450b5d8bb54465",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a professor specializing in environmental science, I need your help in structuring a thesis for one of my students who wants to explore the effects of climate change on marine biodiversity. Can you provide a detailed outline including chapters and content for this thesis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d3420c91211d4eaf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a journalism professor assisting a student in crafting a thesis about the role of social media in shaping political discourse. Could you help me outline the structure of this thesis, covering key areas of analysis and potential solutions to mitigate negative impacts?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dae043b2ddae48a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a history professor, I'm guiding a student who wants to delve into the impact of colonialism on indigenous cultures for their thesis. Can you assist me in creating a comprehensive outline that addresses various aspects of this topic, from historical contexts to modern-day ramifications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4fd1d77461147f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm an economics professor aiding a student in crafting a thesis on the implications of automation on income inequality. How would you suggest structuring this thesis to encompass the latest research, challenges, and potential policy interventions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bd8e45cc502b44c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a physics professor guiding a student who wants to explore the applications of quantum computing in cryptography for their thesis. Can you provide guidance on structuring the thesis, covering key concepts, challenges, and potential breakthroughs in this field?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "61c4821a22354026",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a literature professor assisting a student in crafting a thesis exploring the evolution of dystopian literature in the digital age. Can you help me outline the chapters and content for this thesis, incorporating analysis of contemporary works and their societal implications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bf6c9322affd4d88",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you're a psychology professor guiding a student who wants to investigate the impact of mindfulness practices on stress management for their thesis. How would you structure this thesis to include empirical research, theoretical frameworks, and practical applications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e11a91bd8ce04d17",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a sociology professor, I'm assisting a student who wants to explore the dynamics of online communities and their influence on identity formation. Can you help me outline the structure of this thesis, covering key sociological theories and empirical studies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "423884d2580c434b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're an architecture professor guiding a student who wants to investigate sustainable design principles in urban planning for their thesis. Can you provide an outline for this thesis, highlighting innovative approaches and case studies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da86cf8febaf40d6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Vi\u1ebft lu\u1eadn v\u0103n v\u1ec1 h\u1eadu qu\u1ea3 c\u1ee7a \u00f4 nhi\u1ec5m kh\u00f4ng kh\u00ed \u1edf th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh do giao th\u00f4ng \u0111\u01b0\u1eddng b\u1ed9"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

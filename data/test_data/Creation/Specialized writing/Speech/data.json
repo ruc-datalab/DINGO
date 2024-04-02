@@ -1,0 +1,717 @@
+[
+    {
+        "id": "c735a4fae7184548",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "write a speech about the importance of embracing change in the workplace"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e21304a388044fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, escreva um discurso sobre a import\u00e2ncia da educa\u00e7\u00e3o ambiental nas escolas, levando em considera\u00e7\u00e3o a conscientiza\u00e7\u00e3o para a sustentabilidade e a preserva\u00e7\u00e3o do meio ambiente."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Como podemos envolver a comunidade escolar para que a educa\u00e7\u00e3o ambiental seja efetiva e os alunos se sintam engajados com essa causa?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "17fd93c308244683",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a compelling speech on the significance of fostering creativity in the workplace to enhance innovation and productivity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d32c52dd0bb248f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a speech addressing the role of technology in reshaping the future job market and how individuals can adapt for career success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb490019404449ee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a speech advocating for diversity and inclusion in the workplace, emphasizing the business benefits and societal impact."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aa889a3984f345e0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a speech about the importance of resilience in times of adversity, drawing on personal experiences and examples from history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e77a8c5df4c74a5b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a speech on the impact of effective communication in building strong and successful team dynamics within an organization."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bdbb2ef6d9d14da0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a speech discussing the role of ethical leadership in shaping corporate culture and fostering long-term business sustainability."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de8d24cc361046ca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a speech on the value of work-life balance, addressing the challenges faced by professionals and suggesting practical solutions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "135749547be946a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a persuasive speech on the impact of mindfulness and mental well-being on individual and organizational success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00667845b803476c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a speech discussing the evolving role of artificial intelligence in the modern workplace and its implications for job roles and skills."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "98d4da0c13b64be7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a speech on the evolution of transportation and the impact of four-wheeled vehicles on society and mobility."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explore the historical significance of the invention of the four-wheeled automobile and its influence on urban development and lifestyle."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53ce003de24b4908",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a speech on the impact of technology on four-wheeled vehicles, considering innovations like electric cars and autonomous driving."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Delve into the future possibilities of four-wheeled transportation, discussing potential advancements and their implications for society."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b30972683f7f4cb4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a speech on the importance of safety features in modern four-wheeled vehicles and their role in reducing accidents and saving lives."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss the advancements in four-wheeled vehicle safety technology and its impact on shaping the automotive industry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5333423b6d90429c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a speech on the cultural significance of classic four-wheeled vehicles and the communities that revolve around their preservation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explore the passion and nostalgia associated with classic cars and their impact on the automotive enthusiast community."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4701ad47863d4f33",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a humorous and engaging speech on the importance of laughter and joy in the workplace for boosting morale and productivity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "64c70e2573484a50",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a persuasive speech on the urgent need for environmental conservation and the role each individual can play in making a difference."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f78a4b36ded848cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop an informative speech highlighting the evolution of technology and its impact on shaping our present and future."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "01d9e298fab84c6d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a heartfelt speech expressing gratitude to mentors and the importance of mentorship in personal and professional growth."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "67787a10ffcb4abc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a speech on the impact of literature in shaping cultural perspectives and fostering empathy among diverse communities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "883f8daabd034c18",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an inspiring speech on the power of resilience and overcoming challenges to achieve personal and professional success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c2eaff836e3f4c04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a thought-provoking speech on the ethical considerations of artificial intelligence and its implications for society."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d04a5002cd554cea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a lighthearted and entertaining speech on the art of storytelling and its role in capturing the imagination of diverse audiences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0391d377608b4874",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an impactful speech on the importance of diversity and inclusion in the workplace for fostering innovation and creativity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "acaba096bda54a3c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a compelling speech on the role of education in empowering individuals and shaping a brighter future for our global community."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0bc5b11d1b8f49a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a witty and thought-provoking speech on the impact of social media on modern communication and relationships."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc3cef089c654761",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide a speech that I can use for a conference presentation on the impact of artificial intelligence on the job market?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a12c662a7a4a41bf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please help me create a speech on the importance of mental health awareness and self-care."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d5a0772977349e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a powerful and persuasive speech advocating for environmental conservation and sustainable living practices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8fc59c3bcf51487a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a speech that highlights the positive impact of volunteering and community service on personal growth and societal well-being."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8988deaa8697421e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an engaging and humorous speech on the quirks and challenges of working from home in the modern professional landscape."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e79db5f41b145b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a speech that celebrates the importance of cultural diversity and inclusion in fostering innovation and creativity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e5279d895f7e4231",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a heartfelt and inspirational speech on the resilience and strength displayed by individuals facing adversity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "06264ff29cbd4769",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a speech that explores the role of creativity and imagination in shaping a better future for humanity."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dcec9bfb795941ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a speech that emphasizes the significance of lifelong learning and continuous personal development in today's fast-paced world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7b6028a9ce6e4694",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a captivating and informative speech on the evolution of technology and its impact on shaping the future of education."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4fc51196b84c46f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a humorous and light-hearted speech on the joys and challenges of parenthood in the digital age."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1dceec09e3a94393",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please help me create a speech that explores the impact of globalization on cultural identity and the need for cultural preservation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "23f28679b35f4e1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "speech on overcoming challenges"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7c5250b8b424eb8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write me a speech about the importance of critical thinking in today's society. Make sure to include some thought-provoking questions to engage the audience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf3c046bdc904310",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a two-minute speech on the importance of adopting sustainable practices in daily life"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94b14119112b43b3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, crie um discurso curto e conciso em portugu\u00eas sobre os benef\u00edcios da medita\u00e7\u00e3o na vida moderna."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c8c4fe2a0754a93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Por favor, escreva um discurso curto e conciso sobre os benef\u00edcios da intelig\u00eancia emocional no ambiente de trabalho. O discurso deve ser em portugu\u00eas e ter um tom educado."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fcfe566563b84f17",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you write a speech about the importance of promoting diversity and inclusivity in the workplace?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3d38c0d4c6f94e16",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "urgently write me a speech about the importance of time management"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

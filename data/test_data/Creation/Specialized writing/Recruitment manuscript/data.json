@@ -1,0 +1,754 @@
+[
+    {
+        "id": "ec8686389727447f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as an HR specialist who is creating a job posting for a Software Developer position at a tech company. The posting should include job requirements, responsibilities, qualifications, and a brief overview of the company culture."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "30a07d8ea7de4af9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a recruiter for a tech company, and I will be a job applicant. The job opening is for a software engineer position. I will provide you with information about my skills and experience. My main skills include Python, Java, and C++, and I have 5 years of experience working in the software development industry. Can you please draft a job posting that would attract someone like me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7cfe6ebf999f4e0b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an AI copywriter, create an engaging job posting for a UX Designer position in a creative agency. Emphasize the need for innovative design solutions and collaboration with cross-functional teams."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d1b033f2ce564cb8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a science fair at a local school and need to recruit judges to evaluate student projects. Can you help me write a job posting to attract professionals in STEM fields?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e8a94def8a8b4041",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello! I'm participating in a storytelling event where we'll be recreating scenes from famous historical periods. I need to recruit actors to play specific roles. Can you help me draft a job posting for this?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9245990f4e4744f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I need assistance. I'm organizing a treasure hunt event for a team-building activity at my workplace, and I'm looking to hire someone to design the clues and puzzles. Can you help me create a job posting for this position?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ef12e72d7aa45a5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a marketing specialist. Craft a job posting for a Social Media Manager role at a startup. Highlight the importance of brand storytelling and community engagement skills."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "929155e1710c4f62",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you are a CEO. Draft a job posting for a Head of Sales position in a fast-paced tech company. Stress the need for strategic thinking, leadership, and proven track record in achieving revenue targets."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d1bf8f0b1b3944c2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a class project about creating job postings for different historical periods. Can you assist me in crafting one for a scribe position in ancient Egypt?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "02f15b761c884af5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a hiring manager for a customer support role in an e-commerce company. Create a job posting that emphasizes the importance of empathy, problem-solving skills, and a customer-centric approach."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "05d47bfe3671465e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are an events coordinator. Craft a job posting for an Event Planner position at a luxury hotel. Emphasize attention to detail, creativity, and experience in managing high-profile events."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24fc637c5c734436",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you are an IT manager. Draft a job posting for a Network Administrator position. Highlight the need for strong technical skills, problem-solving abilities, and experience in maintaining network security."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a10744be425d41b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Act as a public relations specialist. Create a job posting for a PR Manager role in a communications agency. Stress the importance of media relations, crisis management, and excellent communication skills."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9c5d5f32e90c4c05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to be a project manager. Craft a job posting for a Project Coordinator position. Emphasize organizational skills, attention to detail, and the ability to manage multiple tasks simultaneously."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5175dc47bf7e403f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a creative director. Create a job posting for a Graphic Designer position in an advertising agency. Highlight the need for a strong portfolio, creativity, and proficiency in design software."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8461717589994641",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Act as an operations manager. Craft a job posting for an Operations Analyst role in a logistics company. Emphasize analytical skills, process improvement, and experience in supply chain management."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9801291d1cf744ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a marketing specialist. Craft a job posting for a Social Media Manager role at a startup. Highlight the importance of brand storytelling and community engagement skills. Specify a preference for candidates with experience in running Facebook and Instagram ad campaigns."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "14f779804a5d4449",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Act as an operations manager. Craft a job posting for an Operations Analyst role in a logistics company. Emphasize analytical skills, process improvement, and experience in supply chain management. Specify a requirement for proficiency in data analysis tools such as Excel or SQL."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9063e472e534cf5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u60a8\u662f\u4e00\u5bb6\u4e13\u6ce8\u4e8e\u4eba\u5de5\u667a\u80fd\u9886\u57df\u7684\u516c\u53f8\u7684HR\uff0c\u73b0\u5728\u516c\u53f8\u9700\u8981\u62db\u8058\u4e00\u4f4d\u5177\u5907Python\u7f16\u7a0b\u53ca\u673a\u5668\u5b66\u4e60\u7ecf\u9a8c\u7684\u5de5\u7a0b\u5e08\uff0c\u8bf7\u60a8\u6839\u636e\u9700\u6c42\u5b8c\u6210\u4e00\u4efd\u62db\u8058\u7b80\u7ae0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55720b7c68c04c3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u662f\u8cc7\u6df1\u8edf\u9ad4\u696dHR, \u516c\u53f8\u8981\u62db\u52df\u524d\u7aef\u5de5\u7a0b\u5e2b, \u5fc5\u9700\u5177\u5099Vue.js\u7b49\u80fd\u529b, \u9084\u6709\u4e00\u4e9b\u5718\u968a\u5408\u4f5c\u7684\u8edf\u6280\u80fd, \u8acb\u60a8\u88dc\u5b8c\u6240\u9700\u5167\u5bb9, \u5b8c\u6210\u4e00\u4efdJD\u8207\u62db\u52df\u6587\u6848"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8acb\u7e7c\u7e8c"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b95f2cf27bdb45af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create a job description for a data analyst position."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1ef1dfa3ff9c4292",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi there! Our startup is on the lookout for a creative genius to join our team. We need someone with a knack for out-of-the-box thinking and hands-on experience in JavaScript and React. Can you draft a compelling job description for a Frontend Developer?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab9e660d0ad94370",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I'm heading up recruitment for a gaming company, and we're hunting for a Unity game developer. The ideal candidate should have a passion for gaming and experience with C#. Could you whip up a catchy job description to attract top gaming talent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b0126dc6459c4f2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "We're a robotics firm scouting for a Robotics Engineer who can make our robots dance. We need skills in Python, ROS, and a flair for innovation. Can you create an exciting job post that captures the essence of our robot revolution?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9174af41db214612",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Our e-commerce empire needs a Backend Developer with expertise in Node.js and MongoDB. We're all about disrupting the market. Craft us a recruitment masterpiece that reflects our commitment to innovation and scalability!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef7efb97e7274562",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi! We're a fashion tech company seeking a UX/UI Designer with a flair for elegance and innovation. Proficiency in Adobe Creative Suite is a must. Can you help us create a recruitment ad that screams 'style meets tech'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7b20388ad164c2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "We're building a mindfulness app and need a Meditation Experience Designer. Creativity and a deep understanding of mindfulness practices are key. Can you create a zen-inspired job description that attracts those seeking inner peace through design?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a6280fb447847ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "T\u00f4i \u0111ang c\u1ea7n m\u1ed9t b\u1ea3n tuy\u1ec3n d\u1ee5ng cho v\u1ecb tr\u00ed Nh\u00e2n vi\u00ean kinh doanh. H\u00e3y vi\u1ebft gi\u00fap t\u00f4i m\u1ed9t n\u1ed9i dung h\u1ea5p d\u1eabn v\u00e0 hi\u1ec7u qu\u1ea3 \u0111\u1ec3 thu h\u00fat \u1ee9ng vi\u00ean."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Cho t\u00f4i bi\u1ebft m\u1ed9t s\u1ed1 c\u00e2u h\u1ecfi t\u00f4i c\u00f3 th\u1ec3 \u0111\u1eb7t ra \u0111\u1ec3 ki\u1ec3m tra n\u0103ng l\u1ef1c \u1ee9ng vi\u00ean trong bu\u1ed5i ph\u1ecfng v\u1ea5n."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93d59b4eecfe42f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are an HR specialist and I am a hiring manager in need of a job advertisement for a marketing manager. The ad should include the job title, responsibilities, requirements, and benefits. Can you please create a job ad for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d4b9da25ca34373",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a short recruitment manuscript for a cybersecurity club at a university. It should include the club's objectives, why students should join, and the benefits of being a member."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "917e11f833dc4380",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are the HR of a software company specializing in AI, and you need to hire a machine learning engineer. Please create a job description and recruitment ad."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "396256f3f3fe404e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ucef4\ud4e8\ud130 \ubcf4\uc548 \ub3d9\uc544\ub9ac \ubaa8\uc9d1 \uc548\ub0b4\ubb38\uc744 \uc791\uc131\ud574 \uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ub3d9\uc544\ub9ac \ud65c\ub3d9\uc5d0 \uc5b4\ub5a4 \uac83\ub4e4\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\ub294\uc9c0 \uad81\uae08\ud569\ub2c8\ub2e4."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ub3d9\uc544\ub9ac\uc5d0\uc11c \uc5b4\ub5a4 \ud504\ub85c\uc81d\ud2b8\ub97c \uc9c4\ud589\ud560 \uc218 \uc788\ub294\uc9c0 \uad81\uae08\ud569\ub2c8\ub2e4."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a30ee56d40d243c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a recruitment manager at a large company. I will provide you with a desired type of recruitment manuscript to write and the person who will use this manuscript. My first request is \"I need help creating a recruitment ad for a software developer position. The ad should include key responsibilities, required skills, and information about the company culture. Write it in a way that attracts top talent.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6aeb3c28fea94ac8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "We're looking for a creative writer to craft a recruitment ad for a graphic designer role. Make sure it reflects our company's innovative spirit and emphasizes the need for out-of-the-box thinking."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0335c06aa1f4c56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a compelling job description for a data analyst position? The ad should highlight the importance of data-driven decision-making and the impact the role will have on our company's success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33c8046c1b6b4f25",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm recruiting for a customer support specialist. Craft a job ad that not only lists the responsibilities but also emphasizes our commitment to delivering exceptional customer service and building strong client relationships."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f505e930157f4070",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an AI language model, create a job ad for a robotics engineer role. Make sure it captures the excitement of working on cutting-edge technology and the potential for groundbreaking advancements."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d33e66d671bc42a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your assistance in writing a recruitment ad for a social media manager. Showcase the importance of a dynamic online presence, engaging content, and staying ahead in the ever-evolving landscape of social media."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71f9befefc6e4f46",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "We're hiring a project manager. Craft a job ad that not only lists the required skills but also communicates the significance of effective project management in achieving organizational goals."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d82ed8c647034c29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a recruitment ad for a software tester position. Emphasize the critical role of ensuring the quality and reliability of our software products to maintain our reputation for excellence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "090bcd81bad44f4f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Looking for a witty and fun job ad for a content creator role. Showcase our brand personality and the creativity we value in producing engaging and shareable content."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3275b00a0f1d4c5f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a recruitment ad for a financial analyst. Highlight the role's impact on strategic decision-making, financial planning, and the opportunity for professional growth within our organization."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "82c6f7a301ab4799",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a job ad for a sales representative position. Emphasize the potential for high earnings, the excitement of meeting targets, and the dynamic nature of our sales team."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3c7a7da473843e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a concise recruitment ad for a junior web developer. Limit it to 150 words and infuse a friendly and approachable tone, encouraging aspiring developers to join our dynamic team."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea74190dc1694368",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a recruitment ad for a UX/UI designer role. Keep it under 200 words, maintain a modern and sleek tone, and highlight the importance of user-centric design in shaping our digital experiences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e34df8c13bb4d1c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a job ad for a customer service representative position. The word limit is 120, and I want it to convey a warm and caring atmosphere, emphasizing our commitment to customer satisfaction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cfc416a7d966445f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "We're hiring a marketing specialist. Craft a recruitment ad with a maximum of 180 words, adopting an energetic and innovative tone, and highlighting the role's contribution to our brand's success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cbec7b412e684850",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me create a job ad for a research scientist. Keep it concise, under 160 words, and maintain a professional and academic tone, emphasizing our dedication to cutting-edge research in the field."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

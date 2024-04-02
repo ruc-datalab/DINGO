@@ -1,0 +1,740 @@
+[
+    {
+        "id": "1961a8a5d2564352",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Bir kahve d\u00fckkan\u0131 i\u00e7in etkileyici ve s\u0131cak bir slogan yaz."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d80de9f75dc4e1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u7684\u805a\u4f1a\u6d3b\u52a8\u5199\u4e00\u4e2a\u6807\u8bed\u3002\u8fd9\u662f\u4e00\u4e2a\u6bcf\u5468\u4e94\u7684\u6d3b\u52a8\uff0c\u5730\u70b9\u5728\u7480\u74a8\u4ff1\u4e50\u90e8\uff0c\u4e3b\u9898\u662f\u7535\u5b50\u821e\u66f2\uff0c\u5305\u62ecTechno\u3001House\u3001Trance\u7b49\u98ce\u683c\u3002\u5165\u573a\u8d39\u4e3a80\u5143\uff0c\u4ff1\u4e50\u90e8\u73af\u5883\u4f18\u7f8e\uff0c\u6709\u8863\u5e3d\u95f4\u3001\u9e21\u5c3e\u9152\u5427\uff0c\u5438\u5f15\u4e86\u5e74\u8f7b\u65f6\u5c1a\u7684\u4eba\u7fa4\u3002\u6211\u4eec\u8bf7\u5230\u4e86\u56fd\u5185\u5916\u8457\u540d\u7684DJ\u6765\u8868\u6f14\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "95010140991548cc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a tagline for a futuristic eco-friendly car company"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "46c4b367fe984fc3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a catchy and fun tagline for a children's toy store."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1f9f64013e134076",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a sophisticated and elegant tagline for my high-end fashion brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3af124ae836f481d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a motivational slogan for a fitness and wellness center."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "899e4238e57d40e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Come up with a humorous tagline for a stand-up comedy night event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab8cff7ea54d475f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest a catchy slogan for a new line of exotic fruit juices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a5f3b8b39644c0f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an inspiring tagline for a non-profit organization dedicated to environmental conservation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4980b1fafcdc405d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a bold and edgy tagline for my rock music festival."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71fb778057004d0c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Come up with a romantic and enchanting tagline for a luxury wedding planning service."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1d8a0d0c67e24bd2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a thought-provoking tagline for a documentary film on social justice issues."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1319ac033ff04df3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest a futuristic and innovative tagline for a technology startup specializing in virtual reality."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c738da4d6b9f40cc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a concise and impactful tagline for a travel agency, limited to 8 words."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc8dc0bc3cd64fb9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a tagline for a tech startup that must include the words 'innovation' and 'future'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b64b7497facb496e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a catchy tagline for a new energy drink, limited to 10 words."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e70c1c4bf5f84195",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest a tagline for a fitness brand that emphasizes empowerment, using 15 words or less."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b60f8ed5563e4389",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a tagline for a sustainable fashion line, incorporating the words 'eco-friendly' and 'style'."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "45da821aa2bb48fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As the owner of a cozy bookstore, Come up with a charming tagline that reflects the joy of reading and the warmth of your store."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee34f103c12c47db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are the director of a thrilling mystery film festival. Craft an intriguing tagline that captures the suspense and excitement of your event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb453d0577f7450c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're the founder of a charity organization focused on wildlife conservation. Create a tagline that inspires people to join your cause."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7ea1ba2835b4463d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're the organizer of a futuristic tech conference. Generate a tagline that encapsulates the cutting-edge nature of the event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8de850606f474560",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you're the head chef of a trendy restaurant. Devise a mouth-watering tagline that captures the essence of your culinary creations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e29924663db40cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the feeling of finishing a challenging project successfully."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e160b8ebdcb4a5a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u521b\u4f5c\u4e00\u4e2a\u4e0e\u65c5\u884c\u76f8\u5173\u7684\u4e2a\u6027\u7b7e\u540d\uff0c10\u4e2a\u5b57\u5de6\u53f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a91f53d32b8e4eaa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a description for a city that has an enchanting atmosphere. Use at least 100 words. Based on the description, write a poem with powerful emotions and strong imagery. The poem should be at least 50 words long."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "804a4de59f064165",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a catchy slogan for a fictional eco-friendly clothing brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d743b257c064263",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a catchy slogan for a coffee shop within 10 words"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6b0cd7bf903b465f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you please describe a haunted house using only 5 adjectives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, using only 3 nouns, describe a haunted house."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Create a short description of a haunted house using the 5 adjectives and 3 nouns you provided."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, write a 4-word tagline for a horror movie set in this haunted house."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Create a brief movie synopsis using the haunted house description, tagline, and a group of friends as the main characters."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20d67588aa424c34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u63cf\u8ff0\u4e00\u4e2a\u98ce\u548c\u65e5\u4e3d\u7684\u6625\u5929\u65e9\u6668\uff0c\u8ba9\u4eba\u611f\u89c9\u5230\u751f\u673a\u52c3\u52c3\u548c\u5145\u6ee1\u5e0c\u671b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c808d62446184840",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me create a personal signature for my emails?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "My name is John Smith, I am a freelance graphic designer. My phone number is 555-123-4567, and my Instagram handle is @johnsmithdesigns."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63a3e55cd385444d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a brief description of a podcast on overcoming procrastination"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68ab859707ba464e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm trying to come up with a tagline for my new eco-friendly clothing line. It should convey the idea of sustainability, style, and affordability. Can you help me brainstorm some ideas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I like the first one, but I think it can be improved. Can you come up with a variation or a new one based on that idea?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7bb30a3ac2724338",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a witty quote about coffee addiction"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f99c64c2d52546bf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a catchy tagline for my new fitness app that focuses on motivation and personal growth. Any ideas?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "83d4a9725b7b4f40",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm launching a line of handmade artisan soaps. Can you suggest a tagline that emphasizes the natural ingredients and luxurious feel?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a2d51a9d3cd14a57",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking for a clever tagline for my pet grooming salon. It should highlight pampering and care for furry friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cef95e3ce0074d90",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a tagline for my travel agency that captures the essence of adventure and exploration."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c0fb9e47072f482c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a tagline for my organic skincare line that conveys purity and natural beauty."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "03545db45bd94ecf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a tagline for my financial consulting firm that instills trust and financial success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69e830071e734fb6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me come up with a tagline for my book club that celebrates the joy of reading and literary discussions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "83b3c93cd75a4102",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a home decor brand. Suggest a tagline that showcases elegance and uniqueness."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8b1d1705b6c471f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a catchy and concise tagline (max 5 words) for my new fitness apparel line, emphasizing motivation and performance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "656bc36891f243a0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a luxurious tagline (max 6 words) for my gourmet chocolate brand that evokes indulgence and sophistication."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b7cb908967c4f08",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a playful and heartwarming tagline (max 8 words) for my pet grooming salon that emphasizes pampering and love for furry friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf27d3187006433b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop an adventurous and inspiring tagline (max 6 words) for my travel agency that sparks curiosity and wanderlust."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

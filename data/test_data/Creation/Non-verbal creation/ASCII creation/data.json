@@ -1,0 +1,785 @@
+[
+    {
+        "id": "7653946b52014ab3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you create an ASCII art of a cat?\n\nPlease write in English language.\n\n\n\n\uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make the cat look cuter?\n\nPlease write in English language.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "25dbe151fd9e4ddf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "ASCII\u30a2\u30fc\u30c8\u3067\u8eca\u3092\u63cf\u3044\u3066\u3044\u305f\u3060\u3051\u307e\u3059\u304b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8eca\u306e\u6a2a\u304b\u3089\u306e\u56f3\u3092\u63cf\u3044\u3066\u3082\u3089\u3048\u307e\u3059\u304b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0779e430493941c3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "draw me a picture of a pineapple in ascii"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "draw a picture of a car in ascii"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca099f031f974f87",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII representation of a house using any symbols you find appropriate. It should be 10 lines in height and 20 characters wide."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, add a tree next to the house using appropriate ASCII symbols. Keep the height at 10 lines and adjust the width accordingly."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9f4ef99bc1064c37",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII representation of a 5x5 grid with numbers 1 to 5 in each row. Each number should be separated by a space."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, create a 5x5 grid with numbers 1 to 5 in ascending order for each column."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "497d9d42722d4b5e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII art of a smiley face. The art should be 5 lines tall and 9 characters wide."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b43d779a1d5c4d2b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you generate an ASCII representation of a car using symbols? Make it 15 characters wide and 8 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "83a10680181242bd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a short poem (5 lines) about the beauty of nature."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2fd99007b3e54bca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a step-by-step guide for making a delicious chocolate cake, including the ingredients and baking instructions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7180bce99d94997",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share an interesting historical fact that is not widely known, and provide a brief explanation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "14675bfde8ab410a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a logo for a futuristic tech company. The logo should be simple yet convey innovation and progress."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4c3205d0752543e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a dialogue between two fictional characters discussing the implications of time travel."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "29a6a1ac6ac44604",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Suggest three healthy and tasty recipes for a quick weekday dinner."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94a4eec88ff04f14",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share a motivational quote and provide a brief explanation of how it can inspire personal growth."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee4f58ffd05d4775",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an ASCII art of a rocket launching into space. Keep it within 25 characters wide and 12 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3c0b9c30e71043f5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like an ASCII representation of a mountain landscape using any symbols you prefer. Make it 20 characters wide and 10 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f95c3a17efdc4eed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an ASCII art of a sailing boat on calm waters. The width should be 18 characters, and the height 12 lines."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "51afba124e154eb9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Immerse me in an ASCII art of a mysterious castle in the moonlight. Limit it to 30 characters in width and 15 lines in height."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae5193b229424b2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII representation of a jungle with wild animals. Keep it concise, 25 characters wide and 10 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ba5be8b86e3e40c3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Fashion an ASCII art of a futuristic cityscape with flying cars. Constrain it to 35 characters wide and 18 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ddc79bf8d1c04bf9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd love an ASCII depiction of a cozy cabin in a snowy forest. Make it 28 characters wide and 14 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f94a136ed114579",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an ASCII art of a futuristic robot dancing under neon lights. Keep it stylish, 22 characters wide and 12 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1a7b1be236574a75",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Conjure up an ASCII art of a space station orbiting a distant planet. Make it futuristic, 30 characters wide and 16 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "430cf14e9b994200",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII scene of a hot air balloon festival at sunset. Keep it joyful, 25 characters wide and 12 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8e66088023d04fa5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design an ASCII art of a mystical wizard casting spells in a moonlit forest. Make it enchanting, 32 characters wide and 15 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "16e7c29454e848e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an ASCII representation of a retro arcade with pixelated characters. Keep it nostalgic, 18 characters wide and 10 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "294e08c2302f4cae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I challenge you to create an ASCII representation of a computer keyboard. Make it detailed and within 30 characters wide and 15 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "28370f8c1d0a4f6d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate an ASCII art of a sun setting behind a city skyline. Keep it 22 characters wide and 14 lines tall."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3d47948531343a8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to see your interpretation of an ASCII unicorn. Make it whimsical and limit the width to 25 characters, with a height of 16 lines."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c71698ba79c34cb7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII representation of a jungle scene with animals. The width should be 28 characters, and the height 18 lines."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "620f9ed759f949b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "ASCII\u30a2\u30fc\u30c8\u3067\u732b\u306e\u9854\u3092\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u305f\u3060\u3057\u3001\u5e45\u306f10\u6587\u5b57\u3001\u9ad8\u3055\u306f5\u884c\u3067\u304a\u9858\u3044\u3057\u307e\u3059\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "efc37ea1e3754ddd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create an ASCII art of a cat?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eaa09a50e97f4477",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Draw an ASCII art of a cat."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Show me a different cat."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "501737bb0d9540a4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need an ASCII representation of a cat wearing a stylish hat. Can you do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a67abc425874ad7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want an ASCII drawing of a cool cat rocking sunglasses. Can you make it happen?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c34af7af8f5b44b4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to see an ASCII depiction of a playful kitten entangled in yarn. Can you create that for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b40a6976e8ee45d4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a space-themed ASCII art of a cat wearing a helmet. Could you make it cosmic and adorable?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3409a5444fa42fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII representation of a cat looking dapper with a bowtie. Make it fancy!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "50db713fd7cf4849",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd love to see an ASCII drawing of a cat peacefully napping on a computer keyboard. Can you capture that moment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2bfadc70f5474c93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an ASCII art of a cat, but make it look like it's wearing a hat."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7191fa039ef4fd8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need an ASCII representation of a cat with a mysterious aura. Can you do that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e6f0cf52cf5d4baf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In 10 characters, craft an ASCII cat that seems to be smiling mischievously."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "507ffc3f15ea4203",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you design an ASCII cat with an artistic touch? I want it to be unique."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e66b768beaf74b60",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I challenge you to create an ASCII cat that resembles a famous celebrity. Surprise me!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "95c54071742b4212",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an ASCII cat that looks like it just had a gourmet meal. Show me its satisfaction!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "347919fbe79d4068",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm in the mood for a cosmic-themed ASCII cat. Can you transport me to space with your creation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e348b05b1624ca3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Design a minimalist ASCII cat, focusing on simplicity and elegance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "36fdfcdbb6a14e4e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want an ASCII cat that exudes a playful vibe. Can you capture the essence of mischief in 10 characters?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f07b7a0c8c3f4dcc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an ASCII cat inspired by a famous artwork. Put an artistic spin on it!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

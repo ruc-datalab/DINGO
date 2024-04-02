@@ -1,0 +1,1011 @@
+[
+    {
+        "id": "c7d915cd84774989",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\uc778\ub3c4\ub124\uc2dc\uc544\uc758 \uc720\uce58\uc6d0 \uc0b0\uc5c5\uc758 \ubbf8\ub798 \uc804\ub9dd\uc740 \uc5b4\ub5bb\uac8c \ubcf4\uc774\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94d8485fa81b473d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ucd5c\uadfc\uc5d0 \ubc1c\ud45c\ub41c \uba54\ud0c0\ubc84\uc2a4\uc5d0 \ub300\ud574\uc11c \uc5b4\ub5bb\uac8c \uc0dd\uac01\ud558\uc138\uc694? \uc774\ub7ec\ud55c \uae30\uc220\uc774 \uc6b0\ub9ac \uc0ac\ud68c\uc5d0 \uc5b4\ub5a4 \uc601\ud5a5\uc744 \ubbf8\uce60\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uba54\ud0c0\ubc84\uc2a4\uc758 \ub2e8\uc810\uc5d0 \ub300\ud574\uc11c\ub3c4 \uc880 \ub354 \uc790\uc138\ud558\uac8c \uc124\uba85\ud574 \uc8fc\uc2e4 \uc218 \uc788\ub098\uc694? \uadf8\ub9ac\uace0 \uc774\ub7ec\ud55c \ub2e8\uc810\ub4e4\uc744 \uc5b4\ub5bb\uac8c \ud574\uacb0\ud560 \uc218 \uc788\uc744\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\uba54\ud0c0\ubc84\uc2a4\uc758 \ubc1c\uc804\uacfc \uad00\ub828\ud558\uc5ec \uae30\uc5c5\ub4e4\uc774\ub098 \uc815\ubd80\uac00 \uc5b4\ub5a4 \uc815\ucc45\uc744 \uc218\ub9bd\ud558\uace0 \ud22c\uc790\ud558\uace0 \uc788\ub098\uc694? \uc774\ub7ec\ud55c \uc815\ucc45\uc774\ub098 \ud22c\uc790\ub294 \uc5b4\ub5a4 \uacb0\uacfc\ub97c \uac00\uc838\uc62c\uae4c\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e362f9f1971492f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do you think about the future of AI in the field of education, and how will it change the roles of teachers and students?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can educators prepare themselves to work effectively with AI in the classroom?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0486685dbed041cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do you think about the future of cryptocurrency? Will it replace traditional currencies in the coming years?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do you think governments and central banks will regulate cryptocurrencies in the future?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "054c262bc17640b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are your thoughts on the future of renewable energy? Will it become the primary source of power globally?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How might advancements in renewable energy impact the job market, particularly in traditional energy sectors?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "142b2d152c184c39",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is your perspective on the future of space exploration? Will we witness significant advancements in the coming decades?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How might private companies play a role in shaping the future of space exploration, and what challenges could arise?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8955641049b740a1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In your opinion, what does the future hold for the healthcare industry? Will technology play a major role in transforming healthcare services?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can healthcare professionals adapt to technological changes and ensure the best patient care in the evolving landscape?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f022a8961e5c4066",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is your perspective on the future of transportation? Will we see a widespread shift towards electric and autonomous vehicles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How might the adoption of electric and autonomous vehicles impact urban planning and infrastructure development?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ab0ec3388af49aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is your opinion on the future of virtual and augmented reality? Will these technologies become integral parts of our daily lives?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How might virtual and augmented reality impact industries beyond entertainment, such as education and healthcare?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3afc69409c3e4392",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are your thoughts on the future of artificial intelligence in the workplace? How will AI influence job roles and career paths?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can employees enhance their skills to thrive in a workplace increasingly influenced by AI and automation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6c9488bf913844b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is your perspective on the future of genetic engineering? Will we see significant advancements in manipulating and enhancing human DNA?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How might ethical considerations shape the development and application of genetic engineering technologies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "951c1b23f0d0481e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In your opinion, what does the future hold for the gaming industry? Will emerging technologies redefine the gaming experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How might the integration of technologies like virtual reality and artificial intelligence shape the future of gaming?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8de12898671c4a3b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is your perspective on the future of e-commerce? Will online shopping continue to dominate retail, and how might it evolve?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can traditional brick-and-mortar retailers adapt to the changing landscape driven by the growth of e-commerce?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "220574d2a8234cc6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Do you think augmented reality will play a major role in the future of gaming? What are some potential applications of this technology in the gaming industry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some challenges that the gaming industry may face with the implementation of augmented reality?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ebbfd8fe3fc747f2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the potential impacts and possible development prospects of AI in the field of mental health care?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can professionals in the mental health field prepare for the increasing role of AI in their area of expertise?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b900636cef44580",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "PREDICT THE FUTURE OF SELF-DRIVING CARS"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad776c6ba9a448f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an aspiring entrepreneur, I'm considering investing in a startup that focuses on sustainable products and practices. What are your thoughts on the potential for growth and success in this sector?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for your insights. As an entrepreneur, I'd like to know how I can effectively incorporate sustainability into my startup's business model?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "23fbd1a332844d94",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do you see the future of AI art and its impact on the traditional art world?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Will AI eventually replace human artists, or will it always remain a tool for human creativity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce234634d0634103",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in the development prospects of the electric vehicle market. Can you provide insights into its future growth and challenges?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering your input, I'd like to understand the key strategies for a startup entering the electric vehicle industry to ensure long-term success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "10b495a380a140db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the current trends in sustainable fashion, and how do you foresee its growth in the coming years?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Given the insights you provided, could you guide me on implementing sustainable practices in a fashion startup and the potential challenges involved?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f49c577d4fa4844",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the future of renewable energy. Can you elaborate on the potential growth and technological advancements in this sector?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering your insights, I'd like to explore the business opportunities in the renewable energy market and the key factors for success."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7eca657329354986",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the future outlook for the technology industry, and how do you see emerging technologies shaping its trajectory?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In light of your insights, I'm interested in understanding the strategies for a tech startup to stay competitive and thrive in a dynamic market."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1bef3d2f7f8340a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm exploring opportunities in the health tech sector. Can you provide an analysis of its future growth and the challenges it might face?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering your insights, I'd like guidance on the key considerations for a health tech startup and how to navigate the regulatory landscape."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85b4beb09bc646ab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in the future of remote work. Can you provide insights into the potential evolution of remote work trends and its impact on businesses?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering your input, I'd like to understand the strategies for a startup focused on remote work solutions and how to address potential challenges."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99a9fdbde7a948fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do you see the future of blockchain technology and its impact on various industries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Given your insights, I'd like to explore the potential applications of blockchain in a startup and understand the challenges in implementing this technology."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af3da7fc822f4aed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the future outlook for the gaming industry, and how do you see emerging technologies influencing the gaming landscape?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In light of your insights, I'm interested in understanding the strategies for a gaming startup to stay innovative and meet evolving consumer demands."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1389f1768dcc4312",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm considering investment in the biotech sector. Can you provide an analysis of the future growth potential and challenges in biotechnology?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering your insights, I'd like guidance on key considerations for a biotech startup and how to navigate the regulatory landscape."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae6597a342c348ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the future outlook for the e-commerce industry, and how do you see changing consumer behaviors shaping this sector?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In light of your insights, I'm interested in understanding the strategies for an e-commerce startup to remain competitive and adapt to evolving consumer preferences and technological advancements."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7db1d59794c34c7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what future developments can be expected in AI technology?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "acfbaa32aa9943a2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "21\uc138\uae30 \ubbf8\ub514\uc5b4\uc758 \ubbf8\ub798\ub294 \uc5b4\ub5bb\uac8c \ub420 \uac83\uc778\uac00?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ubc29\uc1a1\uc2dd \ubbf8\ub514\uc5b4\ub294 \uacb0\uad6d \ubaa8\ub450 \uc0ac\ub77c\uc9c8\uae4c?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\ubbf8\ub798\uc5d0 \uc911\uc559 \uc9d1\uc911\uc2dd, \uae30\uc5c5 \uc18c\uc720\uc758 \ubbf8\ub514\uc5b4 \uad6c\uc870\uac00 \uac1c\ubc29\uc801\uc774\uace0 \ubd84\uc0b0\ub41c \ubaa8\ub378\ub85c \ub300\uccb4\ub420\uae4c?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6dcb0971670c49a9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the future of the automobile industry? Tell me about the trends and challenges."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the consequences of not adapting to these trends?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f9def1a60e9040c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\ubbf8\ub798\uc758 \uae30\uc220 \ubc1c\uc804\uc5d0 \uac00\uc7a5 \ud070 \uc601\ud5a5\uc744 \ubbf8\uce60 \uae30\uc220\uc740 \ubb34\uc5c7\uc778\uac00\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a8d6b76c7ec4b81",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you give me insights into the future of renewable energy? Specifically, what advancements can we expect in solar technology and its impact on the energy landscape?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "230f766ba3ff4869",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the future of space exploration. What are the key developments and challenges that we might encounter in the coming years in our quest to explore the cosmos?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1f94baa0ece0480c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What advancements do you foresee in artificial intelligence in the next decade? How will it impact industries, and what challenges might arise from its rapid development?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d960305f1b214338",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the future of healthcare. How will technology shape medical advancements, and what challenges may arise in the integration of new technologies into healthcare systems?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8cac77ed77244cb6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in the future of education. What technological trends do you anticipate will transform the way we learn, and what challenges might educators and students face in adapting to these changes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0f4905fca69d4881",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the future of the gaming industry? How will emerging technologies such as virtual reality and augmented reality shape the gaming experience, and what challenges might the industry encounter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a3342a6139f14892",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide insights into the future of transportation? What innovations in transportation can we expect, and what challenges may arise in implementing these advancements?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b5375b35bf640b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the future of agriculture. How will technology impact farming practices, and what challenges might arise in the adoption of advanced agricultural techniques?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "97922bef57ac4655",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the future of finance. How will emerging technologies like blockchain and artificial intelligence reshape the financial industry, and what challenges might arise in this transformation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1c1177f00991434e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do you foresee for the future of communication technologies? How will advancements in communication tools and networks influence our daily lives, and what challenges might arise in ensuring widespread access to these technologies?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53ab22da34b24f23",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How might the development of artificial intelligence and automation impact the job market?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering the potential job displacement, what measures can governments and organizations take to minimize the negative impact on affected workers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can individuals prepare themselves for the changes in the job market due to AI and automation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you think of any potential ethical concerns surrounding AI and automation, and how might these concerns be addressed?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2c39bb94334041dd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do you see the future of education, especially with the increasing use of technology in learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the potential drawbacks of relying too much on technology in education?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can we prepare teachers for the technology-driven future of education?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "518d4941038f4b8c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Predict Tesla's growth in the next 5 years."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "224e3fb953dd421d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do you think the future of AI in healthcare looks like?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3bb735221e91471f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the future of AI-generated art? Will it become more prominent and mainstream, or will it remain a niche field?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do you see the collaboration between human artists and AI in the future? Will AI enhance human creativity or replace human artists?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the ethical implications of AI-generated art? Should AI-generated art be regulated, and if so, how?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do you think AI-generated art will ever be able to evoke the same emotions in humans as traditional art created by humans?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

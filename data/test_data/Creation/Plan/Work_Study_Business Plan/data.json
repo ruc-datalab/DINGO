@@ -1,0 +1,945 @@
+[
+    {
+        "id": "a08a0ca217d24234",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5236\u5b9a\u4e00\u4e2a\u4e3a\u671f4\u5468\u7684\u5b66\u4e60\u8ba1\u5212\uff0c\u6211\u60f3\u5b66\u4f1aPython\u7f16\u7a0b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ef741e056e74d79",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm starting a new role as a project manager for a software development company. Can you help me create a work plan for my first 30 days?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thanks for the plan. Can you suggest some resources, books, or online courses that I can use to improve my project management skills?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33681c56061d439f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u5236\u5b9a\u4e00\u4e2a\u6bcf\u5468\u7684\u5de5\u4f5c\u8ba1\u5212\uff0c\u8981\u6c42\u662f\u5728\u63a5\u4e0b\u6765\u76845\u5468\u5185\uff0c\u6211\u80fd\u638c\u63e1\u8f7b\u677e\u5e94\u5bf9\u4e00\u822c\u7684\u8ba1\u7b97\u673a\u7ef4\u4fee\u4efb\u52a1\uff0c\u5305\u62ec\u786c\u4ef6\u548c\u8f6f\u4ef6\u65b9\u9762\u3002\u76ee\u524d\u6211\u5bf9\u8ba1\u7b97\u673a\u7684\u4e86\u89e3\u8fd8\u6bd4\u8f83\u57fa\u7840\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f6d3e9d47eaf4801",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u5236\u5b9a\u4e00\u4e2a\u9ad8\u4e2d\u751f\u7684\u4e00\u5468\u5b66\u4e60\u8ba1\u5212\uff0c\u4ee5\u63d0\u9ad8\u4ed6\u4eec\u7684\u6570\u5b66\u548c\u82f1\u8bed\u6c34\u5e73\u3002\u6bcf\u5929\u7684\u5b66\u4e60\u65f6\u95f4\u4e3a2\u5c0f\u65f6\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13b915eed80a4186",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5047\u8bbe\u4f60\u662f\u4e3a\u4e00\u4e2a\u521d\u521b\u516c\u53f8\u7684\u8fd0\u8425\u56e2\u961f\u5236\u5b9a\u5de5\u4f5c\u8ba1\u5212\uff0c\u8fd9\u4e2a\u56e2\u961f\u67095\u4e2a\u4eba\uff0c\u9700\u8981\u5728\u4e00\u4e2a\u6708\u5185\u5b8c\u6210\u4e00\u4e2a\u7ebf\u4e0a\u9500\u552e\u9879\u76ee\u3002\u8bf7\u6839\u636e\u8fd9\u4e2a\u60c5\u51b5\uff0c\u7ed9\u6211\u4e00\u4e2a\u8be6\u7ec6\u7684\u5de5\u4f5c\u8ba1\u5212\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "63b0dcb1774044a3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Erstelle bitte einen Trainingsplan f\u00fcr Anf\u00e4nger, um ihre Ausdauer in 8 Wochen zu verbessern."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e39cb5bd45e64d39",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a daily workout plan for me, starting from 6:00 AM and ending at 7:30 AM. It should include warm-up exercises, running, strength training, and a cool-down session. Make sure the activities are evenly distributed."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to replace running with cycling for my cardio session?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2d681777e8634478",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning to start a small e-commerce business selling handmade crafts. Can you help me outline a marketing plan?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "67125eff0be0480b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm hosting a virtual book club for literature enthusiasts. Can you assist me in creating a schedule and discussion topics for the next month?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f2693cfa512543ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to organize a team-building event for my diverse team of 15 members. Can you provide ideas and activities that promote inclusivity and collaboration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68a053c8d89e4df6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a freelancer, I struggle with time management. Can you give me tips and a schedule to improve my productivity and work-life balance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "102e391deaa6493c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to learn a new language. Could you help me create a study plan with a focus on daily practice, speaking exercises, and vocabulary building?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f79207ab9694714",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My friend is having a baby shower, and I'm in charge of planning the games. What are some creative and fun game ideas for a virtual baby shower?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cfa3900e8da544e9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I recently started a podcast. Can you help me outline a content calendar and suggest ways to increase audience engagement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dbf1ef8d203443d0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to improve my cooking skills. Can you suggest a weekly meal plan with easy recipes for a beginner like me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a72f254fd4a04775",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm redecorating my living room. Can you provide design ideas, color schemes, and tips for creating a cozy and stylish space?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "39546f53cade46fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a beginner in photography. Can you help me create a learning plan, including essential skills, recommended gear, and practice exercises?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9a6cafa1cd44ebc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u6b63\u5728\u8003\u8651\u5f00\u4e00\u5bb6\u5496\u5561\u5e97\uff0c\u4f60\u80fd\u5e2e\u6211\u5236\u5b9a\u4e00\u4e2a\u8be6\u7ec6\u7684\u5546\u4e1a\u8ba1\u5212\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3bc31d4e32f45e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I've got this awesome idea for a tech startup. Can you guide me through creating a killer business plan?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a873618f086d445b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u5236\u5b9a\u4e00\u4e2a\u5b66\u4e60\u8ba1\u5212\uff0c\u4ee5\u63d0\u9ad8\u6211\u7684\u7f16\u7a0b\u6280\u80fd\u3002\u4f60\u80fd\u5e2e\u6211\u5217\u51fa\u4e00\u4e2a\u5408\u7406\u7684\u8ba1\u5212\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b0dde3435fd64b64",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm launching a fashion brand. Can you assist me in creating a strategic business plan to stand out in the market?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0bf34bd60c8b4ecd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Ich plane, meine Deutschkenntnisse zu verbessern. K\u00f6nntest du mir helfen, einen effektiven Lernplan zu erstellen?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "701c231109624eba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm thinking of starting an online tutoring business. What should be included in my business plan to attract students and tutors?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "375636695078421d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Quiero mejorar mis habilidades de escritura en espa\u00f1ol. \u00bfPuedes ayudarme a estructurar un plan de estudio efectivo?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9efcedd408de4cd3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm venturing into the fitness industry. Can you guide me in developing a business plan for my gym?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12263628ecf648ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Je suis passionn\u00e9 par la cuisine. Peux-tu m'aider \u00e0 cr\u00e9er un plan d'affaires pour mon restaurant?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "01a07013277b4818",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm aiming to enhance my project management skills. Can you outline a study plan that includes practical applications and theoretical concepts?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "78ffcfa4ee0a45fe",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you kindly create a challenging and engaging marketing plan for a new mobile app launch?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I make this plan more challenging specifically in terms of user acquisition?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "edd468c43b5a4647",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please assist me in creating a study plan?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b218440664f947fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dise\u00f1a un plan de dieta y ejercicio para un adolescente que quiere perder peso."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "be85b8e2fd774e05",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create a marketing plan outline for a new mobile app focused on budgeting and personal finance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b0bc2478e3f94fbb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a workout plan for a beginner looking to improve overall fitness in 4 weeks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d2ab8c297d7e4b27",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u6211\u5236\u5b9a\u4e00\u4e2a\u5173\u4e8e\u5f00\u53d1\u4e00\u6b3e\u9762\u5411\u4e2d\u5b66\u751f\u7684\u5728\u7ebf\u82f1\u8bed\u5b66\u4e60\u5e73\u53f0\u7684\u8ba1\u5212\uff0c\u5305\u62ec\u5e02\u573a\u5b9a\u4f4d\u3001\u4ea7\u54c1\u529f\u80fd\u548c\u8425\u9500\u7b56\u7565"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d55158a934bf4428",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a marketing plan to launch a new eco-friendly toothbrush brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1e73823fa254672",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a plan to help me improve my time management skills and be more productive during the day."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some techniques to help me maintain focus and avoid procrastination?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I find the best time of day to work on my most important tasks?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7bd1ee194b2c4017",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you create a marketing plan to increase sales for a small online store?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ffe5ec47bda4aef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pourriez-vous m'aider \u00e0 concevoir un plan pour un atelier de cuisine v\u00e9g\u00e9tarienne de deux jours ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Merci, c'est tr\u00e8s int\u00e9ressant. Pourriez-vous \u00e9galement m'aider \u00e0 r\u00e9fl\u00e9chir \u00e0 un atelier de cuisine v\u00e9g\u00e9talienne de deux jours ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00c0dd4928b74f6f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please create a strategic plan for a small business launching its first product."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, let's reflect on the importance of having a well-defined target market for a small business launching its first product."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b097fb5291c24866",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Outline a marketing plan for a new organic skincare brand."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e2386417c3a74501",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Crea un plan para organizar una conferencia virtual de marketing digital de 3 d\u00edas en l\u00ednea que incluya expositores, paneles de discusi\u00f3n y talleres interactivos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dd6f37446ce94691",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You're a fitness trainer. Give me a 12-week workout plan for a beginner."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f45a537bb70147f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e3a\u6211\u5236\u5b9a\u4e00\u4e2a\u7b80\u77ed\u7684\u5173\u4e8e\u4e3a\u9910\u996e\u4e1a\u63d0\u4f9b\u91d1\u878d\u79d1\u6280\u89e3\u51b3\u65b9\u6848\u7684\u5546\u4e1a\u8ba1\u5212\uff0c\u4e3b\u8981\u89e3\u51b3\u9910\u996e\u4f9b\u5e94\u94fe\u4ea4\u6613\u95ee\u9898\u3002\u6bd4\u5982\u4e3a\u9910\u5385\u63d0\u4f9b\u8d2d\u4e70\u539f\u6750\u6599\u7684\u4fe1\u7528\u989d\u5ea6\u3002\u6211\u4eec\u7684\u521d\u59cb\u5408\u4f5c\u4f19\u4f34\u662f\u9999\u6e2f\u6700\u5927\u7684\u8089\u7c7b\u6279\u53d1\u5546\u4e4b\u4e00\uff0c\u82f1\u5229\u98df\u54c1\u670d\u52a1\u516c\u53f8\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5e73\u53f0\u7684\u4e3b\u8981\u529f\u80fd\u662f\u4ec0\u4e48\uff1f\u5b83\u662f\u4e00\u4e2a\u5178\u578b\u7684\u8d2d\u7269\u8f66\u529f\u80fd\u8fd8\u662f\u6709\u9488\u5bf9\u8fd9\u79cd\u60c5\u51b5\u7684\u72ec\u7279\u529f\u80fd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e51c446a355b4b29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, could you please take on the role of a financial advisor and help me create a 5-year personal financial plan?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Here are my financial details:\n1. Current annual income: $60,000\n   Expected income growth: 3% per year\n2. Monthly expenses: \n   - Housing: $1,000\n   - Utilities: $200\n   - Food: $400\n   - Entertainment: $150\n   - Transportation: $300\n   - Insurance: $100\n   - Miscellaneous: $200\n3. Current savings: $15,000\n   Investments: $5,000 in stocks\n4. Debts:\n   - Personal loan: $2,000 at 5% interest\n   - Credit card balance: $1,000 at 15% interest\n5. Financial goals:\n   - Save $20,000 for a down payment on a house in 5 years\n   - Increase retirement savings\n   - Pay off debts\n6. Risk tolerance: Moderate\n\nPlease help me create a financial plan based on this information."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do I allocate my investments in stocks, bonds, and other assets with a moderate risk tolerance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some strategies to help me save more money and stick to my financial plan?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "adf9a61ed3df4ab1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "create a plan for a 10-day marketing campaign for a new mobile app"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9bb464a399a8467c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm training for a marathon. Can you provide a 16-week running plan to improve my endurance and speed?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a147fe781e9141e6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm planning a trip to Europe. Can you suggest an itinerary for a 2-week vacation covering major cities and attractions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f801689a1fef4219",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm studying computer science. Could you recommend a list of essential books and online resources for self-learning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99f6f12974ee4ced",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm considering a career change. What steps should I take to transition from marketing to data science?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bd2c42d744c4c16",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need assistance planning a series of team-building activities for my department. Can you provide a diverse range of suggestions suitable for both in-person and virtual settings?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "45ba17d9397d4eb2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you assist me in drafting a strategic roadmap for expanding our company's market presence internationally? We're looking to enter three new markets within the next year."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c2e3b099f5c24c69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm seeking guidance on creating a personalized productivity system tailored to my workflow. Can you suggest tools and methodologies to help streamline my daily tasks and enhance efficiency?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4c7082786394a69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you provide recommendations for designing an employee training program focused on diversity, equity, and inclusion? We aim to foster a more inclusive workplace culture."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a2d407c5e5d74e27",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm in need of assistance developing a comprehensive risk management plan for a construction project. Can you outline key steps and strategies to mitigate potential risks effectively?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1df03c6447aa42e0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I require assistance in structuring a digital marketing campaign targeting Gen Z consumers. What platforms, content formats, and engagement strategies would be most effective for this demographic?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3ada7cad6ce74ff5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please assist me in drafting a budget plan for an upcoming IT infrastructure upgrade project. We need to ensure cost-effectiveness while meeting performance requirements."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "38ce6465eab94a16",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking to create a personalized self-care routine to improve my overall well-being. Can you recommend activities and practices that promote mental and physical health?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a0f79a45c2824724",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm tasked with developing a training program for new hires in our customer service department. Can you suggest modules and activities to enhance their communication and problem-solving skills?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

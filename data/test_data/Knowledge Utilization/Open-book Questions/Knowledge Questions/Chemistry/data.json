@@ -1,0 +1,858 @@
+[
+    {
+        "id": "fb110fdce4734266",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please explain what covalent bonds are?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ddb4842863bb4056",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u89e3\u91ca\u5316\u5b66\u53cd\u5e94\u901f\u7387\u4e0e\u6d53\u5ea6\u3001\u6e29\u5ea6\u4ee5\u53ca\u50ac\u5316\u5242\u4e4b\u95f4\u7684\u5173\u7cfb\u3002\u4e3a\u4ec0\u4e48\u5728\u73b0\u5b9e\u751f\u6d3b\u4e2d\uff0c\u6211\u4eec\u9700\u8981\u63a7\u5236\u8fd9\u4e9b\u56e0\u7d20\u4ee5\u4f18\u5316\u5316\u5b66\u53cd\u5e94\u7684\u8fc7\u7a0b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d439da153b9401f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've always wondered, how do chemists determine the structure of complex molecules like proteins?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "023c2caf19d7439a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What role do isotopes play in understanding geological processes, and how do scientists use them to study Earth's history?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "edef55ffce264c53",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you delve into the significance of quantum chemistry and its applications in understanding the behavior of atoms and molecules at the subatomic level?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9b5de16618a4de3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the role of redox reactions in everyday life. How are they involved in processes that affect us on a daily basis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1f631e34a9e4e36",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some recent breakthroughs in materials chemistry, and how are they influencing industries such as electronics and energy storage?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "07fdc2ff8d2f4855",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the concept of chirality in organic chemistry and its importance in drug development. How do mirror-image molecules affect biological systems differently?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "110f6707277041be",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the environmental impact of chemical pollutants. How do scientists assess and mitigate the effects of these substances on ecosystems and human health?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca19520ebc914f89",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the connection between chemistry and culinary arts. How do different cooking techniques involve chemical reactions that transform ingredients into delicious meals?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "967be7e2894c4ad5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the role of chemistry in space exploration. How do scientists analyze extraterrestrial materials, and what insights can we gain about the universe through chemical analysis?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee68d3134ca44d41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've heard about supercritical fluids in chemistry. Could you explain their unique properties and applications in various industrial processes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d46b62c28de40b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u544a\u8bc9\u6211\u5316\u5b66\u4e2d\u539f\u5b50\u548c\u5206\u5b50\u7684\u533a\u522b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "41dc1866170140a0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the properties of carbon nanotubes"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering their unique properties, what potential applications do carbon nanotubes have?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there any challenges or drawbacks to using carbon nanotubes in these applications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can functionalization of carbon nanotubes impact their properties and applications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3dff22f2cc904ea9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u5316\u5b66\u53cd\u5e94\u4e2d\uff0c\u4e3a\u4ec0\u4e48\u4e00\u4e9b\u7269\u8d28\u4f1a\u53d1\u751f\u989c\u8272\u53d8\u5316\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc526a226da14cb9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u4e00\u76f4\u5f88\u597d\u5947\u539f\u5b50\u7684\u7ed3\u6784\uff0c\u4f60\u80fd\u7528\u7b80\u5355\u7684\u8bed\u8a00\u89e3\u91ca\u4e00\u4e0b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7c6d4942782e4b1d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5316\u5b66\u5b9e\u9a8c\u4e2d\uff0c\u4f7f\u7528\u5b9e\u9a8c\u5ba4\u73bb\u7483\u5668\u76bf\u7684\u4f18\u52bf\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bebea184ebdd41f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5316\u5b66\u53cd\u5e94\u901f\u7387\u662f\u5982\u4f55\u53d7\u5230\u6e29\u5ea6\u5f71\u54cd\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c569823e666144a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u6ca1\u6709\u4e00\u4e9b\u6709\u5173\u5316\u5b66\u7684\u8c1c\u9898\u6216\u96be\u9898\uff0c\u6311\u6218\u4e00\u4e0b\u6211\u7684\u601d\u7ef4\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "251ddc245552469f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the process of oxidation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is a redox reaction?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the rusting process occur?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do other metals besides iron undergo a similar process?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a4b68e21148458b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the differences between covalent and ionic bonds, and how do these differences impact the properties of the compounds they form?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2e0805325b2d4a18",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the process of distillation"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0f8f1f703a82445c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you illuminate the correlation between electron configuration and the reactivity of elements?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2eeb91683e514a38",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me a story about the discovery of a groundbreaking chemical reaction. Be creative!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1ecf601f1b9438e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Why do certain molecules exhibit optical isomerism, and how does it impact their biological activity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6bec43765fa453d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the environmental implications of chemical pollutants and how we can mitigate their effects."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ae74b45f22e454e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a nutshell, explain the concept of chemical equilibrium and its significance in various chemical reactions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b45e4b0b274e4cd9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do chemists use spectroscopy techniques to unravel the mysteries of molecular structures?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "abb7e54890c84402",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the historical evolution of the periodic table and highlight key contributions from various scientists."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f99f9e330645446b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the role of catalysts in chemical reactions, and can you provide examples of industrially important catalytic processes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f5d23b682ef2434e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Elaborate on the concept of electronegativity and its impact on the formation of ionic and covalent bonds."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc4d689fe22a4d28",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share an analogy that simplifies the concept of entropy in thermodynamics. Make it fun and relatable!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4e0f7362f844862",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you act as a helpful chemistry tutor and quiz me on the periodic table?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5fcb67b1fe7b4295",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the process of converting a substance from a solid to a gas called?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you give me an example of a substance that undergoes sublimation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there a process that is the opposite of sublimation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9dfca36feaae424f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you enlighten me on the mysterious world of chemical reactions and their role in daily life?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "20821e3cc0304288",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the chemistry behind fireworks. Can you unravel the science behind their vibrant colors?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a9819f24f8a444a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you narrate a fictional tale where chemical compounds are the heroes saving a world from an elemental disaster?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c27b314f97a84a4b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a dreamy scenario, imagine chemicals as artists. Which one would create the most beautiful masterpiece, and what would it be?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5eeeaee7acc8469f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the process of photosynthesis quickly"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b54bba524d6b42e9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the connection between chemistry and cooking? How do chemical reactions play a role in the process of cooking food?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a4f8a971522e4cff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the process of electrolysis."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "647f29d936cd4584",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the process of converting glucose into energy in cells called?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the citric acid cycle contribute to the production of ATP?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the role of oxygen in the electron transport chain?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the efficiency of ATP production vary between aerobic and anaerobic respiration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1e500eac9b14f55",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the difference between covalent and ionic bonds?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2f5c4fa202924a87",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6c22\u6c14\u548c\u6c27\u6c14\u5982\u4f55\u751f\u6210\u6c34\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u53cd\u5e94\u91ca\u653e\u7684\u80fd\u91cf\u5982\u4f55\u8ba1\u7b97\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u53cd\u5e94\u5982\u4f55\u5f71\u54cd\u73af\u5883\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ba2d3c0f54746f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "what is the difference between ionic and covalent bonds?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "304b87a3c02648f5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been wondering, why do some chemical reactions produce heat, while others absorb heat? What is the underlying principle behind this phenomenon?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I see. So, is there a way to predict whether a chemical reaction will be exothermic or endothermic just by looking at the reactants and their properties?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e073b6348a948cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "tell me the difference between covalent and ionic bonds now"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1316a9b5b4b04e53",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the chemical symbol for water?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do hydrogen bonds contribute to the unique properties of water?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What role does water play in the pH scale?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explain the importance of water for living organisms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

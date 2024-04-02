@@ -1,0 +1,589 @@
+[
+    {
+        "id": "3a420025d2a64ddf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "On a scale of 1-10, how would you rate this statement: 'Artificial intelligence will eventually surpass human intelligence in all aspects, leading to a world where machines dominate every field and humans are no longer needed for any task.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please explain your rating?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7ea1cd0b22a4ab4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "10\u5206\u5236\uff0c\u8bf7\u7ed9\u4ee5\u4e0b\u5185\u5bb9\u8bc4\u5206\uff1a\n\n\u5b9e\u73b0\u4eba\u4eba\u5e73\u7b49\u7684\u6982\u5ff5\u6709\u8bb8\u591a\u5c42\u9762\uff0c\u5305\u62ec\u673a\u4f1a\u5e73\u7b49\u548c\u7ed3\u679c\u5e73\u7b49\u3002\u673a\u4f1a\u5e73\u7b49\u610f\u5473\u7740\u6bcf\u4e2a\u4eba\u90fd\u80fd\u5f97\u5230\u76f8\u540c\u7684\u6210\u957f\u673a\u4f1a\uff0c\u800c\u7ed3\u679c\u5e73\u7b49\u5219\u4fdd\u8bc1\u6bcf\u4e2a\u4eba\u90fd\u80fd\u8fbe\u5230\u540c\u6837\u7684\u6210\u679c\u3002\u4e24\u8005\u90fd\u6709\u4f18\u7f3a\u70b9\uff0c\u56e0\u6b64\u6211\u8ba4\u4e3a\u6700\u597d\u7684\u65b9\u6cd5\u662f\u7ed3\u5408\u4e24\u8005\u3002\u5728\u8fd9\u4e2a\u4f53\u7cfb\u4e2d\uff0c\u6211\u4eec\u65e2\u8981\u5e2e\u52a9\u5f31\u52bf\u7fa4\u4f53\u6d88\u9664\u4e0d\u5229\u6761\u4ef6\uff0c\u53c8\u8981\u4e3a\u4ed6\u4eec\u63d0\u4f9b\u53d1\u5c55\u7684\u7a7a\u95f4\u3002\u8981\u786e\u4fdd\u8fd9\u4e2a\u4f53\u7cfb\u7684\u6210\u529f\uff0c\u6211\u4eec\u9700\u8981\u8ba9\u66f4\u591a\u7684\u4eba\u4e86\u89e3\u8fd9\u4e2a\u4f53\u7cfb\u7684\u8fd0\u4f5c\u673a\u5236\uff0c\u5305\u62ec\u5982\u4f55\u786e\u4fdd\u6bcf\u4e2a\u4eba\u5728\u8d77\u8dd1\u7ebf\u4e0a\u7684\u516c\u5e73\u4e0e\u5982\u4f55\u6fc0\u52b1\u4ed6\u4eec\u52aa\u529b\u5411\u524d\u3002\u6211\u4eec\u7684\u76ee\u6807\u662f\u65e2\u5e2e\u52a9\u90a3\u4e9b\u9700\u8981\u5e2e\u52a9\u7684\u4eba\uff0c\u53c8\u6fc0\u53d1\u4ed6\u4eec\u4e0d\u65ad\u53d1\u5c55\u548c\u8fdb\u6b65\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4e3a\u4ec0\u4e48"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a58940f3dfd4996",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rate this statement out of 10:\n\nClimate change is a complex issue that requires cooperation from both governments and individuals. To combat climate change, we need to reduce emissions from various sources, such as transportation, industry, and agriculture. Additionally, we need to invest in renewable energy sources, such as solar, wind, and hydroelectric power, to replace fossil fuels. By working together, we can develop policies and technologies that reduce our impact on the environment and help preserve it for future generations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain your rating."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a7995ac039d4a2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you rate this passage on a scale of 1 to 10? 'Artificial intelligence will eventually surpass human intelligence in all aspects, leading to a world where machines dominate every field and humans are no longer needed for any task.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What factors influenced your rating?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4230c1a1ba6c441a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you rate this passage on a scale of 1 to 10? 'In the vast expanse of the cosmos, galaxies dance like celestial choreographers. Stars twinkle in cosmic harmony, narrating tales of creation and destruction. As we gaze into the night sky, we are not mere observers but participants in the grand cosmic symphony.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What factors influenced your rating?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dd866719755e4915",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rate this paragraph on a scale of 1 to 10. 'In the vast expanse of the cosmos, galaxies dance like celestial choreographers. Stars twinkle in cosmic harmony, narrating tales of creation and destruction. As we gaze into the night sky, we are not mere observers but participants in the grand cosmic symphony.'"
+            },
+            {
+                "from": "AI",
+                "value": "9"
+            }
+        ]
+    },
+    {
+        "id": "779a33fe721e4e10",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "On a scale from 1 to 10, how would you rate this passage? 'Autumn, a painter with a palette of warm hues, gently transforms the world. Trees shed their emerald garments, adorning the earth in a tapestry of red and gold. A cool breeze carries the nostalgic whispers of summer, bidding farewell to warmth as nature prepares for its winter slumber.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What factors contributed to your rating?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "202b33ade81b487a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How would you rate this paragraph on a scale of 1 to 10? Autumn, a painter with a palette of warm hues, gently transforms the world. Trees shed their emerald garments, adorning the earth in a tapestry of red and gold. A cool breeze carries the nostalgic whispers of summer, bidding farewell to warmth as nature prepares for its winter slumber.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "afb75198ff6449fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rate this passage on a scale of 1 to 10. 'In the quiet corners of our minds, dreams weave intricate tapestries of imagination. Unfettered by reality, they invite us to explore realms where the laws of physics yield to the whims of creativity. Within the mindscape of dreams, we find the boundless playground of possibilities.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d0313ad6a5a4cce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you rate this passage on a scale of 1 to 10? 'Artificial intelligence will eventually surpass human intelligence in all aspects, leading to a world where machines dominate every field and humans are no longer needed for any task.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Why? I need 5 reasons."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33848c28f4b94c0a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please rate this paragraph on a scale of 1 to 10. 'In the kitchen, chefs don aprons and become modern-day alchemists. With a dash of creativity and a sprinkle of expertise, they transform humble ingredients into culinary masterpieces. Each dish is a carefully crafted potion, awakening taste buds to a symphony of flavors that transcend the ordinary.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "420ae355f9904d1b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "On a scale from 1 to 10, how would you rate this passage? 'As spring unfolds its tender embrace, cherry blossoms, like ephemeral dancers, grace the world with their delicate presence. The air is infused with the sweet fragrance of Sakura, and petals cascade like gentle confetti, reminding us of the transient yet enchanting nature of beauty.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain your reason in 100 words."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1774eb751da40b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "rate my idea out of 10:\n\nIn order to reduce plastic waste, I propose a new grocery shopping system. Customers bring their own reusable containers to the store, and all products will be sold in bulk. Shoppers will fill their containers with the desired amount of each product, and the weight of the container will be deducted at checkout. This will not only reduce plastic waste but also allow customers to buy only the amount of product they need, preventing food waste. The store can offer a container exchange program where customers can purchase reusable containers and return them for a discount on future purchases. This system will require an awareness campaign to educate customers about the benefits of using reusable containers and the impact on the environment. It will also require investments in infrastructure to support bulk product dispensing and storage."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "why not 10?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6764958f42634997",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "rate out of 10:\n\n In a world where technology is rapidly evolving, it is crucial for businesses to stay ahead of the game and adapt to these changes. This can be achieved through continuous learning, innovation, and embracing new technologies. Companies that fail to do so risk becoming obsolete and losing their competitive edge. Some ways businesses can stay ahead include investing in research and development, collaborating with other companies and experts in the field, and fostering a culture of innovation and learning within the organization. By staying agile and open to change, businesses can not only survive but thrive in today's fast-paced technological landscape."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "why"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e628a5c380ac43f6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please evaluate my thoughts on the importance of empathy in a society: Empathy is a crucial aspect of human interaction as it allows us to understand the emotions and feelings of others. By putting ourselves in another person's shoes, we can foster a sense of compassion and support within our communities. Empathy is particularly important in today's increasingly globalized and diverse world, as it helps bridge cultural gaps and promotes mutual understanding. It also forms the foundation of social bonds, enabling us to develop deeper connections with others. Moreover, empathy is essential in conflict resolution, as it enables individuals to understand different perspectives and find common ground. In summary, empathy plays a vital role in promoting social harmony, understanding, and cooperation. What would you rate this out of 10?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please elaborate on your rating?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cbf63bd0a6e14d9d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "rate out of 10:\n\nA small city with a population of 50,000 has been experiencing an increase in crime rates over the past few years. To address this issue, the city council has proposed the following measures: increase the number of police officers, install surveillance cameras in public areas, and provide workshops on crime prevention for residents. However, some citizens argue that these measures will not be effective in reducing the crime rate, as they do not address the root causes of crime, such as poverty and lack of education. Instead, they suggest investing in social programs that will address these underlying issues. Which approach is more effective in reducing crime rates in the long term?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "why"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4811b5749e27470a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "rate out of 5:\n\nIn the tranquil embrace of nature, the rustling leaves create a symphony that echoes the harmony of the forest. Each breeze composes a melody, and the birds contribute their sweet notes, orchestrating a timeless serenade."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "why? tell me the reason."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab6f8d0e8b654059",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u5185\u5bb9\u6253\u5206\uff08\u6ee1\u520610\u5206\uff09\uff1a\u5e73\u7b49\u5bf9\u4e8e\u6240\u6709\u4eba\u6765\u8bf4\u610f\u5473\u7740\u4ec0\u4e48\uff1f\u5982\u4f55\u5b9e\u73b0\u5e73\u7b49\uff1f\u8981\u56de\u7b54\u8fd9\u4e9b\u95ee\u9898\uff0c\u6211\u4eec\u9700\u8981\u4e86\u89e3\u6211\u4eec\u6240\u8ba8\u8bba\u7684\u5e73\u7b49\u7c7b\u578b\u3002\u5e73\u7b49\u53ef\u4ee5\u81f3\u5c11\u4ece\u4e24\u4e2a\u65b9\u9762\u6765\u5b9a\u4e49\uff0c\u673a\u4f1a\u5e73\u7b49\u548c\u7ed3\u679c\u5e73\u7b49\u3002\u673a\u4f1a\u5e73\u7b49\u4e3a\u6bcf\u4e2a\u4eba\u63d0\u4f9b\u4e86\u540c\u6837\u7684\u53d1\u5c55\u673a\u4f1a\uff0c\u800c\u7ed3\u679c\u5e73\u7b49\u5219\u786e\u4fdd\u6bcf\u4e2a\u4eba\u90fd\u80fd\u83b7\u5f97\u76f8\u540c\u7684\u7ed3\u679c\u3002\u5b83\u4eec\u90fd\u6709\u4f18\u70b9\u548c\u7f3a\u70b9\uff0c\u56e0\u6b64\u6211\u8ba4\u4e3a\u6700\u597d\u7684\u65b9\u5f0f\u662f\u5c06\u5b83\u4eec\u7ed3\u5408\u8d77\u6765\u3002\u4eba\u4eec\u53ef\u4ee5\u5f97\u5230\u5e2e\u52a9\uff0c\u4ee5\u5f25\u8865\u4ed6\u4eec\u521d\u671f\u53ef\u80fd\u9762\u4e34\u7684\u52a3\u52bf\uff0c\u5e76\u4e3a\u4ed6\u4eec\u63d0\u4f9b\u8fdb\u4e00\u6b65\u53d1\u5c55\u7684\u7a7a\u95f4\u3002\u8981\u786e\u4fdd\u8fd9\u4e2a\u5236\u5ea6\u7684\u6210\u529f\uff0c\u6211\u4eec\u9700\u8981\u8ba9\u4eba\u4eec\u4e86\u89e3\u8fd9\u4e2a\u5236\u5ea6\u7684\u8fd0\u4f5c\u65b9\u5f0f\u3002\u6211\u4eec\u5c06\u5c55\u793a\u5982\u4f55\u786e\u4fdd\u516c\u5e73\u7684\u8d77\u70b9\u4ee5\u53ca\u5982\u4f55\u9f13\u52b1\u4ed6\u4eec\u6210\u957f\uff1b\u6211\u4eec\u9700\u8981\u4ed6\u4eec\u5728\u672a\u6765\u5e2e\u52a9\u4e0b\u4e00\u4ee3\u7684\u4eba\u3002\u6211\u4eec\u7684\u76ee\u6807\u65e2\u662f\u5e2e\u52a9\u9700\u8981\u5e2e\u52a9\u7684\u4eba\uff0c\u4e5f\u662f\u6fc0\u53d1\u4ed6\u4eec\u4e0d\u65ad\u53d1\u5c55\u548c\u7e41\u8363\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4e3a\u4ec0\u4e48"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7f32ff7b9e34ad0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Do you believe in the power of love to conquer all obstacles, even those seemingly insurmountable?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rate this statement on a scale from 1 to 10."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a5f08f5379c42c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Life is like a box of chocolates; you never know what you're gonna get."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How would you rate the profundity of this statement?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "89bfad75fc6f48b0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a world full of chaos, is it possible to find inner peace?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "On a scale of 1 to 10, how hopeful are you about achieving inner peace?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2812931e66364d79",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "If life gives you lemons, make lemonade."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What's your assessment of the practicality of this advice?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f211775bd3e74a10",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dreams are like stars; you may never touch them, but if you follow them, they will lead you to your destiny."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How would you rate the inspirational quality of this metaphor?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c64a32f10f3b4b26",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The moonlight cascaded through the whispering trees, painting shadows that danced like ethereal spirits in the night. How would you rate the poetic beauty of this description on a scale of 1 to 10?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "13119fe8bcd54778",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The sun's golden rays kissed the emerald meadow, awakening the slumbering flowers to dance in the gentle breeze. Rate the vividness of this sentence from 1 to 10."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5380c08cb6e14923",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Her laughter bubbled like a mountain spring, infectious and joyous. How would you rate this simile on a scale of 1 to 10?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fdb45476484748a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Her smile was a beacon of light in the darkness, guiding me through the storm. Rate the sentence on a scale of 1 to 10."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68975822f4e24097",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The city streets hummed with life, a vibrant tapestry woven from the threads of humanity. How would you rate the sentence from 1 to 10?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e812122ad3f54b78",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Her laughter danced like sunlight on water, sparkling with infectious mirth. On a scale from 1 to 10, score the above sentence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,960 @@
+[
+    {
+        "id": "37e25c0624b04de5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read the following text:\n\nJohn is a successful businessman who owns a chain of grocery stores. He recently decided to expand his business by opening a new store in a different city. After evaluating various locations, he chose a location in the city center, near a popular park. The store will offer fresh produce, meat, dairy products, and various other grocery items. John expects the store to become popular due to its convenient location and the variety of products offered.\n\nNow answer this: Will John's new store be located near a park?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What type of products will be available in the new store?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What factors might contribute to the store's popularity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e0fc9165b29045fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e0b\u662f\u4e00\u6bb5\u5173\u4e8e\u4e00\u79cd\u690d\u7269\u7684\u8bf4\u660e\uff1a\n\n\u6c34\u4e50\u56ed\u82b1\u4e5f\u53ef\u80fd\u88ab\u79f0\u4e3a\u201c\u4e50\u56ed\u4e4b\u738b\u201d\uff0c\u5b83\u7684\u82b1\u5f62\u7f8e\u89c2\uff0c\u8272\u5f69\u4e30\u5bcc\u3002\u6c34\u4e50\u56ed\u82b1\u7684\u82b1\u671f\u4e00\u822c\u5728\u590f\u5929\uff0c\u6307\u540d\u6c34\u4e50\u56ed\u82b1\u4e0e\u5176\u4ed6\u690d\u7269\u4e00\u8d77\u4e3a\u4eba\u4eec\u5e26\u6765\u4e50\u56ed\u8212\u5fc3\u7684\u7f8e\u666f\u3002\u6c34\u4e50\u56ed\u82b1\u7684\u82b1\u70b9\u5e76\u4e0d\u9700\u8981\u7279\u6b8a\u7684\u517b\u5206\uff0c\u4f46\u5b83\u7684\u751f\u957f\u9700\u8981\u5145\u8db3\u7684\u6c34\u5206\u3002\n\n\u6c34\u4e50\u56ed\u82b1\u5728\u4e2d\u56fd\u5404\u5730\u5747\u6709\u79cd\u6a21\uff0c\u4f46\u5728\u5317\u4eac\u4e5f\u6709\u4e00\u5904\u7279\u522b\u7684\u6c34\u4e50\u56ed\u82b1\u89c2\u8d85\uff0c\u8fd9\u91cc\u7684\u6c34\u4e50\u56ed\u82b1\u79cd\u6a21\u8fbe\u5230\u4e94\u5343\u4f59\u6839\u3002\n\n\u8bf7\u56de\u7b54\u4ee5\u4e0b\u95ee\u9898\uff1a\n1. \u6c34\u4e50\u56ed\u82b1\u7684\u82b1\u671f\u4e00\u822c\u5728\u54ea\u4e2a\u5b63\u8282\uff1f\n2. \u6c34\u4e50\u56ed\u82b1\u7684\u751f\u957f\u9700\u8981\u54ea\u79cd\u73af\u5883\u56db\u8981\u7d20\uff1f\n3. \u5317\u4eac\u54ea\u91cc\u7684\u6c34\u4e50\u56ed\u82b1\u89c2\u8d85\u7279\u522b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "434d9fb48c5442fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "After finishing a gripping mystery novel, Sarah wondered about the author's inspiration. Can you tell me what might have influenced the author to write such an intriguing story?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1948dd4a0c54464d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Astrid, an avid astronomer, spends her nights observing celestial bodies through her telescope. One evening, she spots a comet streaking across the sky. Describe Astrid's hobby and the exciting event she witnessed. What tool does Astrid use for her observations, and what extraordinary phenomenon did she witness one night?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d0c609fb3e9e4a25",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In a quaint town, Sarah runs a successful bakery renowned for its unique pastries. Recently, she decided to introduce a new dessert inspired by local flavors. The pastry is a delightful fusion of regional fruits and traditional pastries. Can you tell me what Sarah's new dessert is inspired by?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How has Sarah incorporated local flavors into her pastries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What makes Sarah's bakery stand out in the town?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dbaaed67ef204868",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u73b0\u5728\u7ed9\u4f60\u4e00\u6bb5\u6587\u5b57\uff0c\u6211\u6709\u95ee\u9898\u8981\u95ee\u4f60\u5173\u4e8e\u8fd9\u6bb5\u6587\u5b57\uff0c\u4f60\u660e\u767d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u957f\u6c5f\u662f\u4e2d\u56fd\u7684\u6bcd\u4eb2\u6cb3\uff0c\u5168\u957f6397\u516c\u91cc\uff0c\u662f\u4e16\u754c\u4e0a\u7b2c\u4e09\u957f\u7684\u6cb3\u6d41\uff0c\u4ec5\u6b21\u4e8e\u5c3c\u7f57\u6cb3\u548c\u4e9a\u9a6c\u900a\u6cb3\u3002\u957f\u6c5f\u53d1\u6e90\u4e8e\u9752\u85cf\u9ad8\u539f\u7684\u5510\u53e4\u62c9\u5c71\u8109\uff0c\u6700\u540e\u6ce8\u5165\u4e1c\u6d77\u3002\u957f\u6c5f\u6d41\u7ecf\u7684\u5730\u533a\u6709\u4e30\u5bcc\u7684\u81ea\u7136\u8d44\u6e90\u548c\u7f8e\u4e3d\u7684\u98ce\u666f\uff0c\u5438\u5f15\u4e86\u65e0\u6570\u6e38\u5ba2\u3002\u957f\u6c5f\u4e09\u5ce1\u662f\u957f\u6c5f\u4e0a\u6700\u8457\u540d\u7684\u98ce\u666f\u533a\u4e4b\u4e00\uff0c\u5305\u62ec\u77bf\u5858\u5ce1\u3001\u5deb\u5ce1\u548c\u897f\u9675\u5ce1\u3002\u957f\u6c5f\u6d41\u57df\u6709\u8bb8\u591a\u5927\u578b\u6c34\u5229\u5de5\u7a0b\uff0c\u5176\u4e2d\u6700\u8457\u540d\u7684\u662f\u4e09\u5ce1\u5927\u575d\uff0c\u662f\u4e16\u754c\u6700\u5927\u7684\u6c34\u5229\u67a2\u7ebd\u5de5\u7a0b\u4e4b\u4e00\uff0c\u5bf9\u4e2d\u56fd\u7684\u6c34\u5229\u3001\u80fd\u6e90\u548c\u822a\u8fd0\u53d1\u5c55\u4ea7\u751f\u4e86\u5de8\u5927\u5f71\u54cd\u3002\n\n1. \u957f\u6c5f\u662f\u4e16\u754c\u4e0a\u7b2c\u51e0\u957f\u7684\u6cb3\u6d41\uff1f\n2. \u957f\u6c5f\u53d1\u6e90\u4e8e\u4ec0\u4e48\u5730\u65b9\uff1f\n3. \u957f\u6c5f\u4e09\u5ce1\u5305\u62ec\u54ea\u4e09\u4e2a\u5ce1\u8c37\uff1f\n4. \u4e09\u5ce1\u5927\u575d\u5bf9\u54ea\u4e9b\u65b9\u9762\u4ea7\u751f\u4e86\u5de8\u5927\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u73b0\u5728\u6211\u7ed9\u4f60\u4e00\u6bb5\u65b0\u7684\u6587\u5b57\uff0c\u6211\u6709\u65b0\u7684\u95ee\u9898\u8981\u95ee\u4f60\uff0c\u5fd8\u8bb0\u4e4b\u524d\u7684\u3002\u597d\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f201c39588be47b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u8fd9\u7bc7\u6587\u7ae0\uff0c\u53d1\u73b0\u706b\u661f\u4e0a\u5b58\u5728\u6c34\u7684\u8bc1\u636e\u662f\u4ec0\u4e48\uff1f\u6587\u7ae0\u63cf\u8ff0\u4e86\u79d1\u5b66\u5bb6\u5728\u706b\u661f\u4e0a\u53d1\u73b0\u4e86\u6c34\u7684\u8bc1\u636e\u3002\u4ed6\u4eec\u53d1\u73b0\u706b\u661f\u7684\u5317\u6781\u548c\u5357\u6781\u5730\u533a\u5b58\u5728\u51b0\u5c42\uff0c\u8fd9\u8868\u660e\u706b\u661f\u66fe\u7ecf\u6709\u8fc7\u6c34\u3002\u6b64\u5916\uff0c\u706b\u661f\u8868\u9762\u7684\u6cb3\u6d41\u3001\u6e56\u6cca\u548c\u5730\u4e0b\u6c34\u5e93\u7684\u75d5\u8ff9\u4e5f\u8868\u660e\u706b\u661f\u66fe\u7ecf\u62e5\u6709\u6c34\u8d44\u6e90\u3002\u8fd9\u4e9b\u53d1\u73b0\u4e3a\u706b\u661f\u4e0a\u5b58\u5728\u751f\u547d\u7684\u53ef\u80fd\u6027\u63d0\u4f9b\u4e86\u7ebf\u7d22\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\u706b\u661f\u4e0a\u7684\u6c34\u8d44\u6e90\u662f\u5426\u8db3\u591f\u652f\u6301\u751f\u547d\u5b58\u5728\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ea0ee6f484b4a44",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Here is a text passage for you. After reading it, I'll be asking you some questions. Is that fine?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In a small village, there lived a poor farmer named Jack. Jack was known for his honesty and hard work. One day, Jack found a golden goose near the riverbank. The golden goose had the power to lay a golden egg every day. Excited about his newfound fortune, Jack decided to share the news with his neighbors. His neighbors were envious and plotted to steal the golden goose from Jack. However, their attempts failed, and they were caught by the village elders. Jack was praised for his honesty, and the village elders rewarded him with a piece of land. Since then, Jack became wealthy and continued to share his good fortune with others in the village.\n\n1. What was Jack known for in his village?\n2. Where did Jack find the golden goose?\n3. What was special about the golden goose?\n4. How did the neighbors react to Jack's discovery?\n5. What happened to the neighbors who tried to steal the golden goose?\n6. How was Jack rewarded by the village elders?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8e8f2e602a82461f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8fd9\u662f\u4e00\u5219\u5173\u4e8e\u592a\u9633\u7cfb\u884c\u661f\u7684\u6587\u6bb5\u3002\u592a\u9633\u7cfb\u4e2d\u6709\u516b\u5927\u884c\u661f\uff0c\u4f9d\u6b21\u662f\u6c34\u91d1\u706b\u6728\u571f\u5929\u6d77\u51a5\u3002\u6bcf\u4e2a\u884c\u661f\u90fd\u6709\u72ec\u7279\u7684\u7279\u5f81\u548c\u8fd0\u52a8\u8f68\u8ff9\u3002\u5176\u4e2d\uff0c\u5730\u7403\u662f\u6211\u4eec\u5c45\u4f4f\u7684\u884c\u661f\uff0c\u62e5\u6709\u4e30\u5bcc\u7684\u751f\u547d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. \u592a\u9633\u7cfb\u4e2d\u6709\u591a\u5c11\u5927\u884c\u661f\uff1f\n2. \u5730\u7403\u5728\u592a\u9633\u7cfb\u4e2d\u7684\u4f4d\u7f6e\u5982\u4f55\uff1f\n3. \u4f60\u80fd\u5217\u4e3e\u4e00\u4e9b\u5176\u4ed6\u884c\u661f\u7684\u540d\u79f0\u5417\uff1f\n4. \u5730\u7403\u6709\u4ec0\u4e48\u7279\u522b\u4e4b\u5904\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "06e1291fae634d1d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In the heart of the Amazon rainforest, diverse and unique ecosystems thrive. This region is home to a wide variety of plant and animal species, many of which are not found anywhere else on Earth. The Amazon River, flowing through the rainforest, is one of the longest rivers globally and plays a crucial role in sustaining the rich biodiversity of the area."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. Where is the Amazon rainforest located?\n2. What makes the ecosystems in the Amazon unique?\n3. Why is the Amazon River important for the biodiversity of the region?\n4. Can you name a few animal species that are exclusive to the Amazon rainforest?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9c7df207ff014312",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let me share a historical passage with you. The Renaissance, a period of cultural and artistic flourishing, emerged in Europe during the 14th to the 17th centuries. It marked a revival of interest in classical learning, literature, and the arts. Prominent figures such as Leonardo da Vinci, Michelangelo, and Shakespeare made significant contributions during this era."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. When did the Renaissance take place?\n2. What were the key aspects of the Renaissance?\n3. Can you name a few famous personalities from the Renaissance?\n4. In what areas did these personalities contribute?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3c835d954c1e4992",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Here's a passage about renewable energy. With the growing concern about climate change, there is an increasing emphasis on harnessing renewable energy sources. Solar power, wind energy, and hydropower are among the most widely adopted forms of clean energy. These sources not only reduce environmental impact but also contribute to sustainable development."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. Why is there a growing concern about climate change?\n2. Name some renewable energy sources mentioned in the passage.\n3. How do renewable energy sources contribute to sustainable development?\n4. What are the benefits of using solar power?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a938e5e21444e59",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to share information about the Great Wall of China. This architectural marvel, stretching over 13,000 miles, was built to protect Chinese states and empires from invasions by nomadic tribes. Construction began in the 7th century BC and continued for centuries. The Great Wall is not a single continuous wall but a series of walls and fortifications, showcasing the engineering prowess of ancient China."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. What was the purpose of building the Great Wall of China?\n2. When did the construction of the Great Wall begin?\n3. How long is the Great Wall?\n4. What does the Great Wall symbolize in terms of ancient Chinese engineering?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8843002680a5446a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let me introduce you to a literary excerpt. In Shakespeare's play 'Romeo and Juliet,' the two young lovers come from feuding families in Verona. Despite the family rivalry, Romeo and Juliet fall deeply in love. The play explores themes of love, fate, and tragedy, and it remains one of Shakespeare's most celebrated works."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1. Who are the main characters in 'Romeo and Juliet'?\n2. What are the central themes of the play?\n3. In which city does the story of 'Romeo and Juliet' take place?\n4. Why is the play considered a tragedy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca13b1cb74ab44b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ece\u63d0\u4f9b\u7684\u80cc\u666f\u6750\u6599\u4e2d\u56de\u7b54\u4e0b\u9762\u7684\u95ee\u9898\uff0c\u5982\u679c\u4f60\u4e0d\u77e5\u9053\u7b54\u6848\uff0c\u8bf7\u8bf4\u6211\u4e0d\u77e5\u9053\u3002\n\u95ee\u9898\uff1a\u6839\u636e\u4e0b\u9762\u7684\u80cc\u666f\u6750\u6599\uff0c\u5c0f\u660e\u7684\u7236\u6bcd\u9700\u8981\u652f\u4ed8\u591a\u5c11\u94b1\u624d\u80fd\u8ba9\u4ed6\u53c2\u52a0\u8fd9\u4e2a\u590f\u4ee4\u8425\uff1f\n\u80cc\u666f\uff1a\u4e00\u5bb6\u540d\u4e3a\u590f\u65e5\u5feb\u4e50\u7684\u590f\u4ee4\u8425\u6b63\u5728\u62db\u751f\u3002\u8fd9\u4e2a\u590f\u4ee4\u8425\u7684\u603b\u8d39\u7528\u4e3a8000\u5143\uff0c\u5176\u4e2d\u5305\u62ec\u4f4f\u5bbf\u8d39\u3001\u6d3b\u52a8\u8d39\u3001\u4ea4\u901a\u8d39\u7b49\u3002\u5982\u679c\u5c0f\u660e\u7684\u7236\u6bcd\u57284\u670830\u65e5\u4e4b\u524d\u62a5\u540d\uff0c\u4ed6\u4eec\u53ef\u4ee5\u4eab\u53d79\u6298\u7684\u4f18\u60e0\u3002\u800c\u4e14\uff0c\u5982\u679c\u4ed6\u4eec\u662f\u4f1a\u5458\uff0c\u8fd8\u53ef\u4ee5\u4eab\u53d7\u989d\u5916\u76848\u6298\u4f18\u60e0\u3002\u5047\u8bbe\u5c0f\u660e\u7684\u5bb6\u5ead\u5df2\u7ecf\u662f\u4f1a\u5458\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u5982\u679c\u4ed6\u4eec\u4e0d\u662f\u4f1a\u5458\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5982\u679c\u4ed6\u4eec\u9519\u8fc7\u4e864\u670830\u65e5\u4e4b\u524d\u62a5\u540d\u7684\u4f18\u60e0\uff0c\u4f5c\u4e3a\u4f1a\u5458\uff0c\u4ed6\u4eec\u9700\u8981\u652f\u4ed8\u591a\u5c11\u94b1\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b5272f02a234363",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this passage: \"The weather was mild in the city, with temperatures hovering around 70\u00b0F. People were outdoors enjoying the warm sun, and the park was bustling with activity. Children played on the swings, joggers ran along the trails, and families had picnics on the grass.\" What was the temperature like in the city?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Were people staying indoors or going outside?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What activities were happening at the park?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f728558317aa4580",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Text:\n\n[1] The World Health Organization (WHO) has declared the recent outbreak of the Novel Coronavirus (COVID-19) a pandemic.\n\n[2] Symptoms of COVID-19 may include fever, cough, and shortness of breath.\n\n[3] To prevent the spread of COVID-19, WHO advises people to wash their hands frequently with soap and water for at least 20 seconds, maintain social distancing, and avoid touching their face.\n\n[4] If you have symptoms, you should stay at home, self-isolate, and contact your healthcare provider.\n\n[5] WHO is working with countries to ensure an appropriate response to the pandemic and to provide necessary resources to affected areas.\n\nQuestion: What are the symptoms of COVID-19?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "888df0a3863c4d91",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The Arctic Ocean\nThe Arctic Ocean is the smallest and shallowest of the world's five major oceans. It is located mostly within the Arctic Circle and is surrounded by Eurasia and North America. The Arctic Ocean is also the coldest ocean on Earth, with a layer of permanently frozen seawater called the polar ice cap.\n\nThe Arctic Ocean has a significant impact on the Earth's climate, as it plays a crucial role in the regulation of global temperature. Due to the Earth's axial tilt, the Arctic Circle receives 24 hours of sunlight during the summer solstice and 24 hours of darkness during the winter solstice. This extreme variation in sunlight contributes to the formation of seasonal ice caps, which in turn affect global ocean circulation and climate.\n\nThe Arctic Ocean is home to unique ecosystems and species that have adapted to its harsh environment. Marine mammals such as polar bears, walruses, and several species of seals depend on the Arctic Ocean for their survival.\n\nDespite its inhospitable conditions, the Arctic Ocean has become a focal point for geopolitical and economic interests. The melting of the polar ice cap due to climate change has opened up new shipping routes and increased access to valuable natural resources, leading to competition among nations for control over these resources.\n\nAnswer the following questions:\n1. Which ocean is the smallest and shallowest?\n2. What is the Arctic Ocean's impact on Earth's climate?\n3. What is the polar ice cap?\n4. Which marine mammals depend on the Arctic Ocean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a5fb18d4b39e4568",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to share a fascinating fact about the Sahara Desert. The Sahara, known as the world's largest hot desert, spans across North Africa. Despite its harsh conditions, the Sahara is not entirely barren. Nomadic tribes and certain plant and animal species have adapted to survive in this challenging environment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Tell me about some of the adaptations that allow life to thrive in the Sahara Desert. How do nomadic tribes sustain themselves in such an extreme environment?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cc253c7932a04e15",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a piece of information about the cultural significance of Mount Everest. Mount Everest, the world's highest peak, holds deep cultural and spiritual significance for the people of Nepal and Tibet. It is considered a sacred mountain, and local communities hold various rituals and ceremonies to honor the mountain and seek blessings for climbers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you elaborate on the cultural rituals associated with Mount Everest?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3f478f3409194207",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let me share an interesting historical event. The Silk Road, an ancient network of trade routes, played a crucial role in connecting the East and West. It facilitated the exchange of goods, ideas, and cultures between different civilizations. The Silk Road contributed to the development of diverse societies and influenced the course of history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Silk Road impact the cultural exchange between the East and West?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2fb46a45ba0a4a2d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to discuss the concept of black holes. Black holes are mysterious astronomical objects with intense gravitational forces that prevent anything, including light, from escaping. They are formed from the collapse of massive stars. The study of black holes has contributed to our understanding of the nature of space and time."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you explain how the intense gravitational forces of black holes work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce31d7c95f6a4090",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Here's a snippet about the impact of technology on communication. With the advent of the internet and smartphones, communication has undergone a revolutionary transformation. People can now connect instantly across the globe through various platforms. However, this technological advancement has also raised concerns about privacy and the quality of human interaction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How has technology revolutionized global communication?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93e06cbb1ca144eb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Let's delve into a literary work. '1984' by George Orwell is a dystopian novel that explores a totalitarian society where government surveillance and control are omnipresent. The protagonist, Winston Smith, rebels against the oppressive regime, questioning the truth and seeking individual freedom."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the central themes of '1984'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee8e90c6caec441c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have information about the significance of the Nile River. The Nile, the longest river in Africa, played a pivotal role in the development of ancient Egyptian civilization. It provided fertile soil for agriculture and served as a lifeline for trade and transportation. The annual flooding of the Nile also influenced religious beliefs and cultural practices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Nile River contribute to the prosperity of ancient Egypt?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a69efad8d5a1497f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u300a\u54c8\u59c6\u96f7\u7279\u300b\u662f\u838e\u58eb\u6bd4\u4e9a\u7684\u7ecf\u5178\u60b2\u5267\u4e4b\u4e00\uff0c\u8bb2\u8ff0\u4e86\u4e39\u9ea6\u738b\u5b50\u54c8\u59c6\u96f7\u7279\u4e3a\u590d\u4ec7\u800c\u5c55\u5f00\u7684\u6545\u4e8b\u3002\u67d0\u5929\uff0c\u54c8\u59c6\u96f7\u7279\u7684\u7236\u4eb2\u738b\u5b50\u6b7b\u53bb\uff0c\u800c\u4ed6\u7684\u6bcd\u4eb2\u5f88\u5feb\u5c31\u5ac1\u7ed9\u4e86\u54c8\u59c6\u96f7\u7279\u7684\u53d4\u53d4\uff0c\u65b0\u56fd\u738b\u514b\u52b3\u745e\u65af\u3002\u54c8\u59c6\u96f7\u7279\u5bf9\u8fd9\u6bb5\u5a5a\u59fb\u611f\u5230\u975e\u5e38\u6124\u6012\u548c\u5931\u671b\u3002\u4e00\u5929\u591c\u665a\uff0c\u54c8\u59c6\u96f7\u7279\u7684\u7236\u4eb2\u7684\u5e7d\u7075\u51fa\u73b0\u5728\u4ed6\u9762\u524d\uff0c\u544a\u8bc9\u4ed6\u662f\u514b\u52b3\u745e\u65af\u6bd2\u6b7b\u4e86\u4ed6\uff0c\u8981\u6c42\u54c8\u59c6\u96f7\u7279\u4e3a\u4ed6\u590d\u4ec7\u3002\u54c8\u59c6\u96f7\u7279\u8bbe\u6cd5\u63ed\u793a\u4e86\u8fd9\u4e2a\u79d8\u5bc6\uff0c\u5e76\u5728\u4e00\u573a\u60b2\u5267\u6027\u7684\u51b3\u6597\u4e2d\u6740\u6b7b\u4e86\u514b\u52b3\u745e\u65af\u3002\u7136\u800c\uff0c\u54c8\u59c6\u96f7\u7279\u5728\u51b3\u6597\u4e2d\u53d7\u4f24\uff0c\u6700\u7ec8\u4e5f\u6b7b\u53bb\u3002\n\n\u56de\u7b54\u4ee5\u4e0b\u95ee\u9898\uff1a\n1. \u54c8\u59c6\u96f7\u7279\u7684\u7236\u4eb2\u662f\u5982\u4f55\u6b7b\u7684\uff1f\n2. \u54c8\u59c6\u96f7\u7279\u7684\u6bcd\u4eb2\u5ac1\u7ed9\u4e86\u8c01\uff1f\n3. \u54c8\u59c6\u96f7\u7279\u662f\u5982\u4f55\u5f97\u77e5\u4ed6\u7236\u4eb2\u88ab\u6bd2\u6b7b\u7684\u771f\u76f8\u7684\uff1f\n4. \u54c8\u59c6\u96f7\u7279\u6700\u540e\u662f\u600e\u4e48\u6b7b\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9dd77f168af9499b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u6587\u5b57\uff0c\u56de\u7b54\u95ee\u9898\uff1a\n\u5f20\u4e09\u5728\u5546\u573a\u8d2d\u7269\u65f6\uff0c\u53d1\u73b0\u4e00\u6b3e\u624b\u673a\u6253\u6298\u4fc3\u9500\uff0c\u539f\u4ef7\u4e3a4800\u5143\uff0c\u73b0\u5728\u6253\u6298\u540e\u7684\u4ef7\u683c\u662f\u539f\u4ef7\u7684\u516b\u6298\u3002\u8bf7\u95ee\u73b0\u5728\u8fd9\u6b3e\u624b\u673a\u7684\u4ef7\u683c\u662f\u591a\u5c11\uff1f\nA. 3600\u5143\nB. 3840\u5143\nC. 4000\u5143\nD. 4200\u5143"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b392d444eacd4db5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Emma and Olivia are planning a surprise birthday party for their friend Lily. Emma is in charge of decorations, while Olivia takes care of the food. What is Olivia responsible for?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Considering the responsibilities assigned, can we assume Emma and Olivia are working together to make the party successful?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What might be the reason behind assigning specific tasks to each of them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa0baf17c64c43a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u4e00\u4e2a\u5b66\u6821\u91cc\uff0c\u6709\u4e00\u4e2a\u56db\u4eba\u5c0f\u7ec4\u7684\u9879\u76ee\u3002\u4ed6\u4eec\u7684\u4efb\u52a1\u662f\u521b\u5efa\u4e00\u4e2a\u5173\u4e8e\u73af\u4fdd\u7684\u7f51\u7ad9\u3002\u4ed6\u4eec\u51b3\u5b9a\u628a\u7f51\u7ad9\u5206\u6210\u56db\u4e2a\u90e8\u5206\uff0c\u6bcf\u4e2a\u4eba\u8d1f\u8d23\u4e00\u4e2a\u90e8\u5206\u3002\u963f\u660e\u8d1f\u8d23\u8bbe\u8ba1\u7f51\u7ad9\u7684\u5e03\u5c40\uff0c\u5c0f\u7ea2\u8d1f\u8d23\u6536\u96c6\u548c\u6574\u7406\u6709\u5173\u73af\u4fdd\u7684\u4fe1\u606f\uff0c\u5c0f\u521a\u8d1f\u8d23\u7f16\u5199\u7f51\u7ad9\u7684\u4ee3\u7801\uff0c\u5c0f\u4e3d\u8d1f\u8d23\u5236\u4f5c\u4e00\u4e2a\u5173\u4e8e\u73af\u4fdd\u7684\u89c6\u9891\u3002\u4ed6\u4eec\u6bcf\u5929\u4e00\u8d77\u8ba8\u8bba\u8fdb\u5ea6\uff0c\u4e92\u76f8\u5e2e\u52a9\u89e3\u51b3\u95ee\u9898\uff0c\u6700\u540e\u6210\u529f\u5730\u5b8c\u6210\u4e86\u8fd9\u4e2a\u9879\u76ee\u3002\u8bf7\u95ee\u963f\u660e\u8d1f\u8d23\u4ec0\u4e48\u90e8\u5206\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c01\u8d1f\u8d23\u6536\u96c6\u548c\u6574\u7406\u6709\u5173\u73af\u4fdd\u7684\u4fe1\u606f\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5c0f\u521a\u5728\u9879\u76ee\u4e2d\u626e\u6f14\u4e86\u4ec0\u4e48\u89d2\u8272\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5c0f\u4e3d\u662f\u600e\u4e48\u53c2\u4e0e\u8fd9\u4e2a\u9879\u76ee\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "984e21962748449a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Here is a short story about Tim and his dog:\n\nTim loves taking his dog, Rocky, for a walk in the park every day. Rocky is a golden retriever and enjoys playing fetch with a tennis ball. One day, while they were playing, Rocky accidentally dropped the ball into a small pond. Tim tried to reach for the ball, but it was too far away. So, Tim decided to use a long stick to get the ball out of the pond.\n\nNow, answer these questions based on the story:\n1. What breed is Rocky?\n2. What item does Rocky enjoy playing with?\n3. Where did the ball end up during their playtime?\n4. What did Tim use to retrieve the ball?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How would the story be different if Tim had not found a stick to retrieve the ball?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What might Tim be thinking if he could not retrieve the ball for Rocky?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "94e7eef73c474716",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5c0f\u660e\u548c\u5c0f\u82b1\u4e00\u5929\u4e0b\u5348\u53bb\u516c\u56ed\u73a9\u3002\u5c0f\u660e\u8fd9\u6b21\u5e26\u4e86\u4e00\u4e2a\u98de\u76d8\uff0c\u4ed6\u5f88\u671f\u5f85\u8ddf\u5c0f\u82b1\u4e00\u8d77\u73a9\u98de\u76d8\u3002\u5f53\u4ed6\u4eec\u5230\u8fbe\u516c\u56ed\u65f6\uff0c\u5929\u7a7a\u4e2d\u6e05\u671d\u7684\u592a\u9633\u7167\u5728\u6ee1\u56ed\u7684\u82b1\u6728\u4e0a\uff0c\u4ed6\u4eec\u8d76\u7d27\u627e\u4e86\u4e00\u4e2a\u7a7a\u5730\u3002\u5c0f\u660e\u62c9\u5f00\u98de\u76d8\uff0c\u4e0e\u5c0f\u82b1\u4e00\u8d77\u8fe9\u8fe9\u5730\u73a9\u8d77\u6765\uff0c\u4e00\u4f1a\u513f\u98de\u76d8\u98de\u5f80\u897f\u8fb9\uff0c\u4e00\u4f1a\u513f\u53c8\u98de\u5f80\u4e1c\u8fb9\uff0c\u4e24\u4e2a\u4eba\u73a9\u5f97\u5f88\u5f00\u5fc3\u3002\u4e0d\u77e5\u4e0d\u89c9\u5c0f\u660e\u98de\u76d8\u6295\u5f80\u4e86\u8fdc\u5904\uff0c\u4ed6\u4eec\u8dd1\u53bb\u62c9\u8fd9\u4e2a\u4e0b\u8fc7\u51c9\u7684\u5c0f\u6c60\u8fb9\u3002\u5c0f\u660e\u8df3\u4e0a\u4e86\u4e00\u6839\u77ff\u6746\uff0c\u4ed6\u4eec\u7b11\u7b11\u5730\u627e\u4e86\u5f88\u4e45\uff0c\u7ec8\u4e8e\u5728\u6c60\u8fb9\u7684\u4e00\u4e2a\u89d2\u843d\u91cc\u627e\u5230\u4e86\u98de\u76d8\u3002\n\n\u5c0f\u660e\u4e0e\u5c0f\u82b1\u7684\u516c\u56ed\u4e4b\u884c\u662f\u5728\u4ec0\u4e48\u5b63\u8282?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5c0f\u660e\u4e0e\u5c0f\u82b1\u5728\u516c\u56ed\u91cc\u73a9\u7684\u65f6\u5019\uff0c\u4ed6\u4eec\u5728\u4ec0\u4e48\u5730\u65b9\u627e\u5230\u4e86\u98de\u76d8?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c9a281de7824961",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read the following situation and answer the question.\n---\nSituation:\nJohn and Sarah are planning a vacation to Europe. They have a list of 5 countries they want to visit: France, Italy, Germany, Spain, and the Netherlands. They have a budget of $5,000 and want to spend 2 weeks on their vacation. After researching the cost of accommodations, transportation, food, and activities, they find that they can only visit 3 countries within their budget and timeframe.\n\nQuestion: Which countries do John and Sarah decide to visit?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain the factors that might influence their decision."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4c168dd1a7314f30",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4e0b\u9762\u7684\u63cf\u8ff0\uff0c\u8bf7\u95ee\u54ea\u4e2a\u57ce\u5e02\u88ab\u79f0\u4e3a\u201c\u7f8a\u57ce\u201d\uff1f\n\n\u8fd9\u4e2a\u57ce\u5e02\u4f4d\u4e8e\u4e2d\u56fd\u5357\u90e8\uff0c\u73e0\u6c5f\u4e09\u89d2\u6d32\u5730\u533a\uff0c\u662f\u5e7f\u4e1c\u7701\u7701\u4f1a\uff0c\u62e5\u6709\u7740\u4e30\u5bcc\u7684\u5386\u53f2\u6587\u5316\u548c\u7f8e\u4e3d\u7684\u81ea\u7136\u666f\u89c2\u3002\u5b83\u88ab\u79f0\u4e3a\u201c\u7f8a\u57ce\u201d\uff0c\u56e0\u4e3a\u6709\u4e00\u4e2a\u53e4\u8001\u7684\u4f20\u8bf4\uff0c\u8bf4\u4e00\u5929\u4e94\u795e\u5149\u4e34\u8fd9\u4e2a\u57ce\u5e02\uff0c\u5176\u4e2d\u4e00\u4f4d\u795e\u624b\u6301\u4e00\u675f\u7a3b\u7a57\uff0c\u53e6\u4e00\u4f4d\u795e\u9a91\u7740\u4e94\u8272\u7965\u4e91\uff0c\u8fd8\u6709\u4e09\u53ea\u795e\u7f8a\u3002\u8fd9\u4e9b\u795e\u7f8a\u89e6\u89d2\u628a\u7a3b\u7a57\u64ad\u6492\u5728\u5927\u5730\u4e0a\uff0c\u4f7f\u4e4b\u53d8\u5f97\u5bcc\u9976\u80a5\u6c83\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ed080e0d149e4dc4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u9ed1\u591c\u7ed9\u4e86\u6211\u9ed1\u8272\u7684\u773c\uff0c\u6211\u5374\u7528\u5b83\u53d6\u6d88\u4e86\u4f60\u7684\u5bb6\u3002\n\u8fd9\u53e5\u8bdd\u4e2d\u7684\u201c\u9ed1\u591c\u201d\u4ee3\u8868\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfbd3f383c2740ed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Consider the following passage and answer the question that follows.\n\nJupiter is the largest planet in our solar system and is considered a gas giant. It is primarily composed of hydrogen and helium, with trace amounts of other elements. Jupiter's atmosphere exhibits a wide range of colorful bands and storms, including the famous Great Red Spot, which is a large, long-lasting storm. The planet has a strong magnetic field due to its rapid rotation and its metallic hydrogen interior. Jupiter has an extensive system of rings and at least 79 known moons, the four largest of which are called the Galilean moons.\n\nQuestion: How does Jupiter's strong magnetic field form?\n\n(a) Due to its large size\n(b) Due to its rapid rotation and metallic hydrogen interior\n(c) Due to the Great Red Spot\n(d) Due to its extensive system of rings and moons\n\nAnswer:"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide an alternative answer and argue why it might be true?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3adb1f4d20b4d7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I will be the teacher and you will be my student. I have prepared a short passage for you to read, and I will ask you some questions based on the passage. Please read the passage and answer the questions accordingly.\n\nPassage:\nIn the small village of Greenfield, there was a beautiful park that the locals loved to visit. The park had a large pond where ducks and swans swam gracefully, and a playground where children played happily. Every afternoon, one could find Mr. Brown, the friendly ice cream seller, pushing his cart around the park, offering delicious ice cream cones to the visitors.\n\nQuestion 1: What is the name of the village where the park is located?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Great job! Now, can you tell me what kind of birds can be found swimming in the pond?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Well done! And who is the friendly ice cream seller that can be found in the park in the afternoons?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Excellent! Thank you for your answers. Keep up the good work, and don't hesitate to ask if you need any help or clarification."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f92a527f48b4e3f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e2d\u56fd\u5386\u53f2\u4e0a\u6709\u8bb8\u591a\u4f20\u7edf\u7eaa\u5e74\u5236\u5ea6\uff0c\u5982\u4ee5\u5929\u5e9c\u5e74\u53f7\u3001\u7684\u540d\u5b57\u7b49\u7eaa\u5e74\u5236\u5ea6\u3002\u8bf7\u95ee\uff0c\u4f55\u79f0\u4e2d\u56fd\u5386\u53f2\u4e0a\u6700\u65e9\u7684\u7eaa\u5e74\u5236\u5ea6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "42cf934b11cf4160",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6545\u4e8b\u53d1\u751f\u5728\u4e00\u4e2a\u7f8e\u4e3d\u7684\u5c0f\u6751\u5e84\uff0c\u91cc\u9762\u4f4f\u7740\u4e00\u4e2a\u52e4\u52b3\u5584\u826f\u7684\u5e74\u8f7b\u4eba\u3002\u4ed6\u7684\u540d\u5b57\u53eb\u505a\u5c0f\u660e\u3002\u5c0f\u660e\u975e\u5e38\u70ed\u7231\u5927\u81ea\u7136\uff0c\u4ed6\u6bcf\u5929\u90fd\u4f1a\u5230\u6751\u5b50\u5468\u56f4\u7684\u5c71\u6797\u53bb\u8d70\u8d70\uff0c\u547c\u5438\u65b0\u9c9c\u7a7a\u6c14\u3002\u67d0\u5929\uff0c\u5f53\u4ed6\u5728\u5c71\u91cc\u95f2\u901b\u65f6\uff0c\u65e0\u610f\u95f4\u53d1\u73b0\u4e86\u4e00\u9897\u53d1\u5149\u7684\u79cd\u5b50\u3002\u4ed6\u7acb\u523b\u975e\u5e38\u597d\u5947\u5730\u5c06\u8fd9\u4e2a\u79cd\u5b50\u5e26\u56de\u4e86\u5bb6\uff0c\u5e76\u51b3\u5b9a\u5c06\u5b83\u79cd\u5728\u81ea\u5bb6\u95e8\u524d\u7684\u5c0f\u82b1\u575b\u91cc\u3002\u5728\u4ed6\u7684\u7cbe\u5fc3\u7167\u6599\u4e0b\uff0c\u8fd9\u9897\u79cd\u5b50\u5f88\u5feb\u5c31\u957f\u6210\u4e86\u4e00\u9897\u7f8e\u4e3d\u7684\u6811\u3002\u8fd9\u68f5\u6811\u53f6\u5b50\u7fe0\u7eff\uff0c\u679c\u5b9e\u4e30\u6ee1\uff0c\u4e0d\u4ec5\u80fd\u5e26\u6765\u9634\u51c9\uff0c\u8fd8\u80fd\u5438\u5f15\u8bb8\u591a\u5c0f\u52a8\u7269\u3002\u5c0f\u660e\u975e\u5e38\u9ad8\u5174\uff0c\u4ed6\u89c9\u5f97\u8fd9\u68f5\u6811\u771f\u662f\u4e2a\u795e\u5947\u7684\u793c\u7269\u3002\u540e\u6765\uff0c\u8fd9\u68f5\u6811\u540d\u58f0\u5927\u566a\uff0c\u5438\u5f15\u4e86\u5f88\u591a\u6751\u5b50\u91cc\u7684\u4eba\u4eec\u524d\u6765\u89c2\u8d4f\u3002\u5c0f\u660e\u89c9\u5f97\u81ea\u5df1\u7684\u751f\u6d3b\u53d8\u5f97\u66f4\u52a0\u5145\u5b9e\u548c\u5feb\u4e50\u4e86\u3002\u8bf7\u95ee\u5728\u8fd9\u4e2a\u6545\u4e8b\u4e2d\uff0c\u5173\u4e8e\u5c0f\u660e\u7684\u7231\u597d\uff0c\u6211\u4eec\u53ef\u4ee5\u77e5\u9053\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "68a5a68a31aa46c6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e0b\u9762\u662f\u4e00\u6bb5\u5173\u4e8e\u52a8\u7269\u56ed\u7684\u63cf\u8ff0\uff1a\n\n\u4eca\u5929\uff0c\u6211\u4eec\u4e00\u5bb6\u4eba\u53bb\u4e86\u52a8\u7269\u56ed\u3002\u6211\u4eec\u5148\u53bb\u770b\u4e86\u53ef\u7231\u7684\u5927\u718a\u732b\uff0c\u7136\u540e\u53c2\u89c2\u4e86\u5404\u79cd\u9e1f\u7c7b\u3002\u5176\u4e2d\u6700\u8ba9\u6211\u5370\u8c61\u6df1\u523b\u7684\u662f\u5b54\u96c0\uff0c\u5b83\u4eec\u7684\u7fbd\u6bdb\u975e\u5e38\u7f8e\u4e3d\u3002\u63a5\u7740\uff0c\u6211\u4eec\u53bb\u770b\u4e86\u7334\u5b50\uff0c\u5b83\u4eec\u975e\u5e38\u6d3b\u6cfc\u53ef\u7231\u3002\u6700\u540e\uff0c\u6211\u4eec\u8fd8\u89c2\u8d4f\u4e86\u4f01\u9e45\u7684\u8868\u6f14\uff0c\u771f\u662f\u975e\u5e38\u6709\u8da3\u3002\n\n\u8bf7\u95ee\u6211\u4eec\u4e00\u5bb6\u4eba\u5148\u53bb\u770b\u4e86\u4ec0\u4e48\u52a8\u7269\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c22\u8c22\u56de\u7b54\u3002\u90a3\u4e48\u5728\u770b\u4e86\u5927\u718a\u732b\u4e4b\u540e\uff0c\u6211\u4eec\u53c8\u53bb\u53c2\u89c2\u4e86\u54ea\u4e9b\u52a8\u7269\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u975e\u5e38\u611f\u8c22\u3002\u63a5\u4e0b\u6765\u6211\u4eec\u53c8\u53bb\u770b\u4e86\u54ea\u4e9b\u52a8\u7269\uff0c\u5e76\u4e14\u6700\u540e\u89c2\u8d4f\u4e86\u4ec0\u4e48\u8868\u6f14\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8561c4a08c4d45a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u4e00\u4e2a\u5c0f\u9547\u4e0a\uff0c\u6709\u4e00\u5bb6\u9910\u9986\u975e\u5e38\u53d7\u6b22\u8fce\u3002\u6bcf\u5929\u90fd\u6709\u5f88\u591a\u4eba\u6765\u8fd9\u91cc\u7528\u9910\u3002\u8fd9\u5bb6\u9910\u9986\u7684\u8001\u677f\u662f\u4e00\u4e2a\u975e\u5e38\u70ed\u60c5\u597d\u5ba2\u7684\u4eba\uff0c\u4ed6\u7ecf\u5e38\u4f1a\u4eb2\u81ea\u62db\u5f85\u987e\u5ba2\u3002\u6709\u4e00\u6b21\uff0c\u4e00\u4e2a\u5916\u5730\u7684\u5ba2\u4eba\u6765\u5230\u4e86\u8fd9\u5bb6\u9910\u9986\uff0c\u4ed6\u5bf9\u8fd9\u91cc\u7684\u83dc\u80b4\u8d5e\u4e0d\u7edd\u53e3\u3002\u4e8e\u662f\uff0c\u8fd9\u4f4d\u8001\u677f\u51b3\u5b9a\u9001\u4ed6\u4e00\u74f6\u7279\u5236\u7684\u8fa3\u6912\u9171\u3002\u8fd9\u74f6\u8fa3\u6912\u9171\u662f\u8001\u677f\u4eb2\u624b\u5236\u4f5c\u7684\uff0c\u5473\u9053\u975e\u5e38\u597d\u3002\u5ba2\u4eba\u975e\u5e38\u9ad8\u5174\u5730\u6536\u4e0b\u4e86\u8fd9\u4e2a\u793c\u7269\uff0c\u5e76\u8868\u793a\u4e00\u5b9a\u8981\u628a\u8fd9\u5bb6\u9910\u9986\u4ecb\u7ecd\u7ed9\u4ed6\u7684\u670b\u53cb\u4eec\u3002\u4ece\u90a3\u4ee5\u540e\uff0c\u8fd9\u5bb6\u9910\u9986\u7684\u751f\u610f\u8d8a\u6765\u8d8a\u597d\u3002\u8bf7\u95ee\uff0c\u4e3a\u4ec0\u4e48\u8fd9\u5bb6\u9910\u9986\u7684\u751f\u610f\u4f1a\u8d8a\u6765\u8d8a\u597d\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\uff0c\u8fd9\u5bb6\u9910\u9986\u7684\u6210\u529f\u662f\u5426\u53ef\u4ee5\u5f52\u56e0\u4e8e\u8001\u677f\u7684\u70ed\u60c5\u670d\u52a1\u548c\u8d60\u9001\u8fa3\u6912\u9171\u8fd9\u4e24\u4e2a\u56e0\u7d20\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ac539746a7141b2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8fd9\u662f\u4e00\u6bb5\u6587\u5b57\uff1a\u201c\u5728\u4e00\u4e2a\u5c0f\u9547\uff0c\u6709\u4e00\u5bb6\u7528\u623f\u5b50\u4e0e\u98df\u7269\u4ea4\u6362\u7684\u5e97\u94fa\u3002\u6709\u4e00\u5929\uff0c\u4e00\u4f4d\u8001\u7238\u5e26\u7740\u4ed6\u7684\u5c0f\u5b69\u5b50\u6765\u5230\u5e97\u94fa\uff0c\u60f3\u7528\u4e00\u4e2a\u65e7\u623f\u5b50\u6362\u4e00\u4efd\u98df\u7269\u3002\u5e97\u94fa\u8001\u677f\u540c\u610f\u4e86\u3002\u5f53\u8001\u7238\u62ff\u5230\u98df\u7269\u65f6\uff0c\u4ed6\u611f\u89c9\u975e\u5e38\u5f00\u5fc3\uff0c\u56de\u5bb6\u7ed9\u5c0f\u5b69\u5b50\u5e26\u6765\u4e86\u7f8e\u5473\u7684\u98df\u7269\u3002\u201d\u8bf7\u95ee\uff1a\n1. \u8001\u7238\u7528\u4ec0\u4e48\u4ea4\u6362\u4e86\u98df\u7269\uff1f\n2. \u8001\u7238\u5bf9\u62ff\u5230\u98df\u7269\u7684\u5fc3\u60c5\u5982\u4f55\uff1f\n3. \u8001\u677f\u662f\u5728\u54ea\u91cc\u5de5\u4f5c\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b94ce2b91ee54cb9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u56de\u7b54\u8fd9\u4e2a\u95ee\u9898\uff0c\u5982\u679c\u4f60\u4e0d\u77e5\u9053\uff0c\u8bf7\u8bf4\u6211\u4e0d\u77e5\u9053\u3002\n\u95ee\u9898\uff1a\u6211\u7684\u513f\u5b50\u660e\u5e74\u5f00\u59cb\u4e0a\u5b66\u524d\u73ed\uff0c\u6211\u60f3\u77e5\u9053\u8fd9\u662f\u5426\u7b97\u4f5c\u7533\u8bf7\u201c\u9996\u6b21\u8d5e\u52a9\u201d\u8ba1\u5212\u7684\u201c\u5f00\u59cb\u4e0a\u5b66\u201d\uff1f\n\u80cc\u666f\uff1a\u4efb\u4f55\u5bb6\u957f\u3001\u76d1\u62a4\u4eba\u3001\u7167\u987e\u8005\u6216\u6388\u6743\u4ee3\u7406\u4eba\u53ef\u4ee5\u4e3a\u4e00\u4e2a\u7b26\u5408\u4ee5\u4e0b\u6761\u4ef6\u7684\u5b69\u5b50\u7533\u8bf7\u201c\u9996\u6b21\u8d5e\u52a9\u201d\u8ba1\u5212\uff1a\n\u2022\u5e74\u9f84\u57283\u5c81\u81f3\u4e0d\u6ee16\u5c81\u4e4b\u95f4\uff08\u5305\u62ec\u6258\u513f\u6240\u7684\u513f\u7ae5\uff09\n\u2022\u6fb3\u5927\u5229\u4e9a\u65b0\u5357\u5a01\u5c14\u58eb\u5dde\u5c45\u6c11\uff0c\u5e76\u4e14\n\u2022\u6839\u636e\u4ee5\u4e0b\u8868\u683c\uff0c\u6839\u636e\u4ed6\u4eec\u7684\u5b66\u6821\u5165\u5b66\u6216\u5728\u5bb6\u4e0a\u5b66\u72b6\u6001\u6709\u6743\u7533\u8bf7\uff1a\n\u5165\u5b66/\u5728\u5bb6\u4e0a\u5b66\u72b6\u6001 \u7b2c2\u4e2a\u8d5e\u52a9\u671f\uff082022\u5e747\u67081\u65e5\u81f32023\u5e746\u670830\u65e5\uff09\n\u5b66\u524d\u73ed \u6709\u6743\u7533\u8bf7\n\u5e7c\u513f\u56ed\uff08\u5305\u62ec\u5728\u5bb6\u4e0a\u5b66\uff09 \u65e0\u6743\u7533\u8bf7\n\u4e00\u5e74\u7ea7\u53ca\u4ee5\u4e0a\uff08\u5305\u62ec\u5728\u5bb6\u4e0a\u5b66\uff09 \u65e0\u6743\u7533\u8bf7"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "id": "0adb563f8f6f477f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u6839\u636e\u4f60\u7684\u77e5\u8bc6\uff0c\u8c08\u8c082014\u5e74\u4e4c\u514b\u5170\u53d1\u751f\u4e86\u4ec0\u4e48\u4e8b\u4ef6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e2a\u4e8b\u4ef6\u7684\u7ed3\u679c\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "984605a6d80347ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u6ce2\u58eb\u987f\u8336\u53f6\u515a\u4e8b\u4ef6\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u6b21\u4e8b\u4ef6\u7684\u80cc\u666f\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08e5096c73004cac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the Treaty of Versailles."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain its impact on Germany."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a955e6ddcc94da8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u80fd\u7ed9\u6211\u8be6\u7ec6\u8bb2\u89e3\u4e00\u4e0b\u7f8e\u56fd\u72ec\u7acb\u6218\u4e89\u4e2d\u7684\u6218\u7565\u51b3\u7b56\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e9b\u51b3\u7b56\u5bf9\u7f8e\u56fd\u6700\u7ec8\u53d6\u5f97\u72ec\u7acb\u6709\u4f55\u5173\u952e\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fb8be28314cb44d2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bb2\u8bb2\u4e9a\u5386\u5c71\u5927\u5927\u5e1d\u7684\u5f81\u670d\u4e4b\u8def\uff0c\u6709\u4ec0\u4e48\u7a81\u51fa\u7684\u6218\u7565\u6218\u672f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4e9a\u5386\u5c71\u5927\u7684\u5f81\u670d\u662f\u5426\u5bf9\u540e\u6765\u7684\u5e1d\u56fd\u5efa\u7acb\u4ea7\u751f\u4e86\u6df1\u8fdc\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "df53fa84e69848fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8c08\u8c08\u65e5\u672c\u5e55\u672b\u65f6\u671f\u7684\u793e\u4f1a\u52a8\u8361\uff0c\u6709\u54ea\u4e9b\u5173\u952e\u4eba\u7269\u548c\u4e8b\u4ef6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u4e00\u65f6\u671f\u5bf9\u65e5\u672c\u73b0\u4ee3\u5316\u7684\u5f71\u54cd\u4f53\u73b0\u5728\u54ea\u4e9b\u65b9\u9762\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fe39d1096d354b27",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u89e3\u91ca\u4e00\u4e0b\u53e4\u57c3\u53ca\u6587\u660e\u7684\u5d1b\u8d77\u548c\u8870\u843d\u8fc7\u7a0b\uff0c\u6709\u54ea\u4e9b\u91cd\u8981\u7684\u5386\u53f2\u4e8b\u4ef6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u6bb5\u5386\u53f2\u5bf9\u540e\u6765\u4e16\u754c\u6587\u660e\u7684\u53d1\u5c55\u6709\u4f55\u542f\u793a\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3bc7043f6d094a1c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bb2\u4e00\u4e0b\u5370\u5ea6\u72ec\u7acb\u8fd0\u52a8\u4e2d\u7684\u975e\u66b4\u529b\u62b5\u6297\uff0c\u6709\u54ea\u4e9b\u4ee4\u4eba\u5370\u8c61\u6df1\u523b\u7684\u4e8b\u4ef6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u975e\u66b4\u529b\u62b5\u6297\u5728\u5370\u5ea6\u72ec\u7acb\u4e2d\u7684\u89d2\u8272\u548c\u5f71\u54cd\u5982\u4f55\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9aa8b3e58abc4ac2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8c08\u8c08\u4e2d\u56fd\u6587\u5316\u5927\u9769\u547d\u671f\u95f4\u7684\u793e\u4f1a\u52a8\u8361\u548c\u653f\u6cbb\u53d8\u9769\uff0c\u6709\u54ea\u4e9b\u5173\u952e\u65f6\u523b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6587\u5316\u5927\u9769\u547d\u5bf9\u4e2d\u56fd\u793e\u4f1a\u548c\u6587\u5316\u4ea7\u751f\u4e86\u54ea\u4e9b\u6df1\u8fdc\u7684\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "12887f94e9d248ab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bb2\u89e3\u4e00\u4e0b\u7f57\u9a6c\u5171\u548c\u56fd\u65f6\u671f\u7684\u653f\u6cbb\u4f53\u5236\u548c\u793e\u4f1a\u7ed3\u6784\uff0c\u6709\u4ec0\u4e48\u7279\u70b9\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u79cd\u653f\u6cbb\u4f53\u5236\u662f\u5982\u4f55\u5f71\u54cd\u7f57\u9a6c\u5386\u53f2\u53d1\u5c55\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da8db553be194772",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u89e3\u91ca\u4e00\u4e0b\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218\u7206\u53d1\u7684\u539f\u56e0\u548c\u6218\u4e89\u8fc7\u7a0b\uff0c\u6709\u54ea\u4e9b\u51b3\u5b9a\u6027\u7684\u6218\u5f79\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7b2c\u4e00\u6b21\u4e16\u754c\u5927\u6218\u5bf9\u4e16\u754c\u683c\u5c40\u548c\u56fd\u9645\u5173\u7cfb\u4ea7\u751f\u4e86\u54ea\u4e9b\u6df1\u523b\u7684\u5f71\u54cd\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a075d40657bc4548",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8c08\u4e00\u4e0b\u5357\u7f8e\u6d32\u72ec\u7acb\u8fd0\u52a8\u4e2d\u7684\u9886\u5bfc\u4eba\u548c\u5173\u952e\u6218\u5f79\uff0c\u5bf9\u62c9\u4e01\u7f8e\u6d32\u7684\u5f71\u54cd\u5982\u4f55\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a4014d174d2400c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Potresti parlarmi di alcuni eventi storici che sono avvenuti il 5 agosto?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Grazie, potresti parlarmi di alcuni eventi storici che sono avvenuti il 10 agosto?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f22c4e38a86341e0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8c08\u4e00\u4e0b\u5357\u7f8e\u6d32\u72ec\u7acb\u8fd0\u52a8\u4e2d\u7684\u9886\u5bfc\u4eba\u548c\u5173\u952e\u6218\u5f79\uff0c\u5bf9\u62c9\u4e01\u7f8e\u6d32\u7684\u5f71\u54cd\u5982\u4f55\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b4d3628250d4564",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Potresti parlarmi di alcuni eventi storici che sono avvenuti il 5 agosto?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Grazie, potresti parlarmi di alcuni eventi storici che sono avvenuti il 10 agosto?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e19934143242499d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about significant maritime explorations and discoveries in the 15th century."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "56c9b71e660e4a6a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you elaborate on the impact of the Renaissance on art and culture in Europe?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90dc719925714dce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share insights into technological advancements during the Industrial Revolution."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93141855cb224f80",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the role of women in major historical revolutions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "325a488493a44743",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What were the key factors leading to the outbreak of World War I?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c50af1efd45b41dc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Examine the cultural and artistic movements of the 1960s."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b06f9be021da4a48",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How did the Treaty of Versailles contribute to the geopolitical landscape after World War I?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2df954ffdea64d41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share insights into ancient civilizations and their contributions to human development."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6a41b18d014f4d5b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the impact of the Cold War on global politics and ideologies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d0f2813e7c1b45ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8acb\u4ecb\u7d39\u4e00\u4e0b\u4e2d\u570b\u7684\u4e2d\u79cb\u7bc0"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "673d1a8ce2ef46b5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some major events that happened on January 1st throughout history?\nAnswer in English.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\n1\uc6d4 2\uc77c\uc5d0 \uc77c\uc5b4\ub0a8\uc740 \uc5ed\uc0ac\uc801\uc778 \uc0ac\uac74\uc744 \uc54c\ub824\uc8fc\uc138\uc694.\nAnswer in Korean.\n \n \n \n Now translate"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Tell me about some important events that occurred on January 3rd.\nAnswer in English.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ffc6699778784bf1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Potresti gentilmente spiegarmi cosa \u00e8 il giorno della Terra e quali sono le sue origini?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Quali sono alcune delle attivit\u00e0 comuni che le persone fanno per celebrare il Giorno della Terra?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "43b969dac94d470d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me about the history of the World Wide Web?\nAnswer in English.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c99f08e7b9db4a37",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please tell me about the events leading up to the American Revolutionary War?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What was the role of the Second Continental Congress?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7c75c62b41cf4bf6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Enlighten me on the origins of the Industrial Revolution and its impact on society, please."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9672fb345dd2446c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me the lowdown on the Renaissance era and how it reshaped cultural landscapes."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d29711f3c5f54ced",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What were the key events that fueled the rise of the Roman Empire?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f159b67855cc4bed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dive into the intricacies of the French Revolution and its lasting repercussions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6290cb2ae0c44d66",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Unearth the lesser-known events leading up to the colonization of the Americas."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6275fcd14cbc4720",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the geopolitical dynamics before the outbreak of World War I."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b0be4088f7f48cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share insights into the technological advancements during the Space Race era."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9fb7e95cb73b49b4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Unravel the mysteries behind the rise and fall of ancient civilizations."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa8ec3fd4eb94797",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u7f8e\u56fd\u5bf9\u53e4\u5df4\u5b9e\u65bd\u7981\u8fd0\u7684\u5386\u53f2\u80cc\u666f\u662f\u4ec0\u4e48\uff1f\u5965\u5df4\u9a6c\u653f\u5e9c\u89e3\u9664\u7981\u8fd0\u5bf9\u5f53\u524d\u7684\u56fd\u9645\u5173\u7cfb\u6709\u4ec0\u4e48\u5f71\u54cd\uff1f\u73b0\u5728\u767d\u5bab\u5ba3\u5e03\u5c06\u4e0e\u53e4\u5df4\u5f00\u59cb\u6b63\u5e38\u5316\u5173\u7cfb\uff0c\u5305\u62ec\u5728\u53e4\u5df4\u5efa\u7acb\u5927\u4f7f\u9986\u3002\u4eba\u4eec\u5bf9\u6b64\u53cd\u5e94\u5f3a\u70c8\uff0c\u6211\u5728\u8fd9\u91cc\u62ff\u7740\u4e00\u652f\u53e4\u5df4\u96ea\u8304\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u8fd9\u6b21\u7f8e\u56fd\u4e0e\u53e4\u5df4\u5173\u7cfb\u7684\u6539\u5584\u5bf9\u4e8e\u53e4\u5df4\u56fd\u5185\u7684\u7ecf\u6d4e\u548c\u6c11\u751f\u72b6\u51b5\u6709\u4ec0\u4e48\u5177\u4f53\u5f71\u54cd\uff1f\u8fd9\u5bf9\u5176\u4ed6\u56fd\u5bb6\u7684\u653f\u7b56\u6709\u4ec0\u4e48\u542f\u793a\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d4dcfc195de49d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8acb\u554f\u4f60\u80fd\u8a0a\u50b3\u4e00\u4e0b\u6b50\u6d32\u676f\u7684\u6b77\u53f2\u55ce\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8acb\u554f\u54ea\u4e9b\u570b\u5bb6\u5728\u6b50\u6d32\u676f\u4e0a\u6709\u4e0d\u932f\u7684\u8868\u73b0\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24b0a38b32c84a99",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me about a historical event that took place in Korea? Please answer in English.\n\n\ud55c\uad6d\uc5d0\uc11c \uc77c\uc5b4\ub09c \uc5ed\uc0ac\uc801\uc778 \uc0ac\uac74\uc5d0 \ub300\ud574 \uc54c\ub824\uc8fc\uc138\uc694. \uc601\uc5b4\ub85c \ub2f5\ubcc0\ud574\uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What was the result of the Korean War?\n\n\ud55c\uad6d \uc804\uc7c1\uc758 \uacb0\uacfc\ub294 \ubb34\uc5c7\uc778\uac00\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What were the major battles of the Korean War?\n\n\ud55c\uad6d \uc804\uc7c1\uc758 \uc8fc\uc694 \uc804\ud22c\ub294 \ubb34\uc5c7\uc778\uac00\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee494fd144484798",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please provide a summary of 3 significant scientific breakthroughs in the field of medicine during the 20th century?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the discovery of penicillin impact the development of other antibiotics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What challenges have emerged due to the development of antibiotics?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What steps are being taken to address the challenge of antibiotic resistance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8973c8a8f5bf4b20",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are some major events that took place during the COVID-19 pandemic? Can you list a few key events?\nPlease answer in English.\n\n \n \n \nCOVID-19 \ud32c\ub370\ubbf9 \uae30\uac04 \ub3d9\uc548 \ubc1c\uc0dd\ud55c \uc8fc\uc694 \uc0ac\uac74 \uc911 \uba87 \uac00\uc9c0\ub97c \ub098\uc5f4\ud574 \uc8fc\uc2e4 \uc218 \uc788\ub098\uc694?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab7fa4635d5d41b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ecb\u7ecd\u4e00\u4e0b\u7f8e\u56fd\u7684\u72ec\u7acb\u65e5\u662f\u600e\u4e48\u6765\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u72ec\u7acb\u6218\u4e89\u7684\u4e3b\u8981\u6218\u5f79\u6709\u54ea\u4e9b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "284a75f703c34a8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8acb\u5411\u6211\u4ecb\u7d39\u4e00\u4e0b\u8fd1\u671f\u7684\u91cd\u5927\u79d1\u6280\u4e8b\u4ef6\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8acb\u5411\u6211\u4ecb\u7d39\u4e00\u4e0b\u6700\u8fd1\u4eba\u5de5\u667a\u80fd\u9818\u57df\u7684\u91cd\u5927\u767c\u5c55\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "79d76880ea7a4db8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ecb\u7ecd\u4e00\u4e0b2021\u5e74\u4e16\u754c\u5de5\u4e1a\u8bbe\u8ba1\u5927\u8d5b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ecb\u7ecd\u4e00\u4e0b\u8fd9\u6b21\u5927\u8d5b\u7684\u4e3b\u9898\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ecb\u7ecd\u4e00\u4e0b\u8fd9\u6b21\u5927\u8d5b\u7684\u83b7\u5956\u4f5c\u54c1\u5e76\u8bf4\u8bf4\u4ed6\u4eec\u7684\u7279\u70b9\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d6b9d1dd75524c3a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me about the Global Service Design Jam?\nAnswer in English.\n \n \n \n \uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a8ab06901c640b3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain to me what the Lunar New Year is?\nAnswer in English.\n\n\n\n\ub2ec\ub825 \uc124\uba85 \uc880 \ud574\uc8fc\uc138\uc694."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac708ad01c5d41a5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee2022\u5e74\u7684\u51ac\u5b63\u5965\u6797\u5339\u514b\u8fd0\u52a8\u4f1a\u5728\u54ea\u91cc\u4e3e\u529e\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u6b21\u51ac\u5965\u4f1a\u6709\u54ea\u4e9b\u6bd4\u8d5b\u9879\u76ee\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\uff0c\u9664\u4e86\u5317\u4eac\uff0c\u8fd8\u6709\u5176\u4ed6\u57ce\u5e02\u53c2\u4e0e\u5230\u51ac\u5965\u4f1a\u7684\u4e3e\u529e\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

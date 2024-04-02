@@ -1,0 +1,764 @@
+[
+    {
+        "id": "7f532f74969a4fd9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Potresti condividere le tue impressioni dopo aver letto 'Il Piccolo Principe'?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e9795256c45492a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Express your thoughts as a writer after watching an inspiring movie about chasing dreams"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e0e700440dd641c1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dopo aver esplorato il mondo di '1984' di George Orwell, quali emozioni hai provato?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "25051d22e5854f93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your reflections on the profound themes portrayed in 'The Great Gatsby.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "549f27e09915436c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dopo aver ascoltato l'ultimo album di Taylor Swift, qual \u00e8 la tua opinione sulle nuove direzioni musicali che ha preso?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "52f898b9cb1046d8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Your thoughts on the intricate plot twists in the latest mystery novel you read?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "311dbfdf393041f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Express your feelings about the breathtaking visuals in the recent sci-fi movie you watched."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "378f2798c99647c0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "After listening to the latest podcast episode, how has your perspective on the discussed topic evolved?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "11681a0049c346b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your musings on the historical context presented in the documentary you recently viewed."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "930114288385453e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dopo aver letto il libro di poesie, quali versi ti hanno colpito di pi\u00f9 e perch\u00e9?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bcdd82a13f724438",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Your emotional response to the classic play you attended recently?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4cc233d362204e97",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a concise review of the science fiction novel 'Neuromancer' by William Gibson. Your response should be between 150 to 200 words and must include the keywords 'cyberpunk' and 'virtual reality.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "96a037852bb44a00",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a creative reflection on the impact of technology on society, keeping your response to a maximum of 250 words. Ensure that your answer includes the terms 'innovation' and 'human connection.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e16fd97cdc9b444f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your thoughts on the environmental message portrayed in the documentary 'Before the Flood.' Your response should be succinct, not exceeding 180 words."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "372788cd058b4042",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a poetic reflection on the beauty of nature inspired by the last nature documentary you watched. Your response should be a minimum of 120 words and include the phrase 'whispers of the wind.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "85b8b36fa99e4691",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide an analytical commentary on the character development in the latest TV series you binge-watched. Your response should not exceed 200 words and must mention the term 'psychological depth.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1e81d670edd842f5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the key lessons you gained from the self-help book you recently finished. Your summary should be concise, limited to 150 words, and include the phrase 'personal growth.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3b5d7017f1844360",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Reflect on the cultural significance of the foreign film you watched last night. Your response should be a maximum of 220 words and incorporate the term 'cross-cultural storytelling.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "10f735fffe4b4cf4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please describe your emotions after watching a heartwarming movie about an orphan finding a loving family."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f175cac9d16e4094",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4e2a\u8bfb\u8005\u7684\u8eab\u4efd\u8868\u8fbe\u9605\u8bfb\u4e00\u7bc7\u6cbb\u6108\u7cfb\u6587\u7ae0\u540e\u7684\u611f\u53d7\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb00be4da1e548fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u540d\u89c2\u4f17\u7684\u8eab\u4efd\u8868\u8fbe\u89c2\u770b\u4e00\u90e8\u611f\u4eba\u81f3\u6df1\u7684\u7535\u5f71\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u540d\u8bfb\u8005\u7684\u8eab\u4efd\u8868\u8fbe\u9605\u8bfb\u4e00\u7bc7\u52b1\u5fd7\u6587\u7ae0\u540e\u7684\u611f\u53d7"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f1d5dea8ac8741d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "After listening to an upbeat song, share your thoughts as a music enthusiast."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60d62dcc3d2c4b7f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Express your emotions as a gamer after completing a captivating video game."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bfeea362116043aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe your feelings as a poetry lover after reading a collection of melancholic poems."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "56f2787205a9457d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a sports enthusiast, reflect on the emotions stirred by witnessing a historic sports event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a42ec592d524c9a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your thoughts as a science fiction fan after finishing an intellectually stimulating novel."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f02f6ef732ca4502",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the impact on your emotions as a fashion enthusiast after attending a glamorous runway show."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cee4cc4e1e2c450c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Reflect on the vibes you experienced as a culinary enthusiast after savoring an exquisite dish."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd197009a02e4598",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your emotions as a technology buff after exploring a groundbreaking innovation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c6df3e01d7954af0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Express your feelings as an art lover after visiting an inspiring exhibition."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "016c8d0403c64721",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the impact on your emotions as a nature enthusiast after spending a day in a breathtaking natural setting."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "744386a05f184049",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u95b1\u8b80\u300a\u7f85\u751f\u9580\u300b\u5f8c\uff0c\u8acb\u5206\u4eab\u60a8\u7684\u611f\u53d7\u548c\u770b\u6cd5\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f43c1849a55d47ff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe your feelings about a documentary on climate change as a passionate environmentalist"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss your thoughts as a climate change skeptic"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8bbdd82947f4938",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a movie critic. Describe your emotions after watching a suspenseful thriller."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d35a3b5ca52b446d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a passionate gardener, share your thoughts on the serenity you feel after tending to your plants."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e46972bc3ac8495e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a detective novel enthusiast. Reflect on your emotions after finishing a gripping mystery novel."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aa4adb5c179a40b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Picture yourself as a fitness guru. Share your feelings after completing a challenging workout routine."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "58d384c0c9d84191",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5173\u4e8e\u8bfb\u5b8c\u300a\u89e3\u5fe7\u6742\u8d27\u5e97\u300b\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u89c2\u770b\u5b8c\u300a\u4e09\u50bb\u5927\u95f9\u5b9d\u83b1\u575e\u300b\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e95831b69214029",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u540d\u7535\u5f71\u5bfc\u6f14\u7684\u89d2\u5ea6\u8868\u8fbe\u5728\u89c2\u5bdf\u4e00\u90e8\u5173\u4e8e\u73a9\u5177\u5236\u9020\u7684\u7eaa\u5f55\u7247\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u540d\u97f3\u4e50\u5bb6\u7684\u89d2\u5ea6\u8868\u8fbe\u5728\u89c2\u5bdf\u4e00\u90e8\u5173\u4e8e\u4e16\u754c\u5404\u5730\u97f3\u4e50\u7684\u7eaa\u5f55\u7247\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2a22ad8038144e7b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4e2a\u7535\u5f71\u89c2\u4f17\u7684\u8eab\u4efd\u8c08\u8c08\u89c2\u770b\u300a\u6cf0\u5766\u5c3c\u514b\u53f7\u300b\u4e4b\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4e2a\u5386\u53f2\u5b66\u8005\u7684\u8eab\u4efd\u8c08\u8c08\u770b\u5b8c\u300a\u4e71\u4e16\u4f73\u4eba\u300b\u4e4b\u540e\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "74792765a1554cd3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4f4d\u53a8\u5e08\u7684\u89c6\u89d2\u5206\u4eab\u770b\u5b8c\u300a\u7f8e\u98df\u4e4b\u65c5\u300b\u7eaa\u5f55\u7247\u540e\u7684\u611f\u609f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "409d12ef67f24d42",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u4e2a\u5fc3\u7406\u5b66\u5bb6\u7684\u89d2\u5ea6\u8ba8\u8bba\u300a\u5fc3\u7075\u5947\u65c5\u300b\u7eaa\u5f55\u7247\u5bf9\u5fc3\u7406\u5b66\u7684\u542f\u53d1"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8efb7a76a1bd49f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u540d\u793e\u4f1a\u5b66\u8005\u7684\u89c6\u89d2\u8c08\u8bba\u300a\u4e3a\u4ec0\u4e48\u8d2b\u7a77\uff1f\u300b\u7eaa\u5f55\u7247\u5bf9\u793e\u4f1a\u7ed3\u6784\u7684\u601d\u8003"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ee314d707974819",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u662f\u5982\u4f55\u8bc4\u4ef7\u300a\u4e09\u4f53\u300b\u8fd9\u90e8\u79d1\u5e7b\u5c0f\u8bf4\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4f60\u8ba4\u4e3a\u300a\u4e09\u4f53\u300b\u54ea\u4e9b\u65b9\u9762\u662f\u6700\u8ba9\u4eba\u611f\u5174\u8da3\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u4ecb\u7ecd\u4e00\u4e0b\u300a\u4e09\u4f53\u300b\u4e2d\u7684\u4e09\u4f53\u6587\u660e\u662f\u4ec0\u4e48\u6837\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u300a\u4e09\u4f53\u300b\u4e2d\u7684\u7ea2\u5cb8\u57fa\u5730\u6709\u4ec0\u4e48\u4f5c\u7528\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a9e5420242e34f1a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u500b\u5c0f\u8aaa\u5bb6\u7684\u8eab\u4efd\u8868\u9054\u5c0d\u300c\u767d\u591c\u884c\u300d\u9019\u672c\u5c0f\u8aaa\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u500b\u97f3\u6a02\u5bb6\u7684\u8eab\u4efd\u8868\u9054\u5c0d\u300c\u5343\u4e0e\u5343\u5c0b\u300d\u9019\u9996\u6b4c\u66f2\u7684\u611f\u60f3"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "871edc00f9de46ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u8bfb\u8fc7\u300a\u5e73\u51e1\u7684\u4e16\u754c\u300b\u8fd9\u672c\u4e66\u540e\uff0c\u6211\u6709\u4e00\u4e9b\u611f\u60f3\u8981\u548c\u4f60\u5206\u4eab\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

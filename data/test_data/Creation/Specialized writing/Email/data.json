@@ -1,0 +1,1049 @@
+[
+    {
+        "id": "ef16cde4afa44168",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an email about a team lunch plan."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a9b22750363448cb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to write an email to my team about a new project we are starting next week."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "07dd357e4a2c4eac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me draft an email to a potential business partner asking for a meeting to discuss a collaboration on a new project? I want to make sure I include all the necessary information and make it sound professional and engaging."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you also suggest a follow-up email if they haven't responded to my initial email after a week?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0dcb4ae25c3e4c6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm requesting a budget increase from my supervisor for an upcoming project. How can I compose a persuasive yet well-structured email that highlights the benefits of the additional funds?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "359674221d50447a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm reaching out to a client to discuss a pricing negotiation. Can you help me draft an email that strikes the right balance between firmness and professionalism?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d74e16bafb704bbc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm inquiring about the availability of a product from a supplier. How should I structure my email to ensure clarity and prompt response?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "97fc8a43306540cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to inform my team about changes in the project timeline. Can you assist me in crafting a concise yet informative email?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "66a058f30c8240fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to express appreciation to a colleague who helped me with a challenging task. Could you help me write an email that conveys my gratitude genuinely?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2c4b7ca8272445e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm following up on a job application. Can you help me craft a polite yet assertive email to inquire about the status of my application?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "417c72e24d4a4674",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to notify my supervisor about my upcoming vacation. How should I word my email to ensure it is professional yet friendly?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "10c3614e55a64f4f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm inviting clients to a product launch event. Can you help me draft an engaging and persuasive email?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7a00338f98804bed",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to request feedback from my team on a recent project. How can I structure my email to encourage honest input and constructive criticism?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f01432d079d04f91",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm informing a client about a delay in project delivery. Can you help me compose an apologetic yet reassuring email that maintains a professional tone?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4e3e9cb6753749c3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to remind my team about an upcoming deadline. Can you assist me in crafting a firm but motivational email to ensure timely completion of tasks?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f888f4c32f94a8f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an email to my team announcing the launch of a new product. I want it to be upbeat and exciting!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "043f932ffba048ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to apologize to a colleague for a mistake in a project. Help me craft an email that conveys sincerity and accountability."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "97444e41bb9d4128",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a formal email declining a job offer. I want to express gratitude but be clear about my decision."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "befe74a2d2ec4278",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm organizing a charity event and need to request sponsorships via email. Can you help me draft a persuasive and heartfelt message?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e4c51462746428f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Draft an email to inform employees about a change in company policies. Keep it clear and concise."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8d863c94db94c8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to send a thank-you email after a job interview. Craft a message that expresses appreciation and reiterates my interest in the position."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a8bc68454c9049cf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an email to a vendor addressing a service issue. I need a solution-oriented message without sounding confrontational."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a4cd32890cc4584",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm writing an email to request time off. I want it to be professional yet friendly. Can you help me with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3fb6038c64c34af7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Send a lighthearted email to invite colleagues to a virtual team-building event. Inject some humor into it!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae364c30bac34ac5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an email demanding a supplier to provide a detailed explanation regarding the delay in delivery of the raw materials that we ordered. The delivery was due last week, and it is affecting our production schedule. We have a history of on-time payments and have never experienced such delays before. Make sure to include an ultimatum to resolve the issue within 3 days or we'll have to seek legal actions and find an alternative supplier."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ed08721e1e844f8c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a project manager who is writing a formal email to a government organization. The organization is the 'Department of Environmental Protection', the person to whom it is addressed is 'Mr. John Smith', and the main idea is to request a meeting to discuss potential collaboration on a sustainable development project."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ad64bb60a7754644",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you write an email inviting potential investors to a presentation about my new startup, an eco-friendly electric scooter company? The email should provide some information about the company, highlight the benefits of the product, and create excitement for the upcoming presentation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c5c6f206477449f1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an email as a friendly neighbor inviting the residents to a community barbecue next weekend. Emphasize the importance of community bonding and encourage everyone to bring their favorite dish to share."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5f6c0ea986864b57",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a student representative, draft an email to the faculty proposing the idea of implementing a mentorship program for new students. Highlight the potential benefits and address any concerns they might have regarding the feasibility of the program."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "81777b8d7d794fb8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a festival organizer. Write an email to a popular local band, inviting them to perform at your upcoming event. Express your admiration for their music, outline the event details, and discuss the compensation package for their performance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0b1d46a196e445e3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write an email as a concerned citizen to your local city council expressing the need for improved recycling facilities in the community. Provide data on the current recycling rates, share personal experiences, and suggest potential solutions to address the environmental concerns."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "08b2863b910949c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a book club coordinator, compose an email to club members announcing the next book selection and proposing discussion topics for the upcoming meeting. Encourage members to share their thoughts and suggestions for future book choices."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2d2c211a268e4849",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an email as an event planner reaching out to potential sponsors for a charity gala. Highlight the purpose of the event, the expected attendees, and the positive impact their sponsorship can have on the community. Include sponsorship packages and perks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "394671fc01334ed0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are the owner of an online bookstore and you've just launched a new subscription plan called 'BookLovers Club' which offers exclusive discounts and early access to new books. Write an email to your existing customers to invite them to join the club."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2119c5492b5e4316",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an email to a colleague requesting their input on a project proposal"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5d3a435a09e4ef7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "request email for job interview reschedule"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "56cecc57664840f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a formal email to notify customers about a product recall due to safety concerns."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "abb08f63e92e4a7a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a light-hearted email to inform coworkers about a surprise team-building event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "02ae6a51e4294578",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft an email to express gratitude to a client for their long-term partnership."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cffaf094e9b5448c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a concise email requesting urgent feedback on a project from your team."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e4fe3b9b84b14a56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a persuasive email encouraging employees to participate in a corporate charity event."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c6e35d07c48c4db6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Draft an email apologizing for a technical issue on your website and offering compensation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d8f632d1f8c48f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a humorous email inviting coworkers to a themed costume party for team morale."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "338e773a674b4b48",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a diplomatic email addressing a disagreement between team members and proposing a solution."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef8082bb31c6473f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "write an email asking about refund status"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "i want to know if there's any problem with my refund request"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "the product i returned was a wireless earbud"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "the product was purchased on 10th september 2021"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "47b6c62f36f04193",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "help me write an email to my boss about my progress on a project"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "the project name is website redesign, task 1 was competitor analysis, task 2 was designing the wireframe, task 3 was creating a style guide, task 4 is coding"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "task 5 is user testing and task 6 is finalizing and launching the website"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "the challenges are dealing with browser compatibility issues and integrating third-party APIs"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e2d0963f92841fa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as an employee who is writing a formal email to their supervisor, requesting a day off for a personal matter. Please make sure the email is respectful and polite."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6e180db6703c46af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5199\u4e00\u5c01\u7ed9\u60a8\u7684\u5458\u5de5\u7684\u7535\u5b50\u90ae\u4ef6\uff0c\u8981\u6c42\u4ed6\u4eec\u5c3d\u5feb\u63d0\u4ea4\u4e00\u4efd\u5173\u4e8e\u4ed6\u4eec\u672c\u6708\u7684\u9500\u552e\u62a5\u544a\u3002\u5728\u90ae\u4ef6\u4e2d\uff0c\u4f7f\u7528\u6307\u793a\u6027\u8bed\u8a00\uff0c\u8981\u6c42\u5458\u5de5\u5728\u4e24\u5929\u5185\u63d0\u4ea4\u62a5\u544a\uff0c\u5e76\u7b80\u8981\u8bf4\u660e\u62a5\u544a\u7684\u5185\u5bb9\u548c\u683c\u5f0f\u8981\u6c42\u3002\u6b64\u5916\uff0c\u8bf7\u5728\u90ae\u4ef6\u4e2d\u8868\u8fbe\u60a8\u5bf9\u5458\u5de5\u7684\u4fe1\u4efb\uff0c\u76f8\u4fe1\u4ed6\u4eec\u80fd\u591f\u6309\u65f6\u5b8c\u6210\u4efb\u52a1\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b1c72b0e6c8c4a95",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a student who needs help on a math assignment. Write a brief email to your professor politely asking for assistance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e0886c8551904b58",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an email to a potential client introducing our digital marketing agency, and request a meeting to discuss how our services can help their business grow. In the email, kindly highlight some of the services we offer, such as SEO, social media management, and content creation. Additionally, mention our previous successful projects and the benefits that the client can expect from working with us. Remember to keep the tone of the email polite and professional."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e24fdf22be3441af",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Email for overdue invoice payment"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5239d6fc1d5a45e9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please create an email to request a meeting with a professor regarding a research project?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5328a6ff6607487b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you are a hotel manager and you want to send an email to your employees to remind them of an upcoming staff meeting. Make sure to include the date, time, and location of the meeting, as well as any important topics that will be discussed."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1e1112871ead421b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "draft email requesting refund for a product"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a444a6dfa0144a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u65b0\u5546\u54c1\u306e\u30d7\u30ec\u30b9\u30ea\u30ea\u30fc\u30b9\u306e\u30e1\u30fc\u30eb\u6587\u3092\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "adb2d81c817b4ddb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a friendly cease and desist email to stop a software company from naming their software as JetSign because that's an infringement of our existing trademark JetSign for our existing e-signature software. We launched our JetSign software in 2019 through https://www.jetsign.com, Google Play, and Apple's App Store, and we have thousands customers and over 1 million users. You can see the details of our registered trademark with USPTO (trademark classes 9 and 42) at https://file.trademarkia.com/search/trademarks?query=jetsign&reset\\_page=false."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "81d0d864e8be4191",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a captivating email to promote a new online course on digital marketing. Make it sound like an exclusive opportunity with limited spots available. Incorporate a sense of urgency and a call to action."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53fe157f1b094548",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a brief email to inquire about a product return policy for an online store."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d55a92d9d1b450b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to write an email to a potential client who is interested in our web design services. They are a small business owner and need a website that is both functional and visually appealing. Can you help me create an email that addresses their needs and showcases our company's expertise?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the email draft. Can you also suggest some additional services we can offer to this potential client that might complement the web design services?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de7bdd5e3dac4183",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write an email to our customers informing them about an upcoming scheduled maintenance on our website which might cause temporary downtime."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ecd7639176c4251",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a busy executive at a tech company and you need an urgent report from one of your employees. Write an email to the employee demanding the report immediately and emphasize the importance of it.\n\nAct like an impatient executive who is really concerned about the deadline of this report and has no time to waste."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "166306ce873444ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need an email to invite a group of customers to participate in a feedback session for our new product, SmartSound, a wireless speaker system for home entertainment. The session will be held on June 15th, at 5 PM, at our headquarters. We'll provide refreshments and giveaways. We want to emphasize the importance of their opinions and the impact they can make on our product development."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77435476e74345e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose an email to my team about an upcoming brainstorming session"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6eef61c1015c4902",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a brief email to my coworker to schedule a meeting about the new marketing campaign"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "67f112f5a43c4c9c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I recently attended a webinar on a new marketing tool and found it very informative. I'd like to request a recording of the webinar and any additional materials they might have. Could you help me write a polite email to the webinar organizers asking for these materials?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5e7a4b6a7d141a4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write a concise email about a new software for managing dental clinics, including scheduling, billing, and patient records management."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

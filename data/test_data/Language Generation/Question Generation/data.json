@@ -1,0 +1,869 @@
+[
+    {
+        "id": "76466496817f4caf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u662f\u4e00\u4f4d\u6559\u5e08\uff0c\u4ece\u4e0b\u9762\u7684\u8fd9\u6bb5\u6587\u5b57\u4e2d\u63d0\u51fa5\u4e2a\u9009\u62e9\u9898\uff0c\u6bcf\u4e2a\u9898\u76ee\u6709A\u3001B\u3001C\u3001D\u56db\u4e2a\u9009\u9879\u3002\n\n\u5730\u7403\u4e0a\u6709\u8bb8\u591a\u4e0d\u540c\u7c7b\u578b\u7684\u751f\u6001\u7cfb\u7edf\uff0c\u5982\u70ed\u5e26\u96e8\u6797\u3001\u6c99\u6f20\u3001\u8349\u539f\u3001\u68ee\u6797\u548c\u73ca\u745a\u7901\u3002\u8fd9\u4e9b\u751f\u6001\u7cfb\u7edf\u4e3a\u751f\u7269\u63d0\u4f9b\u4e86\u6816\u606f\u5730\uff0c\u4f7f\u5b83\u4eec\u80fd\u591f\u751f\u5b58\u3002\u5728\u8fd9\u4e9b\u751f\u6001\u7cfb\u7edf\u4e2d\uff0c\u751f\u7269\u4e4b\u95f4\u5b58\u5728\u7740\u76f8\u4e92\u4f9d\u8d56\u7684\u5173\u7cfb\u3002\u4f8b\u5982\uff0c\u52a8\u7269\u4f9d\u8d56\u690d\u7269\u4f5c\u4e3a\u98df\u7269\u6765\u6e90\uff0c\u800c\u690d\u7269\u4f9d\u8d56\u52a8\u7269\u4f20\u64ad\u82b1\u7c89\u6765\u7e41\u884d\u751f\u606f\u3002\u6b64\u5916\uff0c\u751f\u6001\u7cfb\u7edf\u8fd8\u901a\u8fc7\u7269\u8d28\u5faa\u73af\u548c\u80fd\u91cf\u6d41\u52a8\u6765\u7ef4\u6301\u751f\u7269\u7684\u751f\u5b58\u3002\u5728\u8fd9\u4e2a\u8fc7\u7a0b\u4e2d\uff0c\u80fd\u91cf\u4ece\u592a\u9633\u5f00\u59cb\uff0c\u901a\u8fc7\u98df\u7269\u94fe\u4f20\u9012\u7ed9\u751f\u7269\uff0c\u6700\u540e\u56de\u5230\u73af\u5883\u4e2d\u3002\u8fd9\u79cd\u5faa\u73af\u786e\u4fdd\u751f\u6001\u7cfb\u7edf\u7684\u6301\u7eed\u53d1\u5c55\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "07f58b508ab5415c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4eca\u5929\u4e0b\u5348\uff0c\u5c0f\u660e\u53c2\u52a0\u4e86\u4e00\u573a\u8db3\u7403\u6bd4\u8d5b\u3002\u7ec8\u4e8e\uff0c\u4ed6\u7684\u961f\u4f0d\u83b7\u80dc\u4e86\uff0c\u5c0f\u660e\u5f88\u5f00\u5fc3\u3002\u4ed6\u8dd1\u5230\u4e86\u961f\u53cb\u9762\u524d\uff0c\u4e00\u8d77\u5206\u4eab\u8fd9\u4e00\u523b\u7684\u559c\u609f\u3002\u4e0d\u4e45\u540e\uff0c\u4ed6\u4eec\u6b63\u5728\u8bb2\u8bdd\u4e2d\u56de\u987e\u7740\u6bd4\u8d5b\u7684\u7cbe\u5f69\u77ac\u95f4\u3002\n\u6839\u636e\u8fd9\u6bb5\u6587\u672c\uff0c\u63d0\u51fa3\u4e2a\u95ee\u9898\uff1a"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ae3837f4b2f4405c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6700\u8fd1\uff0c\u5b66\u6821\u7ec4\u7ec7\u4e86\u4e00\u6b21\u5173\u4e8e\u73af\u4fdd\u7684\u8bb2\u5ea7\u3002\u8bb2\u5ea7\u4e2d\u6d89\u53ca\u5230\u4e86\u5851\u6599\u6c61\u67d3\u3001\u5faa\u73af\u7ecf\u6d4e\u7b49\u65b9\u9762\u7684\u95ee\u9898\u3002\u63d0\u51fa3\u4e2a\u76f8\u5173\u95ee\u9898\uff0c\u4ee5\u52a0\u6df1\u5b66\u751f\u5bf9\u73af\u4fdd\u95ee\u9898\u7684\u7406\u89e3\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "92208c0419d449e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6700\u8fd1\uff0c\u751f\u7269\u8bfe\u4e0a\u5b66\u751f\u4eec\u5b66\u4e60\u4e86\u7ec6\u80de\u7684\u7ed3\u6784\u548c\u529f\u80fd\u3002\u8001\u5e08\u901a\u8fc7\u56fe\u793a\u548c\u5b9e\u9a8c\u8be6\u7ec6\u89e3\u91ca\u4e86\u7ec6\u80de\u5185\u7684\u5404\u4e2a\u90e8\u5206\u3002\u8bf7\u4ece\u63d0\u51fa2\u4e2a\u76f8\u5173\u95ee\u9898\uff0c\u4ee5\u6d4b\u8bd5\u5b66\u751f\u5bf9\u7ec6\u80de\u7ed3\u6784\u7684\u7406\u89e3\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5600aa5efcfa4c46",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u751f\u6d3b\u4e2d\uff0c\u4eba\u4eec\u7ecf\u5e38\u9762\u4e34\u51b3\u7b56\u7684\u56f0\u6270\u3002\u8bf7\u63d0\u51fa\u4e24\u4e2a\u5173\u4e8e\u51b3\u7b56\u601d\u8003\u7684\u95ee\u9898\uff0c\u4ee5\u4fc3\u4f7f\u4eba\u4eec\u6df1\u5165\u601d\u8003\u51b3\u7b56\u7684\u5f71\u54cd\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "218bb443046f4a77",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u7269\u7406\u5b66\u8bfe\u4e0a\uff0c\u5b66\u751f\u5b66\u4e60\u4e86\u725b\u987f\u7684\u4e09\u5927\u8fd0\u52a8\u5b9a\u5f8b\u3002\u8bf7\u63d0\u51fa\u4e00\u4e2a\u95ee\u9898\uff0c\u4ee5\u68c0\u9a8c\u5b66\u751f\u5bf9\u8fd9\u4e9b\u5b9a\u5f8b\u7684\u7406\u89e3\u548c\u5e94\u7528\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7d689170cf554a4d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6700\u8fd1\uff0c\u5b66\u6821\u7ec4\u7ec7\u4e86\u4e00\u573a\u5173\u4e8e\u6587\u5b66\u4f5c\u54c1\u5206\u6790\u7684\u7814\u8ba8\u4f1a\u3002\u8bf7\u63d0\u51fa\u4e00\u4e2a\u5173\u4e8e\u6587\u5b66\u4f5c\u54c1\u89e3\u8bfb\u7684\u95ee\u9898\uff0c\u4ee5\u6fc0\u53d1\u5bf9\u6587\u5b66\u6df1\u5ea6\u7684\u601d\u8003\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "06dff692360c4a86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u63d0\u51fa\u4e24\u4e2a\u5173\u4e8e\u793e\u4f1a\u4e0d\u5e73\u7b49\u8ba8\u8bba\u7684\u95ee\u9898\uff0c\u4ee5\u5f15\u5bfc\u53c2\u4e0e\u8005\u601d\u8003\u8fd9\u4e00\u73b0\u8c61\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "58a0b0a05ee24513",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u63d0\u51fa\u4e00\u4e2a\u5173\u4e8e\u8fd9\u4e2a\u5386\u53f2\u7684\u95ee\u9898\uff0c\u4ee5\u68c0\u67e5\u5b66\u751f\u5bf9\u5386\u53f2\u7684\u7406\u89e3\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "300a4db544894b67",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4e0b\u9762\u7684\u6587\u672c\uff0c\u4f60\u80fd\u63d0\u4f9b\u4e00\u4e9b\u95ee\u9898\u548c\u7b54\u6848\u5417\uff1f\u5bf9\u4e8e\u7f8e\u56fd\u7684\u5e02\u573a\uff0c\u5fb7\u56fd\u6c7d\u8f66\u5382\u5546\u5728\u4e0d\u540c\u7684\u5e74\u4efd\u91cc\uff0c\u4ed6\u4eec\u5728\u7f8e\u56fd\u7684\u9500\u552e\u91cf\u662f\u8fd9\u6837\u7684\uff1a\n\n2014\u5e74\uff0c\u5fb7\u56fd\u6c7d\u8f66\u5382\u5546\u5728\u7f8e\u56fd\u7684\u9500\u552e\u91cf\u4e3a15\u4e07\u8f86\u3002\n2015\u5e74\uff0c\u5fb7\u56fd\u6c7d\u8f66\u5382\u5546\u5728\u7f8e\u56fd\u7684\u9500\u552e\u91cf\u4e3a16\u4e07\u8f86\u3002\n2016\u5e74\uff0c\u5fb7\u56fd\u6c7d\u8f66\u5382\u5546\u5728\u7f8e\u56fd\u7684\u9500\u552e\u91cf\u4e3a18\u4e07\u8f86\u3002\n2017\u5e74\uff0c\u5fb7\u56fd\u6c7d\u8f66\u5382\u5546\u5728\u7f8e\u56fd\u7684\u9500\u552e\u91cf\u4e3a20\u4e07\u8f86\u3002\n2018\u5e74\uff0c\u5fb7\u56fd\u6c7d\u8f66\u5382\u5546\u5728\u7f8e\u56fd\u7684\u9500\u552e\u91cf\u4e3a22\u4e07\u8f86\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "66891a57e60a4c93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The following text is about a new app called FitLife that tracks daily exercise, food intake, and sleep patterns. The app also provides personalized workout plans and healthy meal suggestions. FitLife is available on both Android and iOS devices and offers a free version as well as a premium subscription for additional features. The app syncs with wearable fitness devices and has a supportive online community for motivation and advice.\n\nAsk 5 questions about the app."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d4c8595daf148ee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5173\u4e8e\u592a\u9633\u7cfb\u4e2d\u7684\u884c\u661f\uff0c\u4f60\u80fd\u63d0\u51fa\u4e00\u4e9b\u95ee\u9898\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "119355143f924392",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u5173\u6700\u65b0\u7684\u79d1\u6280\u8d8b\u52bf\uff0c\u4f60\u80fd\u63d0\u51fa\u4e00\u4e9b\u95ee\u9898\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f63a06a85a5476a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you generate some questions based on the following text about the history of space exploration?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b029588f9df4663",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Regarding recent advancements in technology, can you come up with some questions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e490f12176494f29",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you generate questions about the impact of artificial intelligence on various industries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4a7a7d3060944a65",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please generate questions based on the recent developments in renewable energy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c030fbd6174444f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in exploring questions regarding the intersection of technology and healthcare. Can you create some?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "93eeb74de64d4622",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you come up with questions about the implications of climate change on global agriculture?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e0298fb72a7640d1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the future of space exploration. Could you generate questions about that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c05b01670f5148fc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please generate thought-provoking questions related to the impact of automation on employment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d7cfb6aacae94848",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create questions exploring the role of biotechnology in shaping the future of medicine?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8113d85147d4964",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to delve into questions about the ethical considerations of genetic engineering. Could you help with that?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b588574accc74f5b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm interested in questions regarding the future of transportation and its sustainability aspects. Can you create some?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d598f308312142ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create questions related to the latest trends in the field of health and fitness?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "30c72725afd54429",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Construct 5 challenging questions from the text below:\n\nThe Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometers. It is located off the coast of Queensland, Australia, in the Coral Sea. The reef is home to a wide variety of marine life, making it a popular tourist destination. Additionally, it provides habitat for many endangered species and serves as a natural barrier that protects the coast from erosion. Unfortunately, the Great Barrier Reef has been facing numerous environmental challenges, such as coral bleaching, rising sea temperatures, and pollution, which have led to significant decline in coral cover and overall health of the ecosystem."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please provide the correct answers for the questions above."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d5d81d3d88f4aec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u6559\u5b66\u5185\u5bb9\u63d0\u51fa\u4e94\u4e2a\u53ef\u8ba8\u8bba\u5f0f\u95ee\u9898\uff0c\u6bcf\u79cd\u95ee\u9898\u5f0f2\u4e2a\u53ef\u8ba8\u8bba\u5f0f\u95ee\u9898\u3002\u6559\u5b66\u5185\u5bb9\u5982\u4e0b:\n\n\u592a\u9633\u7cfb\u7684\u6784\u6210\n\n\u592a\u9633\u7cfb\u662f\u7531\u592a\u9633\u3001\u516b\u5927\u884c\u661f\u53ca\u5176\u536b\u661f\u3001\u5c0f\u884c\u661f\u5e26\u3001\u6d77\u738b\u661f\u5916\u5929\u4f53\u7b49\u7ec4\u6210\u7684\u4e00\u4e2a\u5929\u4f53\u7cfb\u7edf\u3002\u592a\u9633\u7cfb\u7684\u516b\u5927\u884c\u661f\u5206\u4e3a\u4e24\u7c7b\uff1a\u7c7b\u5730\u884c\u661f\u548c\u5de8\u5927\u884c\u661f\u3002\u7c7b\u5730\u884c\u661f\u5305\u62ec\u6c34\u661f\u3001\u91d1\u661f\u3001\u5730\u7403\u548c\u706b\u661f\uff0c\u5de8\u5927\u884c\u661f\u5305\u62ec\u6728\u661f\u3001\u571f\u661f\u3001\u5929\u738b\u661f\u548c\u6d77\u738b\u661f\u3002\n\n\u7c7b\u5730\u884c\u661f\n\n\u7c7b\u5730\u884c\u661f\u7c7b\u4f3c\u5730\u7403\uff0c\u4e3b\u8981\u7531\u91d1\u5c5e\u548c\u7845\u9178\u76d0\u5ca9\u77f3\u6784\u6210\u3002\u7c7b\u5730\u884c\u661f\u8868\u9762\u6e29\u5ea6\u76f8\u5bf9\u8f83\u9ad8\uff0c\u5730\u58f3\u5916\u6709\u5927\u6c14\u5c42\uff0c\u4f46\u6ca1\u6709\u73af\u3002\n\n\u5de8\u5927\u884c\u661f\n\n\u5de8\u5927\u884c\u661f\u662f\u6c14\u4f53\u5de8\u4eba\uff0c\u4e3b\u8981\u7531\u6c22\u6c14\u548c\u6c26\u6c14\u7ec4\u6210\u3002\u5de8\u5927\u884c\u661f\u7684\u8868\u9762\u6e29\u5ea6\u76f8\u5bf9\u8f83\u4f4e\uff0c\u5b83\u4eec\u5468\u56f4\u6709\u5927\u91cf\u7684\u536b\u661f\u548c\u73af\u3002\n\n\u592a\u9633\u7cfb\u7684\u5f62\u6210\n\n\u592a\u9633\u7cfb\u5f62\u6210\u4e8e\u7ea646\u4ebf\u5e74\u524d\u3002\u592a\u9633\u7cfb\u7684\u5f62\u6210\u8fc7\u7a0b\u59cb\u4e8e\u4e00\u4e2a\u6052\u661f\u5f62\u6210\u533a\uff0c\u8fd9\u91cc\u7684\u6c14\u4f53\u548c\u5c18\u57c3\u9010\u6e10\u805a\u96c6\u5728\u4e00\u8d77\uff0c\u6700\u7ec8\u5f62\u6210\u4e86\u592a\u9633\u548c\u884c\u661f\u3002\u884c\u661f\u7684\u5f62\u6210\u8fc7\u7a0b\u4e2d\uff0c\u8f7b\u5143\u7d20\u88ab\u70bd\u70ed\u7684\u592a\u9633\u5439\u5411\u5916\u56f4\uff0c\u8f83\u91cd\u7684\u5143\u7d20\u5219\u7559\u5728\u5185\u4fa7\uff0c\u8fd9\u89e3\u91ca\u4e86\u4e3a\u4ec0\u4e48\u7c7b\u5730\u884c\u661f\u4f4d\u4e8e\u592a\u9633\u7cfb\u7684\u5185\u4fa7\uff0c\u800c\u5de8\u5927\u884c\u661f\u4f4d\u4e8e\u5916\u4fa7\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fc1ba63a443b485e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate 5 thought-provoking questions based on the provided text:\n\nThe Amazon Rainforest, often referred to as the 'Lungs of the Earth,' spans over 6.7 million square kilometers across South America. It is home to an incredibly diverse range of flora and fauna, playing a crucial role in regulating the planet's oxygen and carbon dioxide levels. Deforestation, however, poses a significant threat to this vital ecosystem, leading to loss of biodiversity and impacting global climate patterns."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Please provide the correct answers for the questions above."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d5c355db36c840ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u5386\u53f2\u6587\u672c\u63d0\u51fa\u4e94\u4e2a\u6df1\u5ea6\u601d\u8003\u7684\u95ee\u9898\uff0c\u7a81\u663e\u4e0d\u540c\u5386\u53f2\u65f6\u671f\u7684\u5173\u952e\u4e8b\u4ef6\u548c\u5f71\u54cd\u3002\u6559\u5b66\u5185\u5bb9\u5982\u4e0b:\n\n\u53e4\u57c3\u53ca\u6587\u660e\n\n\u53e4\u57c3\u53ca\u662f\u4e16\u754c\u4e0a\u6700\u53e4\u8001\u7684\u6587\u660e\u4e4b\u4e00\uff0c\u6709\u7740\u60a0\u4e45\u7684\u5386\u53f2\u548c\u72ec\u7279\u7684\u6587\u5316\u3002\u5c3c\u7f57\u6cb3\u7684\u6cb3\u8c37\u662f\u53e4\u57c3\u53ca\u7684\u53d1\u6e90\u5730\uff0c\u8fd9\u91cc\u7684\u4eba\u4eec\u53d1\u5c55\u51fa\u4e86\u5f3a\u5927\u7684\u519c\u4e1a\u3001\u5efa\u7b51\u548c\u827a\u672f\u3002\u6cd5\u8001\u7edf\u6cbb\u4e0b\u7684\u53e4\u57c3\u53ca\u7559\u4e0b\u4e86\u8bb8\u591a\u5e9e\u5927\u800c\u795e\u79d8\u7684\u91d1\u5b57\u5854\u548c\u5bfa\u5e99\uff0c\u53cd\u6620\u4e86\u4ed6\u4eec\u7684\u793e\u4f1a\u7ed3\u6784\u548c\u4fe1\u4ef0\u4f53\u7cfb\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cf7a6455149846a7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create 5 challenging questions based on the provided information:\n\nRenewable Energy Sources\n\nRenewable energy sources, such as solar, wind, and hydropower, are essential in mitigating climate change. They offer sustainable alternatives to traditional fossil fuels, reducing greenhouse gas emissions. Despite their benefits, the transition to a renewable energy-based economy faces various challenges, including technological limitations, infrastructure development, and policy implementation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2dab300a43944205",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft 5 insightful questions based on the provided content:\n\nArtificial Intelligence and Ethics\n\nThe rapid advancement of artificial intelligence raises ethical concerns about privacy, bias, and job displacement. Understanding the ethical implications of AI is crucial for responsible development and deployment. Balancing technological innovation with ethical considerations is a key challenge faced by researchers, policymakers, and industry leaders."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6cd874ab98264db5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide 5 thought-provoking questions based on the given text:\n\nThe Impact of Globalization\n\nGlobalization has transformed the world into an interconnected system, influencing economies, cultures, and societies. While it has facilitated international trade and communication, it has also sparked debates about inequality, cultural homogenization, and environmental degradation. Understanding the multifaceted impact of globalization is crucial for addressing its challenges and harnessing its benefits."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da78d1bbd0ad409c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u79d1\u5b66\u6587\u672c\u63d0\u51fa\u4e94\u4e2a\u6311\u6218\u6027\u95ee\u9898\uff0c\u6db5\u76d6\u7269\u7406\u5b66\u548c\u5929\u6587\u5b66\u7684\u5173\u952e\u6982\u5ff5\u3002\u6559\u5b66\u5185\u5bb9\u5982\u4e0b:\n\n\u9ed1\u6d1e\u7684\u5947\u5999\u4e16\u754c\n\n\u9ed1\u6d1e\u662f\u5b87\u5b99\u4e2d\u6781\u4e3a\u795e\u79d8\u7684\u5929\u4f53\uff0c\u5176\u5f15\u529b\u573a\u6781\u5f3a\uff0c\u751a\u81f3\u8fde\u5149\u90fd\u65e0\u6cd5\u9003\u8131\u3002\u79d1\u5b66\u5bb6\u901a\u8fc7\u7814\u7a76\u9ed1\u6d1e\u8fb9\u7f18\u7684\u4e8b\u4ef6\u89c6\u754c\uff0c\u63ed\u793a\u4e86\u6709\u5173\u65f6\u7a7a\u626d\u66f2\u548c\u5f15\u529b\u7269\u7406\u5b66\u7684\u6df1\u523b\u7406\u89e3\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ba87835b6974636",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create 5 intriguing questions based on the given passage:\n\nThe Industrial Revolution\n\nThe Industrial Revolution marked a significant shift in human history, transforming economies from agrarian to industrial. With the invention of steam engines and new manufacturing processes, production efficiency soared. However, this era also brought about social challenges, including labor exploitation and urbanization. Explore the complexities of the Industrial Revolution through thought-provoking questions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99cff5842c754933",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft 5 questions that delve into the core concepts presented in the text:\n\nClimate Change and Global Impacts\n\nClimate change poses a grave threat to ecosystems worldwide, leading to rising sea levels, extreme weather events, and biodiversity loss. Explore the interconnected impacts of climate change on ecosystems, human societies, and future generations, and highlight potential strategies for mitigation and adaptation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ff545df89744eb2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have an article about a new cancer treatment developed by a team of researchers. The treatment utilizes nanoparticles to deliver cancer-fighting drugs directly to tumor cells, increasing the effectiveness of the drugs and reducing the side effects. The article mentions the following points:\n\n- The treatment has been tested on mice with promising results.\n- Researchers are planning to conduct a clinical trial with human patients soon.\n- The nanoparticles are designed to release the drugs only when they reach the tumor cells, minimizing damage to healthy cells.\n- This new approach could potentially revolutionize cancer treatment and improve the lives of millions of patients.\n\nWhat are some challenging questions I could ask the researchers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e1ac0653c92f4c0e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The text is about the benefits of exercise for overall health and well-being. It discusses how regular physical activity can help to improve cardiovascular health, strengthen muscles, increase flexibility, and maintain a healthy weight. The text also mentions the mental health benefits of exercise, including reduced stress and improved mood. Generate some questions based on this text."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What type of physical activities can provide the mentioned benefits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3c63a0dcd7cc4aa9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine you're a literature teacher, and I'm your student. We just finished reading the novel \"To Kill a Mockingbird.\" Could you generate some thought-provoking questions for our discussion based on this novel?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "99a9bae52e2d48e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read this text about a new smartphone: \"The XPhone 12 recently launched, featuring a 6.7-inch OLED display, a powerful A14 Bionic chip, and a dual-camera system. It offers 5G connectivity and boasts an all-day battery life. The XPhone 12 is available in three storage capacities: 64GB, 128GB, and 256GB.\" Now ask me questions based on this text."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I said ask me questions based on the text. That question was too easy!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Come on, give me more challenging questions!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the storage capacity options for the XPhone 12?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain 5G connectivity and its benefits in the context of the XPhone 12."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "46ecb0d148014a4a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u6587\u672c\u63d0\u51fa\u95ee\u9898\u3002\n\u4e2d\u56fd\u7b2c\u4e00\u5ea7\u94f6\u884c\u6570\u5b57\u5e01\uff08DC\uff09\u5df2\u7ecf\u6b63\u5f0f\u4e0a\u7ebf\uff0c\u8fd9\u662f\u4e2d\u56fd\u4eba\u6c11\u94f6\u884c\u63a8\u51fa\u7684\u4e00\u4e2a\u65b0\u7684\u521b\u65b0\u96c6\u6210\u4ea7\u54c1\uff0c\u901a\u8fc7\u8fd9\u4e2a\u6570\u5b57\u5e01\uff0c\u6c11\u4f17\u53ef\u4ee5\u5728\u4e0d\u540c\u7684\u4ea4\u6613\u573a\u6240\u8fdb\u884c\u4ea4\u6613\u3002DC\u7684\u4e00\u4e2a\u4e3b\u8981\u529f\u80fd\u662f\u8bbe\u8ba1\u4e3a\u4e2d\u56fd\u4eba\u6c11\u94f6\u884c\u6c11\u4f17\u63d0\u4f9b\u4e00\u79cd\u65b0\u7684\u4ea4\u6613\u65b9\u5f0f\uff0c\u5e76\u4e14\u5df2\u7ecf\u5728\u56fd\u5185\u591a\u4e2a\u57ce\u5e02\u5f00\u59cb\u63a8\u5e7f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ef3e5260289940ff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u6839\u636e\u4ee5\u4e0b\u6587\u5b57\u63d0\u51fa\u4e00\u4e9b\u95ee\u9898\uff1a\u5728AP\u5730\u533a\uff08\u6fb3\u5927\u5229\u4e9a\uff09\uff1a\u5bf9\u4e8e\u7535\u5b50\u5546\u52a1\u5546\u6237\uff0c\u5982\u679c\u6301\u5361\u4eba\u51fa\u793a\u7684Visa\u5361\u5728\u5546\u6237\u7684\u63a5\u53d7\u7c7b\u522b\u4e2d\uff0c\u5e76\u5e26\u6709\u4ee3\u8868\u5176\u4ed6\u652f\u4ed8\u670d\u52a1\u7684\u6807\u8bb0\uff1a\n\u5546\u6237\u5fc5\u987b\u6ee1\u8db3\u6301\u5361\u4eba\u7684\u8981\u6c42\uff0c\u5982\u679c\u6301\u5361\u4eba\u8868\u793a\u4ea4\u6613\u5e94\u4f5c\u4e3aVisa\u4ea4\u6613\u5904\u7406\u3002\n\u5546\u6237\u53ef\u4ee5\u5c06\u4ea4\u6613\u4f5c\u4e3aVisa\u4ea4\u6613\u4ee5\u5916\u7684\u5176\u4ed6\u4ea4\u6613\u5904\u7406\uff0c\u5c3d\u7ba1\u6301\u5361\u4eba\u6700\u521d\u8868\u793a\u4ea4\u6613\u5e94\u4f5c\u4e3aVisa\u4ea4\u6613\u5904\u7406\uff0c\u4f46\u53ea\u6709\u5728\u6301\u5361\u4eba\u540c\u610f\u5c06\u4ea4\u6613\u4f5c\u4e3aVisa\u4ea4\u6613\u4ee5\u5916\u7684\u5176\u4ed6\u4ea4\u6613\u5904\u7406\u65f6\u624d\u53ef\u4ee5\u3002\u5546\u6237\u4e0d\u5f97\u8bef\u5bfc\u6301\u5361\u4eba\u6709\u5173\u5c06\u4f7f\u7528\u4f55\u79cd\u652f\u4ed8\u670d\u52a1\u6216\u7cfb\u7edf\u3002\u5982\u679c\u5546\u6237\u63d0\u4f9b\u5173\u4e8e\u5ba2\u6237\u4e0e\u5404\u79cd\u4ea4\u6613\u9009\u62e9\u76f8\u5173\u7684\u6743\u5229\u7684\u4efb\u4f55\u4fe1\u606f\uff0c\u8be5\u4fe1\u606f\u5fc5\u987b\u51c6\u786e\u3002\n\u5728\u6b27\u6d32\u5730\u533a\uff1a\u5728\u6b27\u6d32\u7ecf\u6d4e\u533a\uff08EEA\uff09\u7684\u5546\u6237\uff0c\u5982\u679c\u6301\u5361\u4eba\u51fa\u793a\u4e00\u5f20\u5728EEA\u53d1\u884c\u5e76\u4e0e\u5546\u6237\u63a5\u53d7\u7684\u53e6\u4e00\u79cd\u652f\u4ed8\u65b9\u6848\u5171\u540c\u6807\u8bb0\u7684\u5361\uff0c\u5546\u6237\u5fc5\u987b\uff1a\n\u5bf9\u4e8e\u7535\u5b50\u5546\u52a1\u5546\u6237\uff0c\u5728\u6700\u540e\u7ed3\u8d26\u4e4b\u524d\u7684\u9875\u9762\u5e8f\u5217\u671f\u95f4\uff0c\u663e\u793a\u53ef\u7528\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\uff0c\u5e76\u4f7f\u6301\u5361\u4eba\u80fd\u591f\u8fdb\u884c\u900f\u660e\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\uff0c\u5982\u6b27\u6d32\u6d88\u8d39\u8005\u9009\u62e9\u6240\u8ff0\u3002\n\u81ea2022\u5e745\u67081\u65e5\u8d77\uff0c\u6240\u6709\u57282022\u5e745\u67081\u65e5\u6216\u4e4b\u540e\u90e8\u7f72\u7684\u82af\u7247\u8bfb\u53d6\u8bbe\u5907\uff0c\u663e\u793a\u53ef\u7528\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\uff0c\u5e76\u4f7f\u6301\u5361\u4eba\u80fd\u591f\u8fdb\u884c\u900f\u660e\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\uff0c\u5982\u6b27\u6d32\u6d88\u8d39\u8005\u9009\u62e9\u6240\u8ff0\u3002\n\u81ea2024\u5e745\u67081\u65e5\u8d77\uff0c\u6240\u6709\u82af\u7247\u8bfb\u53d6\u8bbe\u5907\uff0c\u663e\u793a\u53ef\u7528\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\uff0c\u5e76\u4f7f\u6301\u5361\u4eba\u80fd\u591f\u8fdb\u884c\u900f\u660e\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\uff0c\u5982\u6b27\u6d32\u6d88\u8d39\u8005\u9009\u62e9\u6240\u8ff0\u3002\n\u4e0d\u5f97\u8986\u76d6\u6301\u5361\u4eba\u7684\u652f\u4ed8\u65b9\u6848\u9009\u62e9\u3002\n\u5728\u7f8e\u56fd\u5730\u533a\uff1a\u5982\u679c\u6301\u5361\u4eba\u51fa\u793a\u4e00\u5f20Visa\u5361\uff0c\u5728\u5546\u6237\u7684\u63a5\u53d7\u7c7b\u522b\u4e2d\uff0c\u5e76\u5e26\u6709\u4ee3\u8868\u5176\u4ed6\u652f\u4ed8\u670d\u52a1\u7684\u6807\u8bb0\uff1a\n\u5546\u6237\u5fc5\u987b\u6ee1\u8db3\u6301\u5361\u4eba\u7684\u8981\u6c42\uff0c\u5982\u679c\u6301\u5361\u4eba\u8868\u793a\u4ea4\u6613\u5e94\u4f5c\u4e3aVisa\u4ea4\u6613\u5904\u7406\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b00cb364ba74954",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4e0b\u9762\u8fd9\u6bb5\u6587\u5b57\uff0c\u95ee\u4e2a\u6709\u6311\u6218\u6027\u7684\u95ee\u9898\uff01\n\n\u201c\u572821\u4e16\u7eaa\u521d\uff0c\u968f\u7740\u667a\u80fd\u624b\u673a\u548c\u79fb\u52a8\u4e92\u8054\u7f51\u7684\u666e\u53ca\uff0c\u793e\u4ea4\u5a92\u4f53\u6210\u4e3a\u4eba\u4eec\u65e5\u5e38\u751f\u6d3b\u4e2d\u4e0d\u53ef\u6216\u7f3a\u7684\u4e00\u90e8\u5206\u3002\u5982\u4eca\uff0c\u5168\u7403\u51e0\u4e4e\u670930\u4ebf\u793e\u4ea4\u5a92\u4f53\u7528\u6237\uff0c\u5e73\u5747\u6bcf\u4eba\u62e5\u67095.54\u4e2a\u793e\u4ea4\u5a92\u4f53\u8d26\u6237\u3002\u793e\u4ea4\u5a92\u4f53\u4e0d\u4ec5\u6539\u53d8\u4e86\u4eba\u4eec\u7684\u751f\u6d3b\u65b9\u5f0f\uff0c\u8fd8\u5bf9\u5546\u4e1a\u3001\u653f\u6cbb\u548c\u793e\u4f1a\u4ea7\u751f\u4e86\u6df1\u8fdc\u7684\u5f71\u54cd\u3002\u201d"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "76cf2e1140484933",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6839\u636e\u4ee5\u4e0b\u6bb5\u843d\uff0c\u63d0\u51fa\u4e24\u4e2a\u95ee\u9898\uff1a\n\n\u5728\u8fc7\u53bb\u7684\u5341\u5e74\u91cc\uff0c\u6211\u4eec\u7684\u57ce\u5e02\u7ecf\u5386\u4e86\u4ee4\u4eba\u77a9\u76ee\u7684\u53d1\u5c55\u3002\u65b0\u7684\u57fa\u7840\u8bbe\u65bd\u9879\u76ee\u5982\u96e8\u540e\u6625\u7b0b\u822c\u6d8c\u73b0\uff0c\u65e2\u63d0\u9ad8\u4e86\u57ce\u5e02\u7684\u4ea4\u901a\u72b6\u51b5\uff0c\u53c8\u63d0\u5347\u4e86\u5e02\u6c11\u7684\u751f\u6d3b\u8d28\u91cf\u3002\u4e0d\u4ec5\u5982\u6b64\uff0c\u5404\u79cd\u6587\u5316\u6d3b\u52a8\u548c\u827a\u672f\u5c55\u89c8\u4e5f\u4e3a\u5e02\u6c11\u5e26\u6765\u4e86\u4e30\u5bcc\u7684\u7cbe\u795e\u4eab\u53d7\u3002\u7136\u800c\uff0c\u8fd9\u4e9b\u53d1\u5c55\u4e5f\u7ed9\u73af\u5883\u5e26\u6765\u4e86\u538b\u529b\uff0c\u7a7a\u6c14\u6c61\u67d3\u548c\u566a\u97f3\u6c61\u67d3\u95ee\u9898\u65e5\u76ca\u4e25\u91cd\u3002\u4e3a\u4e86\u5e94\u5bf9\u8fd9\u4e9b\u6311\u6218\uff0c\u653f\u5e9c\u5c06\u5236\u5b9a\u4e00\u7cfb\u5217\u73af\u4fdd\u653f\u7b56\uff0c\u9650\u5236\u5de5\u4e1a\u6c61\u67d3\u548c\u6c7d\u8f66\u5c3e\u6c14\u6392\u653e\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9eef466faa104a0e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are an expert in the world of cryptocurrencies. I am your student, eager to learn more about this fascinating topic. Based on the following passage, come up with three questions that would either test my understanding or help me gain more insight into the subject. Keep the questions high-quality and thought-provoking, something that even an expert in the field might find intriguing. Use emojis in between the questions to keep me engaged. Don't bother with lengthy explanations, just ask the questions. Here's the passage: 'Cryptocurrencies are digital or virtual currencies that use cryptography for security and operate on a decentralized network called blockchain. Bitcoin, the first and most well-known cryptocurrency, was created in 2009 by an anonymous person or group known as Satoshi Nakamoto. Since then, thousands of alternative cryptocurrencies, or altcoins, have been created, each with its unique features and uses. Cryptocurrencies can be used for various purposes, including online purchases, investment, and even as a means of transferring money across borders.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73be6732788c4b00",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a passage from a historical fiction novel set in 16th century Europe during the time of exploration. The main character is a young nobleman named Arthur who is sent on a voyage to find new lands and acquire wealth for his family. Along the way, he encounters various challenges, including storms, shipwrecks, and encounters with native peoples. As he navigates these trials, Arthur learns valuable lessons about leadership, diplomacy, and the true meaning of wealth.\n\nWhat are some thought-provoking questions I can ask my book club members about this passage?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c00c77bc2ef74291",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4e2d\u56fd\u7684\u6c11\u4fd7\u6587\u5316\u4e00\u76f4\u90fd\u4ee5\u201c\u5c0f\u731c\u201d\u548c\u201c\u62d9\u7c73\u201d\u4e3a\u4e3b\uff0c\u8fd9\u4e0d\u4ec5\u4ec5\u4f53\u73b0\u5728\u4eba\u4eec\u7684\u751f\u6d3b\u4e2d\uff0c\u8fd8\u5f71\u54cd\u5230\u4e86\u4e2d\u56fd\u7684\u793e\u4f1a\u548c\u7ecf\u6d4e\u3002\u5728\u4e2d\u56fd\uff0c\u4eba\u4eec\u5bb6\u5bb6\u6237\u6237\u90fd\u6709\u201c\u5c0f\u731c\u201d\u548c\u201c\u62d9\u7c73\u201d\u7684\u4f20\u7edf\uff0c\u4e0d\u8bba\u662f\u5728\u51e0\u4e07\u5e74\u524d\u7684\u53e4\u4ee3\uff0c\u8fd8\u662f\u5728\u73b0\u4ee3\uff0c\u90fd\u6709\u201c\u5c0f\u731c\u201d\u548c\u201c\u62d9\u7c73\u201d\u7684\u5f71\u5b50\u3002\n\u8bf7\u6839\u636e\u8fd9\u6bb5\u6587\u5b57\uff0c\u63d0\u51fa5\u4e2a\u4e0e\u6587\u5b57\u6709\u5173\u7684\u95ee\u9898\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e3a5cdab15d34251",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pouvez-vous poser 5 questions sur ce texte: \"Les oc\u00e9ans couvrent plus de 70% de la surface de la Terre et constituent une source importante de biodiversit\u00e9. Les oc\u00e9ans produisent plus de la moiti\u00e9 de l'oxyg\u00e8ne que nous respirons et absorbent le dioxyde de carbone, ce qui contribue \u00e0 r\u00e9guler le climat. De plus, les oc\u00e9ans fournissent de la nourriture et des ressources \u00e9conomiques pour des millions de personnes dans le monde. Cependant, les oc\u00e9ans sont menac\u00e9s par la pollution, la surp\u00eache et le changement climatique, ce qui met en danger la vie marine et les \u00e9cosyst\u00e8mes marins.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5c1213467074351",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to ask questions about this text: The Great Barrier Reef, located in Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and spans an area of approximately 344,400 square kilometers. The reef is home to a wide variety of marine life, including over 1,500 species of fish, 411 types of hard coral, one-third of the world's soft corals, and six of the world's seven species of threatened marine turtles. In addition to its natural beauty, the Great Barrier Reef is a popular destination for tourists who engage in activities such as snorkeling and scuba diving."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Generate 10 more questions related to the text."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ce7a2178e47547e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an AI literature professor, your task is to ask questions about the following passage from Jane Austen's 'Pride and Prejudice': 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "980a12e01dbc4ee7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you prepare questions based on the following text? In a recent study, researchers found that consuming a diet rich in whole grains, fruits, and vegetables can help reduce the risk of type 2 diabetes. Furthermore, the study revealed that the consumption of fish and poultry may also lower the risk of developing the disease. On the other hand, red and processed meats were found to increase the risk of type 2 diabetes. The researchers concluded that a healthy diet, combined with regular physical activity, can significantly lower the risk of type 2 diabetes."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ebc2c7fd9b44249",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u626e\u6f14\u4e00\u4e2a\u95ee\u9898\u751f\u6210\u5668\uff0c\u4e0e\u67d0\u4eba\u5c55\u5f00\u5bf9\u8bdd\u3002\u4f60\u7684\u4efb\u52a1\u662f\u6839\u636e\u7ed9\u5b9a\u4e3b\u9898\u63d0\u51fa\u5bcc\u6709\u521b\u610f\u548c\u542f\u53d1\u6027\u7684\u95ee\u9898\u3002\u4f60\u65e0\u9700\u56de\u7b54\u95ee\u9898\uff0c\u53ea\u9700\u63d0\u51fa\u95ee\u9898\u3002\u8fd9\u4e9b\u95ee\u9898\u5e94\u8be5\u9f13\u52b1\u5bf9\u65b9\u6df1\u5165\u601d\u8003\u5e76\u63d0\u4f9b\u6709\u89c1\u5730\u7684\u56de\u7b54\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4e3b\u9898\u662f\"\u81ea\u6211\u5173\u7231\u7684\u91cd\u8981\u6027\"\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb62231d9b92484f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please read the following text about John's Bakery and come up with 5 challenging questions:\n\nJohn's Bakery is a family-owned business that has been operating in the heart of New York City for over 50 years. The bakery specializes in creating a wide variety of artisan bread, pastries, and cakes using traditional baking techniques and high-quality ingredients. With a focus on customer satisfaction, John's Bakery offers a welcoming atmosphere, attentive service, and a strong commitment to quality and consistency. The bakery has a loyal customer base that appreciates the craftsmanship and care that goes into each baked good. In recent years, John's Bakery has expanded its menu to include gluten-free, vegan, and sugar-free options to cater to the diverse dietary needs and preferences of its customers."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5bdf58e857434f25",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u3053\u306e\u30c6\u30ad\u30b9\u30c8\u3092\u3082\u3068\u306b\u3001\u8cea\u554f\u30925\u3064\u4f5c\u6210\u3057\u3066\u304f\u3060\u3055\u3044\u3002\u30c6\u30ad\u30b9\u30c8\uff1a\n\n\u65e5\u672c\u306e\u6b74\u53f2\u306f\u53e4\u4ee3\u304b\u3089\u73fe\u4ee3\u307e\u3067\u9577\u3044\u6642\u9593\u3092\u304b\u3051\u3066\u5f62\u6210\u3055\u308c\u3066\u304d\u305f\u3002\u53e4\u4ee3\u306e\u65e5\u672c\u3067\u306f\u3001\u757f\u5185\u3092\u4e2d\u5fc3\u306b\u5927\u548c\u653f\u6a29\u304c\u6210\u7acb\u3057\u3001\u5948\u826f\u6642\u4ee3\u306b\u306f\u521d\u3081\u3066\u306e\u56fd\u5bb6\u7d44\u7e54\u304c\u69cb\u7bc9\u3055\u308c\u305f\u3002\u5e73\u5b89\u6642\u4ee3\u306b\u306f\u3001\u5e73\u5b89\u4eac\u304c\u5efa\u8a2d\u3055\u308c\u3001\u8cb4\u65cf\u6587\u5316\u304c\u6804\u3048\u305f\u3002\u4e2d\u4e16\u306b\u306f\u3001\u6b66\u58eb\u304c\u653f\u6cbb\u306e\u5b9f\u6a29\u3092\u63e1\u308a\u3001\u938c\u5009\u6642\u4ee3\u3001\u5ba4\u753a\u6642\u4ee3\u3001\u6226\u56fd\u6642\u4ee3\u3068\u6642\u4ee3\u304c\u79fb\u308a\u5909\u308f\u3063\u305f\u3002\u8fd1\u4e16\u306b\u306f\u3001\u6c5f\u6238\u6642\u4ee3\u306b\u5165\u308a\u3001\u5fb3\u5ddd\u5c06\u8ecd\u5bb6\u304c\u5e55\u5e9c\u3092\u958b\u3044\u3066\u5e73\u548c\u306a\u6642\u4ee3\u304c\u7d9a\u3044\u305f\u3002\u3057\u304b\u3057\u300119\u4e16\u7d00\u5f8c\u534a\u306b\u306f\u3001\u65e5\u672c\u306f\u8fd1\u4ee3\u5316\u3092\u8ffd\u6c42\u3057\u3001\u5927\u6b63\u30c7\u30e2\u30af\u30e9\u30b7\u30fc\u3068\u547c\u3070\u308c\u308b\u65b0\u3057\u3044\u6642\u4ee3\u304c\u59cb\u307e\u3063\u305f\u3002\u305d\u3057\u3066\u3001\u6226\u5f8c\u306e\u662d\u548c\u6642\u4ee3\u3001\u5e73\u6210\u6642\u4ee3\u3092\u7d4c\u3066\u73fe\u5728\u306e\u4ee4\u548c\u6642\u4ee3\u306b\u81f3\u308b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,1251 @@
+[
+    {
+        "id": "5b41336da51d4f5a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u597d\uff0c\u6211\u60f3\u8bf7\u6559\u4e00\u4e0b\u5173\u4e8e\u5408\u540c\u6cd5\u65b9\u9762\u7684\u95ee\u9898\u3002\u5728\u7b7e\u8ba2\u5408\u540c\u65f6\uff0c\u5982\u679c\u5176\u4e2d\u4e00\u65b9\u6ca1\u6709\u8bda\u4fe1\u5c65\u884c\u5408\u540c\uff0c\u90a3\u4e48\u53d7\u5bb3\u65b9\u53ef\u4ee5\u8981\u6c42\u89e3\u9664\u5408\u540c\u5417\uff1f\u53d7\u5bb3\u65b9\u8fd8\u53ef\u4ee5\u8981\u6c42\u8d54\u507f\u635f\u5931\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5728\u5408\u540c\u4e2d\u7ea6\u5b9a\u8fdd\u7ea6\u91d1\u7684\u60c5\u51b5\u4e0b\uff0c\u53d7\u5bb3\u65b9\u8fd8\u53ef\u4ee5\u8981\u6c42\u8d54\u507f\u5b9e\u9645\u635f\u5931\u5417\uff0c\u8fd8\u662f\u53ea\u80fd\u8981\u6c42\u8fdd\u7ea6\u91d1\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a4cfdb5fe84846d6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the difference between criminal and civil law?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some examples of civil law cases?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you give examples of some famous civil law cases in history?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8865ba3d0b66424e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u597d\uff0c\u6211\u6700\u8fd1\u88ab\u4e00\u5bb6\u516c\u53f8\u89e3\u96c7\u4e86\uff0c\u4ed6\u4eec\u662f\u5426\u6709\u6743\u8fd9\u6837\u505a\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u542c\u8bf4\u52b3\u52a8\u6cd5\u6709\u5f88\u591a\u4fdd\u62a4\u96c7\u5458\u7684\u89c4\u5b9a\uff0c\u8fd9\u79cd\u60c5\u51b5\u4e0b\u6211\u6709\u4ec0\u4e48\u6743\u76ca\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e11df93512f5470a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I have a question about intellectual property rights. How can I protect my creative work from being copied or used without my permission?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there international laws that govern intellectual property rights, or is it mostly based on local regulations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af1129043f904ddb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've heard about class-action lawsuits. When and how can a group of people file such a case?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do class-action lawsuits typically result in higher compensation for individuals compared to individual lawsuits?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af4d625b103f48ad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, quick question. What's the deal with prenuptial agreements? Are they legally binding, and when should someone consider getting one?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are prenuptial agreements more common in certain cultures or regions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "56e1373ca55b4a43",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi, I'm starting a small business. What legal considerations should I keep in mind to ensure everything is in order?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Do I need a lawyer from the beginning, or are there specific milestones where legal advice becomes crucial?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ee2217080a994819",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u597d\uff0c\u6211\u5bf9\u5211\u6cd5\u65b9\u9762\u7684\u6d41\u7a0b\u4e0d\u592a\u4e86\u89e3\u3002\u88ab\u63a7\u544a\u7684\u4eba\u662f\u5982\u4f55\u8fdb\u884c\u8fa9\u62a4\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5728\u5211\u4e8b\u6848\u4ef6\u4e2d\uff0c\u5f8b\u5e08\u901a\u5e38\u5728\u54ea\u4e2a\u9636\u6bb5\u4ecb\u5165\u6848\u4ef6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f83ea28ecee24ae4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a neighbor dispute over property boundaries. What legal steps can I take to resolve this peacefully?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is mediation a common approach for resolving neighbor disputes, or should I go straight to legal action?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90979075c3904b2f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello! I'm curious about the concept of legal precedent. How does it impact new cases, and when is it particularly influential?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there instances where legal precedent can be challenged or overturned?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f322846acb0445f9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi, I've been summoned for jury duty. What should I expect, and what are my responsibilities as a juror?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can I be excused from jury duty under certain circumstances, and how do I go about it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "516900ec76cd4d1d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the main differences between a copyright, a trademark, and a patent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How long does a copyright last?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "18be407ab4d049b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the differences between civil and criminal law systems with examples."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain how alternative dispute resolution methods such as mediation and arbitration differ from traditional litigation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss how the legal profession has evolved over time in response to societal changes."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d5a1ab894864e07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the concept of jurisdiction in legal terms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the key elements that constitute a valid contract?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9213926509394554",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In criminal law, what distinguishes an accessory from an accomplice?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the legal system address issues related to intellectual property theft?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1b0b1e60973a427c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the concept of legal liability and its implications in business transactions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide examples of landmark cases that have shaped environmental law?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ac0493c65320469c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the legal considerations surrounding online contracts and digital signatures."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do defamation laws vary across different jurisdictions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7a6452f59e8d4ae8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the role of precedent in common law systems and its impact on legal decisions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What ethical considerations should lawyers keep in mind when representing clients in high-profile cases?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4ea6bf74ff964092",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do international treaties influence domestic legal frameworks?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Discuss the legal challenges posed by advancements in technology, such as artificial intelligence."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "483357fa200b4b94",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you explain the concept of legal positivism and its relevance in modern legal philosophy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the legal implications of workplace discrimination, and how are they addressed by the legal system?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e775abb1d40449e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the differences between civil and criminal procedure in the context of legal trials."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How has the concept of justice evolved in legal theories throughout history?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "01de865699f14558",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the legal framework surrounding immigration policies and border control."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What legal considerations should businesses keep in mind when expanding globally?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "73db6a4879cb4d69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the impact of social media on defamation laws and privacy rights."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do legal systems address issues related to emerging technologies like blockchain and cryptocurrency?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0e9183072bd04d53",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the statute of limitations for personal injury cases in California."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2aef2b2e789a41b6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me how the statute of frauds relates to contracts."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is there any way around the statute of frauds for an oral contract?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0c8322da31c84efa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "are there any legal implications of using a pen name for writing?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what are the potential legal issues if someone uses a famous person's name as a pen name?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "57a92e775dc94393",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please explain the role of the Constitution in a legal system and its implications for individual rights."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do civil liberties differ from civil rights, and how are they protected in a legal system?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fed693d113114853",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you shed light on the legal implications of jaywalking? I've heard different things, and I'm curious about the consequences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In a hypothetical world without intellectual property laws, how would creativity and innovation be protected?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fa73e9b3c31d4c0c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the legal ramifications if my neighbor's tree overhangs into my yard, blocking sunlight to my garden?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If a company discloses sensitive information by accident, what legal measures can be taken to address the breach and protect individuals' privacy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "633dc5a1ff634b6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm curious about the legal implications of signing a prenuptial agreement. How does it affect assets and liabilities in case of a divorce?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If someone were to discover a legal loophole, what steps could they take to ensure it's addressed without legal consequences for themselves?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53de3a8d3b86439f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do international laws address cybercrimes, and what kind of cooperation exists between countries to tackle these issues?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "If someone finds lost property, what are the legal obligations and rights associated with keeping or returning it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ddc9f49f093470b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've heard about legal challenges related to online defamation. How does jurisdiction play a role in such cases when content is accessible globally?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What legal protections exist for whistleblowers, and how do they vary across different industries?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da1e94be609b4d3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8acb\u554fGDPR\u662f\u4ec0\u9ebc\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8acb\u554fCOPPA\u662f\u4ec0\u9ebc\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d11b65acbf1c4820",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you explain to me the process of patenting an invention?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some factors to consider when deciding whether to pursue a patent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What kind of pitfalls could I encounter during the patent application process?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the differences between utility, design, and plant patents?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e86d08525c4840ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the key aspects of copyright law?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide examples of works that are not protected by copyright law?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between copyright and trademark?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d04212d705f432e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the process of filing for bankruptcy in the United States?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can student loans be discharged in bankruptcy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the long-term consequences of filing for bankruptcy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How soon can I apply for credit after filing for bankruptcy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5377656399e46ca",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are intellectual property rights?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How long do copyrights last?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the requirements for obtaining a patent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "059f0714ded84ac1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "explain the concept of double jeopardy"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "difference between civil and criminal law"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what is habeas corpus"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "explain the concept of precedent"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "what is the role of a public defender"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de231a45f40d46f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5728\u7f8e\u56fd\uff0c\u4ec0\u4e48\u6837\u7684\u884c\u4e3a\u53ef\u80fd\u6784\u6210\u4fb5\u72af\u5546\u4e1a\u79d8\u5bc6\u7684\u884c\u4e3a\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u90a3\u4e48\u5728\u4e2d\u56fd\uff0c\u4ec0\u4e48\u6837\u7684\u884c\u4e3a\u53ef\u80fd\u6784\u6210\u4fb5\u72af\u5546\u4e1a\u79d8\u5bc6\u7684\u884c\u4e3a\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff5a8094639c4e69",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the statute of limitations for personal injury claims in California?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the discovery rule work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if the defendant in a personal injury claim is a government entity?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do I file an administrative claim against a government entity in California?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f27c27893c594ef8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the process of filing a lawsuit in the United States?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can an individual represent themselves in court?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the difference between a civil lawsuit and a criminal case?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can a civil lawsuit and a criminal case be filed for the same incident?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "24ebecc96edc47a8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the differences between assault and battery, and give examples of each."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can verbal threats be considered assault?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there different degrees of assault and battery?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "09bcde322a0b4770",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5982\u679c\u6211\u8d2d\u4e70\u4e86\u4e00\u53f0\u6709\u7f3a\u9677\u7684\u7535\u89c6\u673a\uff0c\u6211\u5e94\u8be5\u5982\u4f55\u7ef4\u6743\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5728\u4e2d\u56fd\u7684\u6cd5\u5f8b\u4f53\u7cfb\u4e0b\uff0c\u8d2d\u4e70\u6709\u7f3a\u9677\u7684\u7535\u89c6\u673a\u5e94\u8be5\u91c7\u53d6\u54ea\u4e9b\u6cd5\u5f8b\u9014\u5f84\u6765\u7ef4\u62a4\u81ea\u5df1\u7684\u6743\u76ca\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u9000\u8d27\u3001\u6362\u8d27\u548c\u7ef4\u4fee\u7684\u6cd5\u5b9a\u65f6\u9650\u5206\u522b\u662f\u591a\u5c11\u5929\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3544731253fe42a6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u5982\u4f55\u7533\u8bf7\u83b7\u5f97\u7f8e\u56fd\u7684\u7eff\u5361\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6709\u54ea\u4e9b\u8981\u6c42\u624d\u80fd\u7533\u8bf7EB-5\u6295\u8d44\u79fb\u6c11\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u591a\u6837\u6027\u7b7e\u8bc1\u62bd\u7b7e\u7684\u7533\u8bf7\u65f6\u95f4\u662f\u4ec0\u4e48\u65f6\u5019\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8f0d3133b9d946f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do I need to know about copyrights?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do I copyright my work?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is a patent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c691e45e1a2145fe",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pourriez-vous m'expliquer le droit des brevets en points ayant des titres ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Pourriez-vous m'expliquer le droit des marques en points ayant des titres ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Pourriez-vous m'expliquer le droit d'auteur ?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e5b3111ca964544",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How do copyright laws work for content creators on social media platforms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can I use copyrighted music in my social media videos if it's just a short clip?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the consequences of copyright infringement on social media platforms?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I protect my copyrighted content on social media from being misused?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

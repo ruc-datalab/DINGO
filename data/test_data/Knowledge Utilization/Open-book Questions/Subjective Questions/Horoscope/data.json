@@ -1,0 +1,960 @@
+[
+    {
+        "id": "679cc955a7d248f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u73b0\u5728\uff0c\u60a8\u662f\u4e00\u4f4d\u661f\u5ea7\u4e13\u5bb6\uff0c\u8bf7\u6839\u636e\u661f\u5ea7\u77e5\u8bc6\uff0c\u544a\u8bc9\u62112023\u5e743\u67086\u65e5\u81f33\u670812\u65e5\uff0c\u5904\u5973\u5ea7\u5728\u5de5\u4f5c\u548c\u611f\u60c5\u65b9\u9762\u6709\u54ea\u4e9b\u9884\u6d4b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c22\u8c22\u4f60\u7684\u5efa\u8bae\u3002\u6211\u60f3\u4e86\u89e3\u4e00\u4e0b\uff0c\u4f60\u7ed9\u51fa\u8fd9\u4e9b\u5efa\u8bae\u7684\u4f9d\u636e\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cee5ee191e9f4cde",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u5e2e\u6211\u770b\u4e00\u4e0b\u6211\u7684\u547d\u76d8\u5417\uff1f\u6211\u53ef\u4ee5\u544a\u8bc9\u4f60\u6211\u7684\u51fa\u751f\u65e5\u671f\u3001\u65f6\u95f4\u548c\u5730\u70b9\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1995-06-15\n\u4e0b\u53483\u70b930\u5206\n\u4e0a\u6d77\uff0c\u4e2d\u56fd"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5cb1ac09155e4902",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u597d\uff01\u6211\u6700\u8fd1\u8ff7\u4e0a\u4e86\u661f\u5ea7\uff0c\u542c\u8bf4\u6c34\u74f6\u5ea7\u5f88\u6709\u521b\u610f\u3002\u4f60\u80fd\u544a\u8bc9\u6211\uff0c\u4f5c\u4e3a\u4e00\u4e2a\u6c34\u74f6\u5ea7\uff0c\u6211\u5e94\u8be5\u5982\u4f55\u6fc0\u53d1\u6211\u7684\u521b\u9020\u529b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4f60\u89c9\u5f97\u661f\u5ea7\u5bf9\u4eba\u7684\u6027\u683c\u548c\u884c\u4e3a\u6709\u591a\u5927\u7684\u5f71\u54cd\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "584bbeaa571c4c7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u542c\u8bf4\u5929\u79e4\u5ea7\u5f88\u5584\u4e8e\u4eba\u9645\u5173\u7cfb\uff0c\u6211\u662f\u5929\u79e4\u5ea7\uff0c\u6709\u4ec0\u4e48\u79d8\u8bc0\u53ef\u4ee5\u5728\u804c\u573a\u4e2d\u5efa\u7acb\u826f\u597d\u7684\u4eba\u9645\u5173\u7cfb\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u670b\u53cb\u8bf4\u5979\u5b8c\u5168\u4e0d\u76f8\u4fe1\u661f\u5ea7\uff0c\u4f60\u89c9\u5f97\u600e\u4e48\u6837\u53ef\u4ee5\u8ba9\u5979\u5bf9\u661f\u5ea7\u4ea7\u751f\u5174\u8da3\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eee49f8d01194cf2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u5c04\u624b\u5ea7\uff0c\u542c\u8bf4\u5c04\u624b\u5ea7\u5bf9\u5192\u9669\u5f88\u611f\u5174\u8da3\u3002\u4f60\u8ba4\u4e3a\u6211\u5e94\u8be5\u5c1d\u8bd5\u54ea\u4e9b\u65b0\u7684\u5192\u9669\u4f53\u9a8c\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6709\u4eba\u544a\u8bc9\u6211\u661f\u5ea7\u548c\u4eba\u7684\u4e8b\u4e1a\u53d1\u5c55\u6709\u5173\u7cfb\uff0c\u4f60\u8ba4\u4e3a\u8fd9\u662f\u771f\u7684\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b609c9cfc36e43bd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u5de8\u87f9\u5ea7\uff0c\u542c\u8bf4\u5de8\u87f9\u5ea7\u7684\u4eba\u6bd4\u8f83\u60c5\u611f\u4e30\u5bcc\u3002\u5728\u611f\u60c5\u65b9\u9762\uff0c\u6709\u4ec0\u4e48\u5efa\u8bae\u53ef\u4ee5\u8ba9\u6211\u66f4\u52a0\u7406\u6027\u4e00\u4e9b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u661f\u5ea7\u771f\u7684\u80fd\u591f\u9884\u6d4b\u672a\u6765\u5417\uff1f\u6211\u6709\u70b9\u6000\u7591\u8fd9\u4e9b\u4e1c\u897f\u7684\u51c6\u786e\u6027\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a62354d7d174d73",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u542c\u8bf4\u53cc\u5b50\u5ea7\u7684\u4eba\u559c\u6b22\u53d8\u5316\uff0c\u4f46\u6211\u611f\u89c9\u81ea\u5df1\u6709\u70b9\u5bb3\u6015\u6539\u53d8\u3002\u6709\u4ec0\u4e48\u65b9\u6cd5\u53ef\u4ee5\u5e2e\u52a9\u6211\u66f4\u597d\u5730\u9002\u5e94\u53d8\u5316\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u670b\u53cb\u662f\u5904\u5973\u5ea7\uff0c\u6211\u60f3\u7ed9\u5979\u4e70\u4e00\u4efd\u751f\u65e5\u793c\u7269\uff0c\u6709\u4ec0\u4e48\u7279\u522b\u7684\u5efa\u8bae\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c037711f2fcc44b3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u6469\u7faf\u5ea7\uff0c\u542c\u8bf4\u6469\u7faf\u5ea7\u7684\u4eba\u6bd4\u8f83\u52a1\u5b9e\u3002\u5728\u5de5\u4f5c\u4e2d\uff0c\u6709\u4ec0\u4e48\u65b9\u6cd5\u53ef\u4ee5\u8ba9\u6211\u66f4\u52a0\u9ad8\u6548\u548c\u6210\u529f\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u661f\u5ea7\u5206\u6790\u771f\u7684\u6709\u79d1\u5b66\u4f9d\u636e\u5417\uff1f\u6211\u6709\u70b9\u6000\u7591\u8fd9\u4e9b\u4e1c\u897f\u7684\u53ef\u4fe1\u5ea6\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "04d743ed13974066",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u767d\u7f8a\u5ea7\uff0c\u542c\u8bf4\u767d\u7f8a\u5ea7\u7684\u4eba\u6bd4\u8f83\u51b2\u52a8\u3002\u6709\u6ca1\u6709\u65b9\u6cd5\u5e2e\u6211\u66f4\u7406\u667a\u5730\u5904\u7406\u95ee\u9898\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u661f\u5ea7\u5206\u6790\u5bf9\u604b\u7231\u6709\u5e2e\u52a9\u5417\uff1f\u6211\u60f3\u77e5\u9053\u6211\u548c\u6211\u7684\u4f34\u4fa3\u662f\u5426\u661f\u5ea7\u5339\u914d\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "700255e59b3e4080",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5982\u4f55\u770b\u5f85\u53cc\u9c7c\u5ea7\u548c\u5929\u874e\u5ea7\u5728\u7231\u60c5\u4e2d\u7684\u517c\u5bb9\u6027\uff1f\u6211\u89c9\u5f97\u4ed6\u4eec\u4f1a\u6709\u4e00\u4e9b\u76f8\u4e92\u5438\u5f15\u7684\u5730\u65b9\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ff3938405f334a93",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u544a\u8bc9\u6211\uff0c\u91d1\u725b\u5ea7\u57282023\u5e74\u7684\u6574\u4f53\u8fd0\u52bf\u5982\u4f55\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f880f31efe6b4754",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Pretend you are a professional astrologer, and I would like to know about the general traits of a Sagittarius"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4387dda4225546d3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u4e0d\u80fd\u7ed9\u6211\u4e00\u4e9b\u53cc\u9c7c\u5ea7\u7684\u521b\u610f\u7075\u611f\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6efdd6a408154a32",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an astrologer, can you share insights on the career prospects for Libra individuals in the coming year?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "31f01c2eab2f42e2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf4\u8bf4\u6469\u7faf\u5ea7\u7684\u4eba\u5728\u611f\u60c5\u4e2d\u7684\u7279\u70b9\u548c\u6700\u517c\u5bb9\u7684\u661f\u5ea7\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b9c446de6aa243e5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u79cd\u5e7d\u9ed8\u7684\u65b9\u5f0f\u544a\u8bc9\u6211\uff0c\u5de8\u87f9\u5ea7\u7684\u4eba\u6700\u5bb9\u6613\u9677\u5165\u7684\u5947\u602a\u60c5\u5883\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0394954901c443ef",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f5c\u4e3a\u5360\u661f\u4e13\u5bb6\uff0c\u4f60\u80fd\u7ed9\u6211\u89e3\u91ca\u4e00\u4e0b\u5929\u79e4\u5ea7\u5728\u5bb6\u5ead\u5173\u7cfb\u4e2d\u7684\u884c\u4e3a\u6a21\u5f0f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ada8b5a471124b49",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u7528\u4e00\u4e9b\u8bd7\u610f\u7684\u8bed\u8a00\u63cf\u8ff0\u72ee\u5b50\u5ea7\u7684\u6d6a\u6f2b\u4e4b\u65c5\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d1531825c124bd5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about the Aquarius personality traits, but present it like a mystery novel introduction."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c7501479f6e947c6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u79cd\u79d1\u5b66\u7684\u65b9\u5f0f\u89e3\u91ca\u5c04\u624b\u5ea7\u7684\u76f4\u89c9\u529b\u662f\u5982\u4f55\u5f71\u54cd\u4ed6\u4eec\u7684\u51b3\u7b56\u7684\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e5963fd90efe4529",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e00\u79cd\u5e7d\u9ed8\u7684\u65b9\u5f0f\uff0c\u544a\u8bc9\u6211\u53cc\u5b50\u5ea7\u4e3a\u4ec0\u4e48\u603b\u662f\u8fd9\u4e48\u597d\u5947\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2ae0ed574d754cd0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u91d1\u725b\u5ea7\u6027\u683c\u7279\u70b9"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u91d1\u725b\u5ea7\u9002\u5408\u7684\u804c\u4e1a"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9cafa2372c24fa0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u53cc\u9c7c\u5ea7\u6027\u683c\u7279\u5f81"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "befd2f0fdebc4ca8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u767d\u7f8a\u5ea7\u7684\u6027\u683c\u7279\u70b9\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u767d\u7f8a\u5ea7\u7684\u51fa\u751f\u65e5\u671f\u8303\u56f4\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ade75f887924ddc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u53cc\u9c7c\u5ea7\u7231\u60c5\u8fd0\u52bf"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9a873826ef7f4de3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please give me a horoscope for Aries for the week of March 1-7, 2023?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "16f182cd594e4213",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an eager student, I want to ask you about my horoscope. Can you provide me with some insights based on my birth details?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you! Here are my birth details:\n\nDate of birth: 15th June 1995\nTime of birth: 09:15 AM\nPlace of birth: Los Angeles, California, USA"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7b2fd6d8e0a41d8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u5de8\u87f9\u5ea7\u7684\u4e00\u4e9b\u57fa\u672c\u6027\u683c\u7279\u5f81\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5de8\u87f9\u5ea7\u7684\u4eba\u5728\u5de5\u4f5c\u4e0a\u901a\u5e38\u8868\u73b0\u5982\u4f55\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "023d98b2ffc74ddd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, curious mind here! Can you spill the cosmic beans on my starry self? I'm itching for some celestial gossip based on my birth details."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Here's the lowdown on my existence:\n\nDate of birth: 20th September 1988\nTime of birth: 04:30 PM\nPlace of birth: Sydney, Australia"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0ca50e9d7cf94372",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u544a\u8bc9\u6211\u4e00\u4e9b\u6c34\u74f6\u5ea7\u7684\u5947\u602a\u4e4b\u5904\uff0c\u6709\u70b9\u597d\u5947\u8fd9\u661f\u5ea7\u7684\u4eba\u90fd\u6709\u4ec0\u4e48\u602a\u7656\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6c34\u74f6\u5ea7\u7684\u4eba\u5728\u604b\u7231\u4e2d\u4e00\u822c\u5c55\u73b0\u51fa\u600e\u6837\u7684\u6001\u5ea6\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e36abbed26ca41de",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings, oh cosmic oracle! Share some profound revelations about my astrological blueprint, won't you?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Behold the cosmic data:\n\nDate of birth: 10th December 1992\nTime of birth: 02:45 AM\nPlace of birth: Paris, France"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a57611f4b764400",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u4e00\u76f4\u597d\u5947\u5c04\u624b\u5ea7\u7684\u4eba\u662f\u4e0d\u662f\u90fd\u7279\u522b\u597d\u52a8\uff0c\u80fd\u7ed9\u6211\u89e3\u7b54\u4e00\u4e0b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5c04\u624b\u5ea7\u7684\u804c\u573a\u8868\u73b0\u4e00\u822c\u5982\u4f55\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "065f2b4115df4ecc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Yo, stargazer! Hook me up with some celestial intel about myself. I'm ready for the astro tea!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Check these cosmic coordinates:\n\nDate of birth: 5th July 1990\nTime of birth: 11:00 PM\nPlace of birth: New York, USA"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b76e9ad5868045fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u7ed9\u6211\u70b9\u6709\u5173\u5904\u5973\u5ea7\u7684\u516b\u5366\uff0c\u8fd9\u661f\u5ea7\u7684\u4eba\u90fd\u6709\u5565\u7279\u522b\u7684\u5730\u65b9\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5728\u56e2\u961f\u4e2d\uff0c\u5904\u5973\u5ea7\u7684\u4eba\u901a\u5e38\u5c55\u73b0\u51fa\u600e\u6837\u7684\u9886\u5bfc\u98ce\u683c\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "abd88a0d92ab4b35",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey starry sage! Lay some astro-wisdom on me. I'm ready to decode the cosmic secrets of moi!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Unleash the cosmic truth:\n\nDate of birth: 25th March 1985\nTime of birth: 06:15 AM\nPlace of birth: Tokyo, Japan"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a4e6d177ed4448ae",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6709\u5173\u5929\u79e4\u5ea7\u7684\u4fe1\u606f\uff0c\u4f60\u80fd\u5206\u4eab\u4e00\u4e0b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5929\u79e4\u5ea7\u7684\u4eba\u5728\u521b\u610f\u9886\u57df\u4e2d\u8868\u73b0\u5f97\u600e\u4e48\u6837\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b279beae38874c6e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u73b0\u5728\u4f60\u662f\u4e00\u4e2a\u661f\u5ea7\u4e13\u5bb6\uff0c\u8bf7\u4f60\u4ece\u661f\u5ea7\u89d2\u5ea6\u6765\u8c08\u8c08\u6c34\u74f6\u5ea7\u7684\u4eba\u5728\u4e8b\u4e1a\u65b9\u9762\u6709\u4ec0\u4e48\u7279\u70b9\u548c\u4f18\u52bf\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e7973769b1954a03",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u53ef\u4ee5\u5206\u6790\u4e00\u4e0b\u6211\u7684\u751f\u8fb0\u516b\u5b57\u5417\uff1f\u6211\u7684\u51fa\u751f\u65e5\u671f\u662f1995\u5e746\u670820\u65e5\uff0c\u51fa\u751f\u65f6\u95f4\u662f\u4e0b\u53484\u70b9\uff0c\u51fa\u751f\u5730\u70b9\u662f\u4e2d\u56fd\u56db\u5ddd\u6210\u90fd\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c22\u8c22\u4f60\u7684\u5206\u6790\uff0c\u90a3\u4e48\u6839\u636e\u6211\u7684\u516b\u5b57\uff0c\u6211\u5728\u804c\u4e1a\u53d1\u5c55\u65b9\u9762\u6709\u4ec0\u4e48\u5efa\u8bae\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "814a8636f7964ef1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u597d\uff0c\u6211\u662f\u4e00\u4f4d\u6c42\u5b66\u8005\uff0c\u60f3\u8bf7\u6559\u60a8\u5982\u4f55\u6839\u636e\u661f\u76d8\u548c\u661f\u8c61\u77e5\u8bc6\u5206\u6790\u4e00\u4e0b\u672a\u6765\u4e00\u5468\u7684\u5bb6\u5ead\u8fd0\u52bf\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "57e03f610ffe45da",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the main characteristics of a person with a Gemini sun sign?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does having a Gemini sun sign affect their compatibility with other zodiac signs?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9e1518d2326c4601",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u6700\u8fd1\u5bf9\u661f\u5ea7\u5f88\u611f\u5174\u8da3\uff0c\u4f60\u80fd\u544a\u8bc9\u6211\u53cc\u5b50\u5ea7\u7684\u604b\u7231\u89c2\u662f\u600e\u6837\u7684\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0c8bbe92413a461f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u53cc\u9c7c\u5ea7\u7684\uff0c\u80fd\u7ed9\u6211\u63a8\u8350\u4e00\u4e9b\u9002\u5408\u6211\u7684\u804c\u4e1a\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c83e0ec5b8364c31",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u661f\u5ea7\u548c\u547d\u7406\u6709\u4ec0\u4e48\u533a\u522b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c51ee359abf84e11",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u767d\u7f8a\u5ea7\uff0c\u6709\u6ca1\u6709\u4e00\u4e9b\u5173\u4e8e\u767d\u7f8a\u5ea7\u7684\u6709\u8da3\u4e8b\u5b9e\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "74238b75b40c4b03",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u661f\u5ea7\u5bf9\u4eba\u7684\u6027\u683c\u771f\u7684\u6709\u5f71\u54cd\u5417\uff1f\u6211\u6709\u70b9\u6000\u7591\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8a50ad17b2ef4225",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u5904\u5973\u5ea7\uff0c\u6709\u4ec0\u4e48\u65b9\u6cd5\u80fd\u8ba9\u6211\u66f4\u597d\u5730\u7ba1\u7406\u65f6\u95f4\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cdfa628318d04f68",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u542c\u8bf4\u5929\u874e\u5ea7\u7684\u4eba\u5f88\u590d\u6742\uff0c\u662f\u771f\u7684\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4829faf63a344eee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u662f\u6469\u7faf\u5ea7\uff0c\u6709\u4ec0\u4e48\u529e\u6cd5\u53ef\u4ee5\u7f13\u89e3\u5de5\u4f5c\u538b\u529b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cdc8aa65a4634d39",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u661f\u5ea7\u548c\u6027\u683c\u6d4b\u8bd5\u6709\u4ec0\u4e48\u4e0d\u540c\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b2a1b85dd2b44e95",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Act as a tarot card reader and ask for the details you need to give me a tarot reading"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "My question is about my career. I'm currently working in marketing, but I'm considering a switch to the tech industry. What guidance do the tarot cards have for me?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What challenges should I expect in transitioning to the tech industry and how can I overcome them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you, this was helpful!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,875 @@
+[
+    {
+        "id": "b0b04c4944714423",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please pretend that I'm a recent graduate named Sarah with a degree in marketing, and write a resume for a marketing position at a tech company."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22ee4086a7394e6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a hiring manager, I need a resume for a candidate applying for a social media manager position. Make it impressive and highlight their skills and experience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "160b85b09aa84b94",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a seasoned IT professional transitioning to project management. Craft a resume that showcases my technical expertise and emphasizes my leadership skills."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b79075f1c384f6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want a creative and visually appealing resume for a graphic design role. Capture attention with unconventional design elements while maintaining professionalism."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da26648681ef419d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a resume that reflects my entrepreneurial spirit. I'm a startup enthusiast with a background in finance, aiming for a role that requires innovative thinking and risk management."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1526bf7e0cf049c7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me draft a resume for a position in environmental advocacy. I want to emphasize my passion for sustainability and community engagement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f800f3e749dd4d3e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm switching from academia to corporate training. Create a resume that showcases my teaching experience while emphasizing my ability to adapt to a corporate environment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4d783135b134858",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a resume that portrays my diverse skill set. I have experience in finance, technology, and marketing. Highlight versatility and adaptability."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab0607eb74f047c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a resume for a customer service position. Emphasize my exceptional communication skills and ability to handle challenging situations with a customer-centric approach."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "707514b646544274",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a resume for a project coordinator role in the fashion industry. Showcase my organizational skills and passion for staying ahead of industry trends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "159b4f72fb804aa3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a resume for a software developer applying to a startup. Highlight my coding skills and ability to contribute to a dynamic and fast-paced work environment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "055688f3318c46f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent graduate in psychology applying for a research assistant position. Develop a resume that showcases my research experience and analytical skills."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c2ad34538ea845c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Eres un estudiante reci\u00e9n graduado buscando trabajo como analista de datos. Redacta una breve presentaci\u00f3n de ti mismo y tus habilidades para incluir en tu curr\u00edculum vitae en espa\u00f1ol."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3a5d64758acc4799",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Soy un ingeniero en sistemas con 5 a\u00f1os de experiencia y busco una oportunidad en el desarrollo de aplicaciones m\u00f3viles. \u00bfPuedes ayudarme a crear un curr\u00edculum para m\u00ed? \u00bfQu\u00e9 informaci\u00f3n necesitas de m\u00ed para asegurarte que mi experiencia y habilidades sean relevantes y resaltadas en mi curr\u00edculum?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7056b142bd934fd9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent college graduate with a degree in computer science. As a career advisor, how would you suggest I write my resume to best showcase my skills and experiences for a software engineering role?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "aa9aed4b26b94b02",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a resume for a recent graduate named Sarah seeking an entry-level marketing position"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6328100c6c4b4f6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent graduate with a degree in environmental science. Can you help me create a resume that aligns with sustainability roles in the corporate sector?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the key skills that should be highlighted for sustainability roles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3ce273e889064de2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been working in customer service for a while. Craft a resume that not only showcases my excellent communication skills but also positions me for a supervisory role."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What achievements should I emphasize to show my readiness for a supervisory role?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3aebc0daa16743f8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a background in healthcare administration. Create a resume that emphasizes my organizational skills and ability to handle complex medical office tasks."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I effectively showcase my experience in handling complex medical office tasks on my resume?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "50e952c9fc994671",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a resume for a software engineer with a focus on machine learning. I want it to highlight my coding skills and project experiences in AI."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I effectively showcase my machine learning project experiences on my resume?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b190d7bf5d0d43c9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a marketing specialist exploring opportunities in the fashion industry. Create a resume that reflects my creativity and ability to drive brand engagement."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I showcase my creativity effectively on a resume for the fashion industry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3c5612d486c14095",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I am a recent graduate with a degree in marketing and I need help creating my first resume. Can you help me? What information should I include to showcase my skills and experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Yes, please provide an example of how my resume might look with these sections."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I don't have any internships or work experience in marketing? How should I modify the resume?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b44accb7e3194ea1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a resume for an individual named Susan that highlights her accounting experience, education, and skills. Make sure to include any relevant certifications and memberships."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8323ea61a5ca4aa2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm applying for a graphic design position, and I want my resume to stand out. How can I showcase my creativity and skills effectively?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "65a001ea3c3f4a34",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a diverse set of skills, including programming and digital marketing. How can I format my resume to highlight these skills for a tech-oriented job?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7dba278fb2674dad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent graduate in environmental science. Can you guide me on tailoring my resume for entry-level positions in environmental research and conservation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "72d27cfdd38e40ac",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm switching careers from finance to content writing. How should I structure my resume to emphasize my writing skills and downplay my finance background?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9642a818d1fa4aa1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm applying for a managerial role in retail. Can you assist me in crafting a resume that highlights my leadership experience and customer service skills?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c6060f5a235e4ef5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a freelancer with diverse projects. How can I present my varied freelance work effectively on a resume for a full-time position in project management?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d0fc4dd3ad364428",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been out of the job market for a while due to personal reasons. How can I address employment gaps on my resume and increase my chances of landing a job?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "754da21d2a264217",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent graduate applying for entry-level positions. What can I do to make my resume stand out when I don't have much work experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "23f98338c8bc4da7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking to transition from academia to industry. How should I tailor my CV to make it suitable for corporate job applications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d6a264bdd614689",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a gap year filled with volunteer work. How can I present this experience effectively on my resume for positions in social impact organizations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca07f314abe8497e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm applying for a graphic design position. How can I make my resume visually appealing and still include all the necessary information?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I include a portfolio link in my resume, or is that better suited for the cover letter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e6efbaea4f4747c8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have skills in both programming and digital marketing. How can I create a resume that showcases my versatility for a tech-oriented job?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I prioritize one skill over the other, or is it better to present them equally on my resume?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3bfa18ba4c154440",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent graduate in environmental science. Can you guide me on tailoring my resume for entry-level positions in environmental research and conservation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What specific keywords or buzzwords should I include to pass through automated resume screening systems?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e5230fba1b914ee0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm switching from finance to content writing. How should I structure my resume to highlight my writing skills and downplay my finance background?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is it advisable to include finance-related achievements that might be relevant to the new role?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bce0e257149f4392",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm applying for a managerial role in retail. Can you assist me in crafting a resume that highlights my leadership experience and customer service skills?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How can I quantify my achievements in previous retail positions to make them more impactful on my resume?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a482d75692144230",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a freelancer with diverse projects. How can I present my varied freelance work effectively on a resume for a full-time position in project management?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I include project details or focus more on the overall skills gained from freelancing?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8ba19c61fe284050",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've been out of the job market for a while due to personal reasons. How can I address employment gaps on my resume and increase my chances of landing a job?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Is it necessary to explain the reasons for the employment gap on the resume, or should I address it in the cover letter?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9ac882ad237c4d2c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm a recent graduate applying for entry-level positions. What can I do to make my resume stand out when I don't have much work experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I include coursework or projects from my degree program to compensate for the lack of work experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b16303a17d945a8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm looking to transition from academia to industry. How should I tailor my CV to make it suitable for corporate job applications?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Are there specific skills from my research background that are highly valued in the corporate sector, and how can I highlight them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "52e3b99aa7a74fd6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write a resume summary for a recent graduate with a degree in finance who is seeking an entry-level financial analyst position."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Write a resume summary for an experienced software engineer seeking a senior software engineer position at a tech company."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Provide a resume summary for a mid-level marketing professional looking to transition into a digital marketing role."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d951a108b0334b47",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As an experienced HR specialist, I want you to write a resume for a Brazilian software developer with 5 years of experience in Python and Django, who is also proficient in English and has a good understanding of agile methodologies."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e9f00e0a15324486",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have a gap year filled with volunteer work. How can I present this experience effectively on my resume for positions in social impact organizations?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Should I emphasize the skills gained from volunteering or focus on the impact of the work on the community?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d1dae6fc387f4cec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me create a resume focusing on my software development experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Here's some information about my work experience:\n\nSoftware Developer at Company A, May 2018 - Present\n\n- Developed web applications using JavaScript, HTML, and CSS\n- Collaborated with cross-functional teams to deliver high-quality software products\n- Implemented responsive design to improve user experience on mobile devices\n\nIntern at Company B, June 2017 - August 2017\n\n- Supported software development team in various tasks\n- Assisted with debugging and testing of applications\n- Completed a project using Python to automate tasks\n\nI earned a Bachelor's degree in Computer Science in 2018."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9d8841dc37544bcc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u662f\u4e00\u4f4d\u6c42\u804c\u8005\uff0c\u5e0c\u671b\u5e94\u8058\u4e00\u4efd\u6570\u636e\u5206\u6790\u5e08\u7684\u5de5\u4f5c\uff0c\u8bf7\u4f60\u6839\u636e\u81ea\u5df1\u7684\u6280\u80fd\u548c\u7ecf\u9a8c\uff0c\u5199\u4e00\u4efd\u6c42\u804c\u4fe1\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u73b0\u5728\u4f60\u662f\u62db\u8058\u7ecf\u7406\uff0c\u56de\u590d\u8fd9\u4f4d\u6c42\u804c\u8005\u7684\u6c42\u804c\u4fe1\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

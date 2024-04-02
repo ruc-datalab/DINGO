@@ -1,0 +1,1051 @@
+[
+    {
+        "id": "0d9ac27211fe409e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How can we improve this paragraph?\n\n\"There are many reasons why a person might decide to get a divorce. Some of the most common reasons include infidelity, financial problems, lack of communication, and abuse. However, there are also other factors that can contribute to the decision to get a divorce, such as differences in goals and values, growing apart, and addiction. It is important for couples facing these challenges to consider all of their options before making a decision.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rephrase it: \n\n\"There are many reasons why a person might decide to get a divorce. Some of the most common reasons include infidelity, financial problems, lack of communication, and abuse. However, there are also other factors that can contribute to the decision to get a divorce, such as differences in goals and values, growing apart, and addiction. It is important for couples facing these challenges to consider all of their options before making a decision.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "361a408e83234ff9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4ee5\u4e0b\u306e\u6587\u7ae0\u3092\u4e01\u5be7\u306b\u4fee\u6b63\u3057\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u6700\u8fd1\u306e\u6280\u8853\u9769\u65b0\u306b\u3088\u308a\u3001\u79c1\u305f\u3061\u306e\u751f\u6d3b\u306f\u307e\u3059\u307e\u3059\u4fbf\u5229\u306b\u306a\u3063\u3066\u3044\u307e\u3059\u3002\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3\u3084\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u306e\u666e\u53ca\u306b\u3088\u308a\u3001\u60c5\u5831\u53ce\u96c6\u3084\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u304c\u7c21\u5358\u306b\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3057\u305f\u3002\u3057\u304b\u3057\u3001\u4e00\u65b9\u3067\u4f9d\u5b58\u75c7\u3084\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u306e\u554f\u984c\u3082\u751f\u3058\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u3089\u306e\u554f\u984c\u306b\u5bfe\u51e6\u3059\u308b\u305f\u3081\u306b\u306f\u3001\u6b63\u3057\u3044\u77e5\u8b58\u3068\u610f\u8b58\u304c\u5fc5\u8981\u3067\u3059\u3002\u79c1\u305f\u3061\u306f\u3001\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3092\u4f7f\u3044\u3053\u306a\u3059\u3053\u3068\u3067\u3001\u3088\u308a\u826f\u3044\u672a\u6765\u3092\u7bc9\u304f\u3053\u3068\u304c\u3067\u304d\u308b\u3067\u3057\u3087\u3046\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4f1d\u3048\u305f\u3044\u30dd\u30a4\u30f3\u30c8\u304c\u3082\u3063\u3068\u660e\u78ba\u306b\u306a\u308b\u3088\u3046\u306b\u3057\u3066\u304f\u3060\u3055\u3044\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0969c0b2c7c540a8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you enhance the eloquence of this paragraph?\n\n\"Despite facing numerous challenges, individuals often find solace in their ability to overcome adversity. It is crucial for us to recognize the strength that lies within us, as it empowers us to navigate the complexities of life with resilience and grace.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you refine the expression of this paragraph?\n\n\"Despite encountering various hardships, people frequently discover comfort in their capacity to conquer adversity. Recognizing the inherent strength within us is vital, as it enables us to gracefully navigate life's intricacies with resilience.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7c774b77b5d24a23",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help making this passage more engaging:\n\n\"The sun dipped below the horizon, casting a warm glow across the tranquil sea. The rhythmic sound of waves crashing against the shore created a soothing melody, as if nature itself were composing a lullaby for the world.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Assist me in infusing more allure into this passage:\n\n\"As the sun gracefully descended beneath the horizon, it painted the serene sea with a golden hue. The melodic cadence of waves caressing the shore crafted a comforting symphony, as though nature were orchestrating a lullaby for the entire world.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d405bd7b3cfb4af2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please polish this statement for a more professional tone:\n\n\"I believe we should have a meeting to discuss the upcoming project and address any potential issues that may arise.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Help me refine this for a more formal tone:\n\n\"I propose convening a meeting to deliberate on the forthcoming project and proactively mitigate any potential challenges that may manifest.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9375cf6c450f4e40",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want this paragraph to sound more concise and impactful:\n\n\"In order to achieve success, individuals must persevere through challenges, stay focused on their goals, and continually seek opportunities for growth.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Streamline this paragraph for brevity and impact:\n\n\"Success demands perseverance, goal-oriented focus, and a relentless pursuit of growth opportunities.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d9ddff9b68a4130",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you make this dialogue more engaging and authentic?\n\nPerson A: 'I don't know if I can do it. It seems too challenging.'\nPerson B: 'You've got this! Believe in yourself and take one step at a time.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Inject some authenticity and engagement into this dialogue:\n\nPerson A: 'I'm not sure I can handle it. It feels overwhelming.'\nPerson B: 'You've totally got this! Trust yourself and tackle it one step at a time.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "129f1118d6b24f27",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to add some humor to this paragraph:\n\n\"The team worked tirelessly to meet the project deadline, facing numerous challenges along the way. Despite the hurdles, their dedication prevailed, and the project was successfully completed.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Sprinkle a bit of humor into this paragraph:\n\n\"The team waged a valiant battle against deadlines and obstacles to birth the project. Their tenacity triumphed over adversity, and lo and behold, the project emerged victoriously into the light.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b5604cc8b0254eee",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Make this description more vivid and colorful:\n\n\"The garden was beautiful with various flowers, and the air was filled with a pleasant fragrance.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Infuse more vividness and color into this description:\n\n\"The garden dazzled with a kaleidoscope of flowers, and the air was infused with a delightful symphony of fragrances.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fcef04c9d0c74616",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Help me refine this invitation:\n\n\"You're invited to our party on Saturday at 7 PM. Please RSVP by Friday.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Assist me in polishing this invitation:\n\n\"Join us for an evening of celebration on Saturday at 7 PM. Kindly let us know by Friday if you'll be able to grace us with your presence.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de901114033e4723",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Make this review more compelling:\n\n\"The movie was interesting with a good plot and great acting.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Elevate the allure of this review:\n\n\"The film captivated with an intriguing plot and stellar performances that brought the characters to life, making it an absolute cinematic delight.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "359e6891bdba483a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Necesito que revises mi perfil del aula virtual y me des recomendaciones para mejorarlo. Tienes que hacer preguntas para entender mejor el contexto y mis necesidades. \u00bfEntiendes lo que te pido?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Mi objetivo principal es presentarme de manera breve y formal, mostrando que soy estudiante de derecho y destacar mis intereses y habilidades en el \u00e1rea legal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "feca8fab36174ed2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please make this sentence more professional:\n\nHey, just letting you know we got the contract signed and everything's good to go."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "260857a455744d42",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a renowned movie critic and I have a movie synopsis that needs some polishing. Here it is: A young man named John discovers he has inherited an old house from his late great-aunt. He decides to move into the house, but soon starts to experience strange events. He hears footsteps in the hallways, doors opening and closing on their own, and objects moving with no explanation. John enlists the help of a paranormal investigator, who uncovers a dark secret tied to the house's past. Together, they must confront the malevolent spirit haunting the house before it's too late."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5c78a84e25a34e17",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expert touch on this email I drafted to the client. It's about the project update. Here's what I wrote: 'Hey, just wanted to update you on the project. Everything's on track and looking good.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "02db887cf2284039",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help refine this social media post? 'Excited to announce our new product launch! It's awesome, check it out!'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e88424a91f28479b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your expertise to refine this text: Yo, just wanted to drop a quick note \u2013 got the deal sealed, everything's chill now."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fce15a2b84454a94",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've penned down this announcement. Can you make it sound more sophisticated? Here it is: Guess what? We've officially signed the agreement, and all systems are a go!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "219ef6729cae4fb8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Need your touch to make this formal: Hey, just a heads up, we've got the contract sorted and things are looking golden."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2cb8e5239be94fd8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I've got this text that requires refinement. Inform me once the agreement is signed, and everything is in the clear."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "adbcaa136bec4cfc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your magic to make this sound more professional: Hey, just an update \u2013 contract's inked, and it's smooth sailing from here."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "47438f4f782a44ff",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you transform this into a polished message? Got the contract signed, and all systems are green."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "af6effe5bde84018",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need your touch to make this more professional: Just a quick note, we've sealed the deal, and everything's looking up."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "86ac1c47f0fb4cf2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite this paragraph while maintaining its meaning:\n\n\"Social media has rapidly become an essential tool for businesses looking to increase brand awareness and engage with their target audience. To effectively use social media, it is important to have a well-thought-out strategy in place that includes goals, target audience, and a consistent posting schedule. This will help ensure that your social media efforts are successful and yield the desired results.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make it sound more conversational?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, rewrite the paragraph using more formal language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dc9a97dab4ce4485",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help polishing this text. Would you please help me rewrite the following text to make it more professional and coherent?\n\nOur company offers social media marketing services, and we help small businesses grow their online presence. We have a dedicated team of skilled professionals who work hard to create effective social media marketing strategies tailored to your business needs."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you provide an alternative wording for the same text?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you please provide one more alternative for the same text?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f7a86dfa84854270",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u91cd\u5199\u4ee5\u4e0b\u4ea7\u54c1\u8bf4\u660e\uff0c\u5e76\u7528\u9879\u76ee\u7b26\u53f7\u683c\u5f0f\u5316\n\n\u5173\u4e8e\u8fd9\u4e2a\u4ea7\u54c1\n200\u514b/7\u76ce\u53f8\u7b80\u7ea6\u8bbe\u8ba1\uff1a\u4e00\u952e\u64cd\u4f5c\uff0c12\u676f\u5bb9\u91cf\uff0c\u78e8\u5b8c\u540e\u81ea\u52a8\u5173\u95ed\uff0c\u786e\u4fdd\u7814\u78e8\u51fa\u6700\u7ec6\u7684\u5496\u5561\u7c89\u548c\u6240\u9700\u7684\u786e\u5207\u6570\u91cf\u3002\u6bcf\u5929\u4ee5\u6700\u597d\u7684\u7814\u78e8\u5496\u5561\u5f00\u59cb\u65b0\u7684\u4e00\u5929\uff01\n\u4e0d\u9508\u94a2\u5706\u9525\u5f62\u7814\u78e8\u673a\uff1a\u4e13\u4e1a\u7ea7\u5706\u9525\u5f62\u7814\u78e8\u673a\u786e\u4fdd\u4e0d\u635f\u5931\u8c46\u5b50\u7684\u7cbe\u6cb9\uff0c\u4fdd\u6301\u6700\u6d53\u90c1\u7684\u53e3\u611f\u548c\u9999\u6c14\u3002\n19\u4e2a\u7cbe\u786e\u7814\u78e8\u8bbe\u7f6e\uff1a\u4fdd\u6301\u4efb\u4f55\u5496\u5561\u8c46\u7684\u5929\u7136\u5473\u9053\u7684\u5b9a\u5236\u7814\u78e8\u7eb9\u7406\u3002\u9002\u7528\u4e8e\u6240\u6709\u7814\u78e8\u9700\u6c42\uff0c\u4ece\u81ea\u52a8\u716e\u5496\u5561\u673a\u5230\u6d53\u7f29\u5496\u5561\uff0c\u4ee5\u53ca\u4e2d\u95f4\u7684\u4efb\u4f55\u4e1c\u897f\u3002\n2-12\u53ef\u8c03\u676f\uff1a\u6839\u636e\u60a8\u7684\u7814\u78e8\u9700\u6c42\u81ea\u7531\u9009\u62e9\u676f\u6570\uff0c\u53ef\u91cd\u590d\u5bc6\u5c01\u7684\u9632\u5c18\u76d6\u4f7f\u5496\u5561\u4fdd\u6301\u66f4\u957f\u65f6\u95f4\u7684\u65b0\u9c9c\u3002\u66f4\u7d27\u51d1\u7684\u8bbe\u8ba1\uff0c\u4f7f\u7528\u548c\u5b58\u50a8\u66f4\u65b9\u4fbf\uff0c\u5177\u6709\u65f6\u5c1a\u7684\u4e0d\u9508\u94a2\u5916\u89c2\u3002\n\u575a\u56fa\u8010\u7528\uff1a\u5e26\u6709\u5f3a\u5927\u7535\u52a8\u673a\u3001\u5b89\u5168\u9501\u548c\u84dd\u5149\u5b8c\u6210\u6307\u793a\u5668\u7684\u7535\u52a8\u5706\u9525\u5f62\u5496\u5561\u7814\u78e8\u673a\u3002\u7acb\u5373\u4eab\u53d7\u5706\u9525\u5f62\u5496\u5561\u7814\u78e8\u673a\uff01"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u80fd\u5426\u4f7f\u7528\u6fc0\u53d1\u79ef\u6781\u60c5\u611f\u7684\u8bcd\u6c47\u91cd\u5199\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4e3a\u4e86\u7a81\u51fa\u8fd9\u4e2a\u4ea7\u54c1\uff0c\u6211\u4eec\u5e94\u8be5\u62cd\u54ea\u4e9b\u56fe\u7247\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "da72fa1f404242da",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Necesito ayuda para mejorar este texto: 'En la tarde soleada, un p\u00e1jaro volaba. El \u00e1rbol ten\u00eda hojas verdes. Los ni\u00f1os jugaban en el parque.' Y quiero que lo hagas r\u00e1pido, \u00bfentiendes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "No, no me gusta. Hazlo mejor y m\u00e1s r\u00e1pido."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2eec37f4cd4b412d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u5e2e\u6211\u6539\u5199\u4ee5\u4e0b\u8fd9\u6bb5\u5173\u4e8e\u6a44\u6984\u7403\u6bd4\u8d5b\u7684\u62a5\u9053\u3002\n\n\u5728\u6628\u5929\u7684\u6a44\u6984\u7403\u6bd4\u8d5b\u4e2d\uff0c\u7ea2\u961f\u4ee536\u6bd434\u6218\u80dc\u4e86\u84dd\u961f\u3002\u8fd9\u573a\u6bd4\u8d5b\u975e\u5e38\u7cbe\u5f69\uff0c\u53cc\u65b9\u961f\u5458\u90fd\u8868\u73b0\u51fa\u4e86\u6781\u9ad8\u7684\u7ade\u6280\u6c34\u5e73\u3002\u6700\u7ec8\uff0c\u5728\u6bd4\u8d5b\u7684\u6700\u540e\u5173\u5934\uff0c\u7ea2\u961f\u6293\u4f4f\u4e86\u84dd\u961f\u7684\u5931\u8bef\uff0c\u6210\u529f\u5c06\u6bd4\u5206\u53cd\u8d85\uff0c\u5e76\u6700\u7ec8\u8d62\u5f97\u4e86\u6bd4\u8d5b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u518d\u4fee\u6539\u4e00\u4e0b\uff0c\u8ba9\u53d9\u8ff0\u66f4\u751f\u52a8\u4e00\u4e9b\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7215222bfbf740fb",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need help in rephrasing this paragraph about the importance of time management in a more elegant and sophisticated way:\n\nTime management is critical for everyone, but it's especially important for busy professionals and students. Managing time effectively can help reduce stress, improve productivity, and ultimately lead to a better quality of life. There are various techniques and strategies that can be employed to manage time more effectively, such as setting priorities, breaking tasks into smaller, manageable parts, and using technology to stay organized. By mastering time management skills, individuals can make the most of their time and accomplish their goals more efficiently and effectively."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b74eff10f21b4dcf",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please rephrase the following statement in a more formal tone: \n\nThe project was well-received by the participants, and they all had a blast. The team got a lot of good feedback and is considering doing it again next year."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "592de740455c4156",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need to write an email to a potential client, introducing our company's services and asking if they would be interested in working with us. Here's what I have so far:\n\n\"Hello,\n\nOur company specializes in providing high-quality software development solutions. We have a team of experienced developers who can help you create custom applications tailored to your needs.\n\nWould you be interested in discussing how we can help your business grow?\"\n\nPlease help me improve this message."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab0c81c5d93944ce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me rephrase this sentence to make it sound more polished? \"The small dog jumped over the fence and then it ran away.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, how about this one? \"She got mad because he came late.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "And this one: \"The sun was shining and the flowers were blooming.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Lastly, rewrite this: \"He tried to lift the heavy box but couldn't move it.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4b31581902cf40e8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Voc\u00ea \u00e9 um assistente de escrita revisando um artigo de pesquisa de um aluno que est\u00e1 cursando mestrado em uma universidade brasileira. O aluno trabalha como gerente de projetos em uma empresa de tecnologia. Revise o resumo e a introdu\u00e7\u00e3o do artigo com base nas seguintes informa\u00e7\u00f5es: O artigo discute a import\u00e2ncia da intelig\u00eancia emocional no gerenciamento de projetos em empresas de tecnologia. O resumo e a introdu\u00e7\u00e3o devem destacar os principais pontos e aspectos do artigo, al\u00e9m de abordar as controv\u00e9rsias e os argumentos a favor e contra a intelig\u00eancia emocional no gerenciamento de projetos. Entendeu? Agora, comece a revisar o resumo e a introdu\u00e7\u00e3o."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Resumo: Este artigo explora a import\u00e2ncia da intelig\u00eancia emocional no gerenciamento de projetos em empresas de tecnologia. Aborda os principais aspectos da intelig\u00eancia emocional e sua influ\u00eancia no sucesso dos projetos e nas rela\u00e7\u00f5es entre os membros da equipe. Introdu\u00e7\u00e3o: O gerenciamento de projetos \u00e9 uma \u00e1rea fundamental nas empresas de tecnologia, e a intelig\u00eancia emocional desempenha um papel importante no sucesso dos projetos. H\u00e1 argumentos a favor e contra a aplica\u00e7\u00e3o da intelig\u00eancia emocional no gerenciamento de projetos, mas o consenso \u00e9 que ela \u00e9 essencial para o sucesso dos projetos e para o bom funcionamento das equipes de trabalho."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b8ee86e797f74841",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I have this draft of a social media post about a new product launch, but I need help making it more engaging and persuasive. Can you help me improve it?\n\n\"Introducing our newest product, the XYZ Smartwatch! With its sleek design and advanced features, you'll never miss a beat. Track your fitness, receive notifications, and stay connected all day long. Don't miss out on this amazing deal \u2013 order yours today!\"\n\nPlease write in English language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Could you please make it even more engaging, and emphasize the unique selling points of the product more? Also, add a call-to-action that encourages people to share the post with their friends.\n\nPlease write in English language."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ca5d395bca7c4af5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite this as one unique topic of one formal curriculum:\n\nDefined standards for the APIs and worked transitioning internal cloud systems to asynchronous communication"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rewrite this as one unique topic of one formal curriculum:\n\nLed the development of a new machine learning model for more accurate demand forecasting"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rewrite this as one unique topic of one formal curriculum:\n\nDeveloped data pipelines to automate and streamline analysis processes"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Rewrite this as one unique topic of one formal curriculum:\n\nManaged and maintained databases ensuring data integrity and security"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d21b6d9b12a44e8a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'd like to know if you can help me improve the following paragraph:\n\n\"In the new smartphone model, the processor is more efficient and the battery lasts longer. The camera has the ability to take better photos in low light conditions. The screen size has been increased to offer more viewing space. Additionally, the software has been updated with new features to improve user experience.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make this paragraph more concise?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if I want to emphasize the camera's performance?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00bf730899914036",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rewrite this sentence: She's not very good at learning languages."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "58c43ac4b98d4de3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you help me improve the following text? I want to make it sound more professional and engaging. Here's the text: 'I am a software developer with 5 years of experience. I know how to code in Python, Java, and C++. I have worked on various projects, including web development and machine learning applications. I am looking for a new opportunity to grow my skills and contribute to a great team.'"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make it sound even more professional by using more technical terms that would appeal to potential employers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c625515425384b47",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Necesito que reescribas este texto sobre el evento de un taller de capacitaci\u00f3n para que sea m\u00e1s atractivo y persuasivo:\n\n\"Este taller se llevar\u00e1 a cabo el pr\u00f3ximo s\u00e1bado a las 9 de la ma\u00f1ana. Se abordar\u00e1n temas como la comunicaci\u00f3n efectiva, el trabajo en equipo y el liderazgo. Los participantes aprender\u00e1n t\u00e9cnicas valiosas y desarrollar\u00e1n habilidades importantes para el crecimiento profesional. Los interesados deben inscribirse antes del viernes para asegurar su lugar.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Eso est\u00e1 mejor, pero necesito que lo hagas a\u00fan m\u00e1s persuasivo y emocionante."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Agrega m\u00e1s informaci\u00f3n sobre los beneficios de asistir al taller y menciona que habr\u00e1 un descuento especial para los primeros inscritos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4c17d81b68e40e7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please improve this sentence:\n\nThe cat sat on the mat and it was very happy."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "96a812f5b0af425e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I wrote a paragraph about the benefits of Spur and would like you to improve it:\n\n\"Spur is a great tool for businesses looking to increase sales and reduce response time through automation. With features that work across WhatsApp, Instagram, and Facebook, Spur can help streamline your online presence and generate more conversions. Some of the key benefits of Spur include turning Instagram posts into shoppable products, automating chat responses to frequently asked questions, and using WhatsApp API for cart recovery and lead nurturing.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you rewrite it in a way that emphasizes the benefits to the potential customers?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d83939e130bd4657",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a professional editor and I'm an author who wants to improve the following sentence: \"Working at a startup, where the environment is dynamic and fast-paced, has taught me valuable skills.\" Can you help me refine and polish it?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Yes, can you also include the skills of adaptability and problem-solving in the sentence?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That's perfect! Thank you for your help."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "09f5d2b9da994aab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help me rewrite this text to make it more engaging? \"The strategic planning process in business is an essential element for success. It helps companies develop goals and objectives, allocate resources, and evaluate performance.\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make it even more engaging and use a metaphor?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What if we make it more concise while keeping the metaphor?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9924cdc1d38b45d3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please improve the following text:\n\nOur newest collection of shoes offers a perfect blend of style and comfort. Made from top quality materials, these shoes are designed to last. Hurry up and get your favorite pair before stocks run out."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "97ae70f04c4c4049",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u3053\u306e\u6587\u7ae0\u3092\u77ed\u304f\u307e\u3068\u3081\u3066\u304f\u3060\u3055\u3044\u3002\n\n\u5343\u8449\u770c\u5185\u306e\u67d0\u6240\u3067\u3001\u5730\u5143\u306e\u9b5a\u304c\u8c4a\u5bcc\u306b\u63c3\u3063\u305f\u6d77\u9bae\u4e3c\u3092\u63d0\u4f9b\u3057\u3066\u3044\u308b\u304a\u5e97\u304c\u3042\u308a\u307e\u3059\u3002\u305d\u306e\u304a\u5e97\u3067\u306f\u3001\u6bce\u65e5\u671d\u5e02\u3067\u65b0\u9bae\u306a\u9b5a\u3092\u4ed5\u5165\u308c\u3066\u304d\u3066\u3001\u305d\u306e\u65e5\u306b\u63d0\u4f9b\u3059\u308b\u6d77\u9bae\u4e3c\u306b\u4f7f\u7528\u3057\u3066\u3044\u307e\u3059\u3002\u307e\u305f\u3001\u304a\u5e97\u306e\u4eba\u6c17\u30e1\u30cb\u30e5\u30fc\u306f\u3001\u5730\u5143\u3067\u7372\u308c\u305f\u9b5a\u3092\u4f7f\u3063\u305f\u300c\u5343\u8449\u770c\u7523\u6d77\u9bae\u4e3c\u300d\u3067\u3001\u3044\u308d\u3044\u308d\u306a\u9b5a\u304c\u5165\u3063\u3066\u3044\u3066\u3068\u3066\u3082\u7f8e\u5473\u3057\u3044\u3068\u8a55\u5224\u3067\u3059\u3002\u3053\u306e\u304a\u5e97\u306f\u5730\u5143\u306e\u4eba\u305f\u3061\u306b\u611b\u3055\u308c\u3066\u304a\u308a\u3001\u89b3\u5149\u5ba2\u3082\u8a2a\u308c\u308b\u3053\u3068\u304c\u3088\u304f\u3042\u308a\u307e\u3059\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u305d\u308c\u3092\u3082\u3063\u3068\u30b7\u30f3\u30d7\u30eb\u306b\u3057\u3066"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8ed334330d214d86",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I would like to introduce myself to a new colleague at work through email. Here's what I've written so far:\n\n\"Hello [Colleague's Name],\n\nMy name is [Your Name], and I am a new employee at [Company Name]. I joined the [Department Name] team last week and will be working on [Project Name]. I am very excited to be a part of this organization and to work with you on upcoming projects.\n\nI have experience in [Your Skills and Expertise] and hope to contribute my skills to our team's success. In my free time, I enjoy [Your Hobbies/Interests].\n\nPlease let me know if there's anything I can do to help or if you'd like to meet for a coffee chat. Looking forward to getting to know you better!\n\nBest regards,\n[Your Name]\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make it more concise?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I need to reply to a colleague who sent me an email asking me to review a document and provide my feedback. Here's my current response:\n\n\"Hello [Colleague's Name],\n\nThank you for sending me the document. I'll review it and get back to you with my feedback by the end of the day tomorrow.\n\nBest regards,\n[Your Name]\""
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you make it sound more enthusiastic?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c5dafae56df847ea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Improve the grammar and structure of this text: \nI had a long day I went to the store after work and tired. At the store I bought some groceries, I also bought a new shirt. Then I went home, and I made dinner. I watched a movie after that, it was a good movie, I enjoyed it."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Why did you change the sentence about the movie? What was wrong with the original sentence?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

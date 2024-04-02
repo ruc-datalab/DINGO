@@ -1,0 +1,1172 @@
+[
+    {
+        "id": "e9c1f5d2ac2d41e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you recommend some classic rock bands?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is Pink Floyd's most famous album?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7cf142ac663f423b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u300a\u6cf0\u5766\u5c3c\u514b\u53f7\u300b\u7684\u4e3b\u9898\u66f2\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "22e87eff6bba4d39",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm in the mood for some cinematic magic. Can you suggest a mind-bending sci-fi film?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "635e389fb3bb427b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about an underrated indie band that I might not have heard of yet."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bc0f2137a64342d9",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the greatest film score of all time, in your opinion?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cfa023fdc8284cce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a pick-me-up. Recommend a feel-good movie with an awesome soundtrack."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "861ca28a845a48f1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enlighten me with some classical music compositions that are perfect for relaxation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7d7a5b7bee64516",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you enlighten me with some classical music compositions that are perfect for relaxation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ea9f4089e5314f7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm feeling nostalgic. Recommend a classic rock album from the '70s that's an absolute gem."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4d558799398b4974",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Tell me about a movie that has an unexpected plot twist."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bb8e75b0853b411b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What's the most visually stunning music video you've come across?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5b7697f54c2942c4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u53ef\u4ee5\u7ed9\u6211\u63a8\u8350\u4e00\u90e8\u7ecf\u5178\u7684\u97f3\u4e50\u7535\u5f71\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c22\u8c22\u4f60\u7684\u63a8\u8350\uff0c\u8fd9\u90e8\u7535\u5f71\u7684\u4e3b\u9898\u66f2\u662f\u4ec0\u4e48\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "eb07064a08e54b15",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u77e5\u9053\u300a\u6cf0\u5766\u5c3c\u514b\u53f7\u300b\u8fd9\u90e8\u7535\u5f71\u5417\uff1f\u6211\u60f3\u8bf7\u6559\u4f60\u4e00\u4e9b\u95ee\u9898\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5bfc\u6f14\u8a79\u59c6\u65af\u00b7\u5361\u6885\u9686\u7684\u521b\u4f5c\u7075\u611f\u662f\u4ece\u54ea\u91cc\u6765\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7e77c45096314b2c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u563f\uff0c\u6709\u6ca1\u6709\u4e00\u90e8\u8ba9\u4eba\u6367\u8179\u5927\u7b11\u7684\u97f3\u4e50\u559c\u5267\u7535\u5f71\u4f60\u53ef\u4ee5\u63a8\u8350\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u5bf9\u97f3\u4e50\u559c\u5267\u771f\u7684\u611f\u5174\u8da3\uff0c\u6709\u6ca1\u6709\u4e00\u4e9b\u6709\u8da3\u7684\u63d2\u66f2\u4f60\u53ef\u4ee5\u544a\u8bc9\u6211\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f2fbc764117b4841",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6700\u8fd1\u6211\u8ff7\u4e0a\u4e86\u53e4\u5178\u97f3\u4e50\uff0c\u6709\u6ca1\u6709\u4e00\u90e8\u7535\u5f71\u5c55\u73b0\u4e86\u53e4\u5178\u97f3\u4e50\u7684\u9b45\u529b\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u4e86\u89e3\u8fd9\u90e8\u7535\u5f71\u7684\u5e55\u540e\u5236\u4f5c\uff0c\u6709\u4ec0\u4e48\u82b1\u7d6e\u6216\u8005\u5e55\u540e\u6545\u4e8b\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d43a60706fbd4d1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u5bf9\u5947\u5e7b\u9898\u6750\u7684\u97f3\u4e50\u5f71\u7247\u5f88\u611f\u5174\u8da3\uff0c\u6709\u4ec0\u4e48\u597d\u7684\u63a8\u8350\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u4e2d\u7684\u914d\u4e50\u6709\u6ca1\u6709\u83b7\u5f97\u8fc7\u5956\u9879\u6216\u8005\u7279\u522b\u7a81\u51fa\u7684\u5730\u65b9\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3100b875437a401e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u627e\u4e00\u90e8\u9002\u5408\u5bb6\u5ead\u89c2\u770b\u7684\u97f3\u4e50\u52a8\u753b\u7247\uff0c\u4f60\u6709\u4ec0\u4e48\u597d\u63a8\u8350\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u52a8\u753b\u7247\u7684\u97f3\u4e50\u4f1a\u4e0d\u4f1a\u8ba9\u4eba\u56de\u5473\u65e0\u7a77\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4f35d2c65eff41f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u770b\u4e00\u90e8\u60ac\u7591\u7535\u5f71\uff0c\u6709\u6ca1\u6709\u97f3\u4e50\u65b9\u9762\u4e5f\u5f88\u51fa\u8272\u7684\u63a8\u8350\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u7684\u97f3\u4e50\u662f\u5426\u4e0e\u60ac\u7591\u60c5\u8282\u76f8\u5f97\u76ca\u5f70\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "864e2d3de505474d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u9700\u8981\u4e00\u90e8\u6cbb\u6108\u7cfb\u7684\u97f3\u4e50\u7535\u5f71\uff0c\u4f60\u6709\u6ca1\u6709\u63a8\u8350\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u7684\u97f3\u4e50\u662f\u5426\u80fd\u591f\u5e26\u7ed9\u4eba\u5fc3\u7075\u7684\u5b81\u9759\u611f\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "87b8a896bd4644d7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u627e\u4e00\u90e8\u5173\u4e8e\u6447\u6eda\u4e50\u961f\u5386\u53f2\u7684\u7535\u5f71\uff0c\u6709\u6ca1\u6709\u4ec0\u4e48\u597d\u7684\u63a8\u8350\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u4e2d\u7684\u6447\u6eda\u97f3\u4e50\u662f\u5426\u771f\u5b9e\u518d\u73b0\u4e86\u90a3\u4e2a\u65f6\u4ee3\u7684\u6c1b\u56f4\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1af2dd0424be4fb7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u559c\u6b22\u72ec\u7acb\u7535\u5f71\uff0c\u6709\u6ca1\u6709\u4e00\u90e8\u72ec\u7279\u7684\u97f3\u4e50\u72ec\u7acb\u7535\u5f71\u4f60\u53ef\u4ee5\u63a8\u8350\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u7684\u97f3\u4e50\u662f\u5426\u548c\u6545\u4e8b\u4e00\u6837\u5145\u6ee1\u521b\u65b0\u548c\u72ec\u7279\u6027\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44bbc9657fba4e0d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u5bf980\u5e74\u4ee3\u7684\u6d41\u884c\u97f3\u4e50\u60c5\u6709\u72ec\u949f\uff0c\u6709\u6ca1\u6709\u4e00\u90e880\u5e74\u4ee3\u97f3\u4e50\u9898\u6750\u7684\u7535\u5f71\u63a8\u8350\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u4e2d\u7684\u97f3\u4e50\u662f\u5426\u6210\u529f\u5730\u91cd\u73b0\u4e8680\u5e74\u4ee3\u7684\u97f3\u4e50\u98ce\u683c\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6b08609f1f674742",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the impact of music on shaping the emotional tone of a film scene"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the choice of musical genre or style influence the perception of a film?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "dd2cb2240e064f7d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me about the movie Inception?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4f60\u53ef\u4ee5\u544a\u8bc9\u6211\u7535\u5f71\u300a\u76d7\u68a6\u7a7a\u95f4\u300b\u7684\u4e00\u4e9b\u4fe1\u606f\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "45bb70e5d1644bad",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your thoughts on the evolution of film genres over the years."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How have changing societal norms influenced the themes in contemporary cinema?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "01ee454dcea441aa",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the role of special effects in creating a memorable movie experience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How have advancements in technology transformed the way movies are made today?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1bd1398eec6e4b0c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the impact of The Beatles on the global music scene."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the cultural revolution of the 1960s shape the music of The Beatles?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1835c84255f446f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Share your favorite cinematic moments that left a lasting impact on you."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do directors use symbolism in films to convey deeper meanings?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ea51dfbfbe34514",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Examine the significance of a well-crafted soundtrack in enhancing movie storytelling."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the use of silence in film impact the audience's emotional experience?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "02d6c082a597466e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Discuss the influence of Hollywood on global cinema and entertainment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How has the rise of streaming platforms affected the traditional Hollywood movie industry?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4d6934a697c940b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Take me on a journey through the evolution of musical genres from classical to contemporary."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do cultural influences shape the development of unique musical styles across different regions?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6f1981383df6421f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explore the psychological impact of horror movies on the audience."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do filmmakers use sound design to intensify the fear factor in horror films?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b4e3be76b5d84e52",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Delve into the charm and magic of Bollywood movies that captivate audiences worldwide."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How has Bollywood evolved in terms of storytelling and production quality over the decades?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5d2ee59c55434fce",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Reflect on the timeless appeal of classic movie tunes and their impact on popular culture."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do iconic film scores become ingrained in our cultural memory and influence other forms of art?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "26c6103d5ab34444",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List me the main characters in the Harry Potter series and the actors who played them in the movies"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How did the Harry Potter movies evolve in terms of tone and themes from the first to the last film?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Tell me about the composers who scored the Harry Potter movies and how their music contributed to the films' evolution"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5150a99ab8264309",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u77e5\u9053\u7535\u5f71\u300a\u5f71\u300b\u5417\uff1f\u6211\u53ef\u4ee5\u95ee\u4f60\u51e0\u4e2a\u95ee\u9898\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u300a\u5f71\u300b\u8fd9\u90e8\u7535\u5f71\u7684\u5bfc\u6f14\u662f\u8c01\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8bf7\u4f60\u7ed9\u6211\u8bf4\u8bf4\u300a\u5f71\u300b\u7684\u4e3b\u8981\u5185\u5bb9\u548c\u89c6\u89c9\u7279\u70b9\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bf73a93bf55f42ec",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u7ed9\u6211\u4ecb\u7ecd\u4e00\u90e8\u597d\u770b\u7684\u7535\u5f71\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u7684\u4e3b\u6f14\u6709\u54ea\u4e9b\u4eba\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "32c1e8a2a9344093",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give me a quiz on the famous rock band Queen, but make it challenging. I want 5 questions. After each question, pause so I can answer them individually."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Another One Bites the Dust"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Brian May and John Deacon"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Under Pressure"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "1985"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Smile"
+            }
+        ]
+    },
+    {
+        "id": "34118daa09204641",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you please tell me about some movies that are based on time travel?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Which movies use a time loop as a central plot device?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What about some time travel TV shows?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Which movies or TV shows have a unique approach to time travel?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "60679668825b4e98",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u80fd\u5426\u4e3e\u4f8b\u51e0\u90e8\u6709\u5173\u97f3\u4e50\u7684\u7535\u5f71\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ab7d1e42ed574105",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u7535\u5f71\u300a\u8096\u7533\u514b\u7684\u6551\u8d4e\u300b\u662f\u7531\u8c01\u6267\u5bfc\u7684\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u7684\u4e3b\u6f14\u662f\u8c01\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u300a\u8096\u7533\u514b\u7684\u6551\u8d4e\u300b\u6539\u7f16\u81ea\u54ea\u90e8\u5c0f\u8bf4\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u5728IMDb\u7684\u8bc4\u5206\u662f\u591a\u5c11\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5b83\u83b7\u5f97\u4e86\u54ea\u4e9b\u5956\u9879\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "803ef8a1f3a14c41",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u95ee\u4f60\u4e86\u89e3\u300a\u661f\u9645\u725b\u4ed4\u300b\u8fd9\u90e8\u52a8\u753b\u5417\uff1f\u6211\u5e0c\u671b\u4f60\u80fd\u5411\u6211\u63d0\u51fa10\u4e2a\u6709\u5173\u300a\u661f\u9645\u725b\u4ed4\u300b\u7684\u95ee\u9898\uff0c\u95ee\u9898\u8d8a\u6765\u8d8a\u96be\u3002\u6211\u4f1a\u56de\u7b54\u4f60\u7684\u95ee\u9898\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6e21\u8fb9\u4fe1\u4e00\u90ce"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7ea2\u9f99"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u654c\u4eba\u5173\u7cfb"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u78a7\u6ce2\u53f7"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u6b7b\u4ea1"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u827e\u5fb7"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Tank!"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8d4f\u91d1\u730e\u4eba"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u5f8b\u5e08"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u4e3a\u4e86\u4fdd\u62a4\u8331\u8389\u4e9a"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u83c5\u91ce\u6d0b\u5b50"
+            }
+        ]
+    },
+    {
+        "id": "6406b505cdee4707",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u4f60\u53ef\u4ee5\u7ed9\u6211\u63a8\u8350\u4e00\u90e8\u97f3\u4e50\u7535\u5f71\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u7684\u4e3b\u8981\u6f14\u5458\u662f\u8c01\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8fd9\u90e8\u7535\u5f71\u83b7\u5f97\u4e86\u54ea\u4e9b\u5956\u9879\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0d5a737116dd42e1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you recommend some thought-provoking movies that explore philosophical themes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do these movies use cinematic techniques to convey their philosophical themes?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are some ways in which music can be used to enhance the philosophical themes in a movie?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0a4b70fa793744f4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you tell me about the movie Inception directed by Christopher Nolan?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the main plot of the movie?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How was the film received by critics and audiences?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Can you tell me about the iconic soundtrack of the movie?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "568f3dca1fed487e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4ecb\u7ecd\u4e00\u4e0b\u7535\u5f71\u300a\u963f\u51e1\u8fbe\u300b\u7684\u5267\u60c5\u548c\u80cc\u666f\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u7535\u5f71\u4e2d\u7684\u963f\u51e1\u8fbe\u6280\u672f\u662f\u5426\u6709\u73b0\u5b9e\u751f\u6d3b\u4e2d\u7684\u57fa\u7840\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u963f\u51e1\u8fbe\u4e2d\u7684\u7eb3\u7f8e\u4eba\u4e0e\u5730\u7403\u4e0a\u7684\u539f\u4f4f\u6c11\u6709\u4ec0\u4e48\u76f8\u4f3c\u4e4b\u5904\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

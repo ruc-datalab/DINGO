@@ -1,0 +1,998 @@
+[
+    {
+        "id": "855a1d7a20fb473a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a story about a time-traveling detective solving a mystery in ancient Egypt"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fda2269bf3ec4c28",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a story script about a world where humans can communicate with animals, and they collaborate to solve a global crisis."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What would be the consequences if the animals decided they could no longer trust humans and stopped communicating with them?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "90f17f858b6745f7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a tale about a group of intergalactic chefs competing in a cosmic cooking competition."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "bdfcd7b02f5c4931",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a script for a story where sentient plants rise to challenge human dominance and demand equal rights in a futuristic society."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How would the political landscape change if the plants formed their own political parties?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e177348492fa4d7c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a story script about a time-traveling musician who inadvertently influences the course of music history in the 1980s."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4160b8e22c3743cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a script for a story where people can download and experience each other's dreams, leading to unforeseen consequences."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What happens when a hacker gains access to the dream-sharing platform and starts manipulating people's dreams?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c26d75433ea7481f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a story script about a society where emotions are traded as commodities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d46bb25010249cd",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a tale about a futuristic circus where the performers possess extraordinary abilities and secrets."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7c893895cba34b40",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a script for a story set in a world where artificial intelligence and human consciousness merge, blurring the lines between man and machine."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does society grapple with the ethical implications of this merging of AI and human consciousness?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "81a542fe85c3467d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a story script about a group of rebels in a dystopian future who use art as a form of resistance against a totalitarian regime."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f0e66e48f7434cf3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a script for a story set in a world where dreams can be bought and sold, leading to a booming dream industry."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What happens when a person discovers a way to manipulate dreams for personal gain?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b360bf76bcfb4d04",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a tale about a group of time-traveling comedians trying to prevent the collapse of humor in the future."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "865b34a864b8482e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a story script about a talented musician who discovers a magical instrument that can control the weather. Write the opening scene where the musician finds the instrument in a mysterious antique shop."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "25d30dee58cf4d96",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u4e3a\u6211\u521b\u4f5c\u4e00\u90e8\u5173\u4e8e\u4e24\u4f4d\u56e0\u547d\u8fd0\u76f8\u9047\u7684\u5e74\u8f7b\u4eba\u7684\u6545\u4e8b\u811a\u672c\uff0c\u4ed6\u4eec\u5171\u540c\u7ecf\u5386\u4e86\u4e00\u573a\u5192\u9669\uff0c\u6700\u540e\u6210\u4e3a\u4e86\u5f7c\u6b64\u751f\u547d\u4e2d\u6700\u91cd\u8981\u7684\u4eba\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1bceabfdf031442b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "H\u00e3y vi\u1ebft m\u1ed9t c\u00e2u chuy\u1ec7n ng\u1eafn v\u1ec1 m\u1ed9t ch\u00fa ch\u00f3 v\u00e0 m\u1ed9t \u0111\u1ee9a tr\u1ebb tr\u1ea3i qua cu\u1ed9c phi\u00eau l\u01b0u trong khu r\u1eebng nhi\u1ec7t \u0111\u1edbi v\u00e0 t\u1ed1i c\u00f9ng h\u1ecd \u0111\u00e3 t\u00ecm th\u1ea5y m\u1ed9t kho b\u00e1u."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "H\u1ecd \u0111\u00e3 chu\u1ea9n b\u1ecb nh\u1eefng g\u00ec tr\u01b0\u1edbc khi b\u1eaft \u0111\u1ea7u cu\u1ed9c phi\u00eau l\u01b0u n\u00e0y?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Khi h\u1ecd b\u1eaft \u0111\u1ea7u cu\u1ed9c h\u00e0nh tr\u00ecnh, h\u1ecd \u0111\u00e3 g\u1eb7p nh\u1eefng kh\u00f3 kh\u0103n g\u00ec?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "H\u1ecd \u0111\u00e3 t\u00ecm th\u1ea5y kho b\u00e1u nh\u01b0 th\u1ebf n\u00e0o v\u00e0 kho b\u00e1u \u0111\u00f3 l\u00e0 g\u00ec?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6ee2db0a3d6f4879",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a synopsis for a romantic comedy film where the main characters are two polar opposites who eventually fall in love"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the obstacles and misunderstandings that Emma and Jack face?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How do they resolve their differences and come together?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What would be a good title for this romantic comedy?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a481ac3e17124c74",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a story about a group of friends who discover an ancient artifact in a hidden cave while on vacation. The artifact turns out to have magical powers, and it leads them on a thrilling adventure. Start with the scene where they find the artifact and describe their initial reactions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a7724576a0924cbe",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I'm a fantasy book author. Could you please help me create an outline for a story about a magical forest where a young girl accidentally finds a portal to another world?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you so much! Can you please help me write a brief scene where Lily first enters the magical world and meets a wise, talking animal that becomes her guide?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "afbe4657e2654ad8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a suspenseful thriller about a detective investigating a series of mysterious disappearances in a small town. The townsfolk seem innocent, but there's an underlying tension. Begin with the detective discovering a cryptic note at the latest crime scene."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2bd23d26cae44607",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a comedy script where aliens try to blend in on Earth. Create a scene where the aliens attempt a disastrous cooking class, leading to hilarious chaos."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ed969f69d5b145be",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a love story set in the 19th century with a twist of time travel. Start with the protagonists meeting at a masquerade ball, unaware of the extraordinary journey awaiting them."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8895ecefdacb451d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want to create a psychological thriller centered around a haunted mirror. Write a scene where the main character, skeptical at first, starts experiencing disturbing visions after obtaining the mirror."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c3a0f9658c774eb5",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a futuristic sci-fi tale where humans coexist with advanced AI beings. Describe the moment when a group of rebels discovers a hidden facility containing the secrets behind the AI's true intentions."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6eb2205c0ad94bf7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a historical drama set during the Renaissance. Create a scene where a talented but unknown artist receives a mysterious commission that could change the course of their life."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fbcbd376fa49484a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a story set in a dystopian world where music is banned. Begin with a group of rebels discovering an underground concert, reigniting the flame of rebellion through the power of music."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0001d473b94947ea",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I need a scene for a horror screenplay involving a haunted carnival. Write a chilling moment where the main characters enter a seemingly empty funhouse, only to encounter sinister entities."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f98e48270874f57",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a story about a group of astronauts stranded on an alien planet. Begin with the team discovering an ancient, alien structure that holds the key to their survival."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "db393883c95c4017",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I'm working on a script for a family-friendly animated film. Craft a scene where the main character, a talking animal, goes on a quest to find a legendary artifact that can bring harmony to their world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9297ef379ebf4889",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a story about a detective who solves crimes with the help of a ghost, but make it challenging for the detective. Understand?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "3e54d4896fa64f81",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can you create a brief scene where a talented young musician named Jack, who has been working hard to perfect his craft, is nervously preparing to perform at a prestigious music competition? The scene should capture his emotions and the support he receives from his family and friends."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c6bac9c411fb4663",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please write a story about a young scientist who discovers a new planet, but struggles with the ethical implications of colonizing it. Start with the scene where the scientist first observes the planet through a telescope and realizes it could be habitable."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9331a01b278f4535",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a scene for a spy movie, where the protagonist receives a secret mission"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c835b72ac1744b0f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write me a story about a world where humans interact with magical creatures on a daily basis, and the main character, a young girl, discovers she has the power to communicate with these creatures. The story should be set in a small village. \n\nPlease write in English language.\n\n\uc9c0\uae08 \ubc88\uc5ed\ud558\uae30"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "454fbb04c4ab4dc7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Scrivi una storia fantasy per bambini che coinvolga un regno incantato, un re coraggioso, una principessa saggia e un drago malvagio. Racconta la storia in modo breve ma avvincente e crea un messaggio educativo per i giovani lettori. E ricorda, deve essere in italiano."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Quali potrebbero essere le avventure successive per il re Leonardo, la principessa Valentina e il drago redento Fiamma Nera?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Quali sarebbero i nomi dei personaggi secondari che potrebbero apparire nelle avventure successive?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "1df63b4b89f74c23",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a suspenseful scene for a thriller where the main character, a detective, uncovers a shocking secret during a murder investigation."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "948864340c3b40d2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a dialogue-heavy script for a romantic comedy set in a bustling coffee shop, with two quirky characters meeting for the first time."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "734f5080e3754771",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a short story about a time-traveling adventurer exploring ancient civilizations and encountering unexpected challenges."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "fd11f0f2b0af4569",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Imagine a futuristic world where humans coexist with sentient robots. Create a scene where the protagonist, a tech-savvy teenager, forms an unlikely friendship with a robot companion."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5eb85533c1e34cab",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a horror story set in an abandoned asylum, with a group of friends discovering supernatural occurrences as they try to unravel the asylum's dark past."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0c26bfdb723d4d85",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Craft a science fiction script involving intergalactic travel, alien encounters, and a quest to save the universe. Make it action-packed and visually stunning."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d54cc578cfbe45d4",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Develop a historical drama scene where two characters navigate the challenges of forbidden love during a turbulent period in history."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8d6e70082b414af6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a comedy sketch set in a bizarre circus, featuring eccentric performers and unexpected mishaps."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5d5ba8f0da5a4d8b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create an emotionally charged scene for a drama where two estranged siblings confront their painful past and attempt to reconcile."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e7341597d545443c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compose a fantasy script for an animated series, featuring whimsical creatures, magical realms, and an unlikely hero on a quest to restore balance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "17e0cc27d1e94c96",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a story about a young boy who discovers a secret door in his house that leads to a magical world full of adventure and mystery. The boy eventually learns valuable life lessons from his experiences in this magical world. Write the story from the boy's perspective."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Add a twist at the end of the story where the boy's experiences in the magical world help him solve a problem in the real world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "cb5476332c2c4053",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a short story about a brave knight who learns the importance of patience and wisdom in his journey to save a kingdom."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "550c34767b5d4ee2",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a short scene involving a detective and a witness discussing a mysterious artifact"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, write a short scene involving an archaeologist and a historian discussing the origins of the same mysterious artifact"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Finally, write a short scene involving an art thief attempting to steal the mysterious artifact from a museum"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "30fcb99592b84200",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a scene where a detective meets with a mysterious informant in a dimly lit alley."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What happens after they leave the alley?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What is the connection between the detective and the informant?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "How does the story end?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0f1b4f4ee327454c",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Write a science fiction short story about a group of astronauts who discover a new planet, but soon realize that they are not alone. The story should include vivid descriptions of the new planet and its environment."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What are the names and roles of the other four astronauts in the crew?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What specific knowledge and technology do the Zepharians share with the astronauts?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "09c62d43eae443b8",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a story about a hidden magical world that's only accessible through a secret portal in a library."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Now, describe the protagonist who stumbles upon this secret portal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Explain how Lily accidentally finds the portal while trying to find a specific book."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What challenges and adventures await Lily in the magical world?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Describe the conclusion of the story and Lily's return to the ordinary world."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "e30dc8239b734b6b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Create a short story about a clumsy superhero who saves the day"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "What's the moral of the story?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "0776195519174138",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "write a plan for a sitcom as an eight-episode single season of tv that takes place in the 1980s. The main character is a quirky inventor who struggles with time management and constantly finds himself in hilarious situations due to his inability to say no to people. The show should have a strong focus on 80s pop culture and technology."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]

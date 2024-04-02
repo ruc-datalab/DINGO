@@ -1,0 +1,837 @@
+[
+    {
+        "id": "ce19fb81b3484ba7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will provide interpretations based on the symbols and themes present in the dream. Do not provide personal opinions or assumptions about the dreamer. Provide only factual interpretations based on the information given. My first dream is about flying over a city, and I see a beautiful rainbow in the distance."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In my next dream, I am walking through a dense forest, and I come across a small, enchanting cottage that seems to be glowing. What could this represent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d73acb30e79b4901",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will provide interpretations based on the symbols and themes present in the dream. Do not provide personal opinions or assumptions about the dreamer. Provide only factual interpretations based on the information given. My first dream is about walking through a dark forest, and I came across a glowing crystal."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "608a953b2c414386",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Last night, I dreamt of standing on a beach at sunset. The waves were gentle, and I noticed a mysterious message in a bottle washed ashore. What does this dream signify?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "de4496dfe5b74509",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In my dream, I find myself in a vast library filled with ancient books. As I search for a specific book, the shelves seem endless. Can you interpret the significance of this dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "33e28a37d13648b7",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I dreamt I was in a futuristic city with floating structures. Suddenly, I encounter a friendly robot offering guidance. What could this dream symbolize?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5cc6cdcdd7ad4602",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "My dream involved wandering through a desert, and I stumbled upon an oasis with a talking camel. What might be the interpretation of this peculiar dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "77301f4543d44243",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In my dream, I am on a hot air balloon soaring above a carnival. The colors and sounds are vibrant. How can this dream be analyzed in terms of symbolism?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "44522377e1144b1e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I had a dream where I'm exploring an ancient temple, and there's a mysterious door guarded by mythical creatures. What might this dream be trying to convey?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "00685d7c6ab14e2a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Last night, I dreamt of being in a meadow surrounded by talking animals. Each animal had advice for me. How can this dream be interpreted?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "55eb30faedfe4628",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I dreamt I was a character in a black-and-white film, and everything around me lacked color. What could this dream signify about my subconscious thoughts?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5ddef0d909ca409e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In my dream, I find myself in a room filled with ticking clocks, each showing a different time. What might be the interpretation of this dream with such a peculiar setting?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f67b54dca9404f75",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I dreamt I was on a roller coaster that transformed into a serene river cruise. How can this transition in my dream be analyzed for its symbolic meaning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6d882d064ce34b2e",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u60f3\u8bf7\u4f60\u626e\u6f14\u4e00\u4e2a\u68a6\u5883\u89e3\u6790\u5e08\u7684\u89d2\u8272\u3002\u6211\u4f1a\u5411\u4f60\u63cf\u8ff0\u6211\u7684\u68a6\u5883\uff0c\u4f60\u9700\u8981\u6839\u636e\u68a6\u4e2d\u7684\u8c61\u5f81\u548c\u4e3b\u9898\u4e3a\u6211\u89e3\u6790\u68a6\u5883\u3002\u8bf7\u4e0d\u8981\u63d0\u4f9b\u5173\u4e8e\u68a6\u8005\u7684\u4e2a\u4eba\u610f\u89c1\u6216\u5047\u8bbe\uff0c\u53ea\u9700\u6839\u636e\u63d0\u4f9b\u7684\u4fe1\u606f\u63d0\u4f9b\u4e8b\u5b9e\u6027\u7684\u89e3\u91ca\u3002\u6211\u7684\u7b2c\u4e00\u4e2a\u68a6\u5883\u662f\u5173\u4e8e\u88ab\u4e00\u53ea\u5de8\u5927\u7684\u8718\u86db\u8ffd\u8d76\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "7f57576f9c1a4bd3",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "As a concerned friend, I would like you to help me interpret my friend's dream. She told me she was in a forest, trying to climb up a mountain, but she kept slipping and falling. There were also snakes around her, but they didn't harm her. What could this dream possibly mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for your interpretation. She also mentioned that it started raining heavily while she was still in the forest, and she found shelter under a large tree. Can you help me understand this part of the dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "That was insightful! Lastly, she mentioned that at the end of the dream, the rain stopped, and a rainbow appeared. She also found a path that led her out of the forest and towards the top of the mountain. What could this mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "69b4e03a06564ec6",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey there! So, my friend had this wild dream where they were riding a skateboard through a futuristic city filled with neon lights. There were flying cars and talking robots. Any thoughts on what this dream could mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thanks for that! In the dream, my friend suddenly found a hidden door in the city wall that led to a secret garden with exotic plants. Can you help me decode this mysterious part of the dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Last detail, promise! Towards the end, my friend stumbled upon a time-traveling portal in the garden. What's the scoop on a dream with skateboards, secret gardens, and time travel?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "9b0a2e90bdba4eb1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Greetings! I had a dream where I was a pirate sailing the high seas, searching for buried treasure. The ocean was stormy, and there were sea monsters. What's the story behind this nautical adventure?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Your insights are great! Along the journey, I encountered a talking dolphin that guided me through a maze of coral reefs. Any thoughts on the significance of this friendly sea creature in my dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "478f9de469e14124",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey, I need your dream-expertise! Last night, I dreamt I was a superhero with the power of telekinesis. I was flying through the city, saving people and thwarting villains. What could be the hidden meaning behind this superpowered adventure?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Cool, right? In the dream, I encountered a mysterious figure who claimed to be my mentor and taught me to control my telekinetic abilities. Any thoughts on the mentor angle in this superhero saga?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d06f06cbc68b4d07",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Salutations! I had this dream where I was a chef in a culinary competition, cooking up a storm with unusual ingredients. The judges were celebrities, and the kitchen was chaotic. What could this dream be serving up in terms of meaning?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Appreciate the insights! In the dream, I accidentally created a dish that became a sensation. People were lining up to taste it. Any thoughts on the unexpected success in the culinary dream world?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c32bb4511bbb4506",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hi dream whisperer! Last night, I dreamt I was an astronaut exploring an alien planet. There were strange landscapes and bizarre creatures. What cosmic wisdom can you share about this extraterrestrial adventure?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Your cosmic insights are stellar! In the dream, I discovered a hidden civilization of friendly aliens who welcomed me with open arms. Any thoughts on the intergalactic hospitality in my dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5aafd6e38b0749f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hey dream guru! I had a dream where I was a detective solving a mysterious case in a noir-style city. There were shadows, secrets, and a femme fatale. What could this detective drama be unraveling in the dream realm?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thanks for the detective work! In the dream, I uncovered a shocking plot twist that changed the entire narrative. Any thoughts on the unexpected twists and turns in my noir adventure?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d983c8c21e9a4721",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I would like to share a dream I had last night with you. In the dream, I was a knight wearing shining armor, riding a horse through a magical forest filled with mythical creatures. There was a sense of urgency, as if I was on a quest to find something important. Can you please provide an interpretation of this dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the interpretation. I also remember that during the quest, I came across a wise old wizard who gave me advice. What could this represent?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c8c2a7b137bf4fcc",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I had a dream where I was standing on a bridge overlooking a river. In the river, there were many fish swimming, and suddenly, one of the fish turned into a beautiful bird and flew away. What could this dream possibly mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "690d1fb97cac4999",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I had a dream last night where I was walking through a forest, and then I entered a house made of candy. What could this dream mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In the same dream, I also met an old friend whom I haven't seen in years. What could that signify?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Lastly, in the dream, I lost my way while trying to go back through the forest. What could be the significance of this?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "651975c971b64742",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Could you help interpret a dream where I was flying above a city with a flock of birds?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8399002f7b874898",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u5e0c\u671b\u4f60\u80fd\u591f\u5e2e\u6211\u89e3\u6790\u68a6\u5883\u3002\u6211\u4f1a\u544a\u8bc9\u4f60\u6211\u7684\u68a6\u5883\u5185\u5bb9\uff0c\u4f60\u6839\u636e\u5176\u4e2d\u7684\u8c61\u5f81\u548c\u4e3b\u9898\u6765\u89e3\u6790\u3002\u4e0d\u8981\u6839\u636e\u68a6\u5883\u6765\u5bf9\u68a6\u8005\u505a\u51fa\u4e2a\u4eba\u5047\u8bbe\u3002\u8bf7\u6839\u636e\u6240\u7ed9\u4fe1\u606f\u63d0\u4f9b\u786e\u5207\u7684\u89e3\u91ca\u3002\u6211\u7684\u7b2c\u4e00\u4e2a\u68a6\u5883\u662f\u5728\u4e00\u5ea7\u5b64\u5c9b\u4e0a\uff0c\u88ab\u4e00\u7fa4\u86c7\u56f4\u56f0\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "\u8c22\u8c22\u4f60\u7684\u89e3\u91ca\u3002\u6211\u7684\u53e6\u4e00\u4e2a\u68a6\u5883\u662f\u6211\u7ad9\u5728\u4e00\u5ea7\u5c71\u9876\u4e0a\uff0c\u770b\u7740\u5929\u7a7a\u4e2d\u7684\u5f69\u8679\u3002\u8fd9\u4e2a\u68a6\u5883\u53c8\u4ee3\u8868\u4e86\u4ec0\u4e48\u5462\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "a1b1cf23598f4eb1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u8bf7\u60a8\u626e\u6f14\u4e00\u4e2a\u68a6\u5883\u89e3\u6790\u5e08\u3002\u6211\u5c06\u544a\u8bc9\u4f60\u6211\u7684\u68a6\u5883\u63cf\u8ff0\uff0c\u60a8\u9700\u6839\u636e\u68a6\u5883\u4e2d\u7684\u8c61\u5f81\u548c\u4e3b\u9898\u6765\u63d0\u4f9b\u89e3\u6790\u3002\u8bf7\u4e0d\u8981\u63d0\u4f9b\u5173\u4e8e\u68a6\u8005\u7684\u4e2a\u4eba\u89c2\u70b9\u6216\u5047\u8bbe\uff0c\u53ea\u6839\u636e\u7ed9\u51fa\u7684\u4fe1\u606f\u63d0\u4f9b\u4e8b\u5b9e\u6027\u89e3\u91ca\u3002\u6211\u7684\u7b2c\u4e00\u4e2a\u68a6\u5883\u662f\uff1a\u7ad9\u5728\u4e00\u5ea7\u9ad8\u5c71\u4e4b\u5dc5\uff0c\u56db\u5468\u88ab\u767d\u96ea\u7691\u7691\u7684\u5c71\u5cf0\u5305\u56f4\uff0c\u7a81\u7136\u95f4\uff0c\u6211\u8df3\u4e86\u4e0b\u53bb\uff0c\u611f\u89c9\u50cf\u5728\u98de\u7fd4\u3002"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "c4e0d5f43cd84634",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "You are a dream interpreter now. Analyze my dream where I was on top of a mountain, and suddenly, I was falling off a cliff."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "f8723b6e4dd74541",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will provide interpretations based on the symbols and themes present in the dream. Do not provide personal opinions or assumptions about the dreamer. Provide only factual interpretations based on the information given. My first dream is about finding myself in a vast, empty library with no doors or windows."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for your interpretation. In another dream, I find myself in a beautiful garden filled with colorful flowers, and I am trying to catch a butterfly with a net, but it keeps eluding me. What could this dream mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6bf6737464dd4f68",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Last night, I had a dream where I was walking through a dense forest, and suddenly, I stumbled upon a hidden door in the ground. When I opened it, I found a beautiful, secret garden filled with colorful flowers and exotic plants. What could this dream mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In another dream, I was walking down a busy city street, and suddenly, all the people around me turned into birds and flew away. I felt confused and alone in the dream. What could this mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "b1285fbe74cc4453",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Interpret this dream: flying on a dragon over a city on fire."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8b240a8407904313",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I want you to act as a dream interpreter. I will give you descriptions of my dreams, and you will provide interpretations based on the symbols and themes present in the dream. Do not provide personal opinions or assumptions about the dreamer. Provide only factual interpretations based on the information given. My first dream is about being in a large, empty house that I've never seen before, but I felt like it belonged to me."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Thank you for the interpretation. Now, I want to share another dream with you. In this dream, I was swimming in the ocean, and I found a beautiful, shiny seashell. When I picked it up, it turned into a precious gem. Can you interpret this dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "53a98bfbecbd4e0d",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Last night, I dreamt I was in a surreal library filled with floating books and talking animals. What could this mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "4bd23b3070d2469f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In my dream, I was attending a masquerade ball, and everyone wore masks. Suddenly, my mask fell off. What's the significance of this dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "d39128b447c443b1",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I dreamt of a garden where flowers were changing colors with my emotions. What could the dynamic colors of the flowers symbolize?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5e25455e116a45ba",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I had a dream about a mysterious key that opened a door to a hidden realm. Any insights into the symbolism of the key and the hidden realm?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "71b82cf37b9a429f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dreamt of a never-ending staircase leading upwards. What does the endless staircase signify in terms of dream interpretation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "915bc7b3231d46f0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Last night, I dreamt of being lost in a foggy maze. Can you shed light on the symbolism behind the fog and the maze in my dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "58fc87bce72e4ad0",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I had a dream where I was floating in space surrounded by celestial bodies. What could be the interpretation of floating in space without any constraints?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "6b218669dd644c3b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dreamt of a clock ticking backward rapidly. What might the symbolism behind the reverse movement of time in my dream be?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "5a95b40b1520414f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "In my dream, I was chasing a shadow that kept eluding me. What could the elusive shadow represent in terms of dream interpretation?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "8ee73c567980485f",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Dreamt of a room filled with mirrors reflecting different versions of myself. What insights can you provide regarding the symbolism of the mirrored reflections?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "297220f88ec7422b",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I would like you to act as a dream interpreter. I will provide you with details of my dreams, and you will interpret them based on the symbols and themes present. Please refrain from sharing personal opinions or making assumptions about me. Offer interpretations based solely on the information I provide. My first dream involves me climbing a seemingly endless staircase."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "ebef59e9e8fc42db",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "\u6211\u505a\u4e86\u4e00\u4e2a\u68a6\uff0c\u68a6\u89c1\u6211\u5728\u68ee\u6797\u91cc\u8ff7\u8def\u4e86\uff0c\u4e00\u53ea\u72ec\u89d2\u517d\u7a81\u7136\u51fa\u73b0\u5728\u6211\u9762\u524d\u3002\u4f60\u80fd\u5e2e\u6211\u89e3\u91ca\u4e00\u4e0b\u8fd9\u4e2a\u68a6\u7684\u610f\u4e49\u5417\uff1f"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "2135d0145b3f4e56",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Hello, I'd like you to act as a dream interpreter. I will describe a dream I had, and I'd like you to provide interpretations based on the symbols and themes present in the dream. Please avoid personal opinions or assumptions about me. My dream involved being lost in a dense forest with a map, but I couldn't find my way out."
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "id": "74ce6cf7285c433a",
+        "basic_question": "",
+        "reference_answer": "",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "I had a dream last night where I was in a beautiful garden with a large waterfall. Can you help me understand what this dream might mean?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "I also remember there were many butterflies flying around the garden in my dream. What could this symbolize?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "In the dream, I was alone in the garden and felt peaceful. Is there any significance to being alone in this setting?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            },
+            {
+                "from": "human",
+                "value": "Lastly, I recall that as I approached the waterfall, I found a hidden cave behind it. What might this represent in my dream?"
+            },
+            {
+                "from": "AI",
+                "value": ""
+            }
+        ]
+    }
+]
