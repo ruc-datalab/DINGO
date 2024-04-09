@@ -83,14 +83,13 @@ def single_scoring_function(sample, category):
         ]
     
     # 4. Call gpt-4
-    # response = openai.chat.completions.create(
-    #         model='gpt-4-0125-preview',
-    #         messages=messages,
-    #         stop = ["\n"],
-    #         temperature = 0,
-    #         max_tokens = 200,
-    #     )
-    response = '[[10]]'
+    response = openai.chat.completions.create(
+            model='gpt-4-0125-preview',
+            messages=messages,
+            stop = ["\n"],
+            temperature = 0,
+            max_tokens = 200,
+        )
 
     # 5. Parse the answer
     score = score_parser(response)
